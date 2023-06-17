@@ -1,0 +1,644 @@
+season,player_name,team,player_rating,position,nation,league,skill_moves,weak_foot_quality,work_rate_a,work_rate_d,player_height,player_weight,age
+2012/2013,Wayne Rooney,Manchester United,89,CF,England,EPL,3,4,,,176cm,83kg,27
+2012/2013,Nemanja Vidić,Manchester United,89,CB,Serbia,EPL,2,3,,,189cm,88kg,31
+2012/2013,Robin van Persie,Manchester United,88,ST,Netherlands,EPL,4,4,,,188cm,72kg,29
+2012/2013,David Silva,Manchester City,88,CAM,Spain,EPL,4,2,,,171cm,67kg,27
+2012/2013,Sergio Agüero,Manchester City,87,ST,Argentina,EPL,4,4,,,175cm,75kg,24
+2012/2013,Eden Hazard,Chelsea,87,LW,Belgium,EPL,4,4,,,172cm,72kg,22
+2012/2013,Yaya Touré,Manchester City,86,CM,Ivory Coast,EPL,3,4,,,187cm,78kg,30
+2012/2013,Carlos Tévez,Manchester City,86,ST,Argentina,EPL,4,3,,,172cm,76kg,29
+2012/2013,Hugo Lloris,Tottenham Hotspur,86,GK,France,EPL,1,1,,,188cm,78kg,26
+2012/2013,Luis Suárez,Liverpool,86,CF,Uruguay,EPL,4,4,,,181cm,81kg,26
+2012/2013,Juan Mata,Chelsea,86,CAM,Spain,EPL,4,3,,,170cm,63kg,25
+2012/2013,Fernando Torres,Chelsea,85,ST,Spain,EPL,4,4,,,183cm,78kg,29
+2012/2013,Nani,Manchester United,85,LM,Portugal,EPL,5,4,,,175cm,65kg,26
+2012/2013,Vincent Kompany,Manchester City,85,CB,Belgium,EPL,2,3,,,192cm,85kg,27
+2012/2013,Samir Nasri,Manchester City,85,CAM,France,EPL,4,4,,,177cm,75kg,25
+2012/2013,Gareth Bale,Tottenham Hotspur,85,LM,Wales,EPL,4,4,,,183cm,74kg,23
+2012/2013,John Terry,Chelsea,84,CB,England,EPL,2,3,,,187cm,90kg,32
+2012/2013,Steven Gerrard,Liverpool,84,CAM,England,EPL,3,3,,,183cm,83kg,32
+2012/2013,Ashley Cole,Chelsea,84,LB,England,EPL,3,2,,,176cm,67kg,32
+2012/2013,Petr Cech,Chelsea,84,GK,Czech Republic,EPL,1,3,,,196cm,91kg,31
+2012/2013,Maicon Douglas Sisenando,Manchester City,84,RB,Brazil,EPL,3,3,,,184cm,77kg,31
+2012/2013,Santi Cazorla,Arsenal,84,CAM,Spain,EPL,4,5,,,168cm,66kg,28
+2012/2013,Joe Hart,Manchester City,84,GK,England,EPL,1,3,,,196cm,84kg,26
+2012/2013,Mario Balotelli,Manchester City,84,ST,Italy,EPL,4,4,,,189cm,88kg,22
+2012/2013,Frank Lampard,Chelsea,83,CAM,England,EPL,3,4,,,184cm,88kg,34
+2012/2013,Rio Ferdinand,Manchester United,83,CB,England,EPL,2,3,,,192cm,87kg,34
+2012/2013,José Reina,Liverpool,83,GK,Spain,EPL,1,3,,,188cm,92kg,30
+2012/2013,Patrice Evra,Manchester United,83,LB,France,EPL,3,2,,,173cm,72kg,32
+2012/2013,Lukas Podolski,Arsenal,83,CF,Germany,EPL,3,2,,,182cm,83kg,27
+2012/2013,Daniel Agger,Liverpool,83,CB,Denmark,EPL,2,2,,,191cm,79kg,28
+2012/2013,Bacary Sagna,Arsenal,83,RB,France,EPL,3,3,,,176cm,72kg,30
+2012/2013,Antonio Valencia,Manchester United,83,RM,Ecuador,EPL,4,2,,,181cm,78kg,27
+2012/2013,Edin Džeko,Manchester City,83,ST,Bosnia Herzegovina,EPL,3,4,,,193cm,84kg,27
+2012/2013,Shinji Kagawa,Manchester United,83,CAM,Japan,EPL,4,4,,,172cm,64kg,24
+2012/2013,Scott Parker,Tottenham Hotspur,82,CDM,England,EPL,3,3,,,175cm,69kg,32
+2012/2013,Júlio César Soares Espíndola,Queens Park Rangers,82,GK,Brazil,EPL,1,3,,,186cm,79kg,33
+2012/2013,Darren Bent,Aston Villa,82,ST,England,EPL,3,3,,,180cm,73kg,29
+2012/2013,Emmanuel Adebayor,Tottenham Hotspur,82,ST,Togo,EPL,4,3,,,191cm,82kg,29
+2012/2013,Ashley Young,Manchester United,82,LM,England,EPL,4,3,,,175cm,61kg,27
+2012/2013,Thomas Vermaelen,Arsenal,82,CB,Belgium,EPL,2,3,,,183cm,82kg,27
+2012/2013,Stéphane Sessègnon,Sunderland,82,CAM,Benin,EPL,4,5,,,168cm,72kg,28
+2012/2013,Cheick Tioté,Newcastle United,82,CDM,Ivory Coast,EPL,3,3,,,180cm,86kg,26
+2012/2013,Nuri Sahin,Liverpool,82,CM,Turkey,EPL,3,4,,,179cm,72kg,24
+2012/2013,Demba Ba,Newcastle United,82,ST,Senegal,EPL,3,3,,,189cm,84kg,28
+2012/2013,Cissé,Newcastle United,82,ST,Senegal,EPL,3,4,,,183cm,73kg,27
+2012/2013,Javier Hernández,Manchester United,82,ST,Mexico,EPL,3,3,,,175cm,60kg,24
+2012/2013,Branislav Ivanović,Chelsea,82,RB,Serbia,EPL,2,3,,,188cm,86kg,29
+2012/2013,Jack Wilshere,Arsenal,82,CM,England,EPL,3,3,,,173cm,65kg,21
+2012/2013,Ryan Giggs,Manchester United,81,CAM,Wales,EPL,3,2,,,180cm,71kg,39
+2012/2013,Paul Scholes,Manchester United,81,CM,England,EPL,3,3,,,170cm,74kg,38
+2012/2013,Gareth Barry,Manchester City,81,CDM,England,EPL,2,3,,,183cm,79kg,32
+2012/2013,Djibril Cissé,Queens Park Rangers,81,ST,France,EPL,4,4,,,183cm,83kg,31
+2012/2013,Tim Howard,Everton,81,GK,United States,EPL,1,3,,,191cm,88kg,34
+2012/2013,Michael Carrick,Manchester United,81,CM,England,EPL,2,3,,,185cm,74kg,31
+2012/2013,Mikel Arteta Amatriain,Arsenal,81,CM,Spain,EPL,3,4,,,175cm,64kg,31
+2012/2013,Florent Malouda,Chelsea,81,LW,France,EPL,4,4,,,181cm,73kg,32
+2012/2013,Fabricio Coloccini,Newcastle United,81,CB,Argentina,EPL,2,4,,,184cm,83kg,31
+2012/2013,Jermain Defoe,Tottenham Hotspur,81,ST,England,EPL,3,3,,,169cm,65kg,30
+2012/2013,Per Mertesacker,Arsenal,81,CB,Germany,EPL,2,3,,,198cm,90kg,28
+2012/2013,Kolo Touré,Manchester City,81,CB,Ivory Coast,EPL,2,3,,,183cm,76kg,32
+2012/2013,Michel Vorm,Swansea City,81,GK,Netherlands,EPL,1,3,,,183cm,84kg,29
+2012/2013,Joleon Lescott,Manchester City,81,CB,England,EPL,2,3,,,188cm,83kg,30
+2012/2013,Andrei Arshavin,Arsenal,81,LW,Russia,EPL,4,5,,,172cm,69kg,31
+2012/2013,Raúl José Trindade Meireles,Chelsea,81,CM,Portugal,EPL,3,4,,,179cm,65kg,30
+2012/2013,Clint Dempsey,Tottenham Hotspur,81,LM,United States,EPL,4,4,,,185cm,84kg,30
+2012/2013,Ben Arfa,Newcastle United,81,RW,France,EPL,5,4,,,180cm,76kg,26
+2012/2013,Theo Walcott,Arsenal,81,RW,England,EPL,3,3,,,175cm,67kg,24
+2012/2013,Laurent Koscielny,Arsenal,81,CB,France,EPL,2,3,,,185cm,75kg,27
+2012/2013,Martin Škrtel,Liverpool,81,CB,Slovakia,EPL,2,3,,,191cm,81kg,28
+2012/2013,Yohan Cabaye,Newcastle United,81,CM,France,EPL,3,4,,,175cm,72kg,27
+2012/2013,Gervais Yao Kouassi,Arsenal,81,LW,Ivory Coast,EPL,4,3,,,179cm,68kg,25
+2012/2013,Jan Vertonghen,Tottenham Hotspur,81,CB,Belgium,EPL,3,3,,,189cm,79kg,26
+2012/2013,Marouane Fellaini,Everton,81,CM,Belgium,EPL,3,3,,,194cm,85kg,25
+2012/2013,Ramires Santos do Nascimen.,Chelsea,81,CM,Brazil,EPL,3,3,,,180cm,73kg,26
+2012/2013,Shay Given,Aston Villa,80,GK,Republic of Ireland,EPL,1,3,,,185cm,84kg,37
+2012/2013,Tomáš Rosický,Arsenal,80,CAM,Czech Republic,EPL,3,4,,,179cm,68kg,32
+2012/2013,Brad Friedel,Tottenham Hotspur,80,GK,United States,EPL,1,2,,,188cm,92kg,42
+2012/2013,Michael Dawson,Tottenham Hotspur,80,CB,England,EPL,2,3,,,188cm,76kg,29
+2012/2013,James Milner,Manchester City,80,CM,England,EPL,3,4,,,176cm,70kg,27
+2012/2013,Darren Fletcher,Manchester United,80,CM,Scotland,EPL,2,3,,,184cm,84kg,29
+2012/2013,Gaël Clichy,Manchester City,80,LB,France,EPL,3,4,,,176cm,72kg,27
+2012/2013,Aaron Lennon,Tottenham Hotspur,80,RM,England,EPL,4,3,,,165cm,63kg,26
+2012/2013,Javi García,Manchester City,80,CDM,Spain,EPL,2,3,,,186cm,85kg,26
+2012/2013,Moussa Dembélé,Tottenham Hotspur,80,CAM,Belgium,EPL,4,2,,,183cm,83kg,25
+2012/2013,Leighton Baines,Everton,80,LB,England,EPL,3,3,,,170cm,70kg,28
+2012/2013,John Obi Mikel,Chelsea,80,CDM,Nigeria,EPL,2,3,,,188cm,86kg,26
+2012/2013,Stéphane M'Bia,Queens Park Rangers,80,CB,Cameroon,EPL,2,3,,,189cm,82kg,27
+2012/2013,Adam Johnson,Sunderland,80,RM,England,EPL,4,4,,,175cm,66kg,25
+2012/2013,Micah Richards,Manchester City,80,RB,England,EPL,2,3,,,181cm,83kg,24
+2012/2013,Lucas Leiva,Liverpool,80,CDM,Brazil,EPL,2,3,,,179cm,73kg,26
+2012/2013,Olivier Giroud,Arsenal,80,ST,France,EPL,2,3,,,192cm,88kg,26
+2012/2013,Wojciech Szczesny,Arsenal,80,GK,Poland,EPL,1,3,,,195cm,84kg,23
+2012/2013,Oscar,Chelsea,80,CAM,Brazil,EPL,4,3,,,179cm,66kg,21
+2012/2013,De Gea,Manchester United,80,GK,Spain,EPL,1,3,,,192cm,82kg,22
+2012/2013,Ji Sung Park,Queens Park Rangers,79,CAM,Korea Republic,EPL,3,3,,,178cm,73kg,32
+2012/2013,John Heitinga,Everton,79,CB,Netherlands,EPL,2,3,,,180cm,72kg,29
+2012/2013,Matthew Etherington,Stoke City,79,LM,England,EPL,3,2,,,178cm,64kg,31
+2012/2013,Phil Jagielka,Everton,79,CB,England,EPL,2,3,,,180cm,87kg,30
+2012/2013,Stewart Downing,Liverpool,79,RW,England,EPL,3,3,,,180cm,65kg,28
+2012/2013,Glen Johnson,Liverpool,79,RB,England,EPL,3,4,,,182cm,70kg,28
+2012/2013,Pablo Zabaleta,Manchester City,79,RB,Argentina,EPL,3,3,,,177cm,76kg,28
+2012/2013,Younès Kaboul,Tottenham Hotspur,79,CB,France,EPL,2,3,,,191cm,87kg,27
+2012/2013,Gary Cahill,Chelsea,79,CB,England,EPL,2,3,,,188cm,71kg,27
+2012/2013,Tim Krul,Newcastle United,79,GK,Netherlands,EPL,1,2,,,193cm,83kg,25
+2012/2013,José Enrique Sánchez Díaz,Liverpool,79,LB,Spain,EPL,3,2,,,184cm,76kg,27
+2012/2013,Wilson Palacios,Stoke City,79,CDM,Honduras,EPL,2,3,,,178cm,71kg,28
+2012/2013,Granero,Queens Park Rangers,79,CM,Spain,EPL,2,4,,,180cm,75kg,25
+2012/2013,David Luiz,Chelsea,79,CB,Brazil,EPL,3,3,,,189cm,84kg,26
+2012/2013,Danny Welbeck,Manchester United,79,ST,England,EPL,3,3,,,185cm,73kg,22
+2012/2013,Joe Cole,Liverpool,78,CAM,England,EPL,4,4,,,175cm,76kg,31
+2012/2013,William Gallas,Tottenham Hotspur,78,CB,France,EPL,2,3,,,181cm,72kg,35
+2012/2013,Yossi Benayoun,Chelsea,78,CAM,Israel,EPL,3,4,,,178cm,70kg,33
+2012/2013,Steven Pienaar,Everton,78,LM,South Africa,EPL,4,4,,,170cm,66kg,31
+2012/2013,Anders Lindegaard,Manchester United,78,GK,Denmark,EPL,1,3,,,193cm,80kg,29
+2012/2013,Peter Odemwingie,West Bromwich Albion,78,ST,Nigeria,EPL,3,3,,,182cm,74kg,31
+2012/2013,Jonás Gutiérrez,Newcastle United,78,LM,Argentina,EPL,3,3,,,183cm,73kg,29
+2012/2013,Benoit Assou-Ekotto,Tottenham Hotspur,78,LB,Cameroon,EPL,2,3,,,180cm,69kg,29
+2012/2013,Leon Osman,Everton,78,CAM,England,EPL,3,3,,,173cm,64kg,32
+2012/2013,Ben Foster,West Bromwich Albion,78,GK,England,EPL,1,2,,,193cm,90kg,30
+2012/2013,Daniel Sturridge,Chelsea,78,RW,England,EPL,3,3,,,188cm,76kg,23
+2012/2013,Kevin Mirallas,Everton,78,ST,Belgium,EPL,3,4,,,178cm,70kg,25
+2012/2013,Marko Marin,Chelsea,78,CAM,Germany,EPL,4,4,,,170cm,63kg,25
+2012/2013,Adel Taarabt,Queens Park Rangers,78,CAM,Morocco,EPL,5,5,,,180cm,69kg,24
+2012/2013,Andy Carroll,West Ham United,78,ST,England,EPL,2,3,,,191cm,76kg,24
+2012/2013,Joe Allen,Liverpool,78,CM,Wales,EPL,3,3,,,168cm,62kg,23
+2012/2013,Aleksandar Kolarov,Manchester City,78,LB,Serbia,EPL,2,3,,,187cm,83kg,27
+2012/2013,Kyle Walker,Tottenham Hotspur,78,RB,England,EPL,3,2,,,178cm,74kg,22
+2012/2013,Oussama Assaidi,Liverpool,78,LW,Morocco,EPL,5,4,,,178cm,70kg,24
+2012/2013,Tom Cleverley,Manchester United,78,CAM,England,EPL,3,3,,,175cm,67kg,23
+2012/2013,Chris Smalling,Manchester United,78,CB,England,EPL,2,3,,,192cm,81kg,23
+2012/2013,Sandro,Tottenham Hotspur,78,CDM,Brazil,EPL,3,3,,,187cm,75kg,24
+2012/2013,Phil Jones,Manchester United,78,CB,England,EPL,2,3,,,180cm,71kg,21
+2012/2013,Gastón Ramírez,Southampton,78,CF,Uruguay,EPL,4,3,,,183cm,78kg,22
+2012/2013,John O'Shea,Sunderland,77,CB,Republic of Ireland,EPL,2,3,,,192cm,75kg,32
+2012/2013,Louis Saha,Sunderland,77,ST,France,EPL,3,4,,,185cm,83kg,34
+2012/2013,Peter Crouch,Stoke City,77,ST,England,EPL,3,3,,,201cm,80kg,32
+2012/2013,Alou Diarra,West Ham United,77,CDM,France,EPL,2,3,,,190cm,79kg,31
+2012/2013,Bobby Zamora,Queens Park Rangers,77,ST,England,EPL,3,4,,,185cm,87kg,32
+2012/2013,Tom Huddlestone,Tottenham Hotspur,77,CM,England,EPL,3,5,,,188cm,84kg,26
+2012/2013,Rob Green,Queens Park Rangers,77,GK,England,EPL,1,3,,,188cm,93kg,33
+2012/2013,Marouane Chamakh,Arsenal,77,ST,Morocco,EPL,3,3,,,188cm,70kg,29
+2012/2013,Gomes,Tottenham Hotspur,77,GK,Brazil,EPL,1,2,,,191cm,82kg,32
+2012/2013,Robert Huth,Stoke City,77,CB,Germany,EPL,2,3,,,191cm,88kg,28
+2012/2013,Charlie Adam,Stoke City,77,CM,Scotland,EPL,3,3,,,185cm,82kg,27
+2012/2013,Sebastian Larsson,Sunderland,77,RM,Sweden,EPL,3,3,,,178cm,70kg,27
+2012/2013,Steven Fletcher,Sunderland,77,ST,Scotland,EPL,2,3,,,185cm,76kg,26
+2012/2013,Charles N'Zogbia,Aston Villa,77,LM,France,EPL,4,2,,,171cm,70kg,26
+2012/2013,Anderson Luis de Abreu Oliveira,Manchester United,77,CM,Brazil,EPL,3,2,,,176cm,67kg,25
+2012/2013,Jonny Evans,Manchester United,77,CB,Northern Ireland,EPL,2,3,,,188cm,82kg,25
+2012/2013,Ryan Shawcross,Stoke City,77,CB,England,EPL,2,3,,,191cm,76kg,25
+2012/2013,Stephen Ireland,Aston Villa,77,CAM,Republic of Ireland,EPL,3,4,,,173cm,66kg,26
+2012/2013,Adam Lallana,Southampton,77,CAM,England,EPL,4,4,,,173cm,72kg,25
+2012/2013,Nikica Jelavic,Everton,77,ST,Croatia,EPL,3,4,,,187cm,84kg,27
+2012/2013,Jack Rodwell,Manchester City,77,CM,England,EPL,3,5,,,188cm,81kg,22
+2012/2013,Yacob,West Bromwich Albion,77,CDM,Argentina,EPL,2,3,,,181cm,73kg,25
+2012/2013,Fabio Borini,Liverpool,77,ST,Italy,EPL,3,3,,,180cm,73kg,22
+2012/2013,Aaron Ramsey,Arsenal,77,CAM,Wales,EPL,3,4,,,182cm,76kg,22
+2012/2013,Junior Hoilett,Queens Park Rangers,77,LM,Canada,EPL,3,3,,,172cm,71kg,22
+2012/2013,Rafael,Manchester United,77,RB,Brazil,EPL,3,4,,,172cm,78kg,22
+2012/2013,Stiliyan Petrov,Aston Villa,76,CM,Bulgaria,EPL,3,3,,,180cm,77kg,33
+2012/2013,Richard Dunne,Aston Villa,76,CB,Republic of Ireland,EPL,2,1,,,188cm,95kg,33
+2012/2013,Jamie Carragher,Liverpool,76,CB,England,EPL,2,4,,,185cm,83kg,35
+2012/2013,Wes Brown,Sunderland,76,CB,England,EPL,2,3,,,184cm,77kg,33
+2012/2013,Sylvain Distin,Everton,76,CB,France,EPL,2,2,,,192cm,88kg,35
+2012/2013,Jonas Olsson,West Bromwich Albion,76,CB,Sweden,EPL,2,3,,,193cm,84kg,30
+2012/2013,Jermaine Pennant,Stoke City,76,RM,England,EPL,3,3,,,175cm,68kg,30
+2012/2013,Kenwyne Jones,Stoke City,76,ST,Trinidad & Tobago,EPL,3,3,,,187cm,85kg,28
+2012/2013,Steven Taylor,Newcastle United,76,CB,England,EPL,2,3,,,186cm,91kg,27
+2012/2013,Steven Naismith,Everton,76,CF,Scotland,EPL,3,3,,,178cm,72kg,26
+2012/2013,Danny Graham,Swansea City,76,ST,England,EPL,2,2,,,185cm,87kg,27
+2012/2013,Abou Diaby,Arsenal,76,CM,France,EPL,3,3,,,188cm,76kg,27
+2012/2013,Matt Jarvis,West Ham United,76,LM,England,EPL,3,5,,,170cm,73kg,27
+2012/2013,Ashley Williams,Swansea City,76,CB,Wales,EPL,2,3,,,183cm,71kg,28
+2012/2013,Lukasz Fabianski,Arsenal,76,GK,Poland,EPL,1,2,,,190cm,84kg,28
+2012/2013,Ron Vlaar,Aston Villa,76,CB,Netherlands,EPL,2,4,,,189cm,80kg,28
+2012/2013,Danny Simpson,Newcastle United,76,RB,England,EPL,2,3,,,177cm,77kg,26
+2012/2013,Asmir Begovic,Stoke City,76,GK,Bosnia Herzegovina,EPL,1,2,,,196cm,83kg,25
+2012/2013,Simon Mignolet,Sunderland,76,GK,Belgium,EPL,1,3,,,193cm,87kg,25
+2012/2013,José Manuel Flores Moreno,Swansea City,76,CB,Spain,EPL,2,3,,,187cm,75kg,26
+2012/2013,Pablo Hernández,Swansea City,76,RM,Spain,EPL,4,3,,,173cm,64kg,28
+2012/2013,Modibo Maïga,West Ham United,76,ST,Mali,EPL,3,3,,,185cm,80kg,25
+2012/2013,Martin Kelly,Liverpool,76,RB,England,EPL,3,3,,,191cm,77kg,23
+2012/2013,Azpilicueta,Chelsea,76,RB,Spain,EPL,3,3,,,178cm,70kg,23
+2012/2013,Gylfi Sigurðsson,Tottenham Hotspur,76,CAM,Iceland,EPL,3,3,,,186cm,79kg,23
+2012/2013,Kieran Gibbs,Arsenal,76,LB,England,EPL,3,2,,,180cm,64kg,23
+2012/2013,Alex Oxlade-Chamberlain,Arsenal,76,LW,England,EPL,4,4,,,180cm,70kg,19
+2012/2013,José Bosingwa da Silva,Queens Park Rangers,75,RB,Portugal,EPL,3,4,,,183cm,75kg,30
+2012/2013,Andrew Johnson,Queens Park Rangers,75,ST,England,EPL,3,3,,,170cm,64kg,32
+2012/2013,Dean Whitehead,Stoke City,75,CM,England,EPL,3,3,,,183cm,76kg,31
+2012/2013,Matthew Upson,Stoke City,75,CB,England,EPL,2,3,,,185cm,72kg,34
+2012/2013,Kevin Nolan,West Ham United,75,CAM,England,EPL,3,3,,,183cm,88kg,30
+2012/2013,Chris Brunt,West Bromwich Albion,75,RM,Northern Ireland,EPL,3,3,,,185cm,84kg,28
+2012/2013,Zoltán Gera,West Bromwich Albion,75,RM,Hungary,EPL,4,4,,,183cm,75kg,34
+2012/2013,Leon Britton,Swansea City,75,CM,England,EPL,3,3,,,165cm,64kg,30
+2012/2013,Steven Davis,Southampton,75,CM,Northern Ireland,EPL,3,3,,,173cm,72kg,28
+2012/2013,Sylvain Marveaux,Newcastle United,75,LM,France,EPL,3,3,,,172cm,66kg,27
+2012/2013,Karim El Ahmadi,Aston Villa,75,CM,Morocco,EPL,3,3,,,185cm,78kg,28
+2012/2013,Johan Djourou,Arsenal,75,CB,Switzerland,EPL,3,3,,,192cm,89kg,26
+2012/2013,James Morrison,West Bromwich Albion,75,RM,Scotland,EPL,3,3,,,178cm,64kg,27
+2012/2013,André Clarindo dos Santos,Arsenal,75,LB,Brazil,EPL,3,3,,,180cm,74kg,30
+2012/2013,Brad Guzan,Aston Villa,75,GK,United States,EPL,1,2,,,193cm,95kg,28
+2012/2013,Miguel Pérez Cuesta,Swansea City,75,CAM,Spain,EPL,3,3,,,190cm,80kg,27
+2012/2013,Scott Sinclair,Manchester City,75,LW,England,EPL,4,3,,,177cm,69kg,24
+2012/2013,Shane Long,West Bromwich Albion,75,ST,Republic of Ireland,EPL,3,3,,,180cm,81kg,26
+2012/2013,Darron Gibson,Everton,75,CM,Republic of Ireland,EPL,2,4,,,183cm,80kg,25
+2012/2013,Jay Rodriguez,Southampton,75,ST,England,EPL,2,4,,,185cm,70kg,23
+2012/2013,Graham Dorrans,West Bromwich Albion,75,CM,Scotland,EPL,3,3,,,175cm,73kg,26
+2012/2013,Keiren Westwood,Sunderland,75,GK,Republic of Ireland,EPL,1,3,,,188cm,86kg,28
+2012/2013,Victor Moses,Chelsea,75,RW,Nigeria,EPL,4,4,,,178cm,75kg,22
+2012/2013,Nathan Dyer,Swansea City,75,RW,England,EPL,4,3,,,165cm,57kg,25
+2012/2013,Jonathan De Guzmán,Swansea City,75,CAM,Netherlands,EPL,4,4,,,173cm,65kg,25
+2012/2013,Mulumbu,West Bromwich Albion,75,CDM,DR Congo,EPL,2,4,,,177cm,65kg,26
+2012/2013,Vurnon Anita,Newcastle United,75,CDM,Netherlands,EPL,3,3,,,168cm,65kg,24
+2012/2013,Davide Santon,Newcastle United,75,LB,Italy,EPL,2,2,,,187cm,83kg,22
+2012/2013,Fábio,Queens Park Rangers,75,LB,Brazil,EPL,3,4,,,172cm,69kg,22
+2012/2013,Matija Nastasic,Manchester City,75,CB,Serbia,EPL,2,3,,,187cm,80kg,20
+2012/2013,Phil Neville,Everton,74,RB,England,EPL,2,4,,,180cm,76kg,36
+2012/2013,David Vaughan,Sunderland,74,CM,Wales,EPL,3,3,,,171cm,66kg,30
+2012/2013,Carlo Cudicini,Tottenham Hotspur,74,GK,Italy,EPL,1,2,,,185cm,80kg,39
+2012/2013,Ryan Nelsen,Queens Park Rangers,74,CB,New Zealand,EPL,2,3,,,183cm,90kg,35
+2012/2013,Rickie Lambert,Southampton,74,ST,England,EPL,2,4,,,188cm,77kg,31
+2012/2013,Ryan Taylor,Newcastle United,74,LB,England,EPL,2,3,,,179cm,81kg,28
+2012/2013,Jermaine Jenas,Tottenham Hotspur,74,CM,England,EPL,3,3,,,179cm,76kg,30
+2012/2013,Tony Hibbert,Everton,74,RB,England,EPL,2,2,,,173cm,71kg,32
+2012/2013,Donieber Alexander Marangão,Liverpool,74,GK,Brazil,EPL,1,3,,,194cm,91kg,33
+2012/2013,Thomas Sørensen,Stoke City,74,GK,Denmark,EPL,1,3,,,196cm,89kg,36
+2012/2013,Brett Holman,Aston Villa,74,LW,Australia,EPL,3,4,,,177cm,75kg,29
+2012/2013,Jonathan Walters,Stoke City,74,ST,Republic of Ireland,EPL,3,3,,,183cm,79kg,29
+2012/2013,Jos Hooiveld,Southampton,74,CB,Netherlands,EPL,2,2,,,193cm,83kg,30
+2012/2013,Michael Kightly,Stoke City,74,RM,England,EPL,3,3,,,173cm,71kg,27
+2012/2013,Carlos Javier Cuéllar Jiménez,Sunderland,74,CB,Spain,EPL,2,2,,,190cm,84kg,31
+2012/2013,Kelvin Davis,Southampton,74,GK,England,EPL,1,3,,,185cm,82kg,36
+2012/2013,David Bentley,Tottenham Hotspur,74,RM,England,EPL,4,3,,,175cm,68kg,28
+2012/2013,Ricardo,West Ham United,74,ST,Portugal,EPL,3,3,,,188cm,79kg,26
+2012/2013,Mike Williamson,Newcastle United,74,CB,England,EPL,2,3,,,194cm,92kg,29
+2012/2013,Mark Noble,West Ham United,74,CM,England,EPL,3,3,,,180cm,76kg,26
+2012/2013,Alejandro Faurlín,Queens Park Rangers,74,CM,Argentina,EPL,3,3,,,185cm,79kg,26
+2012/2013,Andy Wilkinson,Stoke City,74,RB,England,EPL,2,3,,,180cm,69kg,28
+2012/2013,Glenn Whelan,Stoke City,74,CM,Republic of Ireland,EPL,3,4,,,180cm,80kg,29
+2012/2013,Gabriel Agbonlahor,Aston Villa,74,ST,England,EPL,3,3,,,180cm,79kg,26
+2012/2013,Marc Wilson,Stoke City,74,LB,Republic of Ireland,EPL,2,3,,,188cm,80kg,25
+2012/2013,James Tomkins,West Ham United,74,CB,England,EPL,2,2,,,191cm,74kg,24
+2012/2013,Craig Gardner,Sunderland,74,CM,England,EPL,2,3,,,176cm,76kg,26
+2012/2013,Séamus Coleman,Everton,74,RM,Republic of Ireland,EPL,2,3,,,177cm,77kg,24
+2012/2013,Ciaran Clark,Aston Villa,74,CB,Republic of Ireland,EPL,2,2,,,188cm,76kg,23
+2012/2013,Jordan Henderson,Liverpool,74,CM,England,EPL,3,3,,,182cm,67kg,22
+2012/2013,Romelu Lukaku,West Bromwich Albion,74,ST,Belgium,EPL,3,4,,,190cm,94kg,20
+2012/2013,Costel Pantilimon,Manchester City,74,GK,Romania,EPL,1,3,,,203cm,94kg,26
+2012/2013,Steven Caulker,Tottenham Hotspur,74,CB,England,EPL,2,2,,,191cm,76kg,21
+2012/2013,Samba Diakité,Queens Park Rangers,74,CDM,Mali,EPL,2,3,,,186cm,76kg,24
+2012/2013,James McClean,Sunderland,74,LM,Republic of Ireland,EPL,4,2,,,180cm,70kg,24
+2012/2013,Jussi Jääskeläinen,West Ham United,73,GK,Finland,EPL,1,2,,,191cm,80kg,38
+2012/2013,James Collins,West Ham United,73,CB,Wales,EPL,2,2,,,193cm,90kg,29
+2012/2013,Markus Rosenberg,West Bromwich Albion,73,ST,Sweden,EPL,2,4,,,185cm,79kg,30
+2012/2013,Carlton Cole,West Ham United,73,ST,England,EPL,3,3,,,191cm,88kg,29
+2012/2013,Sébastien Squillaci,Arsenal,73,CB,France,EPL,2,3,,,185cm,76kg,32
+2012/2013,Boaz Myhill,West Bromwich Albion,73,GK,Wales,EPL,1,2,,,191cm,92kg,30
+2012/2013,Stephen Warnock,Aston Villa,73,LB,England,EPL,2,1,,,178cm,75kg,31
+2012/2013,Wayne Routledge,Swansea City,73,RW,England,EPL,4,4,,,170cm,64kg,28
+2012/2013,Paulo Renato Rebocho Ferreira,Chelsea,73,RB,Portugal,EPL,2,3,,,183cm,76kg,34
+2012/2013,Gabriel Tamaş,West Bromwich Albion,73,CB,Romania,EPL,2,3,,,188cm,79kg,29
+2012/2013,Àngel Rangel,Swansea City,73,RB,Spain,EPL,3,3,,,186cm,85kg,30
+2012/2013,Jerome Thomas,West Bromwich Albion,73,LM,England,EPL,4,3,,,178cm,74kg,30
+2012/2013,Phil Bardsley,Sunderland,73,RB,Scotland,EPL,2,3,,,179cm,74kg,27
+2012/2013,Onuoha,Queens Park Rangers,73,RB,England,EPL,2,3,,,188cm,78kg,26
+2012/2013,Cameron Jerome,Stoke City,73,ST,England,EPL,3,2,,,185cm,85kg,26
+2012/2013,Victor Anichebe,Everton,73,ST,Nigeria,EPL,3,3,,,191cm,85kg,25
+2012/2013,Fraizer Campbell,Sunderland,73,ST,England,EPL,3,3,,,172cm,82kg,25
+2012/2013,Marc Albrighton,Aston Villa,73,RM,England,EPL,3,3,,,175cm,67kg,23
+2012/2013,Barry Bannan,Aston Villa,73,CM,Scotland,EPL,3,2,,,169cm,61kg,23
+2012/2013,Dan Gosling,Newcastle United,73,CM,England,EPL,2,3,,,183cm,79kg,23
+2012/2013,Kyle Naughton,Tottenham Hotspur,73,RB,England,EPL,3,3,,,180cm,73kg,24
+2012/2013,Jake Livermore,Tottenham Hotspur,73,CDM,England,EPL,3,2,,,180cm,76kg,23
+2012/2013,Francis Coquelin,Arsenal,73,CDM,France,EPL,2,3,,,178cm,73kg,22
+2012/2013,Nathaniel Clyne,Southampton,73,RB,England,EPL,3,3,,,175cm,67kg,22
+2012/2013,Yassine El Ghanassy,West Bromwich Albion,73,LW,Belgium,EPL,4,3,,,175cm,70kg,22
+2012/2013,Jack Colback,Sunderland,73,CM,England,EPL,2,3,,,177cm,70kg,23
+2012/2013,Magaye Gueye,Everton,73,LM,Senegal,EPL,3,2,,,179cm,73kg,22
+2012/2013,John Guidetti,Manchester City,73,ST,Sweden,EPL,3,3,,,185cm,79kg,21
+2012/2013,Shaun Wright-Phillips,Queens Park Rangers,72,RM,England,EPL,3,3,,,166cm,64kg,31
+2012/2013,Titus Bramble,Sunderland,72,CB,England,EPL,2,3,,,192cm,86kg,31
+2012/2013,Gerhard Tremmel,Swansea City,72,GK,Germany,EPL,1,3,,,190cm,89kg,34
+2012/2013,Luke Young,Queens Park Rangers,72,RB,England,EPL,2,2,,,183cm,78kg,33
+2012/2013,Anton Ferdinand,Queens Park Rangers,72,CB,England,EPL,2,3,,,183cm,71kg,28
+2012/2013,Matt Taylor,West Ham United,72,LM,England,EPL,3,3,,,178cm,74kg,31
+2012/2013,Alan Hutton,Aston Villa,72,RB,Scotland,EPL,2,3,,,185cm,72kg,28
+2012/2013,DJ Campbell,Queens Park Rangers,72,ST,England,EPL,3,3,,,178cm,72kg,31
+2012/2013,Ross Turnbull,Chelsea,72,GK,England,EPL,1,2,,,193cm,85kg,28
+2012/2013,Henri. Hilário Meireles Alves S.,Chelsea,72,GK,Portugal,EPL,1,2,,,189cm,88kg,37
+2012/2013,Lee Cattermole,Sunderland,72,CM,England,EPL,2,3,,,177cm,76kg,25
+2012/2013,José Fonte,Southampton,72,CB,Portugal,EPL,2,3,,,187cm,81kg,29
+2012/2013,Neil Taylor,Swansea City,72,LB,Wales,EPL,2,3,,,175cm,64kg,24
+2012/2013,Morgan Schneiderlin,Southampton,72,CDM,France,EPL,2,3,,,181cm,75kg,23
+2012/2013,Christian Benteke,Aston Villa,72,ST,Belgium,EPL,2,4,,,192cm,86kg,22
+2012/2013,Jack Collison,West Ham United,72,RM,Wales,EPL,2,3,,,182cm,87kg,24
+2012/2013,Federico Macheda,Manchester United,72,ST,Italy,EPL,3,3,,,185cm,74kg,21
+2012/2013,Mohamed Diamé,West Ham United,72,CM,Senegal,EPL,3,4,,,185cm,80kg,25
+2012/2013,Iago Falqué,Tottenham Hotspur,72,CAM,Spain,EPL,4,3,,,174cm,69kg,23
+2012/2013,Emmanuel Frimpong,Arsenal,72,CDM,Ghana,EPL,3,3,,,178cm,81kg,21
+2012/2013,Andreas Weimann,Aston Villa,72,ST,Austria,EPL,2,3,,,188cm,76kg,21
+2012/2013,Emmanuel Mayuka,Southampton,72,ST,Zambia,EPL,4,5,,,178cm,72kg,22
+2012/2013,Sebastián Coates,Liverpool,72,CB,Uruguay,EPL,2,3,,,198cm,85kg,22
+2012/2013,Oriol Romeu,Chelsea,72,CDM,Spain,EPL,2,3,,,182cm,79kg,21
+2012/2013,Danny Higginbotham,Stoke City,71,LB,England,EPL,2,2,,,185cm,78kg,34
+2012/2013,Shola Ameobi,Newcastle United,71,ST,Nigeria,EPL,3,3,,,191cm,96kg,31
+2012/2013,George McCartney,West Ham United,71,LB,Northern Ireland,EPL,2,2,,,183cm,79kg,32
+2012/2013,Steve Harper,Newcastle United,71,GK,England,EPL,1,3,,,186cm,93kg,38
+2012/2013,Gary O'Neil,West Ham United,71,RM,England,EPL,3,3,,,173cm,61kg,30
+2012/2013,Gareth McAuley,West Bromwich Albion,71,CB,Northern Ireland,EPL,2,3,,,191cm,70kg,33
+2012/2013,Stephen Henderson,West Ham United,71,GK,Republic of Ireland,EPL,1,3,,,193cm,87kg,25
+2012/2013,Itay Shechter,Swansea City,71,ST,Israel,EPL,3,4,,,180cm,77kg,26
+2012/2013,Danny Rose,Sunderland,71,LB,England,EPL,3,3,,,173cm,72kg,22
+2012/2013,Ryan Bertrand,Chelsea,71,LB,England,EPL,2,3,,,179cm,85kg,23
+2012/2013,Jack Cork,Southampton,71,CM,England,EPL,2,4,,,185cm,69kg,23
+2012/2013,Sung Yueng Ki,Swansea City,71,CM,Korea Republic,EPL,2,4,,,188cm,75kg,24
+2012/2013,Fabian Delph,Aston Villa,71,CM,England,EPL,3,3,,,174cm,60kg,23
+2012/2013,Geoff Cameron,Stoke City,71,CDM,United States,EPL,3,3,,,191cm,84kg,27
+2012/2013,Dani Pacheco,Liverpool,71,CF,Spain,EPL,3,3,,,168cm,67kg,22
+2012/2013,Jonjo Shelvey,Liverpool,71,CM,England,EPL,2,3,,,183cm,70kg,21
+2012/2013,Romain Amalfitano,Newcastle United,71,CAM,France,EPL,3,4,,,175cm,72kg,23
+2012/2013,Rory Delap,Stoke City,70,CM,Republic of Ireland,EPL,3,3,,,183cm,75kg,36
+2012/2013,Steven Reid,West Bromwich Albion,70,RB,Republic of Ireland,EPL,3,3,,,180cm,87kg,32
+2012/2013,Shaun Derry,Queens Park Rangers,70,CDM,England,EPL,2,3,,,183cm,82kg,35
+2012/2013,Matthew Kilgallon,Sunderland,70,CB,England,EPL,2,3,,,188cm,81kg,29
+2012/2013,Guilherme do Prado Raymundo,Southampton,70,RW,Brazil,EPL,3,3,,,189cm,79kg,31
+2012/2013,Daniel Fox,Southampton,70,LB,Scotland,EPL,2,3,,,183cm,79kg,26
+2012/2013,Liam Ridgewell,West Bromwich Albion,70,LB,England,EPL,2,2,,,188cm,79kg,28
+2012/2013,James Perch,Newcastle United,70,CB,England,EPL,2,3,,,180cm,80kg,27
+2012/2013,Armand Traoré,Queens Park Rangers,70,LB,Senegal,EPL,2,2,,,185cm,82kg,23
+2012/2013,Winston Reid,West Ham United,70,CB,New Zealand,EPL,2,2,,,190cm,87kg,24
+2012/2013,Gabriel Obertan,Newcastle United,70,RM,France,EPL,4,3,,,186cm,83kg,24
+2012/2013,Vito Mannone,Arsenal,70,GK,Italy,EPL,1,3,,,191cm,80kg,25
+2012/2013,Eric Lichaj,Aston Villa,70,RB,United States,EPL,2,3,,,180cm,79kg,24
+2012/2013,Alexander Büttner,Manchester United,70,LB,Netherlands,EPL,3,3,,,174cm,73kg,24
+2012/2013,Gary Gardner,Aston Villa,70,CM,England,EPL,3,3,,,188cm,82kg,20
+2012/2013,Danny Wilson,Liverpool,70,CB,Scotland,EPL,2,2,,,187cm,79kg,21
+2012/2013,Andros Townsend,Tottenham Hotspur,70,LM,England,EPL,3,3,,,183cm,77kg,21
+2012/2013,Ross Barkley,Everton,70,CAM,England,EPL,3,4,,,188cm,78kg,19
+2012/2013,Apostolos Vellios,Everton,70,ST,Greece,EPL,3,3,,,191cm,78kg,21
+2012/2013,Tadanari Lee,Southampton,70,ST,Japan,EPL,2,3,,,183cm,73kg,27
+2012/2013,Guy Demel,West Ham United,69,RB,Ivory Coast,EPL,2,3,,,188cm,88kg,31
+2012/2013,Kieron Dyer,Queens Park Rangers,69,CM,England,EPL,3,3,,,173cm,64kg,34
+2012/2013,Clint Hill,Queens Park Rangers,69,CB,England,EPL,2,2,,,183cm,73kg,34
+2012/2013,Richard Chaplow,Southampton,69,CM,England,EPL,2,3,,,183cm,70kg,28
+2012/2013,Frazer Richardson,Southampton,69,RB,England,EPL,2,3,,,178cm,83kg,30
+2012/2013,Jason Puncheon,Southampton,69,RW,England,EPL,3,2,,,173cm,71kg,26
+2012/2013,Goran Popov,West Bromwich Albion,69,LB,FYR Macedonia,EPL,2,2,,,188cm,85kg,28
+2012/2013,Alan Tate,Swansea City,69,CB,England,EPL,2,3,,,185cm,85kg,30
+2012/2013,Marc-Antoine Fortuné,West Bromwich Albion,69,ST,France,EPL,3,3,,,183cm,76kg,31
+2012/2013,Leroy Lita,Swansea City,69,ST,England,EPL,3,2,,,176cm,81kg,28
+2012/2013,Xisco,Newcastle United,69,ST,Spain,EPL,3,3,,,188cm,76kg,26
+2012/2013,Joey O'Brien,West Ham United,69,RB,Republic of Ireland,EPL,2,3,,,180cm,70kg,27
+2012/2013,Ján Mucha,Everton,69,GK,Slovakia,EPL,1,3,,,189cm,87kg,30
+2012/2013,Michael Johnson,Manchester City,69,CM,England,EPL,3,3,,,183cm,76kg,25
+2012/2013,Nathan Baker,Aston Villa,69,CB,England,EPL,2,2,,,189cm,82kg,22
+2012/2013,Connor Wickham,Sunderland,69,ST,England,EPL,2,3,,,189cm,90kg,20
+2012/2013,Maya Yoshida,Southampton,69,CB,Japan,EPL,2,4,,,189cm,78kg,24
+2012/2013,Jamie Ness,Stoke City,69,CM,Scotland,EPL,3,3,,,177cm,71kg,22
+2012/2013,Dong Won Ji,Sunderland,69,ST,Korea Republic,EPL,3,3,,,187cm,76kg,21
+2012/2013,Jon Flanagan,Liverpool,69,RB,England,EPL,2,3,,,181cm,69kg,20
+2012/2013,Raheem Sterling,Liverpool,69,LW,England,EPL,4,3,,,170cm,69kg,18
+2012/2013,Samir Carruthers,Aston Villa,69,CAM,Republic of Ireland,EPL,3,3,,,173cm,70kg,20
+2012/2013,Mark Gower,Swansea City,68,CM,England,EPL,2,3,,,180cm,71kg,34
+2012/2013,Frédéric Piquionne,West Ham United,68,ST,France,EPL,3,4,,,188cm,84kg,34
+2012/2013,Garry Monk,Swansea City,68,CB,England,EPL,2,3,,,183cm,81kg,34
+2012/2013,Luke Moore,Swansea City,68,ST,England,EPL,3,3,,,180cm,76kg,27
+2012/2013,Steve De Ridder,Southampton,68,RM,Belgium,EPL,3,2,,,177cm,73kg,26
+2012/2013,Kemy Agustien,Swansea City,68,CM,Netherlands,EPL,2,3,,,178cm,75kg,26
+2012/2013,Kyle Bartley,Swansea City,68,CB,England,EPL,2,3,,,180cm,70kg,22
+2012/2013,David Meyler,Sunderland,68,CM,Republic of Ireland,EPL,2,3,,,189cm,79kg,23
+2012/2013,Chris Wood,West Bromwich Albion,68,ST,New Zealand,EPL,3,3,,,189cm,95kg,21
+2012/2013,Gonzalo Jara,West Bromwich Albion,68,CDM,Chile,EPL,2,3,,,178cm,79kg,27
+2012/2013,Craig Dawson,West Bromwich Albion,68,CB,England,EPL,2,2,,,188cm,83kg,23
+2012/2013,Matthew Lowton,Aston Villa,68,RB,England,EPL,2,3,,,180cm,78kg,23
+2012/2013,Robbie Brady,Manchester United,68,LM,Republic of Ireland,EPL,3,4,,,175cm,69kg,21
+2012/2013,Billy Jones,West Bromwich Albion,67,RB,England,EPL,2,3,,,180cm,77kg,26
+2012/2013,Brian Murphy,Queens Park Rangers,67,GK,Republic of Ireland,EPL,1,3,,,183cm,83kg,30
+2012/2013,Jamie Mackie,Queens Park Rangers,67,ST,Scotland,EPL,3,3,,,173cm,70kg,27
+2012/2013,Maurice Edu,Stoke City,67,CM,United States,EPL,3,3,,,183cm,77kg,27
+2012/2013,Graham Burke,Aston Villa,67,CF,Republic of Ireland,EPL,3,2,,,180cm,75kg,19
+2012/2013,Chris Herd,Aston Villa,67,CDM,Australia,EPL,3,3,,,173cm,76kg,24
+2012/2013,Nile Ranger,Newcastle United,67,ST,England,EPL,3,3,,,188cm,84kg,22
+2012/2013,Ignasi Miquel,Arsenal,67,CB,Spain,EPL,2,3,,,193cm,85kg,20
+2012/2013,Bryan Oviedo,Everton,67,LB,Costa Rica,EPL,3,3,,,172cm,65kg,23
+2012/2013,Mamady Sidibe,Stoke City,66,ST,Mali,EPL,3,3,,,193cm,77kg,33
+2012/2013,Michael Tonge,Stoke City,66,CM,England,EPL,3,4,,,183cm,74kg,30
+2012/2013,Radek Černý,Queens Park Rangers,66,GK,Czech Republic,EPL,1,2,,,187cm,87kg,39
+2012/2013,Jordan Spence,West Ham United,66,RB,England,EPL,2,3,,,180cm,77kg,23
+2012/2013,Hogan Ephraim,Queens Park Rangers,66,CAM,England,EPL,3,3,,,175cm,70kg,25
+2012/2013,Joe Bennett,Aston Villa,66,LB,England,EPL,2,3,,,177cm,74kg,23
+2012/2013,Adam Smith,Tottenham Hotspur,66,RB,England,EPL,3,3,,,180cm,79kg,22
+2012/2013,Shane Duffy,Everton,66,CB,Republic of Ireland,EPL,2,3,,,194cm,82kg,21
+2012/2013,Ryan Noble,Sunderland,66,ST,England,EPL,2,3,,,183cm,68kg,21
+2012/2013,Rob Hulse,Queens Park Rangers,65,ST,England,EPL,3,3,,,187cm,78kg,33
+2012/2013,Rob Elliot,Newcastle United,65,GK,England,EPL,1,2,,,188cm,93kg,27
+2012/2013,Ryan Shotton,Stoke City,65,RM,England,EPL,2,3,,,191cm,84kg,24
+2012/2013,Péter Gulácsi,Liverpool,65,GK,Hungary,EPL,1,3,,,191cm,83kg,23
+2012/2013,Joshua King,Manchester United,65,ST,Norway,EPL,3,2,,,180cm,74kg,21
+2012/2013,Ashley Westwood,Aston Villa,65,CDM,England,EPL,2,3,,,175cm,67kg,23
+2012/2013,Ryan Mason,Tottenham Hotspur,65,CAM,England,EPL,3,3,,,175cm,72kg,21
+2012/2013,Haris Vučkić,Newcastle United,65,CF,Slovenia,EPL,3,4,,,188cm,83kg,20
+2012/2013,Diego Arismendi,Stoke City,65,CM,Uruguay,EPL,3,4,,,189cm,77kg,25
+2012/2013,Shane Ferguson,Newcastle United,65,LM,Northern Ireland,EPL,2,3,,,175cm,66kg,21
+2012/2013,Alex Nimely,Manchester City,65,ST,England,EPL,3,3,,,180cm,74kg,22
+2012/2013,Carl Jenkinson,Arsenal,65,RB,Finland,EPL,2,3,,,185cm,77kg,21
+2012/2013,Nick Powell,Manchester United,65,CAM,England,EPL,2,3,,,183cm,65kg,19
+2012/2013,Tom Carroll,Tottenham Hotspur,65,CM,England,EPL,3,2,,,171cm,63kg,20
+2012/2013,Rory Donnelly,Swansea City,65,ST,Northern Ireland,EPL,2,3,,,188cm,81kg,21
+2012/2013,Brad Jones,Liverpool,64,GK,Australia,EPL,1,2,,,191cm,76kg,31
+2012/2013,Angelo Balanta,Queens Park Rangers,64,LM,England,EPL,3,3,,,179cm,75kg,22
+2012/2013,Ashley Richards,Swansea City,64,RB,Wales,EPL,3,3,,,185cm,78kg,22
+2012/2013,Scott Allan,West Bromwich Albion,64,CM,Scotland,EPL,3,3,,,179cm,67kg,21
+2012/2013,Daniel Johnson,Aston Villa,64,CM,England,EPL,2,3,,,174cm,67kg,20
+2012/2013,Sammy Ameobi,Newcastle United,64,LM,England,EPL,2,3,,,194cm,77kg,21
+2012/2013,Samed Yesil,Liverpool,64,ST,Germany,EPL,3,3,,,180cm,72kg,19
+2012/2013,Karim Rekik,Manchester City,64,CB,Netherlands,EPL,2,3,,,184cm,79kg,18
+2012/2013,Cristian Ceballos,Tottenham Hotspur,64,CF,Spain,EPL,3,4,,,173cm,67kg,20
+2012/2013,James Ward-Prowse,Southampton,64,CM,England,EPL,3,3,,,173cm,66kg,18
+2012/2013,Carlo Nash,Stoke City,63,GK,England,EPL,1,3,,,182cm,77kg,39
+2012/2013,Danny Butterfield,Southampton,63,RB,England,EPL,2,3,,,180cm,71kg,33
+2012/2013,Bebé,Manchester United,63,ST,Portugal,EPL,2,3,,,190cm,75kg,22
+2012/2013,Craig Eastmond,Arsenal,63,CDM,England,EPL,2,3,,,180cm,75kg,22
+2012/2013,Daniel Seaborne,Southampton,63,CB,England,EPL,2,3,,,183cm,75kg,26
+2012/2013,Luke Garbutt,Everton,63,LB,England,EPL,2,3,,,178cm,73kg,20
+2012/2013,James Tavernier,Newcastle United,63,RB,England,EPL,2,3,,,177cm,81kg,21
+2012/2013,George Thorne,West Bromwich Albion,63,CM,England,EPL,2,3,,,188cm,83kg,20
+2012/2013,Jack Robinson,Liverpool,63,LB,England,EPL,2,3,,,180cm,67kg,19
+2012/2013,Scott Wootton,Manchester United,63,CB,England,EPL,2,2,,,188cm,78kg,21
+2012/2013,Robert Hall,West Ham United,63,LM,England,EPL,2,4,,,173cm,66kg,19
+2012/2013,Richard Wright,Manchester City,62,GK,England,EPL,1,2,,,188cm,89kg,35
+2012/2013,Ryan Dickson,Southampton,62,LB,England,EPL,2,3,,,178cm,72kg,26
+2012/2013,Curtis Obeng,Swansea City,62,RB,England,EPL,2,2,,,173cm,67kg,24
+2012/2013,Enda Stevens,Aston Villa,62,LB,Republic of Ireland,EPL,2,2,,,183cm,78kg,22
+2012/2013,Jamie Proctor,Swansea City,62,ST,England,EPL,2,3,,,188cm,78kg,21
+2012/2013,Dean Parrett,Tottenham Hotspur,62,CAM,England,EPL,2,3,,,178cm,73kg,21
+2012/2013,Max Ehmer,Queens Park Rangers,62,CDM,Germany,EPL,2,3,,,188cm,70kg,21
+2012/2013,Suso,Liverpool,62,RW,Spain,EPL,3,2,,,176cm,69kg,19
+2012/2013,Abdul Razak,Manchester City,62,CAM,Ivory Coast,EPL,3,4,,,180cm,76kg,20
+2012/2013,Billy Knott,Sunderland,62,LM,England,EPL,3,4,,,173cm,76kg,20
+2012/2013,Reece Wabara,Manchester City,62,RB,England,EPL,2,3,,,182cm,79kg,21
+2012/2013,Cameron Lancaster,Tottenham Hotspur,62,ST,England,EPL,2,3,,,184cm,74kg,20
+2012/2013,Daniel Potts,West Ham United,62,LB,United States,EPL,2,3,,,172cm,70kg,19
+2012/2013,Michael Ngoo,Liverpool,62,ST,England,EPL,3,2,,,193cm,78kg,20
+2012/2013,Paulo Gazzaniga,Southampton,62,GK,Argentina,EPL,1,3,,,196cm,90kg,21
+2012/2013,Mehdi Abeid,Newcastle United,61,CM,Algeria,EPL,3,3,,,185cm,79kg,20
+2012/2013,Darnel Situ,Swansea City,61,CB,France,EPL,2,3,,,187cm,77kg,21
+2012/2013,Conor McAleny,Everton,61,ST,England,EPL,2,3,,,172cm,66kg,20
+2012/2013,Kayleden Brown,West Bromwich Albion,61,LM,Wales,EPL,2,3,,,185cm,70kg,21
+2012/2013,Nicholas Yennaris,Arsenal,61,CDM,England,EPL,2,3,,,173cm,76kg,20
+2012/2013,Lucas Piazon,Chelsea,61,LM,Brazil,EPL,4,4,,,182cm,75kg,19
+2012/2013,Ryan Tunnicliffe,Manchester United,61,CDM,England,EPL,2,2,,,183cm,80kg,20
+2012/2013,Curtis Good,Newcastle United,61,CB,Australia,EPL,2,3,,,187cm,85kg,20
+2012/2013,Adam Morgan,Liverpool,61,ST,England,EPL,2,3,,,179cm,70kg,19
+2012/2013,Liam Marrs,Sunderland,61,RB,England,EPL,2,3,,,175cm,72kg,20
+2012/2013,Patrick Bamford,Chelsea,61,ST,England,EPL,2,3,,,185cm,77kg,19
+2012/2013,Luke Daniels,West Bromwich Albion,60,GK,England,EPL,1,3,,,193cm,81kg,25
+2012/2013,Hallam Hope,Everton,60,ST,England,EPL,3,2,,,179cm,76kg,19
+2012/2013,Gael Bigirimana,Newcastle United,60,CM,Burundi,EPL,2,3,,,177cm,74kg,19
+2012/2013,Sebastian Lletget,West Ham United,60,CM,United States,EPL,3,4,,,180cm,74kg,20
+2012/2013,Conor Coady,Liverpool,60,CDM,England,EPL,3,3,,,184cm,78kg,20
+2012/2013,Derrick Williams,Aston Villa,60,CB,Republic of Ireland,EPL,2,2,,,180cm,75kg,20
+2012/2013,Louis Laing,Sunderland,60,CB,England,EPL,2,3,,,185cm,76kg,20
+2012/2013,Denis Suárez,Manchester City,60,CAM,Spain,EPL,2,3,,,181cm,69kg,19
+2012/2013,Gwion Edwards,Swansea City,60,RW,Wales,EPL,3,3,,,175cm,76kg,20
+2012/2013,Karim Rossi,Stoke City,60,ST,Switzerland,EPL,2,2,,,182cm,75kg,19
+2012/2013,Romaine Sawyers,West Bromwich Albion,59,CF,England,EPL,2,3,,,176cm,67kg,21
+2012/2013,Jérémy Hélan,Manchester City,59,LM,France,EPL,2,3,,,183cm,73kg,21
+2012/2013,Andre Wisdom,Liverpool,59,RB,England,EPL,2,3,,,186cm,78kg,20
+2012/2013,Will Keane,Manchester United,59,ST,England,EPL,3,3,,,187cm,72kg,20
+2012/2013,Emiliano Martinez,Arsenal,59,GK,Argentina,EPL,1,3,,,191cm,88kg,20
+2012/2013,Saido Berahino,West Bromwich Albion,59,ST,England,EPL,3,3,,,178cm,83kg,19
+2012/2013,Bruno Andrade,Queens Park Rangers,59,RM,Portugal,EPL,3,3,,,175cm,74kg,19
+2012/2013,Thomas Eisfeld,Arsenal,59,CAM,Germany,EPL,3,3,,,177cm,68kg,20
+2012/2013,Nathan Aké,Chelsea,59,CB,Netherlands,EPL,2,3,,,180cm,71kg,18
+2012/2013,Blair Turgott,West Ham United,59,RW,England,EPL,2,3,,,179cm,65kg,19
+2012/2013,Andy Marshall,Aston Villa,58,GK,England,EPL,1,2,,,188cm,86kg,38
+2012/2013,Adam Coombes,Chelsea,58,ST,England,EPL,2,3,,,185cm,75kg,21
+2012/2013,David Cornell,Swansea City,58,GK,Wales,EPL,1,3,,,188cm,79kg,22
+2012/2013,James Hurst,West Bromwich Albion,58,RB,England,EPL,2,4,,,181cm,73kg,22
+2012/2013,Lee Lucas,Swansea City,58,CM,Wales,EPL,2,3,,,178cm,73kg,20
+2012/2013,Daniel Alfei,Swansea City,58,RB,Wales,EPL,2,3,,,180cm,77kg,21
+2012/2013,Blair Adams,Sunderland,58,LB,England,EPL,2,3,,,180cm,72kg,21
+2012/2013,Anton Forrester,Everton,58,ST,England,EPL,3,3,,,183cm,76kg,19
+2012/2013,Jamal Blackman,Chelsea,58,GK,England,EPL,1,3,,,195cm,75kg,19
+2012/2013,John Egan,Sunderland,58,CB,Republic of Ireland,EPL,2,3,,,185cm,75kg,20
+2012/2013,Luke Shaw,Southampton,58,LB,England,EPL,2,3,,,185cm,75kg,17
+2012/2013,Serge Gnabry,Arsenal,58,RW,Germany,EPL,3,3,,,174cm,73kg,17
+2012/2013,Lucas Dawson,Stoke City,58,RM,England,EPL,2,2,,,186cm,77kg,19
+2012/2013,Francisco Júnior,Everton,58,CM,Guinea Bissau,EPL,2,3,,,162cm,65kg,21
+2012/2013,Brad Inman,Newcastle United,57,CM,Scotland,EPL,2,3,,,176cm,71kg,21
+2012/2013,Ben Reeves,Southampton,57,LM,England,EPL,2,3,,,178cm,67kg,21
+2012/2013,Eoin Wearen,West Ham United,57,CAM,Republic of Ireland,EPL,2,3,,,185cm,66kg,20
+2012/2013,Sam Mantom,West Bromwich Albion,57,CM,England,EPL,2,3,,,175cm,70kg,21
+2012/2013,Johan Hammar,Everton,57,CB,Sweden,EPL,2,3,,,192cm,84kg,19
+2012/2013,Billy Clifford,Chelsea,57,CM,England,EPL,2,3,,,168cm,66kg,20
+2012/2013,Jack Stephens,Southampton,57,CB,England,EPL,2,2,,,185cm,84kg,19
+2012/2013,Dylan Tombides,West Ham United,57,ST,Australia,EPL,2,2,,,186cm,82kg,19
+2012/2013,Kurtis March,Swansea City,57,CM,Wales,EPL,2,3,,,175cm,71kg,20
+2012/2013,Michael Keane,Manchester United,57,CB,England,EPL,2,3,,,178cm,82kg,20
+2012/2013,Michael Clarkson,Stoke City,57,CM,England,EPL,2,2,,,180cm,80kg,19
+2012/2013,Adam Reed,Sunderland,56,CM,England,EPL,2,3,,,180cm,55kg,22
+2012/2013,John Lundstram,Everton,56,CM,England,EPL,3,3,,,182cm,74kg,19
+2012/2013,George Moncur,West Ham United,56,CDM,England,EPL,2,3,,,180cm,78kg,19
+2012/2013,Roarie Deacon,Sunderland,56,LM,England,EPL,3,5,,,170cm,68kg,21
+2012/2013,Craig Lynch,Sunderland,56,ST,England,EPL,3,3,,,175cm,64kg,21
+2012/2013,Callum Driver,West Ham United,56,LB,England,EPL,2,2,,,174cm,75kg,20
+2012/2013,Daniel Pappoe,Chelsea,56,CB,Ghana,EPL,2,3,,,192cm,78kg,19
+2012/2013,Ben Davies,Swansea City,56,LB,Wales,EPL,2,3,,,170cm,76kg,20
+2012/2013,Jordan Bowery,Aston Villa,55,ST,England,EPL,3,3,,,185cm,76kg,21
+2012/2013,Ben Glasgow,Stoke City,55,RB,Republic of Ireland,EPL,2,2,,,177cm,68kg,19
+2012/2013,Eirik Holmen Johansen,Manchester City,54,GK,Norway,EPL,1,3,,,194cm,84kg,20
+2012/2013,Mason Springthorpe,Everton,54,GK,England,EPL,1,3,,,188cm,72kg,18
+2012/2013,Smajl Suljevic,Stoke City,54,CM,Sweden,EPL,3,2,,,180cm,70kg,18
+2012/2013,Matthew Kennedy,Everton,54,RM,Scotland,EPL,3,3,,,170cm,65kg,18
+2012/2013,Sam Magri,Queens Park Rangers,54,RB,England,EPL,2,4,,,183cm,76kg,19
+2012/2013,Jordan Pickford,Sunderland,54,GK,England,EPL,1,3,,,185cm,69kg,19
+2012/2013,Pelly Ruddock Mpanzu,West Ham United,52,CM,England,EPL,2,2,,,175cm,63kg,19
+2012/2013,Sam Kelly,Everton,50,CM,England,EPL,2,2,,,178cm,74kg,19
+2012/2013,Adam Campbell,Newcastle United,50,ST,England,EPL,2,3,,,168cm,73kg,18
+2012/2013,Tyias Browning,Everton,49,RB,England,EPL,2,3,,,181cm,76kg,18
+2012/2013,Pavel Pogrebnyak,Reading,77,ST,Russia,EPL,3,3,,,188cm,91kg,29
+2012/2013,Danny Guthrie,Reading,75,CM,England,EPL,3,3,,,175cm,79kg,26
+2012/2013,Adrian Mariappa,Reading,73,CB,Jamaica,EPL,2,3,,,178cm,80kg,26
+2012/2013,Adam Federici,Reading,72,GK,Australia,EPL,1,3,,,188cm,90kg,28
+2012/2013,Alex Pearce,Reading,72,CB,Scotland,EPL,2,2,,,188cm,84kg,24
+2012/2013,Jem Karacan,Reading,72,CDM,Turkey,EPL,2,3,,,175cm,67kg,24
+2012/2013,Jason Roberts,Reading,71,ST,Grenada,EPL,3,4,,,185cm,93kg,35
+2012/2013,Kaspars Gorkšs,Reading,71,CB,Latvia,EPL,2,2,,,191cm,85kg,31
+2012/2013,Adam Le Fondre,Reading,71,ST,England,EPL,2,3,,,178cm,73kg,26
+2012/2013,Jimmy Kébé,Reading,71,RM,Mali,EPL,4,3,,,187cm,73kg,29
+2012/2013,Stuart Taylor,Reading,70,GK,England,EPL,1,2,,,196cm,85kg,32
+2012/2013,Jobi McAnuff,Reading,70,LM,Jamaica,EPL,3,2,,,178cm,70kg,31
+2012/2013,Nicky Shorey,Reading,70,LB,England,EPL,2,2,,,175cm,67kg,32
+2012/2013,Chris Gunter,Reading,70,RB,Wales,EPL,2,3,,,180cm,71kg,23
+2012/2013,Garath McCleary,Reading,70,RM,England,EPL,4,4,,,188cm,76kg,26
+2012/2013,Mikele Leigertwood,Reading,69,CDM,Antigua and Barbuda,EPL,2,3,,,188cm,77kg,30
+2012/2013,Alex McCarthy,Reading,69,GK,England,EPL,1,3,,,193cm,80kg,23
+2012/2013,Ian Harte,Reading,68,LB,Republic of Ireland,EPL,2,4,,,176cm,78kg,35
+2012/2013,Noel Hunt,Reading,67,ST,Republic of Ireland,EPL,2,3,,,173cm,74kg,30
+2012/2013,Shaun Cummings,Reading,67,RB,England,EPL,2,3,,,183cm,76kg,24
+2012/2013,Simon Church,Reading,67,ST,Wales,EPL,2,3,,,181cm,75kg,24
+2012/2013,Hal Robson-Kanu,Reading,67,LM,Wales,EPL,3,2,,,183cm,83kg,24
+2012/2013,Sean Morrison,Reading,66,CB,England,EPL,2,3,,,185cm,78kg,22
+2012/2013,Jay Tabb,Reading,64,CM,Republic of Ireland,EPL,3,4,,,170cm,64kg,29
+2012/2013,Jake Taylor,Reading,58,CM,Wales,EPL,2,3,,,178cm,77kg,21
+2012/2013,Brynjar Gunnarsson,Reading,57,CM,Iceland,EPL,2,3,,,183cm,77kg,37
+2012/2013,Nicholas Bignall,Reading,57,ST,England,EPL,2,3,,,177cm,88kg,22
+2012/2013,Lawson D'Ath,Reading,56,CM,England,EPL,2,3,,,175cm,77kg,20
+2012/2013,Ali Al-Habsi,Wigan Athletic,79,GK,Oman,EPL,1,2,,,194cm,79kg,31
+2012/2013,Arouna Koné,Wigan Athletic,78,ST,Ivory Coast,EPL,4,4,,,182cm,81kg,29
+2012/2013,Maynor Figueroa,Wigan Athletic,76,CB,Honduras,EPL,3,2,,,180cm,85kg,30
+2012/2013,Gary Caldwell,Wigan Athletic,75,CB,Scotland,EPL,2,3,,,180cm,74kg,31
+2012/2013,Iván Ramis,Wigan Athletic,75,CB,Spain,EPL,2,3,,,182cm,82kg,28
+2012/2013,Jean Beausejour,Wigan Athletic,75,LM,Chile,EPL,4,3,,,181cm,80kg,28
+2012/2013,Shaun Maloney,Wigan Athletic,74,CAM,Scotland,EPL,3,4,,,170cm,69kg,30
+2012/2013,James McCarthy,Wigan Athletic,74,CM,Republic of Ireland,EPL,3,4,,,180cm,72kg,22
+2012/2013,Antolín Alcaraz,Wigan Athletic,73,CB,Paraguay,EPL,2,3,,,187cm,80kg,30
+2012/2013,Ben Watson,Wigan Athletic,72,CM,England,EPL,2,3,,,178cm,69kg,27
+2012/2013,Mauro Boselli,Wigan Athletic,72,ST,Argentina,EPL,2,3,,,181cm,72kg,28
+2012/2013,Jordi Gómez García-Penche,Wigan Athletic,72,CAM,Spain,EPL,3,3,,,178cm,74kg,28
+2012/2013,Franco Di Santo,Wigan Athletic,72,ST,Argentina,EPL,3,3,,,194cm,75kg,24
+2012/2013,Albert Crusat Domene,Wigan Athletic,71,LW,Spain,EPL,3,2,,,165cm,65kg,31
+2012/2013,Ronnie Stam,Wigan Athletic,71,RB,Netherlands,EPL,3,4,,,175cm,70kg,28
+2012/2013,Ryo Miyaichi,Wigan Athletic,71,RW,Japan,EPL,4,4,,,183cm,71kg,20
+2012/2013,Emmerson Boyce,Wigan Athletic,70,RB,Barbados,EPL,2,3,,,184cm,71kg,33
+2012/2013,James McArthur,Wigan Athletic,70,CM,Scotland,EPL,3,3,,,178cm,64kg,25
+2012/2013,David Jones,Wigan Athletic,68,CM,England,EPL,3,3,,,185cm,80kg,28
+2012/2013,Adrián López Rodríguez,Wigan Athletic,68,CB,Spain,EPL,3,3,,,184cm,87kg,26
+2012/2013,Callum McManaman,Wigan Athletic,68,LW,England,EPL,2,4,,,174cm,71kg,22
+2012/2013,Mike Pollitt,Wigan Athletic,65,GK,England,EPL,1,3,,,193cm,88kg,41
+2012/2013,Fraser Fyvie,Wigan Athletic,62,CM,Scotland,EPL,2,3,,,172cm,60kg,20
+2012/2013,Callum Morris,Wigan Athletic,60,CM,England,EPL,2,3,,,178cm,67kg,21
+2012/2013,Rakish Bingham,Wigan Athletic,59,RW,England,EPL,2,3,,,180cm,75kg,19
+2012/2013,Rob Kiernan,Wigan Athletic,58,CB,Republic of Ireland,EPL,2,3,,,186cm,77kg,22
+2012/2013,Josh Langley,Wigan Athletic,57,CB,England,EPL,2,3,,,180cm,73kg,20
+2012/2013,Daniel Redmond,Wigan Athletic,57,CAM,England,EPL,3,3,,,175cm,67kg,22
+2012/2013,Tim Chow,Wigan Athletic,57,CM,England,EPL,2,3,,,180cm,72kg,19
+2012/2013,Steven Boothman,Wigan Athletic,57,LB,England,EPL,2,3,,,170cm,70kg,20
+2012/2013,Jordan Mustoe,Wigan Athletic,56,LB,England,EPL,2,3,,,180cm,75kg,22
+2012/2013,Adam Buxton,Wigan Athletic,54,RB,England,EPL,2,3,,,185cm,81kg,21
+2012/2013,Adam Dawson,Wigan Athletic,52,RM,England,EPL,3,3,,,175cm,78kg,20
+2012/2013,Dimitar Berbatov,Fulham,82,ST,Bulgaria,EPL,4,3,,,189cm,75kg,32
+2012/2013,Bryan Ruíz,Fulham,82,CAM,Costa Rica,EPL,4,4,,,188cm,78kg,27
+2012/2013,Brede Hangeland,Fulham,81,CB,Norway,EPL,2,3,,,195cm,92kg,31
+2012/2013,Mark Schwarzer,Fulham,80,GK,Australia,EPL,1,3,,,194cm,95kg,40
+2012/2013,Mladen Petrić,Fulham,78,ST,Croatia,EPL,3,4,,,184cm,81kg,32
+2012/2013,Damien Duff,Fulham,78,RM,Republic of Ireland,EPL,3,3,,,177cm,75kg,34
+2012/2013,Mahamadou Diarra,Fulham,77,CDM,Mali,EPL,2,2,,,183cm,82kg,32
+2012/2013,John Arne Riise,Fulham,76,LB,Norway,EPL,2,2,,,185cm,82kg,32
+2012/2013,Ashkan Dejagah,Fulham,76,RM,Iran,EPL,3,4,,,181cm,78kg,26
+2012/2013,Sascha Riether,Fulham,75,RB,Germany,EPL,3,3,,,174cm,71kg,30
+2012/2013,Steve Sidwell,Fulham,75,CM,England,EPL,3,3,,,178cm,80kg,30
+2012/2013,Kieran Richardson,Fulham,75,LB,England,EPL,3,3,,,177cm,69kg,28
+2012/2013,Aaron Hughes,Fulham,74,CB,Northern Ireland,EPL,2,3,,,183cm,78kg,33
+2012/2013,Hugo Rodallega,Fulham,74,ST,Colombia,EPL,3,3,,,181cm,72kg,27
+2012/2013,David Stockdale,Fulham,74,GK,England,EPL,1,3,,,191cm,84kg,27
+2012/2013,Philippe Senderos,Fulham,73,CB,Switzerland,EPL,2,2,,,190cm,82kg,28
+2012/2013,Simon Davies,Fulham,73,RM,Wales,EPL,3,4,,,178cm,76kg,33
+2012/2013,Chris Baird,Fulham,71,RB,Northern Ireland,EPL,2,3,,,179cm,74kg,31
+2012/2013,Zdeněk Grygera,Fulham,70,RB,Czech Republic,EPL,1,1,,,185cm,78kg,33
+2012/2013,Stephen Kelly,Fulham,70,RB,Republic of Ireland,EPL,2,3,,,184cm,79kg,29
+2012/2013,Pajtim Kasami,Fulham,69,RM,Switzerland,EPL,2,3,,,187cm,90kg,20
+2012/2013,Kerim Frei,Fulham,69,LM,Turkey,EPL,3,3,,,171cm,66kg,19
+2012/2013,Alexander Kacaniklic,Fulham,66,LM,Sweden,EPL,3,3,,,178cm,72kg,21
+2012/2013,Matthew Briggs,Fulham,65,LB,England,EPL,2,3,,,188cm,78kg,22
+2012/2013,Marcello Trotta,Fulham,65,ST,Italy,EPL,3,3,,,188cm,82kg,20
+2012/2013,Lauri Dalla Valle,Fulham,63,ST,Finland,EPL,2,3,,,183cm,73kg,21
+2012/2013,Csaba Somogyi,Fulham,60,GK,Hungary,EPL,1,3,,,190cm,85kg,28
+2012/2013,Ryan Williams,Fulham,60,RM,Australia,EPL,3,3,,,170cm,68kg,19
+2012/2013,Buomesca Tue Na Bangna,Fulham,60,RM,Portugal,EPL,2,3,,,175cm,65kg,20
+2012/2013,Neil Etheridge,Fulham,56,GK,Philippines,EPL,1,2,,,191cm,90kg,23
+2012/2013,Dan Burn,Fulham,53,CB,England,EPL,2,3,,,197cm,85kg,21
+2012/2013,Alex Smith,Fulham,48,CAM,England,EPL,2,2,,,177cm,62kg,21
+2012/2013,Hoolahan,Norwich City,75,CAM,Republic of Ireland,EPL,4,2,,,168cm,71kg,31
+2012/2013,John Ruddy,Norwich City,75,GK,England,EPL,1,3,,,193cm,97kg,26
+2012/2013,Grant Holt,Norwich City,74,ST,England,EPL,2,3,,,185cm,79kg,32
+2012/2013,Javier Garrido Behobide,Norwich City,74,LB,Spain,EPL,2,3,,,180cm,75kg,28
+2012/2013,Michael Turner,Norwich City,74,CB,England,EPL,2,3,,,193cm,91kg,29
+2012/2013,Robert Snodgrass,Norwich City,74,RW,Scotland,EPL,3,4,,,185cm,77kg,25
+2012/2013,Steve Morison,Norwich City,74,ST,Wales,EPL,3,3,,,188cm,85kg,29
+2012/2013,Sébastien Bassong,Norwich City,74,CB,Cameroon,EPL,2,3,,,187cm,73kg,26
+2012/2013,Alexander Tettey,Norwich City,72,CM,Norway,EPL,3,3,,,180cm,69kg,27
+2012/2013,Russell Martin,Norwich City,72,RB,Scotland,EPL,2,3,,,186cm,80kg,27
+2012/2013,Anthony Pilkington,Norwich City,72,LM,England,EPL,3,5,,,181cm,81kg,24
+2012/2013,Steven Whittaker,Norwich City,71,RB,Scotland,EPL,2,4,,,185cm,87kg,28
+2012/2013,Bradley Johnson,Norwich City,71,CM,England,EPL,3,2,,,178cm,68kg,26
+2012/2013,Jonny Howson,Norwich City,71,CAM,England,EPL,3,4,,,180cm,77kg,25
+2012/2013,Andrew Surman,Norwich City,70,CM,England,EPL,3,3,,,178cm,73kg,26
+2012/2013,David Fox,Norwich City,69,CM,England,EPL,2,4,,,175cm,77kg,29
+2012/2013,Elliott Ward,Norwich City,69,CB,England,EPL,2,3,,,185cm,83kg,28
+2012/2013,Jacob Butterfield,Norwich City,69,CM,England,EPL,2,5,,,180cm,78kg,22
+2012/2013,Elliott Bennett,Norwich City,69,RM,England,EPL,2,3,,,179cm,73kg,24
+2012/2013,Simeon Jackson,Norwich City,68,ST,Canada,EPL,2,3,,,173cm,72kg,26
+2012/2013,Marc Tierney,Norwich City,68,LB,England,EPL,2,3,,,180cm,71kg,27
+2012/2013,Ryan Bennett,Norwich City,68,CB,England,EPL,2,2,,,181cm,78kg,23
+2012/2013,Chris Martin,Norwich City,68,ST,England,EPL,3,4,,,178cm,73kg,24
+2012/2013,Leon Barnett,Norwich City,67,CB,England,EPL,2,3,,,186cm,72kg,27
+2012/2013,Harry Kane,Norwich City,67,CF,England,EPL,3,3,,,183cm,65kg,19
+2012/2013,Simon Lappin,Norwich City,66,LM,Scotland,EPL,2,3,,,180cm,60kg,30
+2012/2013,Mark Bunn,Norwich City,65,GK,England,EPL,1,3,,,183cm,78kg,28
+2012/2013,Korey Smith,Norwich City,65,CM,England,EPL,2,3,,,180cm,70kg,22
+2012/2013,Declan Rudd,Norwich City,63,GK,England,EPL,1,3,,,191cm,85kg,22
+2012/2013,Jed Steer,Norwich City,57,GK,England,EPL,1,3,,,188cm,80kg,20

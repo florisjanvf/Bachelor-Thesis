@@ -1,0 +1,867 @@
+season,player_name,team,player_rating,position,nation,league,skill_moves,weak_foot_quality,work_rate_a,work_rate_d,player_height,player_weight,age
+2016/2017,Ibrahimovic,Manchester Utd,90,ST,Sweden,EPL,4,4,M,L,195cm,95kg,35
+2016/2017,De Gea,Manchester Utd,90,GK,Spain,EPL,1,3,M,M,193cm,82kg,26
+2016/2017,Agüero,Manchester City,89,ST,Argentina,EPL,4,4,H,M,172cm,74kg,28
+2016/2017,Özil,Arsenal,89,CAM,Germany,EPL,4,2,M,L,183cm,76kg,28
+2016/2017,Courtois,Chelsea,89,GK,Belgium,EPL,1,3,M,M,199cm,91kg,25
+2016/2017,Hazard,Chelsea,89,LW,Belgium,EPL,4,4,H,M,173cm,74kg,26
+2016/2017,Cech,Arsenal,88,GK,Czech Republic,EPL,1,3,M,M,196cm,90kg,35
+2016/2017,Lloris,Spurs,88,GK,France,EPL,1,1,M,M,188cm,78kg,30
+2016/2017,Hazard,Chelsea,88,LM,Belgium,EPL,4,4,H,M,173cm,74kg,26
+2016/2017,De Bruyne,Manchester City,88,CAM,Belgium,EPL,4,4,H,M,181cm,76kg,25
+2016/2017,Pogba,Manchester Utd,88,CM,France,EPL,5,4,H,M,191cm,84kg,24
+2016/2017,Sánchez,Arsenal,88,ST,Chile,EPL,4,3,H,H,169cm,62kg,28
+2016/2017,David Silva,Manchester City,87,CAM,Spain,EPL,4,2,H,L,170cm,67kg,31
+2016/2017,Sánchez,Arsenal,87,LW,Chile,EPL,4,3,H,H,169cm,62kg,28
+2016/2017,Kompany,Manchester City,86,CB,Belgium,EPL,2,3,M,M,192cm,85kg,31
+2016/2017,Santi Cazorla,Arsenal,86,CAM,Spain,EPL,4,5,M,M,168cm,66kg,32
+2016/2017,Cesc Fàbregas,Chelsea,86,CM,Spain,EPL,3,3,H,M,175cm,74kg,30
+2016/2017,Payet,West Ham,86,LM,France,EPL,4,4,H,M,175cm,77kg,30
+2016/2017,Coutinho,Liverpool,86,LW,Brazil,EPL,4,4,H,M,171cm,68kg,24
+2016/2017,Diego Costa,Chelsea,86,ST,Spain,EPL,3,4,H,M,188cm,85kg,28
+2016/2017,Mandanda,Crystal Palace,85,GK,France,EPL,1,3,M,M,185cm,82kg,32
+2016/2017,Koscielny,Arsenal,85,CB,France,EPL,2,3,M,H,186cm,75kg,31
+2016/2017,Bravo,Manchester City,85,GK,Chile,EPL,1,3,M,M,184cm,80kg,34
+2016/2017,Diego Costa,Chelsea,85,ST,Spain,EPL,3,4,H,M,188cm,85kg,28
+2016/2017,Willian,Chelsea,85,RM,Brazil,EPL,4,4,H,H,175cm,75kg,28
+2016/2017,Alderweireld,Spurs,85,CB,Belgium,EPL,2,3,M,M,186cm,81kg,28
+2016/2017,Gündogan,Manchester City,85,CM,Germany,EPL,4,4,H,M,180cm,80kg,26
+2016/2017,Coutinho,Liverpool,85,CAM,Brazil,EPL,4,4,H,M,171cm,68kg,24
+2016/2017,Otamendi,Manchester City,85,CB,Argentina,EPL,2,3,M,M,183cm,81kg,29
+2016/2017,Mkhitaryan,Manchester Utd,85,RM,Armenia,EPL,4,5,H,H,177cm,75kg,28
+2016/2017,Mahrez,Leicester City,85,RM,Algeria,EPL,5,4,M,M,179cm,62kg,26
+2016/2017,Kane,Spurs,85,ST,England,EPL,3,3,H,H,188cm,65kg,23
+2016/2017,Eriksen,Spurs,85,CAM,Denmark,EPL,4,5,H,M,177cm,71kg,25
+2016/2017,Lacazette,Arsenal,85,ST,France,EPL,4,4,H,H,175cm,73kg,25
+2016/2017,Terry,Chelsea,84,CB,England,EPL,2,4,M,H,187cm,90kg,36
+2016/2017,Touré,Manchester City,84,CM,Ivory Coast,EPL,3,4,M,L,189cm,90kg,34
+2016/2017,Rooney,Manchester Utd,84,CAM,England,EPL,3,4,M,H,176cm,83kg,31
+2016/2017,Sturridge,Liverpool,84,ST,England,EPL,4,2,M,L,188cm,76kg,27
+2016/2017,Juan Mata,Manchester Utd,84,CAM,Spain,EPL,3,3,M,M,170cm,63kg,29
+2016/2017,David Luiz,Chelsea,84,CB,Brazil,EPL,3,3,H,M,189cm,84kg,30
+2016/2017,Azpilicueta,Chelsea,84,LB,Spain,EPL,3,3,M,M,178cm,75kg,27
+2016/2017,Ramsey,Arsenal,84,CM,Wales,EPL,3,3,H,H,177cm,70kg,26
+2016/2017,Smalling,Manchester Utd,84,CB,England,EPL,2,3,M,H,192cm,90kg,27
+2016/2017,Eriksen,Spurs,84,CAM,Denmark,EPL,4,5,H,M,177cm,71kg,25
+2016/2017,Matic,Chelsea,84,CDM,Serbia,EPL,3,3,M,H,194cm,84kg,28
+2016/2017,Lukaku,Everton,84,ST,Belgium,EPL,3,4,M,M,190cm,94kg,24
+2016/2017,Xhaka,Arsenal,84,CM,Switzerland,EPL,3,4,M,M,185cm,82kg,24
+2016/2017,Kane,Spurs,84,ST,England,EPL,3,3,H,H,188cm,65kg,23
+2016/2017,Mandanda,Crystal Palace,84,GK,France,EPL,1,3,M,M,185cm,82kg,32
+2016/2017,Otamendi,Manchester City,84,CB,Argentina,EPL,2,3,M,M,183cm,81kg,29
+2016/2017,Lukaku,Manchester Utd,84,ST,Belgium,EPL,3,4,M,M,190cm,94kg,24
+2016/2017,Rooney,Everton,84,CAM,England,EPL,3,4,M,H,176cm,83kg,31
+2016/2017,Hart,West Ham,84,GK,England,EPL,1,3,M,M,196cm,91kg,30
+2016/2017,Matic,Manchester Utd,84,CDM,Serbia,EPL,3,3,M,H,194cm,84kg,28
+2016/2017,Mertesacker,Arsenal,83,CB,Germany,EPL,2,3,L,M,198cm,90kg,32
+2016/2017,Schweinsteiger,Manchester Utd,83,CM,Germany,EPL,3,3,H,H,183cm,79kg,32
+2016/2017,Baines,Everton,83,LB,England,EPL,3,3,H,M,170cm,70kg,32
+2016/2017,Williams,Everton,83,CB,Wales,EPL,2,4,M,H,182cm,91kg,32
+2016/2017,Cahill,Chelsea,83,CB,England,EPL,2,3,M,M,193cm,86kg,31
+2016/2017,José Fonte,Southampton,83,CB,Portugal,EPL,2,3,M,H,187cm,81kg,33
+2016/2017,Begovic,Chelsea,83,GK,Bosnia Herzegovina,EPL,1,2,M,M,200cm,83kg,29
+2016/2017,Vertonghen,Spurs,83,CB,Belgium,EPL,2,3,H,M,189cm,86kg,30
+2016/2017,Giroud,Arsenal,83,ST,France,EPL,2,3,M,M,192cm,88kg,30
+2016/2017,Oscar,Chelsea,83,CAM,Brazil,EPL,4,3,M,H,179cm,67kg,25
+2016/2017,Pedro,Chelsea,83,LM,Spain,EPL,4,5,H,M,167cm,62kg,29
+2016/2017,Mustafi,Arsenal,83,CB,Germany,EPL,2,3,M,H,184cm,82kg,25
+2016/2017,Nolito,Manchester City,83,LW,Spain,EPL,4,3,H,L,175cm,72kg,30
+2016/2017,Slimani,Leicester City,83,ST,Algeria,EPL,2,3,H,H,188cm,84kg,28
+2016/2017,José Fonte,West Ham,83,CB,Portugal,EPL,2,3,M,H,187cm,81kg,33
+2016/2017,Ander Herrera,Manchester Utd,83,CM,Spain,EPL,4,4,H,H,182cm,73kg,27
+2016/2017,Matip,Liverpool,83,CB,Cameroon,EPL,2,2,M,M,195cm,90kg,25
+2016/2017,Bravo,Manchester City,83,GK,Chile,EPL,1,3,M,M,184cm,80kg,34
+2016/2017,Lallana,Liverpool,83,CM,England,EPL,4,5,H,M,172cm,73kg,29
+2016/2017,Roberto Firmino,Liverpool,83,ST,Brazil,EPL,4,4,H,M,181cm,76kg,25
+2016/2017,Kanté,Chelsea,83,CM,France,EPL,3,3,M,H,169cm,69kg,26
+2016/2017,Begovic,Bournemouth,83,GK,Bosnia Herzegovina,EPL,1,2,M,M,200cm,83kg,29
+2016/2017,Hernández,West Ham,83,ST,Mexico,EPL,3,3,M,L,175cm,73kg,28
+2016/2017,Jagielka,Everton,82,CB,England,EPL,2,3,M,H,183cm,83kg,34
+2016/2017,Victor Valdés,Middlesbrough,82,GK,Spain,EPL,1,3,M,M,183cm,78kg,35
+2016/2017,Zabaleta,Manchester City,82,RB,Argentina,EPL,3,3,H,H,178cm,76kg,32
+2016/2017,Dembélé,Spurs,82,CM,Belgium,EPL,4,2,M,M,185cm,82kg,29
+2016/2017,Sagna,Manchester City,82,RB,France,EPL,3,4,H,M,176cm,72kg,34
+2016/2017,Bojan,Stoke City,82,CAM,Spain,EPL,4,4,H,L,170cm,65kg,26
+2016/2017,Schneiderlin,Manchester Utd,82,CDM,France,EPL,2,3,M,H,185cm,75kg,27
+2016/2017,Coleman,Everton,82,RB,Republic of Ireland,EPL,3,3,H,H,177cm,77kg,28
+2016/2017,Lallana,Liverpool,82,CAM,England,EPL,4,5,H,M,172cm,73kg,29
+2016/2017,Sakho,Liverpool,82,CB,France,EPL,2,2,M,H,187cm,83kg,27
+2016/2017,Arnautovic,Stoke City,82,LM,Austria,EPL,4,4,M,M,192cm,83kg,28
+2016/2017,Sigurðsson,Swansea City,82,CAM,Iceland,EPL,3,3,H,M,186cm,77kg,27
+2016/2017,Wilshere,Bournemouth,82,CM,England,EPL,3,2,M,M,172cm,68kg,25
+2016/2017,Ander Herrera,Manchester Utd,82,CM,Spain,EPL,4,4,H,H,182cm,73kg,27
+2016/2017,Shaqiri,Stoke City,82,RM,Switzerland,EPL,4,4,H,M,169cm,72kg,25
+2016/2017,Lovren,Liverpool,82,CB,Croatia,EPL,2,4,H,H,188cm,84kg,27
+2016/2017,Matip,Liverpool,82,CB,Cameroon,EPL,2,2,M,M,195cm,90kg,25
+2016/2017,Roberto Firmino,Liverpool,82,CF,Brazil,EPL,4,4,H,M,181cm,76kg,25
+2016/2017,Sterling,Manchester City,82,LM,England,EPL,4,2,H,M,170cm,69kg,22
+2016/2017,Butland,Stoke City,82,GK,England,EPL,1,3,M,M,196cm,95kg,24
+2016/2017,Karius,Liverpool,82,GK,Germany,EPL,1,3,M,M,190cm,87kg,23
+2016/2017,Vardy,Leicester City,82,ST,England,EPL,3,3,H,H,178cm,73kg,30
+2016/2017,Martial,Manchester Utd,82,LM,France,EPL,4,4,H,M,184cm,76kg,21
+2016/2017,Bailly,Manchester Utd,82,CB,Ivory Coast,EPL,2,3,H,M,187cm,77kg,23
+2016/2017,Schneiderlin,Everton,82,CDM,France,EPL,2,3,M,H,185cm,75kg,27
+2016/2017,Sakho,Crystal Palace,82,CB,France,EPL,2,2,M,H,187cm,83kg,27
+2016/2017,Terry,Chelsea,82,CB,England,EPL,2,4,M,H,187cm,90kg,36
+2016/2017,Gueye,Everton,82,CM,Senegal,EPL,2,3,M,H,174cm,72kg,27
+2016/2017,van Dijk,Southampton,82,CB,Netherlands,EPL,2,3,H,M,193cm,92kg,25
+2016/2017,Schweinsteiger,Manchester Utd,82,CM,Germany,EPL,3,3,H,H,183cm,79kg,32
+2016/2017,Henderson,Liverpool,82,CDM,England,EPL,3,3,H,H,182cm,67kg,26
+2016/2017,Valencia,Manchester Utd,82,RB,Ecuador,EPL,3,1,H,M,181cm,78kg,31
+2016/2017,Schmeichel,Leicester City,82,GK,Denmark,EPL,1,3,M,M,185cm,76kg,30
+2016/2017,Walker,Spurs,82,RB,England,EPL,2,2,H,M,178cm,70kg,26
+2016/2017,Alli,Spurs,82,CAM,England,EPL,3,3,H,M,188cm,76kg,21
+2016/2017,Mané,Liverpool,82,RW,Senegal,EPL,4,3,H,M,175cm,75kg,25
+2016/2017,Salah,Liverpool,82,RW,Egypt,EPL,4,4,H,M,175cm,72kg,24
+2016/2017,Bernardo Silva,Manchester City,82,RM,Portugal,EPL,4,3,M,M,173cm,64kg,22
+2016/2017,Zabaleta,West Ham,82,RB,Argentina,EPL,3,3,H,H,178cm,76kg,32
+2016/2017,Iborra,Leicester City,82,CDM,Spain,EPL,2,4,M,M,195cm,88kg,29
+2016/2017,Roque Mesa,Swansea City,82,CDM,Spain,EPL,2,3,H,H,168cm,64kg,27
+2016/2017,Walker,Manchester City,82,RB,England,EPL,2,2,H,M,178cm,70kg,26
+2016/2017,Morata,Chelsea,82,ST,Spain,EPL,3,4,H,M,189cm,85kg,24
+2016/2017,Arnautovic,West Ham,82,LM,Austria,EPL,4,4,M,M,192cm,83kg,28
+2016/2017,Carrick,Manchester Utd,81,CDM,England,EPL,2,3,L,M,188cm,74kg,35
+2016/2017,Fernandinho,Manchester City,81,CM,Brazil,EPL,3,4,M,H,176cm,67kg,32
+2016/2017,Milner,Liverpool,81,CM,England,EPL,3,4,H,H,176cm,70kg,31
+2016/2017,Schmeichel,Leicester City,81,GK,Denmark,EPL,1,3,M,M,185cm,76kg,30
+2016/2017,Walcott,Arsenal,81,LM,England,EPL,3,3,M,M,176cm,68kg,28
+2016/2017,Cabaye,Crystal Palace,81,CDM,France,EPL,3,4,M,M,174cm,71kg,31
+2016/2017,Shawcross,Stoke City,81,CB,England,EPL,2,3,M,H,191cm,76kg,29
+2016/2017,Lamela,Spurs,81,RM,Argentina,EPL,4,2,M,M,183cm,70kg,25
+2016/2017,Mirallas,Everton,81,LM,Belgium,EPL,4,4,H,M,182cm,70kg,29
+2016/2017,Reid,West Ham,81,CB,New Zealand,EPL,2,3,M,H,190cm,87kg,28
+2016/2017,Nacho Monreal,Arsenal,81,LB,Spain,EPL,2,3,H,H,178cm,72kg,31
+2016/2017,Rémy,Crystal Palace,81,ST,France,EPL,4,3,M,M,185cm,80kg,30
+2016/2017,Wijnaldum,Liverpool,81,LM,Netherlands,EPL,3,2,H,M,175cm,74kg,26
+2016/2017,Benteke,Crystal Palace,81,ST,Belgium,EPL,3,4,M,M,190cm,83kg,26
+2016/2017,Zieler,Leicester City,81,GK,Germany,EPL,1,2,M,M,187cm,73kg,28
+2016/2017,McCarthy,Everton,81,CDM,Republic of Ireland,EPL,3,4,M,H,180cm,72kg,26
+2016/2017,Walker,Spurs,81,RB,England,EPL,2,2,H,M,178cm,70kg,26
+2016/2017,Coquelin,Arsenal,81,CDM,France,EPL,3,3,M,H,178cm,74kg,26
+2016/2017,Bony,Stoke City,81,ST,Ivory Coast,EPL,3,4,M,L,182cm,90kg,28
+2016/2017,Clyne,Liverpool,81,RB,England,EPL,3,3,H,M,175cm,67kg,26
+2016/2017,Blind,Manchester Utd,81,CB,Netherlands,EPL,2,4,H,H,180cm,72kg,27
+2016/2017,Pereyra,Watford,81,CM,Argentina,EPL,4,4,H,H,182cm,77kg,26
+2016/2017,Barkley,Everton,81,CAM,England,EPL,3,5,M,M,189cm,76kg,23
+2016/2017,Lucas Pérez,Arsenal,81,ST,Spain,EPL,4,3,H,M,180cm,78kg,28
+2016/2017,Deulofeu,Everton,81,RM,Spain,EPL,4,4,H,L,179cm,73kg,23
+2016/2017,Batshuayi,Chelsea,81,ST,Belgium,EPL,3,4,M,L,185cm,78kg,23
+2016/2017,Kanté,Chelsea,81,CM,France,EPL,3,3,M,H,169cm,69kg,26
+2016/2017,Gabbiadini,Southampton,81,ST,Italy,EPL,3,3,H,L,186cm,81kg,25
+2016/2017,Negredo,Middlesbrough,81,ST,Spain,EPL,3,3,M,M,186cm,86kg,31
+2016/2017,Rose,Spurs,81,LB,England,EPL,3,3,H,M,173cm,72kg,26
+2016/2017,Defoe,Sunderland,81,ST,England,EPL,3,4,M,L,170cm,70kg,34
+2016/2017,Defoe,Bournemouth,81,ST,England,EPL,3,4,M,L,170cm,70kg,34
+2016/2017,Ederson,Manchester City,81,GK,Brazil,EPL,1,2,M,M,188cm,83kg,23
+2016/2017,Debuchy,Arsenal,80,RB,France,EPL,3,3,H,M,177cm,76kg,31
+2016/2017,Foster,West Brom,80,GK,England,EPL,1,3,M,M,193cm,90kg,34
+2016/2017,Fabianski,Swansea City,80,GK,Poland,EPL,1,2,M,M,190cm,83kg,32
+2016/2017,Valencia,Manchester Utd,80,RB,Ecuador,EPL,3,1,H,M,181cm,78kg,31
+2016/2017,Rose,Spurs,80,LB,England,EPL,3,3,H,M,173cm,72kg,26
+2016/2017,Vorm,Spurs,80,GK,Netherlands,EPL,1,3,M,M,183cm,86kg,33
+2016/2017,Huth,Leicester City,80,CB,Germany,EPL,2,3,M,H,191cm,88kg,32
+2016/2017,Negredo,Middlesbrough,80,ST,Spain,EPL,3,3,M,M,186cm,86kg,31
+2016/2017,Jesús Navas,Manchester City,80,RM,Spain,EPL,3,3,M,M,170cm,60kg,31
+2016/2017,Clichy,Manchester City,80,LB,France,EPL,2,4,M,M,176cm,65kg,31
+2016/2017,Lucas Leiva,Liverpool,80,CDM,Brazil,EPL,2,3,L,H,179cm,73kg,30
+2016/2017,Ayew,West Ham,80,RM,Ghana,EPL,3,3,H,M,176cm,72kg,27
+2016/2017,Ivanovic,Chelsea,80,RB,Serbia,EPL,2,3,H,M,185cm,91kg,33
+2016/2017,Sissoko,Spurs,80,RM,France,EPL,3,2,H,M,187cm,83kg,27
+2016/2017,Henderson,Liverpool,80,CM,England,EPL,3,3,H,H,182cm,67kg,26
+2016/2017,Ogbonna,West Ham,80,CB,Italy,EPL,2,3,M,H,191cm,86kg,29
+2016/2017,Yacob,West Brom,80,CDM,Argentina,EPL,2,3,M,H,181cm,73kg,29
+2016/2017,Darmian,Manchester Utd,80,RB,Italy,EPL,3,5,H,H,182cm,70kg,27
+2016/2017,Feghouli,West Ham,80,RW,Algeria,EPL,4,3,H,M,177cm,75kg,27
+2016/2017,Gibbs,Arsenal,80,LB,England,EPL,3,2,H,M,178cm,70kg,27
+2016/2017,Drinkwater,Leicester City,80,CM,England,EPL,3,4,M,M,178cm,70kg,27
+2016/2017,Welbeck,Arsenal,80,ST,England,EPL,3,3,H,H,185cm,73kg,26
+2016/2017,Rondón,West Brom,80,ST,Venezuela,EPL,3,4,H,M,189cm,85kg,27
+2016/2017,Depay,Manchester Utd,80,LM,Netherlands,EPL,4,2,H,L,176cm,78kg,23
+2016/2017,Zaza,West Ham,80,ST,Italy,EPL,3,3,H,M,186cm,83kg,25
+2016/2017,Zouma,Chelsea,80,CB,France,EPL,2,3,M,M,190cm,85kg,22
+2016/2017,Shaw,Manchester Utd,80,LB,England,EPL,2,2,H,M,185cm,75kg,21
+2016/2017,Can,Liverpool,80,CM,Germany,EPL,3,4,M,M,188cm,82kg,23
+2016/2017,Alli,Spurs,80,CAM,England,EPL,3,3,H,M,188cm,76kg,21
+2016/2017,Boufal,Southampton,80,LW,Morocco,EPL,5,4,H,L,170cm,60kg,23
+2016/2017,Barry,Everton,80,CDM,England,EPL,2,3,M,H,183cm,79kg,36
+2016/2017,Defoe,Sunderland,80,ST,England,EPL,3,4,M,L,170cm,70kg,34
+2016/2017,Adrián,West Ham,80,GK,Spain,EPL,1,2,M,M,188cm,77kg,30
+2016/2017,Borja Bastón,Swansea City,80,ST,Spain,EPL,2,4,M,L,191cm,82kg,24
+2016/2017,Amrabat,Watford,80,RM,Morocco,EPL,4,2,M,L,178cm,77kg,30
+2016/2017,Héctor Bellerín,Arsenal,80,RB,Spain,EPL,3,3,H,M,177cm,74kg,22
+2016/2017,Zaha,Crystal Palace,80,RM,Ivory Coast,EPL,4,3,M,L,180cm,66kg,24
+2016/2017,Klaassen,Everton,80,CM,Netherlands,EPL,2,3,H,M,179cm,70kg,24
+2016/2017,Zouma,Stoke City,80,CB,France,EPL,2,3,M,M,190cm,85kg,22
+2016/2017,Morgan,Leicester City,79,CB,Jamaica,EPL,2,3,M,M,185cm,93kg,33
+2016/2017,Young,Manchester Utd,79,LM,England,EPL,4,3,H,H,175cm,65kg,31
+2016/2017,Dann,Crystal Palace,79,CB,England,EPL,2,3,L,M,191cm,78kg,30
+2016/2017,Afellay,Stoke City,79,CAM,Netherlands,EPL,4,4,M,M,180cm,76kg,31
+2016/2017,Llorente,Swansea City,79,ST,Spain,EPL,2,3,M,M,195cm,90kg,32
+2016/2017,Evans,West Brom,79,CB,Northern Ireland,EPL,2,2,L,M,189cm,77kg,29
+2016/2017,Bertrand,Southampton,79,LB,England,EPL,2,3,H,M,179cm,85kg,27
+2016/2017,Defour,Burnley,79,CM,Belgium,EPL,3,3,M,M,175cm,72kg,29
+2016/2017,Romero,Manchester Utd,79,GK,Argentina,EPL,1,3,M,M,192cm,87kg,30
+2016/2017,Ospina,Arsenal,79,GK,Colombia,EPL,1,3,M,M,183cm,79kg,28
+2016/2017,Mbokani,Hull City,79,ST,DR Congo,EPL,3,3,M,M,185cm,73kg,31
+2016/2017,Nordtveit,West Ham,79,CB,Norway,EPL,2,3,M,M,188cm,83kg,26
+2016/2017,Gradel,Bournemouth,79,LW,Ivory Coast,EPL,4,3,M,M,175cm,69kg,29
+2016/2017,Amrabat,Watford,79,ST,Morocco,EPL,4,2,M,L,178cm,77kg,30
+2016/2017,Fernando,Manchester City,79,CDM,Brazil,EPL,2,2,M,H,185cm,76kg,29
+2016/2017,Kolarov,Manchester City,79,LB,Serbia,EPL,2,3,H,M,187cm,83kg,31
+2016/2017,Montero,Swansea City,79,LM,Ecuador,EPL,4,4,H,H,169cm,64kg,27
+2016/2017,Lanzini,West Ham,79,CAM,Argentina,EPL,4,3,M,M,170cm,66kg,24
+2016/2017,Töre,West Ham,79,RM,Turkey,EPL,4,4,H,L,176cm,70kg,25
+2016/2017,Khazri,Sunderland,79,LM,Tunisia,EPL,3,4,H,M,182cm,76kg,26
+2016/2017,Jones,Manchester Utd,79,CB,England,EPL,2,3,M,H,185cm,71kg,25
+2016/2017,Imbula,Stoke City,79,CM,France,EPL,3,3,H,M,186cm,77kg,24
+2016/2017,Zaha,Crystal Palace,79,RM,England,EPL,4,3,M,L,180cm,66kg,24
+2016/2017,Oxlade-Chamberlain,Arsenal,79,RM,England,EPL,4,4,H,M,175cm,70kg,23
+2016/2017,Tadic,Southampton,79,LM,Serbia,EPL,4,2,M,M,181cm,76kg,28
+2016/2017,Gabriel,Arsenal,79,CB,Brazil,EPL,2,2,L,H,187cm,72kg,26
+2016/2017,Fernández,Swansea City,79,CB,Argentina,EPL,2,2,M,H,190cm,83kg,28
+2016/2017,van Dijk,Southampton,79,CB,Netherlands,EPL,2,3,H,M,193cm,92kg,25
+2016/2017,Héctor Bellerín,Arsenal,79,RB,Spain,EPL,3,3,H,M,177cm,74kg,22
+2016/2017,Mané,Liverpool,79,RM,Senegal,EPL,4,3,H,M,175cm,75kg,25
+2016/2017,Wimmer,Spurs,79,CB,Austria,EPL,2,3,M,M,187cm,85kg,24
+2016/2017,Sané,Manchester City,79,RM,Germany,EPL,3,3,H,M,183cm,75kg,21
+2016/2017,Zaha,Crystal Palace,79,RM,Ivory Coast,EPL,4,3,M,L,180cm,66kg,24
+2016/2017,N'Diaye,Hull City,79,CDM,Senegal,EPL,2,3,M,H,190cm,80kg,27
+2016/2017,Wanyama,Spurs,79,CDM,Kenya,EPL,2,3,M,H,188cm,76kg,25
+2016/2017,Origi,Liverpool,79,ST,Belgium,EPL,4,3,H,M,185cm,75kg,22
+2016/2017,Marcos Alonso,Chelsea,79,LWB,Spain,EPL,3,3,H,H,188cm,81kg,26
+2016/2017,Son,Spurs,79,LM,Korea Republic,EPL,4,5,H,H,184cm,79kg,24
+2016/2017,Lens,Sunderland,79,RM,Netherlands,EPL,4,4,M,L,178cm,73kg,29
+2016/2017,Rüdiger,Chelsea,79,CB,Germany,EPL,2,3,M,H,190cm,85kg,24
+2016/2017,Danilo,Manchester City,79,RB,Brazil,EPL,3,4,H,M,184cm,78kg,25
+2016/2017,Gomes,Watford,78,GK,Brazil,EPL,1,2,M,M,191cm,82kg,36
+2016/2017,Caballero,Manchester City,78,GK,Argentina,EPL,1,3,M,M,186cm,80kg,35
+2016/2017,Klavan,Liverpool,78,CB,Estonia,EPL,2,3,H,M,187cm,85kg,31
+2016/2017,Lennon,Everton,78,RM,England,EPL,3,3,H,M,165cm,63kg,30
+2016/2017,Noble,West Ham,78,CM,England,EPL,3,3,H,H,180cm,76kg,30
+2016/2017,Mikel,Chelsea,78,CDM,Nigeria,EPL,2,3,M,H,188cm,83kg,30
+2016/2017,Cattermole,Sunderland,78,CDM,England,EPL,2,3,L,H,178cm,76kg,29
+2016/2017,Cork,Swansea City,78,CDM,England,EPL,2,4,M,H,185cm,69kg,27
+2016/2017,Forster,Southampton,78,GK,England,EPL,1,5,M,M,201cm,90kg,29
+2016/2017,Mignolet,Liverpool,78,GK,Belgium,EPL,1,2,M,M,193cm,87kg,29
+2016/2017,Fellaini,Manchester Utd,78,CM,Belgium,EPL,3,3,M,M,194cm,85kg,29
+2016/2017,Capoue,Watford,78,CDM,France,EPL,2,3,L,M,189cm,80kg,28
+2016/2017,Ki Sung Yueng,Swansea City,78,CM,Korea Republic,EPL,3,4,M,M,186cm,75kg,28
+2016/2017,Carroll,West Ham,78,ST,England,EPL,2,3,M,H,191cm,79kg,28
+2016/2017,Delph,Manchester City,78,CM,England,EPL,3,3,H,H,174cm,60kg,27
+2016/2017,Ighalo,Watford,78,ST,Nigeria,EPL,3,3,M,M,179cm,77kg,27
+2016/2017,Espinosa,Middlesbrough,78,CB,Colombia,EPL,2,3,M,H,192cm,85kg,27
+2016/2017,Diouf,Stoke City,78,ST,Senegal,EPL,3,3,M,M,185cm,79kg,29
+2016/2017,Wanyama,Spurs,78,CDM,Kenya,EPL,2,3,M,H,188cm,76kg,25
+2016/2017,Bolasie,Everton,78,LM,DR Congo,EPL,5,4,H,M,185cm,84kg,28
+2016/2017,Cleverley,Everton,78,CM,England,EPL,3,3,M,M,175cm,67kg,27
+2016/2017,Nyom,West Brom,78,RB,Cameroon,EPL,2,2,H,M,189cm,81kg,29
+2016/2017,Townsend,Crystal Palace,78,RM,England,EPL,3,4,H,M,181cm,81kg,25
+2016/2017,Austin,Southampton,78,ST,England,EPL,2,2,H,M,188cm,84kg,27
+2016/2017,Djilobodji,Sunderland,78,CB,Senegal,EPL,2,3,M,M,193cm,82kg,28
+2016/2017,Mendy,Leicester City,78,CDM,France,EPL,3,3,M,H,168cm,68kg,24
+2016/2017,Clasie,Southampton,78,CDM,Netherlands,EPL,2,4,M,H,169cm,70kg,25
+2016/2017,Martins Indi,Stoke City,78,CB,Netherlands,EPL,2,3,M,H,185cm,80kg,25
+2016/2017,Son,Spurs,78,LM,Korea Republic,EPL,4,5,H,H,184cm,79kg,24
+2016/2017,Chadli,West Brom,78,LM,Belgium,EPL,3,4,M,M,189cm,80kg,27
+2016/2017,Cédric,Southampton,78,RB,Portugal,EPL,2,4,H,M,172cm,67kg,25
+2016/2017,Ramírez,Middlesbrough,78,CAM,Uruguay,EPL,4,3,M,M,183cm,78kg,26
+2016/2017,Musa,Leicester City,78,ST,Nigeria,EPL,4,3,H,H,176cm,65kg,24
+2016/2017,Rojo,Manchester Utd,78,LB,Argentina,EPL,3,2,H,M,187cm,80kg,27
+2016/2017,Dier,Spurs,78,CDM,England,EPL,2,3,M,H,188cm,83kg,23
+2016/2017,Stones,Manchester City,78,CB,England,EPL,2,3,H,M,188cm,75kg,22
+2016/2017,Luís Hernández,Leicester City,78,CB,Spain,EPL,2,4,M,H,182cm,74kg,28
+2016/2017,Davies,Spurs,78,LB,Wales,EPL,2,3,M,H,181cm,71kg,24
+2016/2017,Doucouré,Watford,78,CM,France,EPL,2,3,H,M,183cm,75kg,24
+2016/2017,de Roon,Middlesbrough,78,CDM,Netherlands,EPL,2,3,M,M,185cm,76kg,26
+2016/2017,Origi,Liverpool,78,ST,Belgium,EPL,4,3,H,M,185cm,75kg,22
+2016/2017,Nkoudou,Spurs,78,LM,France,EPL,3,3,H,L,172cm,68kg,22
+2016/2017,Janssen,Spurs,78,ST,Netherlands,EPL,2,4,H,H,184cm,82kg,22
+2016/2017,Cleverley,Watford,78,LM,England,EPL,3,3,M,M,175cm,67kg,27
+2016/2017,Markovic,Hull City,78,RM,Serbia,EPL,4,3,M,M,175cm,66kg,23
+2016/2017,Niang,Watford,78,LW,France,EPL,4,4,H,M,184cm,75kg,22
+2016/2017,Gabriel Jesus,Manchester City,78,ST,Brazil,EPL,5,4,H,H,175cm,67kg,20
+2016/2017,Huth,Leicester City,78,CB,Germany,EPL,2,3,M,H,191cm,88kg,32
+2016/2017,Deeney,Watford,78,ST,England,EPL,3,3,H,M,183cm,90kg,28
+2016/2017,Heaton,Burnley,78,GK,England,EPL,1,3,M,M,188cm,86kg,31
+2016/2017,Moses,Chelsea,78,RWB,Nigeria,EPL,4,4,M,L,177cm,85kg,26
+2016/2017,Antonio,West Ham,78,RM,England,EPL,4,4,H,H,180cm,79kg,27
+2016/2017,Nilsson Lindelöf,Manchester Utd,78,CB,Sweden,EPL,2,3,M,M,187cm,80kg,22
+2016/2017,Caballero,Chelsea,78,GK,Argentina,EPL,1,3,M,M,186cm,80kg,35
+2016/2017,Cork,Burnley,78,CDM,England,EPL,2,4,M,H,185cm,69kg,27
+2016/2017,Braithwaite,Middlesbrough,78,ST,Denmark,EPL,4,4,H,H,177cm,77kg,25
+2016/2017,Bakayoko,Chelsea,78,CDM,France,EPL,2,3,M,M,184cm,72kg,22
+2016/2017,Choupo-Moting,Stoke City,78,LM,Cameroon,EPL,4,4,M,M,191cm,91kg,28
+2016/2017,Pienaar,Sunderland,77,LM,South Africa,EPL,4,4,H,M,170cm,66kg,35
+2016/2017,Dawson,Hull City,77,CB,England,EPL,2,3,M,H,188cm,76kg,33
+2016/2017,Johnson,Stoke City,77,RB,England,EPL,3,4,H,L,182cm,70kg,32
+2016/2017,Fuchs,Leicester City,77,LB,Austria,EPL,3,2,M,M,186cm,86kg,31
+2016/2017,Britton,Swansea City,77,CM,England,EPL,3,3,L,M,167cm,65kg,34
+2016/2017,Davis,Southampton,77,CM,Northern Ireland,EPL,3,3,H,H,173cm,72kg,32
+2016/2017,Behrami,Watford,77,CDM,Switzerland,EPL,2,4,M,H,185cm,78kg,32
+2016/2017,Whelan,Stoke City,77,CDM,Republic of Ireland,EPL,3,4,M,H,180cm,80kg,33
+2016/2017,Kaboul,Watford,77,CB,France,EPL,2,3,H,M,191cm,87kg,31
+2016/2017,Davies,Hull City,77,CB,England,EPL,2,3,M,M,188cm,89kg,32
+2016/2017,Long,Southampton,77,ST,Republic of Ireland,EPL,3,3,H,H,180cm,81kg,30
+2016/2017,Gibson,Everton,77,CM,Republic of Ireland,EPL,2,4,M,M,180cm,80kg,29
+2016/2017,Rodriguez,Southampton,77,LM,England,EPL,3,4,H,L,185cm,70kg,27
+2016/2017,McArthur,Crystal Palace,77,CDM,Scotland,EPL,3,3,M,M,178cm,64kg,29
+2016/2017,Moses,Chelsea,77,LM,Nigeria,EPL,4,4,M,L,177cm,85kg,26
+2016/2017,Dyer,Swansea City,77,RM,England,EPL,4,3,H,H,167cm,62kg,29
+2016/2017,Prödl,Watford,77,CB,Austria,EPL,2,2,M,M,194cm,92kg,29
+2016/2017,Okaka,Watford,77,ST,Italy,EPL,2,3,H,H,186cm,90kg,27
+2016/2017,Holebas,Watford,77,LB,Greece,EPL,3,2,H,M,184cm,79kg,32
+2016/2017,Allen,Stoke City,77,CM,Wales,EPL,3,3,M,M,168cm,62kg,27
+2016/2017,Trippier,Spurs,77,RB,England,EPL,3,4,H,H,179cm,71kg,26
+2016/2017,Cameron,Stoke City,77,CB,United States,EPL,2,3,M,M,191cm,84kg,31
+2016/2017,Kouyaté,West Ham,77,CDM,Senegal,EPL,2,3,H,H,193cm,78kg,27
+2016/2017,Janmaat,Watford,77,RB,Netherlands,EPL,3,3,H,M,185cm,80kg,27
+2016/2017,Kirchhoff,Sunderland,77,CDM,Germany,EPL,2,3,L,H,195cm,90kg,26
+2016/2017,Pantilimon,Watford,77,GK,Romania,EPL,1,2,M,M,203cm,96kg,30
+2016/2017,Marcos Alonso,Chelsea,77,LM,Spain,EPL,3,3,H,H,188cm,81kg,26
+2016/2017,Souaré,Crystal Palace,77,LB,Senegal,EPL,2,2,H,M,178cm,68kg,26
+2016/2017,Okazaki,Leicester City,77,ST,Japan,EPL,3,4,H,H,174cm,76kg,31
+2016/2017,Ings,Liverpool,77,ST,England,EPL,3,3,H,H,178cm,73kg,24
+2016/2017,Dja Djédjé,Watford,77,RB,Ivory Coast,EPL,2,2,H,M,170cm,71kg,26
+2016/2017,Funes Mori,Everton,77,CB,Argentina,EPL,2,3,M,M,186cm,80kg,26
+2016/2017,van Ginkel,Chelsea,77,CM,Netherlands,EPL,3,4,H,M,186cm,82kg,24
+2016/2017,Berahino,West Brom,77,ST,England,EPL,3,4,M,M,180cm,83kg,23
+2016/2017,Alberto Moreno,Liverpool,77,LB,Spain,EPL,2,3,H,M,171cm,65kg,24
+2016/2017,Lingard,Manchester Utd,77,RM,England,EPL,3,3,H,M,174cm,65kg,24
+2016/2017,Niasse,Everton,77,ST,Senegal,EPL,2,3,M,M,182cm,82kg,27
+2016/2017,Manquillo,Sunderland,77,RB,Spain,EPL,2,3,H,M,180cm,72kg,23
+2016/2017,Calleri,West Ham,77,ST,Argentina,EPL,3,2,H,M,175cm,70kg,23
+2016/2017,Musonda,Chelsea,77,LM,Belgium,EPL,5,5,H,M,173cm,66kg,20
+2016/2017,Niasse,Hull City,77,ST,Senegal,EPL,2,3,M,M,182cm,82kg,27
+2016/2017,Berahino,Stoke City,77,ST,England,EPL,3,4,M,M,180cm,83kg,23
+2016/2017,Zárate,Watford,77,ST,Argentina,EPL,4,4,M,L,176cm,76kg,30
+2016/2017,Ayew,Swansea City,77,ST,Ghana,EPL,4,3,H,M,182cm,81kg,25
+2016/2017,Gibson,Sunderland,77,CM,Republic of Ireland,EPL,2,4,M,M,180cm,80kg,29
+2016/2017,Grosicki,Hull City,77,RW,Poland,EPL,3,3,M,M,180cm,78kg,28
+2016/2017,Morgan,Leicester City,77,CB,Jamaica,EPL,2,3,M,M,185cm,93kg,33
+2016/2017,Elneny,Arsenal,77,CDM,Egypt,EPL,3,3,M,H,180cm,71kg,24
+2016/2017,Snodgrass,West Ham,77,RM,Scotland,EPL,3,3,H,H,182cm,77kg,29
+2016/2017,Rashford,Manchester Utd,77,ST,England,EPL,3,3,H,L,180cm,70kg,19
+2016/2017,Kolašinac,Arsenal,77,LB,Bosnia Herzegovina,EPL,2,2,M,H,183cm,85kg,23
+2016/2017,Rodriguez,West Brom,77,LM,England,EPL,3,4,H,L,185cm,70kg,27
+2016/2017,Sandro,Everton,77,ST,Spain,EPL,3,4,H,M,175cm,71kg,21
+2016/2017,Lemina,Southampton,77,CM,Gabon,EPL,3,3,M,M,183cm,83kg,23
+2016/2017,Stekelenburg,Everton,76,GK,Netherlands,EPL,1,4,M,M,197cm,92kg,34
+2016/2017,O'Shea,Sunderland,76,CB,Republic of Ireland,EPL,2,3,M,H,190cm,84kg,36
+2016/2017,Collins,West Ham,76,CB,Wales,EPL,2,3,L,H,193cm,90kg,33
+2016/2017,Olsson,West Brom,76,CB,Sweden,EPL,2,3,M,M,193cm,84kg,34
+2016/2017,Crouch,Stoke City,76,ST,England,EPL,3,3,M,M,201cm,84kg,36
+2016/2017,Routledge,Swansea City,76,LM,England,EPL,4,4,M,M,170cm,77kg,32
+2016/2017,Boruc,Bournemouth,76,GK,Poland,EPL,1,3,M,M,193cm,87kg,37
+2016/2017,McAuley,West Brom,76,CB,Northern Ireland,EPL,2,3,L,H,195cm,89kg,37
+2016/2017,Fletcher,West Brom,76,CM,Scotland,EPL,2,3,M,H,184cm,74kg,33
+2016/2017,Marshall,Hull City,76,GK,Scotland,EPL,1,3,M,M,190cm,83kg,32
+2016/2017,Arbeloa,West Ham,76,RB,Spain,EPL,2,3,M,M,184cm,79kg,34
+2016/2017,Puncheon,Crystal Palace,76,CAM,England,EPL,3,2,M,L,173cm,71kg,30
+2016/2017,Àngel Rangel,Swansea City,76,RB,Spain,EPL,3,3,M,M,180cm,82kg,34
+2016/2017,Adam,Stoke City,76,CM,Scotland,EPL,3,3,M,L,185cm,82kg,31
+2016/2017,Heaton,Burnley,76,GK,England,EPL,1,3,M,M,188cm,86kg,31
+2016/2017,Ireland,Stoke City,76,CAM,Republic of Ireland,EPL,3,3,M,M,173cm,66kg,30
+2016/2017,Tomkins,Crystal Palace,76,CB,England,EPL,2,2,M,M,191cm,74kg,28
+2016/2017,Gardner,West Brom,76,CM,England,EPL,2,3,H,M,176cm,81kg,30
+2016/2017,Pieters,Stoke City,76,LB,Netherlands,EPL,2,2,M,M,182cm,86kg,28
+2016/2017,Deeney,Watford,76,ST,England,EPL,3,3,H,M,183cm,90kg,28
+2016/2017,Albrighton,Leicester City,76,LM,England,EPL,3,3,H,M,175cm,67kg,27
+2016/2017,Rodwell,Sunderland,76,CM,England,EPL,3,4,M,H,188cm,71kg,26
+2016/2017,Koné,Sunderland,76,CB,Ivory Coast,EPL,2,2,M,M,186cm,83kg,28
+2016/2017,Borini,Sunderland,76,RM,Italy,EPL,3,3,H,M,180cm,74kg,26
+2016/2017,Fer,Swansea City,76,CAM,Netherlands,EPL,3,4,M,M,188cm,79kg,27
+2016/2017,Ward,Crystal Palace,76,RB,England,EPL,2,3,H,M,188cm,83kg,27
+2016/2017,Hernández,Hull City,76,ST,Uruguay,EPL,3,3,M,L,185cm,73kg,26
+2016/2017,McCarthy,Southampton,76,GK,England,EPL,1,2,M,M,193cm,79kg,27
+2016/2017,Cresswell,West Ham,76,LB,England,EPL,2,3,H,M,170cm,66kg,27
+2016/2017,Kabasele,Watford,76,CB,Belgium,EPL,2,3,L,H,187cm,84kg,26
+2016/2017,Henriksen,Hull City,76,CAM,Norway,EPL,3,3,H,H,187cm,80kg,24
+2016/2017,Antonio,West Ham,76,RM,England,EPL,4,4,H,H,180cm,79kg,27
+2016/2017,Marc Muniesa,Stoke City,76,CB,Spain,EPL,2,3,M,M,179cm,72kg,25
+2016/2017,Gueye,Everton,76,CM,Senegal,EPL,2,3,M,H,174cm,72kg,27
+2016/2017,Sakho,West Ham,76,ST,Senegal,EPL,3,3,H,M,184cm,79kg,27
+2016/2017,Wilson,Bournemouth,76,ST,England,EPL,3,3,H,M,180cm,66kg,25
+2016/2017,Jordi Amat,Swansea City,76,CB,Spain,EPL,2,3,L,H,185cm,83kg,25
+2016/2017,Pedro Obiang,West Ham,76,CDM,Spain,EPL,2,3,M,M,185cm,75kg,25
+2016/2017,Bešic,Everton,76,CDM,Bosnia Herzegovina,EPL,2,3,M,H,177cm,78kg,24
+2016/2017,Ward-Prowse,Southampton,76,CM,England,EPL,3,3,M,M,173cm,66kg,22
+2016/2017,Januzaj,Sunderland,76,LM,Belgium,EPL,4,4,M,L,182cm,75kg,22
+2016/2017,Valencia,Everton,76,ST,Ecuador,EPL,3,3,H,M,174cm,74kg,27
+2016/2017,Rashford,Manchester Utd,76,ST,England,EPL,3,3,H,L,180cm,70kg,19
+2016/2017,Evandro,Hull City,76,CM,Brazil,EPL,3,4,M,M,179cm,72kg,30
+2016/2017,Narsingh,Swansea City,76,RW,Netherlands,EPL,4,3,M,L,175cm,75kg,26
+2016/2017,Ranocchia,Hull City,76,CB,Italy,EPL,2,3,M,M,195cm,81kg,29
+2016/2017,Brady,Burnley,76,LM,Republic of Ireland,EPL,3,4,H,M,175cm,69kg,25
+2016/2017,Barton,Burnley,76,CM,England,EPL,3,3,M,H,180cm,70kg,34
+2016/2017,Iheanacho,Manchester City,76,ST,Nigeria,EPL,3,3,H,M,187cm,77kg,20
+2016/2017,Markovic,Hull City,76,RM,Serbia,EPL,4,3,M,M,175cm,66kg,23
+2016/2017,Pickford,Sunderland,76,GK,England,EPL,1,3,M,M,185cm,77kg,23
+2016/2017,Fletcher,Stoke City,76,CM,Scotland,EPL,2,3,M,H,184cm,74kg,33
+2016/2017,Pickford,Everton,76,GK,England,EPL,1,3,M,M,185cm,77kg,23
+2016/2017,Riedewald,Crystal Palace,76,CB,Netherlands,EPL,2,3,M,M,182cm,79kg,20
+2016/2017,Iheanacho,Leicester City,76,ST,Nigeria,EPL,3,3,H,M,187,77kg,20
+2016/2017,Given,Stoke City,75,GK,Republic of Ireland,EPL,1,3,M,M,185cm,84kg,41
+2016/2017,Tremmel,Swansea City,75,GK,Germany,EPL,1,3,M,M,190cm,86kg,38
+2016/2017,McGregor,Hull City,75,GK,Scotland,EPL,1,3,M,M,183cm,84kg,35
+2016/2017,Masuaku,West Ham,75,LB,France,EPL,2,2,H,M,179cm,70kg,23
+2016/2017,Snodgrass,Hull City,75,RM,Scotland,EPL,3,3,H,H,182cm,77kg,29
+2016/2017,van Aanholt,Sunderland,75,LB,Netherlands,EPL,3,2,H,M,175cm,67kg,26
+2016/2017,Naughton,Swansea City,75,RB,England,EPL,3,3,H,M,180cm,73kg,28
+2016/2017,Barragán,Middlesbrough,75,RB,Spain,EPL,2,3,H,M,186cm,83kg,29
+2016/2017,Hennessey,Crystal Palace,75,GK,Wales,EPL,1,3,M,M,198cm,90kg,30
+2016/2017,Taylor,Swansea City,75,LB,Wales,EPL,2,3,M,H,175cm,75kg,28
+2016/2017,Gray,Burnley,75,ST,England,EPL,3,3,H,M,180cm,78kg,25
+2016/2017,Joel Robles,Everton,75,GK,Spain,EPL,1,2,M,M,195cm,90kg,26
+2016/2017,Redmond,Southampton,75,RM,England,EPL,4,3,H,M,173cm,75kg,23
+2016/2017,Pied,Southampton,75,RB,France,EPL,3,3,H,H,173cm,69kg,28
+2016/2017,Livermore,Hull City,75,CM,England,EPL,2,2,M,M,180cm,76kg,27
+2016/2017,Britos,Watford,75,CB,Uruguay,EPL,2,3,M,M,188cm,82kg,31
+2016/2017,Mason,Hull City,75,CDM,England,EPL,3,3,H,M,175cm,68kg,25
+2016/2017,Elmohamady,Hull City,75,RM,Egypt,EPL,3,3,M,H,182cm,78kg,29
+2016/2017,Robertson,Hull City,75,LB,Scotland,EPL,2,2,H,H,178cm,63kg,23
+2016/2017,Ilori,Liverpool,75,CB,Portugal,EPL,2,3,M,M,190cm,80kg,24
+2016/2017,Keane,Burnley,75,CB,England,EPL,2,3,M,M,188cm,82kg,24
+2016/2017,Barrow,Swansea City,75,RW,Gambia,EPL,3,2,H,M,176cm,63kg,24
+2016/2017,van der Hoorn,Swansea City,75,CB,Netherlands,EPL,2,3,M,M,190cm,81kg,24
+2016/2017,Downing,Middlesbrough,75,CAM,England,EPL,3,3,M,M,180cm,64kg,32
+2016/2017,Huddlestone,Hull City,75,CM,England,EPL,3,5,L,M,188cm,80kg,30
+2016/2017,Koné,Everton,75,ST,Ivory Coast,EPL,3,4,M,M,182cm,81kg,33
+2016/2017,Walters,Stoke City,75,ST,Republic of Ireland,EPL,3,3,H,H,183cm,79kg,33
+2016/2017,Mannone,Sunderland,75,GK,Italy,EPL,1,3,M,M,188cm,80kg,29
+2016/2017,Sako,Crystal Palace,75,LM,Mali,EPL,3,3,H,M,184cm,90kg,29
+2016/2017,Benalouane,Leicester City,75,CB,Tunisia,EPL,2,3,M,H,185cm,85kg,30
+2016/2017,Delaney,Crystal Palace,75,CB,Republic of Ireland,EPL,2,3,M,M,191cm,89kg,35
+2016/2017,Morrison,West Brom,75,CM,Scotland,EPL,3,3,M,M,178cm,64kg,31
+2016/2017,Larsson,Sunderland,75,CM,Sweden,EPL,2,3,M,M,178cm,70kg,31
+2016/2017,Guzan,Middlesbrough,75,GK,United States,EPL,1,2,M,M,193cm,95kg,32
+2016/2017,Ledley,Crystal Palace,75,CM,Wales,EPL,3,2,M,H,183cm,73kg,30
+2016/2017,Lowton,Burnley,75,RB,England,EPL,2,3,H,M,180cm,78kg,27
+2016/2017,Olsson,Swansea City,75,LB,Sweden,EPL,3,2,H,M,178cm,81kg,29
+2016/2017,Livermore,West Brom,75,CM,England,EPL,2,2,M,M,180cm,76kg,27
+2016/2017,Elabdellaoui,Hull City,75,RB,Norway,EPL,3,3,H,M,179cm,73kg,25
+2016/2017,Westwood,Burnley,75,CM,England,EPL,2,3,M,M,170cm,67kg,27
+2016/2017,van Aanholt,Crystal Palace,75,LB,Netherlands,EPL,3,2,H,M,175cm,67kg,26
+2016/2017,Snodgrass,West Ham,75,RM,Scotland,EPL,3,3,H,H,182cm,77kg,29
+2016/2017,Simpson,Leicester City,75,RB,England,EPL,2,3,M,M,177cm,77kg,30
+2016/2017,Oriol Romeu,Southampton,75,CDM,Spain,EPL,2,3,M,H,183cm,83kg,25
+2016/2017,Fischer,Middlesbrough,75,LW,Denmark,EPL,3,4,H,L,181cm,81kg,22
+2016/2017,Højbjerg,Southampton,75,CM,Denmark,EPL,3,4,M,M,185cm,84kg,21
+2016/2017,Arter,Bournemouth,75,CM,Republic of Ireland,EPL,3,5,H,H,178cm,70kg,27
+2016/2017,Niasse,Hull City,75,ST,Senegal,EPL,2,3,M,M,182cm,82kg,27
+2016/2017,Randolph,West Ham,75,GK,Republic of Ireland,EPL,1,3,M,M,185cm,80kg,30
+2016/2017,Phillips,West Brom,75,RM,Scotland,EPL,3,4,M,M,183cm,75kg,26
+2016/2017,Mathieu,Crystal Palace,75,CDM,France,EPL,2,3,M,H,178cm,67kg,33
+2016/2017,Eduardo,Chelsea,75,GK,Portugal,EPL,1,3,M,M,188cm,86kg,34
+2016/2017,Andrew,Bournemouth,75,CM,England,EPL,3,4,M,M,178cm,73kg,30
+2016/2017,Keane,Everton,75,CB,England,EPL,2,3,M,M,188cm,82kg,24
+2016/2017,Walters,Burnley,75,ST,Republic of Ireland,EPL,3,3,H,H,183cm,79kg,33
+2016/2017,McGeady,Sunderland,75,LM,Republic of Ireland,EPL,5,3,H,L,177cm,71kg,31
+2016/2017,Howson,Middlesbrough,75,CM,England,EPL,3,4,M,H,180cm,77kg,29
+2016/2017,Robertson,Liverpool,75,LB,Scotland,EPL,2,2,H,H,178cm,63kg,23
+2016/2017,Mendy,Manchester City,75,LB,France,EPL,2,3,H,M,185cm,85kg,22
+2016/2017,Randolph,Middlesbrough,75,GK,Republic of Ireland,EPL,1,3,M,M,185cm,80kg,30
+2016/2017,Larsson,Hull City,75,CM,Sweden,EPL,2,3,M,M,178,70kg,31
+2016/2017,Gray,Watford,75,ST,England,EPL,3,3,H,M,180cm,78kg,25
+2016/2017,Ndong,Sunderland,74,CM,Gabon,EPL,2,3,M,M,179cm,75kg,22
+2016/2017,Denayer,Sunderland,74,CB,Belgium,EPL,2,3,M,M,184cm,70kg,21
+2016/2017,Success,Watford,74,RW,Nigeria,EPL,3,3,M,M,186cm,86kg,21
+2016/2017,Iheanacho,Manchester City,74,ST,Nigeria,EPL,3,3,H,M,187cm,77kg,20
+2016/2017,Maloney,Hull City,74,CAM,Scotland,EPL,3,4,H,M,170cm,69kg,34
+2016/2017,Lee Chung Yong,Crystal Palace,74,LM,Korea Republic,EPL,4,3,M,M,180cm,69kg,28
+2016/2017,Ulloa,Leicester City,74,ST,Argentina,EPL,2,4,H,M,185cm,80kg,30
+2016/2017,Wilson,Bournemouth,74,CB,Republic of Ireland,EPL,2,4,M,M,188cm,80kg,29
+2016/2017,Simpson,Leicester City,74,RB,England,EPL,2,3,M,M,177cm,77kg,30
+2016/2017,Randolph,West Ham,74,GK,Republic of Ireland,EPL,1,3,M,M,185cm,80kg,30
+2016/2017,Kelly,Crystal Palace,74,RB,England,EPL,3,3,M,M,191cm,77kg,27
+2016/2017,Arter,Bournemouth,74,CM,Republic of Ireland,EPL,3,5,H,H,178cm,70kg,27
+2016/2017,Rhodes,Middlesbrough,74,ST,Scotland,EPL,2,3,H,L,185cm,71kg,27
+2016/2017,Phillips,West Brom,74,RM,Scotland,EPL,3,4,M,M,183cm,75kg,26
+2016/2017,Fábio,Middlesbrough,74,LB,Brazil,EPL,3,4,H,H,172cm,65kg,26
+2016/2017,Mee,Burnley,74,CB,England,EPL,2,3,M,M,180cm,74kg,27
+2016/2017,Wickham,Crystal Palace,74,ST,England,EPL,2,3,H,M,189cm,90kg,24
+2016/2017,Daniel Ayala,Middlesbrough,74,CB,Spain,EPL,2,3,M,M,190cm,84kg,26
+2016/2017,McClean,West Brom,74,LM,Republic of Ireland,EPL,4,2,H,H,180cm,70kg,28
+2016/2017,Oriol Romeu,Southampton,74,CDM,Spain,EPL,2,3,M,H,183cm,83kg,25
+2016/2017,Afobe,Bournemouth,74,ST,England,EPL,3,3,H,M,183cm,77kg,24
+2016/2017,Fischer,Middlesbrough,74,LW,Denmark,EPL,3,4,H,L,181cm,81kg,22
+2016/2017,Gardos,Southampton,74,CB,Romania,EPL,2,3,M,H,193cm,88kg,28
+2016/2017,Elneny,Arsenal,74,CDM,Egypt,EPL,3,3,M,H,180cm,71kg,24
+2016/2017,Højbjerg,Southampton,74,CM,Denmark,EPL,3,4,M,M,185cm,84kg,21
+2016/2017,Gestede,Middlesbrough,74,ST,Benin,EPL,2,3,M,M,193cm,86kg,28
+2016/2017,Wagué,Leicester City,74,CB,Mali,EPL,2,3,L,M,191cm,87kg,26
+2016/2017,Wilson,West Brom,74,CB,Republic of Ireland,EPL,2,4,M,M,188cm,80kg,29
+2016/2017,Milivojevic,Crystal Palace,74,CDM,Serbia,EPL,3,2,M,M,186cm,80kg,26
+2016/2017,O'Shea,Sunderland,74,CB,Republic of Ireland,EPL,2,3,M,H,190cm,84kg,36
+2016/2017,Ireland,Stoke City,74,CAM,Republic of Ireland,EPL,3,3,M,M,173cm,66kg,30
+2016/2017,Iwobi,Arsenal,74,LM,Nigeria,EPL,3,3,M,M,180cm,75kg,21
+2016/2017,Evandro,Hull City,74,CM,Brazil,EPL,3,4,M,M,179cm,72kg,30
+2016/2017,Victor,Sunderland,74,ST,Nigeria,EPL,2,3,H,M,185cm,80kg,29
+2016/2017,Hughes,Watford,74,CM,England,EPL,3,3,M,M,185cm,74kg,22
+2016/2017,Mulder,Swansea City,74,GK,Netherlands,EPL,1,3,M,M,193cm,88kg,28
+2016/2017,Ruiter,Sunderland,74,GK,Netherlands,EPL,1,2,M,M,196cm,82kg,30
+2016/2017,Baker,Middlesbrough,74,CM,England,EPL,3,5,M,M,182cm,70kg,22
+2016/2017,Manninger,Liverpool,73,GK,Austria,EPL,1,2,M,M,189cm,85kg,39
+2016/2017,Speroni,Crystal Palace,73,GK,Argentina,EPL,1,3,M,M,186cm,87kg,38
+2016/2017,Myhill,West Brom,73,GK,Wales,EPL,1,2,M,M,191cm,92kg,34
+2016/2017,Francis,Bournemouth,73,CB,England,EPL,2,4,H,M,191cm,89kg,32
+2016/2017,Watson,Watford,73,CM,England,EPL,2,3,M,H,178cm,69kg,31
+2016/2017,Bardsley,Stoke City,73,RB,Scotland,EPL,2,3,M,M,180cm,74kg,31
+2016/2017,Federici,Bournemouth,73,GK,Australia,EPL,1,2,M,M,188cm,90kg,32
+2016/2017,Zúñiga,Watford,73,LB,Colombia,EPL,4,2,H,M,172cm,72kg,31
+2016/2017,Vokes,Burnley,73,ST,Wales,EPL,2,3,H,M,188cm,90kg,27
+2016/2017,Cathcart,Watford,73,CB,Northern Ireland,EPL,2,3,M,M,188cm,73kg,28
+2016/2017,Kuciak,Hull City,73,GK,Slovakia,EPL,1,2,M,M,194cm,92kg,32
+2016/2017,Clayton,Middlesbrough,73,CDM,England,EPL,2,3,M,M,175cm,75kg,28
+2016/2017,Friend,Middlesbrough,73,LB,England,EPL,2,3,H,M,188cm,83kg,29
+2016/2017,McManaman,West Brom,73,RW,England,EPL,4,4,H,M,174cm,71kg,26
+2016/2017,Yoshida,Southampton,73,CB,Japan,EPL,2,4,M,M,189cm,78kg,28
+2016/2017,Nordfeldt,Swansea City,73,GK,Sweden,EPL,1,2,M,M,190cm,85kg,27
+2016/2017,Jenkinson,Arsenal,73,RB,England,EPL,2,2,H,H,185cm,77kg,25
+2016/2017,Flanagan,Burnley,73,RB,England,EPL,2,3,M,M,181cm,69kg,24
+2016/2017,Pickford,Sunderland,73,GK,England,EPL,1,3,M,M,185cm,77kg,23
+2016/2017,Byram,West Ham,73,RB,England,EPL,2,3,H,H,180cm,72kg,23
+2016/2017,Kenedy,Watford,73,LM,Brazil,EPL,3,3,M,M,182cm,77kg,21
+2016/2017,Pau López,Spurs,73,GK,Spain,EPL,1,3,M,M,188cm,72kg,22
+2016/2017,Pašalic,Chelsea,73,CDM,Croatia,EPL,3,4,H,M,186cm,78kg,22
+2016/2017,Kenedy,Chelsea,73,LM,Brazil,EPL,3,3,M,M,182cm,77kg,21
+2016/2017,Kiko Femenía,Watford,73,RB,Spain,EPL,3,3,H,M,174cm,61kg,26
+2016/2017,Bardsley,Burnley,73,RB,Scotland,EPL,2,3,M,M,180,74kg,31
+2016/2017,Nugent,Middlesbrough,72,ST,England,EPL,3,3,H,M,180cm,81kg,32
+2016/2017,Wasilewski,Leicester City,72,CB,Poland,EPL,2,3,M,H,186cm,88kg,36
+2016/2017,Konstantopoulos,Middlesbrough,72,GK,Greece,EPL,1,3,M,M,193cm,90kg,38
+2016/2017,Ward,Burnley,72,LB,Republic of Ireland,EPL,3,5,H,M,184cm,82kg,31
+2016/2017,Pugh,Bournemouth,72,LM,England,EPL,4,4,H,M,180cm,72kg,30
+2016/2017,Nsue,Middlesbrough,72,RB,Equatorial Guinea,EPL,3,3,M,M,178cm,75kg,27
+2016/2017,Daniels,Bournemouth,72,LB,England,EPL,2,3,H,M,178cm,75kg,30
+2016/2017,Arfield,Burnley,72,LM,Canada,EPL,3,3,H,H,178cm,70kg,28
+2016/2017,Gosling,Bournemouth,72,CM,England,EPL,3,3,M,M,183cm,79kg,27
+2016/2017,King,Bournemouth,72,ST,Norway,EPL,3,2,M,M,180cm,74kg,25
+2016/2017,Mutch,Crystal Palace,72,CM,England,EPL,2,4,M,M,188cm,81kg,25
+2016/2017,Stuani,Middlesbrough,72,RM,Uruguay,EPL,3,3,M,L,184cm,72kg,30
+2016/2017,King,Leicester City,72,CM,Wales,EPL,2,3,H,M,183cm,74kg,28
+2016/2017,Meyler,Hull City,72,CM,Republic of Ireland,EPL,2,3,M,H,189cm,86kg,27
+2016/2017,Diomande,Hull City,72,ST,Norway,EPL,2,4,H,L,180cm,75kg,27
+2016/2017,Gudmundsson,Burnley,72,RM,Iceland,EPL,3,3,H,M,178cm,77kg,26
+2016/2017,Cook,Bournemouth,72,CB,England,EPL,2,3,M,M,185cm,82kg,26
+2016/2017,Oviedo,Everton,72,LB,Costa Rica,EPL,3,3,H,M,172cm,65kg,27
+2016/2017,Hendrick,Burnley,72,CM,Republic of Ireland,EPL,3,3,M,M,185cm,79kg,25
+2016/2017,Odubajo,Hull City,72,RB,England,EPL,3,4,M,M,177cm,72kg,23
+2016/2017,Carroll,Spurs,72,CM,England,EPL,3,2,M,M,177cm,71kg,24
+2016/2017,Maguire,Hull City,72,CB,England,EPL,2,3,M,M,188cm,79kg,24
+2016/2017,Chambers,Middlesbrough,72,RB,England,EPL,2,3,M,M,183cm,66kg,22
+2016/2017,Stewart,Liverpool,72,CDM,England,EPL,3,3,M,H,182cm,76kg,23
+2016/2017,Fraser,Bournemouth,72,LM,Scotland,EPL,3,4,H,M,163cm,62kg,23
+2016/2017,Aké,Bournemouth,72,LB,Netherlands,EPL,2,3,M,M,180cm,75kg,22
+2016/2017,McNair,Sunderland,72,CDM,Northern Ireland,EPL,2,3,M,M,183cm,72kg,22
+2016/2017,Adama,Middlesbrough,72,RW,Spain,EPL,4,3,M,M,178cm,76kg,21
+2016/2017,Ndidi,Leicester City,72,CDM,Nigeria,EPL,2,3,H,H,187cm,75kg,20
+2016/2017,Aké,Chelsea,72,LB,Netherlands,EPL,2,3,M,M,180cm,75kg,22
+2016/2017,Carroll,Swansea City,72,CM,England,EPL,3,2,M,M,177cm,71kg,24
+2016/2017,Oviedo,Sunderland,72,LB,Costa Rica,EPL,3,3,H,M,172cm,65kg,27
+2016/2017,Sako,Crystal Palace,72,LM,Mali,EPL,3,3,H,M,184cm,90kg,29
+2016/2017,Aké,Bournemouth,72,CB,Netherlands,EPL,2,3,M,M,180cm,75kg,22
+2016/2017,Taylor,Burnley,72,LB,England,EPL,2,2,H,M,185cm,72kg,23
+2016/2017,Maguire,Leicester City,72,CB,England,EPL,2,3,M,M,188cm,79kg,24
+2016/2017,Assombalonga,Middlesbrough,72,ST,DR Congo,EPL,3,3,H,M,178cm,78kg,24
+2016/2017,Stewart,Hull City,72,CDM,England,EPL,3,3,M,H,182cm,76kg,23
+2016/2017,Jones,Sunderland,71,RB,England,EPL,2,3,H,M,180cm,77kg,30
+2016/2017,Marney,Burnley,71,CM,England,EPL,2,3,M,H,183cm,72kg,33
+2016/2017,Leadbitter,Middlesbrough,71,CDM,England,EPL,3,3,H,M,178cm,79kg,31
+2016/2017,Campbell,Crystal Palace,71,ST,England,EPL,3,3,H,M,172cm,83kg,29
+2016/2017,Boyd,Burnley,71,RM,Scotland,EPL,4,4,H,H,186cm,79kg,31
+2016/2017,Guédioura,Watford,71,CM,Algeria,EPL,3,4,M,H,178cm,81kg,31
+2016/2017,Barnes,Burnley,71,ST,Austria,EPL,2,4,H,M,186cm,76kg,27
+2016/2017,Smith,Bournemouth,71,RB,England,EPL,3,3,H,M,180cm,81kg,26
+2016/2017,Schlupp,Leicester City,71,LB,Ghana,EPL,2,2,H,M,178cm,72kg,24
+2016/2017,Tarkowski,Burnley,71,CB,England,EPL,2,4,M,M,191cm,81kg,24
+2016/2017,Ibe,Bournemouth,71,LW,England,EPL,3,4,M,M,175cm,81kg,21
+2016/2017,Bamford,Burnley,71,ST,England,EPL,2,3,H,M,185cm,71kg,23
+2016/2017,Paredes,Watford,71,RB,Ecuador,EPL,2,3,H,M,179cm,72kg,29
+2016/2017,Mings,Bournemouth,71,LB,England,EPL,2,3,M,M,196cm,80kg,24
+2016/2017,Amartey,Leicester City,71,CM,Ghana,EPL,2,4,M,M,183cm,75kg,22
+2016/2017,Kapustka,Leicester City,71,LM,Poland,EPL,3,2,M,M,179cm,67kg,20
+2016/2017,Cook,Bournemouth,71,CM,England,EPL,3,4,M,H,174cm,66kg,20
+2016/2017,Fosu-Mensah,Manchester Utd,71,CDM,Netherlands,EPL,2,4,M,M,190cm,79kg,19
+2016/2017,Sobhi,Stoke City,71,LW,Egypt,EPL,4,4,H,H,183cm,72kg,19
+2016/2017,Mika,Sunderland,71,GK,Portugal,EPL,1,2,M,M,195cm,90kg,26
+2016/2017,Toral,Arsenal,71,CAM,Spain,EPL,3,4,M,M,184cm,73kg,22
+2016/2017,Schlupp,Crystal Palace,71,LB,Ghana,EPL,2,2,H,M,178cm,72kg,24
+2016/2017,Bamford,Middlesbrough,71,ST,England,EPL,2,3,H,M,185cm,71kg,23
+2016/2017,Guédioura,Middlesbrough,71,CM,Algeria,EPL,3,4,M,H,178cm,81kg,31
+2016/2017,Tremmel,Swansea City,71,GK,Germany,EPL,1,3,M,M,190cm,86kg,38
+2016/2017,Campbell,Hull City,71,ST,England,EPL,3,3,H,M,172cm,83kg,29
+2016/2017,Hector,Hull City,71,CB,Jamaica,EPL,2,3,M,M,193cm,82kg,24
+2016/2017,Fosu-Mensah,Crystal Palace,71,RB,Netherlands,EPL,2,4,M,M,190cm,79kg,19
+2016/2017,Robinson,Burnley,70,GK,England,EPL,1,3,M,M,193cm,90kg,37
+2016/2017,Kightly,Burnley,70,LM,England,EPL,3,3,H,H,173cm,71kg,31
+2016/2017,De Sart,Middlesbrough,70,CDM,Belgium,EPL,2,3,M,M,182cm,68kg,22
+2016/2017,Gray,Leicester City,70,LM,England,EPL,3,2,M,M,179cm,66kg,20
+2016/2017,Brannagan,Liverpool,70,CM,England,EPL,2,3,H,M,180cm,71kg,21
+2016/2017,Grujic,Liverpool,70,CM,Serbia,EPL,2,3,M,M,191cm,82kg,21
+2016/2017,Stanislas,Bournemouth,70,LM,England,EPL,4,3,H,M,183cm,76kg,27
+2016/2017,Grabban,Bournemouth,70,ST,England,EPL,3,3,H,L,183cm,78kg,29
+2016/2017,Darikwa,Burnley,70,RB,England,EPL,3,2,H,M,183cm,77kg,25
+2016/2017,Gibson,Middlesbrough,70,CB,England,EPL,2,3,M,M,185cm,78kg,24
+2016/2017,Mejías,Middlesbrough,70,GK,Spain,EPL,1,2,M,M,195cm,84kg,28
+2016/2017,Martina,Southampton,70,RB,Netherlands Antilles,EPL,2,3,M,M,183cm,72kg,27
+2016/2017,Kane,Chelsea,70,RB,England,EPL,2,2,H,M,180cm,70kg,23
+2016/2017,Iwobi,Arsenal,70,LM,Nigeria,EPL,3,3,M,M,180cm,75kg,21
+2016/2017,Onomah,Spurs,70,CAM,England,EPL,3,3,M,L,185cm,68kg,20
+2016/2017,Kingsley,Swansea City,70,LB,Scotland,EPL,2,2,M,M,178cm,68kg,22
+2016/2017,Fernandes,West Ham,70,CAM,Switzerland,EPL,3,4,M,M,190cm,70kg,21
+2016/2017,Forshaw,Middlesbrough,70,CM,England,EPL,3,3,H,M,185cm,71kg,25
+2016/2017,Garbutt,Everton,70,LB,England,EPL,2,3,H,M,178cm,73kg,24
+2016/2017,Hassen,Southampton,70,GK,France,EPL,1,2,M,M,184cm,70kg,22
+2016/2017,Winks,Spurs,70,CM,England,EPL,2,3,M,M,178cm,65kg,21
+2016/2017,Christie,Middlesbrough,70,RB,Republic of Ireland,EPL,3,2,H,M,188cm,78kg,24
+2016/2017,Martina,Everton,70,RB,Netherlands Antilles,EPL,2,3,M,M,183cm,72kg,27
+2016/2017,Vaughan,Sunderland,70,ST,England,EPL,3,3,H,M,182cm,83kg,28
+2016/2017,Grabban,Sunderland,70,ST,England,EPL,3,3,H,L,183,78kg,29
+2016/2017,Brunt,West Brom,69,LB,Northern Ireland,EPL,3,2,M,M,187cm,85kg,32
+2016/2017,Bruce,Hull City,69,CB,Northern Ireland,EPL,2,2,L,M,180cm,81kg,32
+2016/2017,James,Leicester City,69,CM,England,EPL,3,4,M,M,178cm,73kg,25
+2016/2017,Arlauskis,Watford,69,GK,Lithuania,EPL,1,2,M,M,184cm,80kg,29
+2016/2017,Sanogo,Arsenal,69,ST,France,EPL,3,3,M,M,194cm,86kg,24
+2016/2017,Watmore,Sunderland,69,RM,England,EPL,3,3,M,M,175cm,72kg,23
+2016/2017,Gomez,Liverpool,69,LB,England,EPL,2,3,M,M,185cm,77kg,20
+2016/2017,Solanke,Chelsea,69,ST,England,EPL,3,3,M,M,185cm,75kg,19
+2016/2017,Wilson,Manchester Utd,69,ST,England,EPL,2,4,M,M,184cm,78kg,21
+2016/2017,Wiggins,Bournemouth,69,LB,Wales,EPL,2,3,M,M,173cm,72kg,29
+2016/2017,Emnes,Swansea City,69,ST,Netherlands,EPL,4,3,M,L,180cm,66kg,28
+2016/2017,Solanke,Liverpool,69,ST,England,EPL,3,3,M,M,185cm,75kg,19
+2016/2017,Jakupovic,Hull City,68,GK,Switzerland,EPL,1,2,M,M,191cm,83kg,32
+2016/2017,Birighitti,Swansea City,68,GK,Australia,EPL,1,2,M,M,189cm,84kg,26
+2016/2017,Clucas,Hull City,68,LM,England,EPL,3,5,M,M,188cm,74kg,26
+2016/2017,Henry,West Ham,68,CB,Canada,EPL,2,2,M,M,184cm,82kg,24
+2016/2017,Chalobah,Chelsea,68,CM,England,EPL,2,3,M,M,185cm,80kg,22
+2016/2017,Reed,Southampton,68,CDM,England,EPL,2,3,M,H,169cm,72kg,22
+2016/2017,Johnstone,Manchester Utd,68,GK,England,EPL,1,2,M,M,194cm,86kg,24
+2016/2017,Mawson,Swansea City,68,CB,England,EPL,2,3,M,M,188cm,81kg,23
+2016/2017,Galloway,West Brom,68,LB,England,EPL,2,3,M,M,186cm,74kg,21
+2016/2017,Loftus-Cheek,Chelsea,68,CAM,England,EPL,2,4,M,M,191cm,83kg,21
+2016/2017,Mousset,Bournemouth,68,ST,France,EPL,3,2,M,M,184cm,82kg,21
+2016/2017,Chilwell,Leicester City,68,LB,England,EPL,2,3,H,M,178cm,76kg,20
+2016/2017,Alexander-Arnold,Liverpool,68,RM,England,EPL,2,3,M,M,175cm,69kg,18
+2016/2017,Byrne,Manchester City,68,CM,Republic of Ireland,EPL,2,3,M,H,176cm,73kg,21
+2016/2017,Galloway,Everton,68,LB,England,EPL,2,3,M,M,186cm,74kg,21
+2016/2017,Galloway,Sunderland,68,LB,England,EPL,2,3,M,M,186cm,74kg,21
+2016/2017,Loftus-Cheek,Crystal Palace,68,CAM,England,EPL,2,4,M,M,191cm,83kg,21
+2016/2017,Chalobah,Watford,68,CM,England,EPL,2,3,M,M,185cm,80kg,22
+2016/2017,Jakupovic,Leicester City,68,GK,Switzerland,EPL,1,2,M,M,191cm,83kg,32
+2016/2017,Zelalem,Arsenal,67,CM,United States,EPL,3,3,M,M,180cm,70kg,20
+2016/2017,Targett,Southampton,67,LB,England,EPL,2,2,M,M,183cm,70kg,21
+2016/2017,Barker,Manchester City,67,LM,England,EPL,2,4,H,M,181cm,69kg,20
+2016/2017,Holding,Arsenal,67,CB,England,EPL,2,3,M,M,182cm,75kg,21
+2016/2017,Tuanzebe,Manchester Utd,67,CB,DR Congo,EPL,2,2,M,H,185cm,72kg,19
+2016/2017,Hamer,Leicester City,67,GK,England,EPL,1,3,M,M,193cm,78kg,29
+2016/2017,Robson-Kanu,West Brom,67,LM,Wales,EPL,3,3,M,M,184cm,83kg,28
+2016/2017,Dawson,West Brom,67,RB,England,EPL,2,2,M,M,188cm,85kg,27
+2016/2017,Browning,Everton,67,RB,England,EPL,2,3,M,M,181cm,76kg,22
+2016/2017,Keane,Hull City,67,ST,England,EPL,3,3,M,M,187cm,72kg,24
+2016/2017,Isgrove,Southampton,67,RM,Wales,EPL,3,4,M,M,178cm,72kg,24
+2016/2017,Kaikai,Crystal Palace,67,LM,England,EPL,3,3,M,M,178cm,70kg,21
+2016/2017,Tuanzebe,Manchester Utd,67,CB,England,EPL,2,2,M,H,185cm,72kg,19
+2016/2017,Joel Pereira,Manchester Utd,67,GK,Portugal,EPL,1,2,M,M,188cm,81kg,20
+2016/2017,Grant,Everton,67,CM,England,EPL,2,3,M,M,176cm,76kg,22
+2016/2017,Abraham,Swansea City,67,ST,England,EPL,2,3,M,M,190cm,82kg,19
+2016/2017,Browning,Sunderland,67,RB,England,EPL,2,3,M,M,181cm,76kg,22
+2016/2017,Grant,Stoke City,66,GK,England,EPL,1,4,M,M,193cm,83kg,34
+2016/2017,Long,Burnley,66,CB,Republic of Ireland,EPL,2,2,L,M,187cm,82kg,26
+2016/2017,Appiah,Crystal Palace,66,ST,Ghana,EPL,2,4,H,L,180cm,80kg,26
+2016/2017,Fryers,Crystal Palace,66,LB,England,EPL,2,2,M,M,183cm,80kg,24
+2016/2017,Fletcher,West Ham,66,ST,England,EPL,2,2,M,L,185cm,78kg,21
+2016/2017,Ambrose,Manchester City,66,ST,France,EPL,2,2,H,L,178cm,71kg,20
+2016/2017,Gooch,Sunderland,66,CAM,United States,EPL,3,4,M,M,173cm,69kg,21
+2016/2017,Oxford,West Ham,66,CB,England,EPL,2,3,M,M,191cm,71kg,18
+2016/2017,Fletcher,Middlesbrough,66,ST,England,EPL,2,2,M,L,185,78kg,21
+2016/2017,McAleny,Everton,65,LM,England,EPL,2,3,M,L,172cm,66kg,24
+2016/2017,Stephens,Southampton,65,CB,England,EPL,2,3,M,M,185cm,84kg,23
+2016/2017,Husband,Middlesbrough,65,LB,England,EPL,2,3,H,M,180cm,65kg,23
+2016/2017,Smith,Bournemouth,65,LB,Australia,EPL,2,3,M,M,176cm,70kg,23
+2016/2017,Hyndman,Bournemouth,65,CM,United States,EPL,3,3,M,M,172cm,61kg,21
+2016/2017,Gunn,Manchester City,65,GK,England,EPL,1,3,M,M,196cm,77kg,21
+2016/2017,Angeliño,Manchester City,65,LB,Spain,EPL,2,3,H,M,174cm,69kg,20
+2016/2017,Pablo Maffeo,Manchester City,65,RB,Spain,EPL,2,3,M,M,173cm,66kg,19
+2016/2017,Holgate,Everton,65,RB,England,EPL,2,3,M,H,181cm,63kg,20
+2016/2017,Maitland-Niles,Arsenal,65,RM,England,EPL,3,4,M,M,184cm,70kg,19
+2016/2017,Dowell,Everton,65,CAM,England,EPL,3,2,M,L,175cm,59kg,20
+2016/2017,Gorré,Swansea City,65,LW,Netherlands,EPL,3,2,M,M,178cm,71kg,22
+2016/2017,Ranégie,Watford,65,ST,Sweden,EPL,2,3,M,L,196cm,91kg,32
+2016/2017,Adjei-Boateng,Manchester City,65,CM,Ghana,EPL,2,3,M,H,180cm,72kg,23
+2016/2017,Cargill,Bournemouth,65,CB,England,EPL,2,3,M,H,192cm,87kg,21
+2016/2017,Pennington,Everton,64,CB,England,EPL,2,3,M,M,185cm,77kg,22
+2016/2017,Fulton,Swansea City,64,CM,Scotland,EPL,2,3,M,H,178cm,68kg,23
+2016/2017,Winks,Spurs,64,CM,England,EPL,2,3,M,M,178cm,65kg,21
+2016/2017,Ojo,Liverpool,64,LM,England,EPL,3,4,M,L,178cm,64kg,19
+2016/2017,Leko,West Brom,64,RW,England,EPL,3,4,M,M,182cm,64kg,18
+2016/2017,Brahim Díaz,Manchester City,64,CAM,Spain,EPL,3,4,H,M,170cm,68kg,18
+2016/2017,Riley,Manchester Utd,64,LB,England,EPL,3,3,M,M,177cm,67kg,20
+2016/2017,Allsop,Bournemouth,64,GK,England,EPL,1,3,M,M,189cm,79kg,24
+2016/2017,Pope,Burnley,64,GK,England,EPL,1,3,M,M,192cm,76kg,25
+2016/2017,Haugaard,Stoke City,64,GK,Denmark,EPL,1,3,M,M,199cm,87kg,25
+2016/2017,Akpom,Arsenal,64,ST,England,EPL,3,3,M,M,183cm,70kg,21
+2016/2017,Samuelsen,West Ham,64,RM,Norway,EPL,4,3,M,M,189cm,72kg,20
+2016/2017,Moha,Stoke City,64,LW,Morocco,EPL,3,3,H,M,178cm,72kg,21
+2016/2017,Oduwa,Spurs,64,LM,England,EPL,5,3,M,L,183cm,71kg,21
+2016/2017,Choudhury,Leicester City,64,CDM,England,EPL,3,3,M,H,178cm,64kg,19
+2016/2017,Davies,Everton,64,CM,England,EPL,3,3,M,M,175cm,78kg,18
+2016/2017,Mahoney,Bournemouth,64,RM,England,EPL,3,4,M,M,175cm,67kg,20
+2016/2017,Steele,Sunderland,64,GK,England,EPL,1,3,M,M,190,79kg,26
+2016/2017,Legzdins,Burnley,64,GK,England,EPL,1,3,M,M,193,78kg,30
+2016/2017,Lenihan,Hull City,63,RB,Republic of Ireland,EPL,2,3,M,M,187cm,78kg,22
+2016/2017,Seager,Southampton,63,ST,England,EPL,2,3,M,L,176cm,75kg,21
+2016/2017,McQueen,Southampton,63,LM,England,EPL,2,3,H,L,180cm,70kg,22
+2016/2017,Calvert-Lewin,Everton,63,ST,England,EPL,2,3,H,L,180cm,64kg,20
+2016/2017,Hesketh,Southampton,63,CAM,England,EPL,3,3,H,L,168cm,70kg,21
+2016/2017,Dionatan Teixeira,Stoke City,63,CB,Slovakia,EPL,2,3,M,M,193cm,80kg,24
+2016/2017,Aina,Chelsea,63,RB,England,EPL,2,3,H,M,175cm,65kg,20
+2016/2017,Poole,Manchester Utd,63,CB,Wales,EPL,2,3,M,H,180cm,74kg,18
+2016/2017,Taylor,Stoke City,63,LB,England,EPL,2,3,M,M,178cm,67kg,21
+2016/2017,Reine-Adelaïde,Arsenal,63,CAM,France,EPL,3,3,M,M,184cm,75kg,19
+2016/2017,Aleix García,Manchester City,63,CM,Spain,EPL,3,3,M,L,185cm,74kg,19
+2016/2017,Asoro,Sunderland,63,ST,Sweden,EPL,3,3,M,M,175cm,64kg,18
+2016/2017,Waring,Stoke City,63,ST,England,EPL,2,3,M,M,196cm,72kg,22
+2016/2017,Nwakali,Manchester City,63,CM,Nigeria,EPL,2,3,H,H,173cm,66kg,20
+2016/2017,Aina,Hull City,63,RB,England,EPL,2,3,H,M,175cm,65kg,20
+2016/2017,Bachmann,Stoke City,62,GK,Austria,EPL,1,3,M,M,191cm,81kg,22
+2016/2017,Flannigan,Southampton,62,CM,England,EPL,2,3,M,M,180cm,71kg,21
+2016/2017,McBurnie,Swansea City,62,ST,Scotland,EPL,2,2,H,M,188cm,74kg,20
+2016/2017,Bielik,Arsenal,62,CDM,Poland,EPL,3,3,M,M,189cm,78kg,19
+2016/2017,Shenton,Stoke City,62,CM,England,EPL,3,3,M,M,175cm,77kg,19
+2016/2017,Carter-Vickers,Spurs,62,CB,United States,EPL,2,3,M,H,185cm,86kg,19
+2016/2017,Elbouzedi,West Brom,62,CAM,Republic of Ireland,EPL,3,3,M,M,180cm,70kg,19
+2016/2017,de Pena,Middlesbrough,62,LM,Uruguay,EPL,2,3,M,M,177cm,70kg,25
+2016/2017,Ward,West Brom,62,CM,England,EPL,2,3,M,M,173cm,64kg,20
+2016/2017,Field,West Brom,62,CM,England,EPL,3,3,M,M,175cm,66kg,19
+2016/2017,Ladapo,Crystal Palace,62,ST,Nigeria,EPL,2,3,M,L,187cm,79kg,24
+2016/2017,Jones,West Brom,62,CB,England,EPL,2,3,M,M,183cm,76kg,21
+2016/2017,Wright,West Brom,62,ST,England,EPL,3,3,M,M,183cm,72kg,20
+2016/2017,Bachmann,Watford,62,GK,Austria,EPL,1,3,M,M,191cm,81kg,22
+2016/2017,Sims,Southampton,61,LM,England,EPL,2,3,M,M,168cm,67kg,20
+2016/2017,Humphreys-Grant,Manchester City,61,CB,England,EPL,2,2,M,M,187cm,80kg,18
+2016/2017,Beadling,Sunderland,61,CB,England,EPL,2,3,L,M,185cm,80kg,21
+2016/2017,Folivi,Watford,61,ST,England,EPL,2,3,H,L,180cm,79kg,19
+2016/2017,Edwards,West Brom,61,CAM,England,EPL,3,3,M,M,172cm,64kg,19
+2016/2017,Tomori,Chelsea,61,CB,England,EPL,2,3,M,M,185cm,75kg,19
+2016/2017,Toni Martínez,West Ham,61,ST,Spain,EPL,3,3,M,M,180cm,70kg,19
+2016/2017,Barkworth,Hull City,61,CB,England,EPL,2,3,M,M,185cm,78kg,19
+2016/2017,Green,Burnley,61,CAM,England,EPL,2,3,M,M,183cm,79kg,21
+2016/2017,Ginnelly,Burnley,61,LM,England,EPL,3,4,H,M,173cm,65kg,20
+2016/2017,Roberts,West Brom,61,ST,Wales,EPL,3,3,M,M,182cm,64kg,18
+2016/2017,Lookman,Everton,61,ST,England,EPL,2,4,M,M,174cm,78kg,18
+2016/2017,Beadling,Sunderland,61,CB,Australia,EPL,2,3,L,M,185cm,80kg,21
+2016/2017,Naah,Manchester City,61,CM,Ghana,EPL,4,3,M,M,180cm,68kg,21
+2016/2017,Houghton,Chelsea,61,CM,England,EPL,2,3,M,H,182cm,77kg,21
+2016/2017,Bednarek,Southampton,61,CB,Poland,EPL,2,3,M,M,189cm,77kg,21
+2016/2017,Spiegel,West Ham,60,GK,Switzerland,EPL,1,2,M,M,196cm,88kg,24
+2016/2017,Honeyman,Sunderland,60,CAM,England,EPL,2,3,M,M,173cm,72kg,22
+2016/2017,Bray,Swansea City,60,RM,England,EPL,2,2,H,M,178cm,66kg,21
+2016/2017,Rose,West Brom,60,GK,England,EPL,1,3,M,M,191cm,87kg,22
+2016/2017,Nemane,Manchester City,60,RM,France,EPL,3,2,H,M,170cm,62kg,19
+2016/2017,Robson,Sunderland,60,LB,England,EPL,2,3,M,M,175cm,75kg,21
+2016/2017,Greenwood,Sunderland,60,LW,England,EPL,2,2,M,L,173cm,68kg,21
+2016/2017,Harrison,Spurs,60,ST,England,EPL,3,3,H,M,183cm,67kg,19
+2016/2017,Lecygne,Stoke City,60,CM,France,EPL,2,3,M,M,181cm,67kg,23
+2016/2017,Patching,Manchester City,60,CM,England,EPL,3,3,H,M,185cm,70kg,18
+2016/2017,Masterson,Liverpool,60,CB,Republic of Ireland,EPL,2,3,M,M,189cm,72kg,18
+2016/2017,Maja,Sunderland,60,ST,England,EPL,3,3,M,M,180cm,67kg,18
+2016/2017,Reid,Swansea City,60,RB,England,EPL,2,2,M,M,180cm,72kg,19
+2016/2017,Agyei,Burnley,60,ST,England,EPL,2,3,H,M,183cm,77kg,19
+2016/2017,Fewster,Middlesbrough,60,ST,England,EPL,2,3,H,L,178cm,70kg,21
+2016/2017,Rose,Southampton,60,GK,England,EPL,1,3,M,M,191,87kg,22
+2016/2017,Gilmartin,Watford,59,GK,Republic of Ireland,EPL,1,3,M,M,196cm,100kg,29
+2016/2017,Love,Sunderland,59,RB,Scotland,EPL,2,3,M,M,178cm,72kg,22
+2016/2017,McGhee,Middlesbrough,59,RB,Scotland,EPL,2,3,M,M,185cm,70kg,20
+2016/2017,Sinclair,Watford,59,ST,England,EPL,2,4,M,M,173cm,79kg,20
+2016/2017,Adarabioyo,Manchester City,59,CB,England,EPL,2,2,M,M,190cm,80kg,19
+2016/2017,Ter Horst,Hull City,59,ST,England,EPL,2,3,M,M,175cm,72kg,22
+2016/2017,Williams,Liverpool,59,CB,Wales,EPL,2,3,M,M,188cm,68kg,21
+2016/2017,Wood,Southampton,59,LB,England,EPL,2,2,M,M,174cm,67kg,20
+2016/2017,Jones,Swansea City,59,LM,Wales,EPL,2,3,H,M,181cm,72kg,20
+2016/2017,Edwards,Stoke City,59,CB,England,EPL,2,3,M,M,190cm,80kg,20
+2016/2017,Sergio Molina,Stoke City,59,CDM,Spain,EPL,2,3,M,M,177cm,63kg,21
+2016/2017,Biabi,Swansea City,59,ST,Scotland,EPL,2,3,M,M,188cm,76kg,21
+2016/2017,Maguire,Liverpool,59,LB,England,EPL,2,2,M,M,179cm,70kg,21
+2016/2017,Dasilva,Chelsea,59,LB,England,EPL,2,3,H,M,170cm,64kg,19
+2016/2017,Lewis,Swansea City,59,RB,Wales,EPL,2,2,H,M,183cm,85kg,18
+2016/2017,Batty,Hull City,59,CM,England,EPL,3,3,M,M,178cm,75kg,19
+2016/2017,Davies,Swansea City,59,GK,Wales,EPL,1,3,M,M,184cm,76kg,22
+2016/2017,Dunn,Liverpool,59,CAM,England,EPL,2,3,H,H,172cm,67kg,22
+2016/2017,Crowley,Arsenal,59,CAM,England,EPL,3,3,M,M,175cm,68kg,19
+2016/2017,Burn,Middlesbrough,59,CB,England,EPL,2,3,M,M,184cm,73kg,21
+2016/2017,King,Swansea City,59,CM,Scotland,EPL,2,3,M,M,180cm,75kg,21
+2016/2017,Sheehan,Swansea City,59,CM,Wales,EPL,2,3,M,M,178cm,75kg,22
+2016/2017,Donkor,Everton,59,LM,Germany,EPL,3,3,M,M,183cm,81kg,19
+2016/2017,Harries,Swansea City,59,CB,Wales,EPL,2,3,M,M,183cm,77kg,20
+2016/2017,Goss,Manchester Utd,58,CM,England,EPL,2,3,H,M,177cm,71kg,21
+2016/2017,Barnes,Southampton,58,ST,England,EPL,2,3,M,M,185cm,72kg,20
+2016/2017,Ogilvie,Spurs,58,LB,England,EPL,2,3,M,M,182cm,73kg,21
+2016/2017,Pedro Chirivella,Liverpool,58,CDM,Spain,EPL,2,3,M,H,178cm,66kg,20
+2016/2017,Stryjek,Sunderland,58,GK,Poland,EPL,1,2,M,M,188cm,82kg,20
+2016/2017,Adeyemo,Watford,58,ST,Nigeria,EPL,2,2,M,M,183cm,74kg,22
+2016/2017,Luer,Hull City,58,ST,England,EPL,2,3,H,M,180cm,73kg,22
+2016/2017,Walker-Peters,Spurs,58,RB,England,EPL,2,4,H,M,178cm,62kg,20
+2016/2017,Parfitt-Williams,West Ham,58,ST,Bermuda,EPL,3,3,M,M,168cm,64kg,20
+2016/2017,Davies,Everton,58,CM,England,EPL,3,3,M,M,175cm,78kg,18
+2016/2017,Fitzwater,West Brom,58,CB,England,EPL,2,3,M,M,188cm,70kg,19
+2016/2017,Browne,West Ham,58,CAM,England,EPL,3,3,M,M,179cm,74kg,19
+2016/2017,James,Swansea City,58,LW,England,EPL,3,3,H,M,180cm,76kg,19
+2016/2017,Amos,Spurs,58,CDM,England,EPL,2,3,M,H,179cm,70kg,20
+2016/2017,Tymon,Hull City,58,LB,England,EPL,2,2,M,M,175cm,68kg,18
+2016/2017,O'Shea,West Brom,58,CB,Republic of Ireland,EPL,2,3,M,M,178cm,65kg,18
+2016/2017,Edwards,Spurs,58,CAM,England,EPL,4,3,M,M,167cm,61kg,18
+2016/2017,Miller,Spurs,58,CAM,England,EPL,2,2,M,M,176cm,70kg,20
+2016/2017,Davey,Chelsea,58,CB,Scotland,EPL,2,3,M,M,191cm,84kg,22
+2016/2017,Griffiths,Everton,58,GK,England,EPL,1,2,M,M,188cm,85kg,21
+2016/2017,Jakubiak,Watford,58,ST,Scotland,EPL,2,3,M,M,177cm,66kg,20
+2016/2017,Whitmore,Burnley,58,CB,England,EPL,2,2,L,M,180cm,68kg,21
+2016/2017,Knoyle,West Ham,58,RB,England,EPL,2,3,M,M,177cm,63kg,20
+2016/2017,Tymon,Stoke City,58,LB,England,EPL,2,2,M,M,175cm,68kg,18
+2016/2017,Miller,Middlesbrough,58,ST,England,EPL,2,3,H,M,178cm,64kg,18
+2016/2017,O'Hanlon,Bournemouth,57,ST,Republic of Ireland,EPL,2,3,H,M,183cm,76kg,21
+2016/2017,Kenny,Everton,57,RB,England,EPL,2,3,M,M,176cm,74kg,20
+2016/2017,Bowen,Hull City,57,ST,England,EPL,2,3,M,M,180cm,75kg,21
+2016/2017,Collins,Chelsea,57,GK,England,EPL,1,2,M,M,184cm,69kg,20
+2016/2017,Foulds,Everton,57,CB,England,EPL,2,3,M,M,183cm,74kg,19
+2016/2017,Connolly,Everton,57,CDM,England,EPL,2,2,M,H,183cm,70kg,19
+2016/2017,Neufville,West Ham,57,LB,England,EPL,2,3,H,M,178cm,67kg,17
+2016/2017,Robson,Sunderland,57,CM,England,EPL,3,3,M,M,180cm,68kg,20
+2016/2017,O'Neill,Burnley,57,CM,Australia,EPL,2,2,M,M,178cm,70kg,18
+2016/2017,Donnellan,West Brom,57,CB,Republic of Ireland,EPL,2,3,M,M,183cm,64kg,20
+2016/2017,Mount,Chelsea,57,CAM,England,EPL,3,3,H,M,175cm,57kg,18
+2016/2017,Dyson,Swansea City,57,CM,Wales,EPL,3,2,M,M,188cm,72kg,19
+2016/2017,Muskwe,Leicester City,57,ST,England,EPL,3,3,M,M,183cm,71kg,18
+2016/2017,Cornick,Bournemouth,57,RM,England,EPL,3,2,M,M,180cm,84kg,22
+2016/2017,Burton,Hull City,57,GK,England,EPL,1,3,M,M,188,80kg,20
+2016/2017,Morris,Middlesbrough,56,CM,England,EPL,2,3,M,M,182cm,71kg,21
+2016/2017,Weir,Hull City,56,CAM,England,EPL,2,2,M,M,177cm,71kg,21
+2016/2017,Randall,Liverpool,56,RB,England,EPL,3,4,M,M,180cm,76kg,21
+2016/2017,Telford,Stoke City,56,ST,England,EPL,2,3,M,M,175cm,72kg,20
+2016/2017,Iversen,Leicester City,56,GK,Denmark,EPL,1,2,M,M,193cm,80kg,19
+2016/2017,Robson,Sunderland,56,RB,England,EPL,2,3,M,M,180cm,73kg,19
+2016/2017,Walkes,Spurs,56,CDM,England,EPL,3,3,M,M,187cm,72kg,20
+2016/2017,Rice,West Ham,56,CB,Republic of Ireland,EPL,2,2,M,M,185cm,80kg,18
+2016/2017,Kinsella,Everton,56,LW,Republic of Ireland,EPL,3,3,M,M,175cm,72kg,18
+2016/2017,Fry,Middlesbrough,56,CB,England,EPL,2,3,M,M,188cm,72kg,19
+2016/2017,Thomas,Leicester City,56,RM,Wales,EPL,2,3,M,M,173cm,76kg,20
+2016/2017,Palmer,West Brom,55,GK,England,EPL,1,3,M,M,183cm,72kg,20
+2016/2017,Rowan,Watford,55,CB,England,EPL,2,3,M,M,185cm,78kg,19
+2016/2017,Hinchliffe,Hull City,55,ST,England,EPL,2,3,M,M,178cm,74kg,19
+2016/2017,Mitchell,Burnley,54,GK,Northern Ireland,EPL,1,2,M,M,183cm,74kg,21
+2016/2017,Byers,Swansea City,54,CM,Scotland,EPL,2,4,M,M,180cm,73kg,20
+2016/2017,Willock,Arsenal,54,ST,England,EPL,3,2,M,M,180cm,67kg,19
+2016/2017,O'Flaherty,Bournemouth,54,GK,England,EPL,1,2,M,M,196cm,72kg,20
+2016/2017,Holmes,Bournemouth,54,GK,Australia,EPL,1,2,M,M,186cm,82kg,20
+2016/2017,Mason,Watford,54,LB,England,EPL,2,2,M,M,175cm,70kg,19
+2016/2017,Johnson,Leicester City,54,RB,England,EPL,2,3,M,M,185cm,83kg,18
+2016/2017,Waddington,Stoke City,54,CM,England,EPL,2,3,M,M,183cm,66kg,20
+2016/2017,Campbell,West Brom,54,LW,England,EPL,3,3,M,M,171cm,68kg,20
+2016/2017,Cooke,Middlesbrough,53,ST,England,EPL,2,3,M,M,172cm,72kg,20
+2016/2017,Fox,Leicester City,53,LM,England,EPL,2,3,M,M,177cm,64kg,20
+2016/2017,Clackstone,Hull City,53,RB,England,EPL,2,2,M,M,170cm,79kg,20
+2016/2017,Coulson,Middlesbrough,53,LB,England,EPL,2,3,M,M,177cm,70kg,18
+2016/2017,Macey,Arsenal,52,GK,England,EPL,1,2,M,M,198cm,81kg,22
+2016/2017,Beeney,Chelsea,52,GK,England,EPL,1,3,M,M,182cm,78kg,21
+2016/2017,Buckley,Bournemouth,51,LB,England,EPL,2,2,M,H,175cm,76kg,21
+2016/2017,Maloney,Middlesbrough,51,CM,England,EPL,2,3,M,M,172cm,60kg,22
+2016/2017,Bullock,Manchester City,51,RB,England,EPL,2,4,H,M,180cm,72kg,19

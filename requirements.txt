@@ -1,0 +1,14 @@
+beautifulsoup4
+jupyter
+matplotlib
+numpy
+pandas
+pyperclip
+requests
+scikit-learn
+scipy
+seaborn
+selenium
+soccerdata
+statsmodels
+Unidecode

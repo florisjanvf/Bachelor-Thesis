@@ -1,0 +1,829 @@
+season,player_name,team,player_rating,position,nation,league,skill_moves,weak_foot_quality,work_rate_a,work_rate_d,player_height,player_weight,age
+2015/2016,Hazard,Chelsea,89,LM,Belgium,EPL,4,4,H,M,173cm,74kg,25
+2015/2016,Ibrahimovic,Manchester Utd,89,ST,Sweden,EPL,4,4,M,L,195cm,95kg,34
+2015/2016,David Silva,Manchester City,88,CAM,Spain,EPL,4,2,H,L,170cm,67kg,30
+2015/2016,Agüero,Manchester City,87,ST,Argentina,EPL,4,4,H,M,172cm,74kg,27
+2015/2016,Cesc Fàbregas,Chelsea,87,CM,Spain,EPL,3,3,H,M,175cm,74kg,29
+2015/2016,Özil,Arsenal,87,CAM,Germany,EPL,4,2,M,L,183cm,76kg,27
+2015/2016,Rooney,Manchester Utd,86,ST,England,EPL,3,4,M,H,176cm,83kg,30
+2015/2016,Schweinsteiger,Manchester Utd,86,CM,Germany,EPL,3,3,H,H,183cm,79kg,31
+2015/2016,Diego Costa,Chelsea,86,ST,Spain,EPL,3,4,H,M,188cm,85kg,27
+2015/2016,Sánchez,Arsenal,86,LW,Chile,EPL,4,3,H,H,169cm,62kg,27
+2015/2016,Courtois,Chelsea,86,GK,Belgium,EPL,1,3,M,M,199cm,88kg,24
+2015/2016,De Gea,Manchester Utd,86,GK,Spain,EPL,1,3,M,M,193cm,82kg,25
+2015/2016,De Bruyne,Manchester City,86,CAM,Belgium,EPL,4,5,H,M,181cm,76kg,24
+2015/2016,Pogba,Manchester Utd,86,CM,France,EPL,4,4,H,M,188cm,80kg,23
+2015/2016,Terry,Chelsea,85,CB,England,EPL,2,4,M,H,187cm,90kg,35
+2015/2016,Touré,Manchester City,85,CM,Ivory Coast,EPL,3,4,M,L,189cm,90kg,33
+2015/2016,Cech,Arsenal,85,GK,Czech Republic,EPL,1,3,M,M,196cm,90kg,34
+2015/2016,Kompany,Manchester City,85,CB,Belgium,EPL,2,3,M,M,192cm,85kg,30
+2015/2016,Santi Cazorla,Arsenal,85,CAM,Spain,EPL,4,5,M,M,168cm,66kg,31
+2015/2016,Lloris,Spurs,84,GK,France,EPL,1,1,M,M,188cm,78kg,29
+2015/2016,Juan Mata,Manchester Utd,84,RM,Spain,EPL,4,3,M,M,170cm,63kg,28
+2015/2016,Oscar,Chelsea,84,CAM,Brazil,EPL,4,3,M,H,179cm,67kg,24
+2015/2016,Coutinho,Liverpool,84,CAM,Brazil,EPL,4,4,H,M,171cm,68kg,23
+2015/2016,Matic,Chelsea,84,CDM,Serbia,EPL,3,3,M,H,194cm,84kg,27
+2015/2016,Otamendi,Manchester City,84,CB,Argentina,EPL,2,3,M,M,183cm,81kg,28
+2015/2016,Mertesacker,Arsenal,83,CB,Germany,EPL,2,3,M,M,198cm,90kg,31
+2015/2016,Hart,Manchester City,83,GK,England,EPL,1,3,M,M,196cm,91kg,29
+2015/2016,Baines,Everton,83,LB,England,EPL,3,3,H,M,170cm,70kg,31
+2015/2016,Cahill,Chelsea,83,CB,England,EPL,2,3,M,M,193cm,86kg,30
+2015/2016,Koscielny,Arsenal,83,CB,France,EPL,2,3,M,H,186cm,75kg,30
+2015/2016,Nasri,Manchester City,83,LM,France,EPL,4,4,H,M,175cm,75kg,28
+2015/2016,Falcao,Chelsea,83,ST,Colombia,EPL,4,4,H,M,177cm,72kg,30
+2015/2016,Sturridge,Liverpool,83,ST,England,EPL,3,2,M,L,188cm,76kg,26
+2015/2016,Pedro,Chelsea,83,LW,Spain,EPL,4,5,H,M,167cm,62kg,28
+2015/2016,Eriksen,Spurs,83,CAM,Denmark,EPL,4,5,H,M,177cm,71kg,24
+2015/2016,Gündogan,Manchester City,83,CM,Germany,EPL,4,4,H,M,180cm,80kg,25
+2015/2016,Mandanda,Crystal Palace,83,GK,France,EPL,1,3,M,M,185cm,82kg,31
+2015/2016,Mkhitaryan,Manchester Utd,83,RM,Armenia,EPL,4,5,H,H,177cm,75kg,27
+2015/2016,Bravo,Manchester City,83,GK,Chile,EPL,1,3,M,M,184cm,80kg,33
+2015/2016,David Luiz,Chelsea,83,CB,Brazil,EPL,3,3,H,M,189cm,84kg,29
+2015/2016,Victor Valdés,Manchester Utd,82,GK,Spain,EPL,1,3,M,M,183cm,78kg,34
+2015/2016,Zabaleta,Manchester City,82,RB,Argentina,EPL,3,3,H,H,178cm,76kg,31
+2015/2016,Begovic,Chelsea,82,GK,Bosnia Herzegovina,EPL,1,2,M,M,200cm,83kg,28
+2015/2016,Vertonghen,Spurs,82,CB,Belgium,EPL,2,3,H,M,189cm,86kg,29
+2015/2016,Schneiderlin,Manchester Utd,82,CDM,France,EPL,2,3,M,H,181cm,75kg,26
+2015/2016,Giroud,Arsenal,82,ST,France,EPL,2,3,M,M,192cm,88kg,29
+2015/2016,Willian,Chelsea,82,RM,Brazil,EPL,4,4,H,H,175cm,75kg,27
+2015/2016,Benteke,Liverpool,82,ST,Belgium,EPL,3,4,M,M,190cm,83kg,25
+2015/2016,Azpilicueta,Chelsea,82,LB,Spain,EPL,3,3,M,M,178cm,75kg,26
+2015/2016,Ramsey,Arsenal,82,CM,Wales,EPL,3,3,H,H,177cm,70kg,25
+2015/2016,Roberto Firmino,Liverpool,82,CAM,Brazil,EPL,4,3,H,M,181cm,76kg,24
+2015/2016,Sterling,Manchester City,82,LM,England,EPL,4,3,H,M,170cm,69kg,21
+2015/2016,Cuadrado,Chelsea,82,RM,Colombia,EPL,5,3,M,H,176cm,66kg,28
+2015/2016,Nolito,Manchester City,82,LW,Spain,EPL,4,3,H,L,175cm,72kg,29
+2015/2016,Xhaka,Arsenal,82,CM,Switzerland,EPL,3,4,M,M,185cm,82kg,23
+2015/2016,Benteke,Crystal Palace,82,ST,Belgium,EPL,3,4,M,M,190cm,83kg,25
+2015/2016,Mustafi,Arsenal,82,CB,Germany,EPL,2,3,L,H,184cm,82kg,24
+2015/2016,Mikel Arteta,Arsenal,81,CM,Spain,EPL,3,4,M,M,175cm,64kg,34
+2015/2016,Jagielka,Everton,81,CB,England,EPL,2,3,M,H,183cm,83kg,33
+2015/2016,Demichelis,Manchester City,81,CB,Argentina,EPL,2,3,L,M,184cm,78kg,35
+2015/2016,Jesús Navas,Manchester City,81,RM,Spain,EPL,4,3,M,M,170cm,60kg,30
+2015/2016,Walcott,Arsenal,81,RM,England,EPL,3,3,H,L,176cm,68kg,27
+2015/2016,Škrtel,Liverpool,81,CB,Slovakia,EPL,2,2,M,H,191cm,81kg,31
+2015/2016,José Fonte,Southampton,81,CB,Portugal,EPL,2,3,M,H,187cm,81kg,32
+2015/2016,Bojan,Stoke City,81,CAM,Spain,EPL,4,3,H,L,170cm,65kg,25
+2015/2016,Payet,West Ham,81,CAM,France,EPL,4,4,H,M,175cm,77kg,29
+2015/2016,Rémy,Chelsea,81,ST,France,EPL,4,3,M,M,185cm,80kg,29
+2015/2016,Coleman,Everton,81,RB,Republic of Ireland,EPL,3,3,H,H,177cm,77kg,27
+2015/2016,Sakho,Liverpool,81,CB,France,EPL,2,2,M,H,187cm,83kg,26
+2015/2016,Alderweireld,Spurs,81,CB,Belgium,EPL,2,4,M,M,186cm,75kg,27
+2015/2016,Darmian,Manchester Utd,81,RB,Italy,EPL,2,4,H,H,182cm,70kg,26
+2015/2016,Wilshere,Arsenal,81,CM,England,EPL,3,2,M,M,172cm,68kg,24
+2015/2016,Bony,Manchester City,81,ST,Ivory Coast,EPL,3,4,M,L,182cm,91kg,27
+2015/2016,Clyne,Liverpool,81,RB,England,EPL,3,3,H,M,175cm,67kg,25
+2015/2016,Ander Herrera,Manchester Utd,81,CM,Spain,EPL,4,4,H,M,182cm,73kg,26
+2015/2016,Rojo,Manchester Utd,81,CB,Argentina,EPL,2,2,M,M,186cm,82kg,26
+2015/2016,Depay,Manchester Utd,81,LW,Netherlands,EPL,4,2,H,M,176cm,78kg,22
+2015/2016,Feghouli,West Ham,81,RW,Algeria,EPL,4,3,H,M,177cm,75kg,26
+2015/2016,Matip,Liverpool,81,CB,Cameroon,EPL,2,2,M,M,195cm,90kg,24
+2015/2016,Williams,Everton,81,CB,Wales,EPL,2,4,M,H,181cm,91kg,31
+2015/2016,Rémy,Crystal Palace,81,ST,France,EPL,4,3,M,M,185cm,80kg,29
+2015/2016,Wilshere,Bournemouth,81,CM,England,EPL,3,2,M,M,172cm,68kg,24
+2015/2016,Bony,Stoke City,81,ST,Ivory Coast,EPL,3,4,M,L,182cm,91kg,27
+2015/2016,Pereyra,Watford,81,CM,Argentina,EPL,4,4,H,H,184cm,78kg,25
+2015/2016,Rosický,Arsenal,80,CAM,Czech Republic,EPL,3,3,H,H,178cm,65kg,35
+2015/2016,Howard,Everton,80,GK,United States,EPL,1,3,M,M,191cm,88kg,37
+2015/2016,Carrick,Manchester Utd,80,CM,England,EPL,2,3,L,M,188cm,74kg,34
+2015/2016,Fernandinho,Manchester City,80,CM,Brazil,EPL,3,4,M,H,176cm,67kg,31
+2015/2016,Vorm,Spurs,80,GK,Netherlands,EPL,1,3,M,M,183cm,87kg,32
+2015/2016,Milner,Liverpool,80,CM,England,EPL,3,4,H,H,176cm,70kg,30
+2015/2016,Clichy,Manchester City,80,LB,France,EPL,2,4,H,M,176cm,65kg,30
+2015/2016,Young,Manchester Utd,80,LM,England,EPL,4,3,H,M,175cm,65kg,30
+2015/2016,Debuchy,Arsenal,80,RB,France,EPL,3,3,H,M,177cm,76kg,30
+2015/2016,Inler,Leicester City,80,CDM,Switzerland,EPL,2,4,M,M,183cm,80kg,31
+2015/2016,Dembélé,Spurs,80,CM,Belgium,EPL,4,2,M,M,185cm,82kg,28
+2015/2016,Williams,Swansea City,80,CB,Wales,EPL,2,4,M,H,181cm,91kg,31
+2015/2016,Shawcross,Stoke City,80,CB,England,EPL,2,3,M,H,191cm,76kg,28
+2015/2016,Mirallas,Everton,80,LM,Belgium,EPL,4,4,H,M,182cm,70kg,28
+2015/2016,Nacho Monreal,Arsenal,80,LB,Spain,EPL,2,2,M,H,178cm,72kg,30
+2015/2016,Ivanovic,Chelsea,80,RB,Serbia,EPL,2,3,H,M,185cm,91kg,32
+2015/2016,Lallana,Liverpool,80,CAM,England,EPL,4,5,H,M,172cm,73kg,28
+2015/2016,Wijnaldum,Newcastle Utd,80,CAM,Netherlands,EPL,3,2,H,M,175cm,74kg,25
+2015/2016,Ramires,Chelsea,80,CDM,Brazil,EPL,3,3,H,H,180cm,70kg,29
+2015/2016,Gibbs,Arsenal,80,LB,England,EPL,3,2,H,M,178cm,70kg,26
+2015/2016,McCarthy,Everton,80,CDM,Republic of Ireland,EPL,3,4,M,H,180cm,72kg,25
+2015/2016,Rondón,West Brom,80,ST,Venezuela,EPL,4,4,H,M,189cm,85kg,26
+2015/2016,Mangala,Manchester City,80,CB,France,EPL,2,4,M,H,187cm,84kg,25
+2015/2016,Blind,Manchester Utd,80,CDM,Netherlands,EPL,3,3,M,H,180cm,72kg,26
+2015/2016,Lukaku,Everton,80,ST,Belgium,EPL,3,4,M,M,190cm,94kg,23
+2015/2016,Shaqiri,Stoke City,80,RM,Switzerland,EPL,4,4,H,M,169cm,72kg,24
+2015/2016,Jones,Manchester Utd,80,CB,England,EPL,2,3,M,H,185cm,71kg,24
+2015/2016,Zieler,Leicester City,80,GK,Germany,EPL,1,2,M,M,188cm,83kg,27
+2015/2016,Balotelli,Liverpool,80,ST,Italy,EPL,4,4,L,L,189cm,88kg,25
+2015/2016,Töre,West Ham,80,RM,Turkey,EPL,4,4,H,L,176cm,70kg,24
+2015/2016,Wijnaldum,Liverpool,80,LM,Netherlands,EPL,3,2,H,M,175cm,74kg,25
+2015/2016,Llorente,Swansea City,80,ST,Spain,EPL,2,3,M,M,195cm,90kg,31
+2015/2016,Sissoko,Spurs,80,RM,France,EPL,2,2,H,M,187cm,83kg,26
+2015/2016,Arbeloa,West Ham,80,RB,Spain,EPL,2,3,M,M,184cm,79kg,33
+2015/2016,Martins Indi,Stoke City,80,CB,Netherlands,EPL,2,3,M,H,185cm,80kg,24
+2015/2016,Barry,Everton,79,CDM,England,EPL,2,3,M,M,183cm,79kg,35
+2015/2016,Coloccini,Newcastle Utd,79,CB,Argentina,EPL,2,4,M,M,184cm,83kg,34
+2015/2016,Defoe,Sunderland,79,ST,England,EPL,3,4,M,M,170cm,70kg,33
+2015/2016,Adebayor,Spurs,79,ST,Togo,EPL,4,3,M,L,191cm,82kg,32
+2015/2016,Foster,West Brom,79,GK,England,EPL,1,3,M,M,193cm,90kg,33
+2015/2016,Kaboul,Sunderland,79,CB,France,EPL,2,3,H,M,191cm,87kg,30
+2015/2016,Sagna,Manchester City,79,RB,France,EPL,3,4,H,M,176cm,72kg,33
+2015/2016,Guzan,Aston Villa,79,GK,United States,EPL,1,2,M,M,193cm,95kg,31
+2015/2016,Valencia,Manchester Utd,79,RM,Ecuador,EPL,3,1,M,H,181cm,78kg,30
+2015/2016,Cabaye,Crystal Palace,79,CDM,France,EPL,3,4,M,M,175cm,72kg,30
+2015/2016,Richards,Aston Villa,79,CB,England,EPL,2,3,M,M,180cm,83kg,27
+2015/2016,Lamela,Spurs,79,RM,Argentina,EPL,4,2,M,M,183cm,70kg,24
+2015/2016,Krul,Newcastle Utd,79,GK,Netherlands,EPL,1,2,M,M,193cm,82kg,28
+2015/2016,Tioté,Newcastle Utd,79,CDM,Ivory Coast,EPL,3,3,M,M,180cm,86kg,29
+2015/2016,Lucas Leiva,Liverpool,79,CDM,Brazil,EPL,2,3,L,H,179cm,73kg,29
+2015/2016,Ayew,Swansea City,79,LM,Ghana,EPL,3,3,H,M,176cm,72kg,26
+2015/2016,Lens,Sunderland,79,LW,Netherlands,EPL,4,4,M,L,178cm,73kg,28
+2015/2016,Gradel,Bournemouth,79,LW,Ivory Coast,EPL,4,3,M,M,175cm,69kg,28
+2015/2016,Henderson,Liverpool,79,CM,England,EPL,3,3,H,H,182cm,67kg,25
+2015/2016,Ogbonna,West Ham,79,CB,Italy,EPL,2,3,M,H,191cm,86kg,28
+2015/2016,Fernando,Manchester City,79,CDM,Brazil,EPL,2,2,M,H,185cm,76kg,28
+2015/2016,Kolarov,Manchester City,79,LB,Serbia,EPL,2,3,H,M,187cm,83kg,30
+2015/2016,Welbeck,Arsenal,79,ST,England,EPL,3,3,H,H,185cm,73kg,25
+2015/2016,Walker,Spurs,79,RB,England,EPL,2,2,H,M,178cm,70kg,25
+2015/2016,Smalling,Manchester Utd,79,CB,England,EPL,2,3,M,M,192cm,81kg,26
+2015/2016,Lovren,Liverpool,79,CB,Croatia,EPL,2,4,H,H,188cm,84kg,26
+2015/2016,Oxlade-Chamberlain,Arsenal,79,RM,England,EPL,4,4,H,M,175cm,70kg,22
+2015/2016,Barkley,Everton,79,CAM,England,EPL,3,5,M,M,189cm,76kg,22
+2015/2016,Tadic,Southampton,79,LM,Serbia,EPL,4,2,M,M,181cm,76kg,27
+2015/2016,Chadli,Spurs,79,LM,Belgium,EPL,3,4,M,M,189cm,86kg,26
+2015/2016,Alberto Moreno,Liverpool,79,LWB,Spain,EPL,2,3,H,H,171cm,65kg,23
+2015/2016,Lescott,Aston Villa,79,CB,England,EPL,2,3,M,M,188cm,89kg,33
+2015/2016,Song,West Ham,79,CDM,Cameroon,EPL,3,3,M,M,185cm,74kg,28
+2015/2016,Szczesny,Arsenal,79,GK,Poland,EPL,1,3,M,M,196cm,84kg,26
+2015/2016,Cabella,Newcastle Utd,79,CAM,France,EPL,4,4,M,M,172cm,66kg,26
+2015/2016,Batshuayi,Chelsea,79,ST,Belgium,EPL,3,4,M,L,185cm,78kg,22
+2015/2016,Karius,Liverpool,79,GK,Germany,EPL,1,3,M,M,190cm,87kg,22
+2015/2016,Jesús Gámez,Newcastle Utd,79,RB,Spain,EPL,2,3,M,M,182cm,77kg,31
+2015/2016,Ayew,West Ham,79,RM,Ghana,EPL,3,3,H,M,176cm,72kg,26
+2015/2016,Kaboul,Watford,79,CB,France,EPL,2,3,H,M,191cm,87kg,30
+2015/2016,Chadli,West Brom,79,LM,Belgium,EPL,3,4,M,M,189cm,86kg,26
+2015/2016,Olsson,West Brom,78,CB,Sweden,EPL,2,3,M,M,193cm,84kg,33
+2015/2016,Touré,Liverpool,78,CB,Ivory Coast,EPL,2,3,M,M,178cm,76kg,35
+2015/2016,Huth,Leicester City,78,CB,Germany,EPL,2,3,M,H,191cm,88kg,31
+2015/2016,Caballero,Manchester City,78,GK,Argentina,EPL,1,3,M,M,186cm,80kg,34
+2015/2016,Dann,Crystal Palace,78,CB,England,EPL,2,3,L,M,191cm,79kg,29
+2015/2016,Fabianski,Swansea City,78,GK,Poland,EPL,1,2,M,M,190cm,83kg,31
+2015/2016,Johnson,Sunderland,78,RM,England,EPL,3,4,M,M,175cm,,28
+2015/2016,Bertrand,Southampton,78,LB,England,EPL,2,3,H,M,179cm,85kg,26
+2015/2016,Mignolet,Liverpool,78,GK,Belgium,EPL,1,2,M,M,193cm,87kg,28
+2015/2016,Reid,West Ham,78,CB,New Zealand,EPL,2,2,M,H,190cm,87kg,27
+2015/2016,Ospina,Arsenal,78,GK,Colombia,EPL,1,3,M,M,183cm,79kg,27
+2015/2016,Fellaini,Manchester Utd,78,CM,Belgium,EPL,3,3,M,M,194cm,85kg,28
+2015/2016,Cissé,Newcastle Utd,78,ST,Senegal,EPL,3,4,M,L,183cm,73kg,30
+2015/2016,Mulumbu,Norwich City,78,CDM,DR Congo,EPL,2,4,M,H,177cm,76kg,29
+2015/2016,Fazio,Spurs,78,CB,Argentina,EPL,2,2,M,M,195cm,91kg,29
+2015/2016,Carroll,West Ham,78,ST,England,EPL,2,3,M,M,191cm,79kg,27
+2015/2016,Sissoko,Newcastle Utd,78,CAM,France,EPL,2,2,H,M,187cm,83kg,26
+2015/2016,Yacob,West Brom,78,CDM,Argentina,EPL,2,3,M,H,181cm,73kg,28
+2015/2016,Arnautovic,Stoke City,78,LM,Austria,EPL,4,4,M,M,192cm,83kg,27
+2015/2016,Sigurðsson,Swansea City,78,CAM,Iceland,EPL,3,3,H,M,186cm,78kg,26
+2015/2016,M'Vila,Sunderland,78,CDM,France,EPL,2,3,M,M,182cm,80kg,25
+2015/2016,Diouf,Stoke City,78,ST,Senegal,EPL,3,3,M,M,185cm,79kg,28
+2015/2016,Coquelin,Arsenal,78,CDM,France,EPL,3,3,M,H,178cm,74kg,25
+2015/2016,Okazaki,Leicester City,78,ST,Japan,EPL,3,4,H,H,174cm,76kg,30
+2015/2016,Adrián,West Ham,78,GK,Spain,EPL,1,2,M,M,188cm,77kg,29
+2015/2016,Clasie,Southampton,78,CDM,Netherlands,EPL,2,4,M,H,169cm,70kg,24
+2015/2016,Cédric,Southampton,78,RB,Portugal,EPL,2,4,H,M,172cm,67kg,24
+2015/2016,Gabriel,Arsenal,78,CB,Brazil,EPL,2,2,L,H,187cm,72kg,25
+2015/2016,Ramírez,Southampton,78,CAM,Uruguay,EPL,4,3,M,M,183cm,78kg,25
+2015/2016,Fernández,Swansea City,78,CB,Argentina,EPL,2,2,M,H,190cm,83kg,27
+2015/2016,Kane,Spurs,78,ST,England,EPL,3,3,H,H,188cm,65kg,22
+2015/2016,Deulofeu,Everton,78,RM,Spain,EPL,4,4,H,L,179cm,73kg,22
+2015/2016,Mané,Southampton,78,CF,Senegal,EPL,4,3,H,M,175cm,75kg,24
+2015/2016,Baba,Chelsea,78,LB,Ghana,EPL,3,3,H,M,179cm,70kg,21
+2015/2016,Evans,West Brom,78,CB,Northern Ireland,EPL,2,2,L,M,189cm,80kg,28
+2015/2016,Djilobodji,Chelsea,78,CB,Senegal,EPL,2,2,M,M,193cm,82kg,27
+2015/2016,Ibarbo,Watford,78,RW,Colombia,EPL,4,3,H,M,188cm,79kg,26
+2015/2016,Mbokani,Norwich City,78,ST,DR Congo,EPL,3,3,M,M,185cm,73kg,30
+2015/2016,Mané,Liverpool,78,CF,Senegal,EPL,4,3,H,M,175cm,75kg,24
+2015/2016,Djilobodji,Sunderland,78,CB,Senegal,EPL,2,2,M,M,193cm,82kg,27
+2015/2016,Zaza,West Ham,78,ST,Italy,EPL,3,3,H,M,186cm,81kg,24
+2015/2016,Boufal,Southampton,78,LW,Morocco,EPL,5,4,H,L,170cm,60kg,22
+2015/2016,Lucas Pérez,Arsenal,78,ST,Spain,EPL,4,3,H,M,180cm,78kg,27
+2015/2016,Stekelenburg,Southampton,77,GK,Netherlands,EPL,1,4,M,M,197cm,92kg,33
+2015/2016,Distin,Bournemouth,77,CB,France,EPL,2,2,M,H,192cm,88kg,38
+2015/2016,Speroni,Crystal Palace,77,GK,Argentina,EPL,1,3,M,M,186cm,87kg,37
+2015/2016,Pienaar,Everton,77,LM,South Africa,EPL,4,4,H,M,170cm,66kg,34
+2015/2016,Johnson,Stoke City,77,RB,England,EPL,3,4,H,L,182cm,70kg,31
+2015/2016,Britton,Swansea City,77,CM,England,EPL,3,3,L,M,167cm,65kg,33
+2015/2016,Afellay,Stoke City,77,LW,Netherlands,EPL,4,4,M,M,180cm,76kg,30
+2015/2016,Gomis,Swansea City,77,ST,France,EPL,2,3,H,L,184cm,77kg,30
+2015/2016,Sessègnon,West Brom,77,CAM,Benin,EPL,4,3,M,L,168cm,75kg,31
+2015/2016,Pellè,Southampton,77,ST,Italy,EPL,2,4,H,M,194cm,84kg,30
+2015/2016,Mikel,Chelsea,77,CDM,Nigeria,EPL,2,3,M,H,188cm,83kg,29
+2015/2016,Rose,Spurs,77,LB,England,EPL,3,3,H,M,173cm,72kg,25
+2015/2016,Cattermole,Sunderland,77,CDM,England,EPL,2,3,L,H,178cm,76kg,28
+2015/2016,Cork,Swansea City,77,CDM,England,EPL,2,4,M,H,185cm,69kg,26
+2015/2016,Rodriguez,Southampton,77,LM,England,EPL,3,4,H,L,185cm,70kg,26
+2015/2016,José Enrique,Liverpool,77,LB,Spain,EPL,3,2,M,M,184cm,76kg,30
+2015/2016,Capoue,Watford,77,CDM,France,EPL,2,3,L,M,189cm,80kg,27
+2015/2016,Ki Sung Yueng,Swansea City,77,CM,Korea Republic,EPL,3,4,H,M,186cm,75kg,27
+2015/2016,Holebas,Watford,77,LB,Greece,EPL,3,2,H,M,184cm,77kg,31
+2015/2016,Sánchez,Aston Villa,77,CDM,Colombia,EPL,2,3,H,M,182cm,82kg,30
+2015/2016,Clark,Aston Villa,77,CB,Republic of Ireland,EPL,2,2,M,M,188cm,76kg,26
+2015/2016,Delph,Manchester City,77,CM,England,EPL,3,3,H,H,174cm,60kg,26
+2015/2016,Allen,Liverpool,77,CM,Wales,EPL,3,3,M,M,168cm,62kg,26
+2015/2016,de Jong,Newcastle Utd,77,CAM,Netherlands,EPL,2,4,H,M,185cm,80kg,27
+2015/2016,Cameron,Stoke City,77,CB,United States,EPL,2,3,M,M,191cm,84kg,30
+2015/2016,Montero,Swansea City,77,LW,Ecuador,EPL,4,4,H,H,169cm,64kg,26
+2015/2016,Janmaat,Newcastle Utd,77,RB,Netherlands,EPL,3,3,H,M,185cm,80kg,26
+2015/2016,Wanyama,Southampton,77,CDM,Kenya,EPL,2,3,M,H,188cm,76kg,24
+2015/2016,Shelvey,Swansea City,77,CM,England,EPL,2,3,M,L,184cm,83kg,24
+2015/2016,Cleverley,Everton,77,CM,England,EPL,3,3,M,M,175cm,67kg,26
+2015/2016,Nyom,Watford,77,RB,Cameroon,EPL,2,2,H,M,189cm,81kg,28
+2015/2016,Caulker,Southampton,77,CB,England,EPL,2,2,M,H,191cm,77kg,24
+2015/2016,Zaha,Crystal Palace,77,RW,England,EPL,4,3,M,L,180cm,66kg,23
+2015/2016,Stones,Everton,77,CB,England,EPL,2,3,H,M,188cm,75kg,21
+2015/2016,Okore,Aston Villa,77,CB,Denmark,EPL,2,3,M,H,183cm,80kg,23
+2015/2016,Zouma,Chelsea,77,CB,France,EPL,2,3,M,M,190cm,85kg,21
+2015/2016,Shaw,Manchester Utd,77,LB,England,EPL,2,2,H,M,185cm,75kg,20
+2015/2016,Wimmer,Spurs,77,CB,Austria,EPL,2,3,M,M,187cm,85kg,23
+2015/2016,Mbemba,Newcastle Utd,77,CB,DR Congo,EPL,2,3,H,M,182cm,82kg,21
+2015/2016,Lindegaard,West Brom,77,GK,Denmark,EPL,1,3,M,M,193cm,79kg,32
+2015/2016,Lennon,Everton,77,RM,England,EPL,3,3,H,M,165cm,63kg,29
+2015/2016,Son,Spurs,77,LM,Korea Republic,EPL,3,5,M,M,184cm,79kg,23
+2015/2016,van Dijk,Southampton,77,CB,Netherlands,EPL,2,3,H,M,193cm,92kg,24
+2015/2016,Martial,Manchester Utd,77,ST,France,EPL,3,4,H,M,181cm,76kg,20
+2015/2016,Iturbe,Bournemouth,77,RW,Argentina,EPL,4,3,H,M,172cm,68kg,22
+2015/2016,Markovic,Liverpool,77,RM,Serbia,EPL,4,3,M,M,175cm,66kg,22
+2015/2016,Marin,Chelsea,77,CAM,Germany,EPL,4,4,H,M,170cm,64kg,27
+2015/2016,Wanyama,Spurs,77,CDM,Kenya,EPL,2,3,M,H,188cm,76kg,24
+2015/2016,Stekelenburg,Everton,77,GK,Netherlands,EPL,1,4,M,M,197cm,92kg,33
+2015/2016,Nordtveit,West Ham,77,CB,Norway,EPL,2,3,M,M,188cm,83kg,25
+2015/2016,Bailly,Manchester Utd,77,CB,Ivory Coast,EPL,2,2,H,L,187cm,77kg,22
+2015/2016,Klavan,Liverpool,77,CB,Estonia,EPL,2,3,H,M,187cm,85kg,30
+2015/2016,Zúñiga,Watford,77,LB,Colombia,EPL,4,2,H,M,172cm,72kg,30
+2015/2016,Kanté,Chelsea,77,CM,France,EPL,3,3,M,M,169cm,69kg,25
+2015/2016,Allen,Stoke City,77,CM,Wales,EPL,3,3,M,M,168cm,62kg,26
+2015/2016,Stones,Manchester City,77,CB,England,EPL,2,3,H,M,188cm,75kg,21
+2015/2016,Clark,Newcastle Utd,77,CB,Republic of Ireland,EPL,2,2,M,M,188cm,76kg,26
+2015/2016,Bolasie,Everton,77,LM,DR Congo,EPL,5,4,H,M,185cm,84kg,27
+2015/2016,Pienaar,Sunderland,77,LM,South Africa,EPL,4,4,H,M,170cm,66kg,34
+2015/2016,Nyom,West Brom,77,RB,Cameroon,EPL,2,2,H,M,189cm,81kg,28
+2015/2016,Janmaat,Watford,77,RB,Netherlands,EPL,3,3,H,M,185cm,80kg,26
+2015/2016,Crouch,Stoke City,76,ST,England,EPL,3,3,M,M,201cm,84kg,35
+2015/2016,Routledge,Swansea City,76,LM,England,EPL,4,4,H,H,170cm,77kg,31
+2015/2016,Boruc,Bournemouth,76,GK,Poland,EPL,1,3,M,M,193cm,87kg,36
+2015/2016,Koné,Everton,76,ST,Ivory Coast,EPL,4,4,M,M,182cm,81kg,32
+2015/2016,Davis,Southampton,76,CM,Northern Ireland,EPL,3,3,H,H,173cm,72kg,31
+2015/2016,Noble,West Ham,76,CM,England,EPL,3,3,H,H,180cm,76kg,29
+2015/2016,Zárate,West Ham,76,ST,Argentina,EPL,4,4,M,L,176cm,76kg,29
+2015/2016,Àngel Rangel,Swansea City,76,RB,Spain,EPL,3,3,H,M,180cm,82kg,33
+2015/2016,McGeady,Everton,76,RM,Republic of Ireland,EPL,5,4,H,M,177cm,71kg,30
+2015/2016,Flamini,Arsenal,76,CDM,France,EPL,2,3,M,H,178cm,67kg,32
+2015/2016,Taylor,Newcastle Utd,76,CB,England,EPL,2,3,M,H,186cm,91kg,30
+2015/2016,Behrami,Watford,76,CDM,Switzerland,EPL,2,4,M,H,185cm,78kg,31
+2015/2016,Naismith,Everton,76,CAM,Scotland,EPL,3,3,H,H,178cm,72kg,29
+2015/2016,Fletcher,Sunderland,76,ST,Scotland,EPL,2,3,M,L,186cm,76kg,29
+2015/2016,Michu,Swansea City,76,ST,Spain,EPL,3,3,H,H,185cm,80kg,30
+2015/2016,Gibson,Everton,76,CM,Republic of Ireland,EPL,2,4,M,M,180cm,80kg,28
+2015/2016,McArthur,Crystal Palace,76,CDM,Scotland,EPL,3,3,M,M,178cm,64kg,28
+2015/2016,Forster,Southampton,76,GK,England,EPL,1,5,M,M,201cm,93kg,28
+2015/2016,Romero,Manchester Utd,76,GK,Argentina,EPL,1,3,M,M,192cm,87kg,29
+2015/2016,Prödl,Watford,76,CB,Austria,EPL,2,2,M,M,194cm,92kg,28
+2015/2016,Jedinák,Crystal Palace,76,CDM,Australia,EPL,2,3,M,H,188cm,78kg,31
+2015/2016,Rodwell,Sunderland,76,CM,England,EPL,3,4,M,H,188cm,71kg,25
+2015/2016,Olsson,Norwich City,76,LB,Sweden,EPL,3,2,H,M,178cm,81kg,28
+2015/2016,Trippier,Spurs,76,RB,England,EPL,3,4,H,H,179cm,71kg,25
+2015/2016,Ward,Crystal Palace,76,RB,England,EPL,2,3,H,M,187cm,83kg,26
+2015/2016,Tabanou,Swansea City,76,LB,France,EPL,3,3,H,M,178cm,70kg,27
+2015/2016,Lanzini,West Ham,76,CAM,Argentina,EPL,4,3,M,M,170cm,66kg,23
+2015/2016,Bolasie,Crystal Palace,76,LW,DR Congo,EPL,5,4,H,M,185cm,84kg,27
+2015/2016,Pantilimon,Sunderland,76,GK,Romania,EPL,1,2,M,M,203cm,96kg,29
+2015/2016,Souaré,Crystal Palace,76,LB,Senegal,EPL,2,2,H,M,178cm,69kg,25
+2015/2016,Ayew,Aston Villa,76,ST,Ghana,EPL,3,3,M,M,182cm,81kg,24
+2015/2016,Wollscheid,Stoke City,76,CB,Germany,EPL,2,4,M,M,194cm,88kg,27
+2015/2016,Veretout,Aston Villa,76,CM,France,EPL,3,3,M,H,176cm,66kg,23
+2015/2016,Berahino,West Brom,76,ST,England,EPL,3,4,M,M,180cm,83kg,22
+2015/2016,Campbell,Arsenal,76,RM,Costa Rica,EPL,4,2,H,M,178cm,72kg,24
+2015/2016,Thauvin,Newcastle Utd,76,RM,France,EPL,4,3,H,M,179cm,70kg,23
+2015/2016,Atsu,Bournemouth,76,LW,Ghana,EPL,3,2,H,M,172cm,68kg,24
+2015/2016,Davies,Spurs,76,LB,Wales,EPL,2,3,H,H,181cm,76kg,23
+2015/2016,Origi,Liverpool,76,ST,Belgium,EPL,4,3,H,M,185cm,75kg,21
+2015/2016,Mitrovic,Newcastle Utd,76,ST,Serbia,EPL,2,4,M,L,189cm,82kg,21
+2015/2016,Kanté,Leicester City,76,CM,France,EPL,3,3,M,M,169cm,69kg,25
+2015/2016,Valencia,West Ham,76,ST,Ecuador,EPL,2,3,H,L,174cm,74kg,26
+2015/2016,Moses,West Ham,76,LM,Nigeria,EPL,4,4,M,M,177cm,85kg,25
+2015/2016,Dyer,Leicester City,76,RM,England,EPL,4,3,H,H,167cm,62kg,28
+2015/2016,Borini,Sunderland,76,ST,Italy,EPL,3,3,M,M,180cm,74kg,25
+2015/2016,Atsu,Chelsea,76,CM,Ghana,EPL,3,2,H,M,172cm,68kg,24
+2015/2016,Emenike,West Ham,76,ST,Nigeria,EPL,3,4,H,L,182cm,90kg,29
+2015/2016,Moses,Chelsea,76,LM,Nigeria,EPL,4,4,M,M,177cm,85kg,25
+2015/2016,Dyer,Swansea City,76,RM,England,EPL,4,3,H,H,167cm,62kg,28
+2015/2016,Giaccherini,Sunderland,76,LW,Italy,EPL,3,3,H,M,167cm,60kg,31
+2015/2016,Mendy,Leicester City,76,CDM,France,EPL,3,3,M,H,168cm,68kg,23
+2015/2016,Musa,Leicester City,76,ST,Nigeria,EPL,4,3,H,M,168cm,69kg,23
+2015/2016,Dja Djédjé,Watford,76,RB,Ivory Coast,EPL,2,2,H,M,170cm,71kg,25
+2015/2016,Okaka Chuka,Watford,76,ST,Italy,EPL,2,5,M,M,186cm,82kg,26
+2015/2016,Jedinák,Aston Villa,76,CDM,Australia,EPL,2,3,M,H,188cm,78kg,31
+2015/2016,Atsu,Newcastle Utd,76,LW,Ghana,EPL,3,2,H,M,172cm,68kg,24
+2015/2016,Valencia,Everton,76,ST,Ecuador,EPL,2,3,H,L,174cm,74kg,26
+2015/2016,Given,Stoke City,75,GK,Republic of Ireland,EPL,1,3,M,M,185cm,84kg,40
+2015/2016,O'Shea,Sunderland,75,CB,Republic of Ireland,EPL,2,3,M,H,190cm,84kg,35
+2015/2016,Brown,Sunderland,75,CB,England,EPL,2,3,M,H,185cm,77kg,36
+2015/2016,Lambert,West Brom,75,ST,England,EPL,2,4,H,M,188cm,77kg,34
+2015/2016,Collins,West Ham,75,CB,Wales,EPL,2,2,L,H,193cm,90kg,32
+2015/2016,Deeney,Watford,75,ST,England,EPL,3,3,H,M,183cm,90kg,27
+2015/2016,Benalouane,Leicester City,75,CB,Tunisia,EPL,2,3,M,H,185cm,85kg,29
+2015/2016,Gomes,Watford,75,GK,Brazil,EPL,1,2,M,M,191cm,91kg,35
+2015/2016,Odemwingie,Stoke City,75,RM,Nigeria,EPL,3,4,H,L,182cm,74kg,34
+2015/2016,Fletcher,West Brom,75,CM,Scotland,EPL,2,3,M,H,184cm,74kg,32
+2015/2016,Hoolahan,Norwich City,75,CAM,Republic of Ireland,EPL,4,2,H,L,168cm,71kg,34
+2015/2016,Puncheon,Crystal Palace,75,CAM,England,EPL,3,2,M,L,173cm,71kg,29
+2015/2016,Adam,Stoke City,75,CM,Scotland,EPL,3,3,M,L,185cm,82kg,30
+2015/2016,Gouffran,Newcastle Utd,75,LM,France,EPL,3,3,M,M,176cm,76kg,30
+2015/2016,Marveaux,Newcastle Utd,75,CAM,France,EPL,3,3,M,M,172cm,66kg,30
+2015/2016,Osman,Everton,75,LM,England,EPL,3,3,M,M,173cm,64kg,35
+2015/2016,Jurado,Watford,75,LM,Spain,EPL,4,4,M,L,176cm,72kg,29
+2015/2016,Whelan,Stoke City,75,CDM,Republic of Ireland,EPL,3,4,M,H,180cm,80kg,32
+2015/2016,Pocognoli,West Brom,75,LB,Belgium,EPL,3,3,H,M,183cm,78kg,28
+2015/2016,Schmeichel,Leicester City,75,GK,Denmark,EPL,1,3,M,M,185cm,76kg,29
+2015/2016,Ruddy,Norwich City,75,GK,England,EPL,1,3,M,M,193cm,97kg,29
+2015/2016,Diamanti,Watford,75,CF,Italy,EPL,4,2,M,M,180cm,73kg,33
+2015/2016,Jerome,Norwich City,75,ST,England,EPL,3,2,M,H,185cm,85kg,29
+2015/2016,Long,Southampton,75,ST,Republic of Ireland,EPL,3,3,H,H,180cm,81kg,29
+2015/2016,Ireland,Stoke City,75,CAM,Republic of Ireland,EPL,3,3,M,M,173cm,66kg,29
+2015/2016,Bassong,Norwich City,75,CB,Cameroon,EPL,2,3,M,M,187cm,73kg,29
+2015/2016,Joselu,Stoke City,75,ST,Spain,EPL,3,3,M,M,192cm,80kg,26
+2015/2016,Gardner,West Brom,75,CM,England,EPL,2,3,H,M,176cm,82kg,29
+2015/2016,Sako,Crystal Palace,75,LM,Mali,EPL,3,3,H,M,184cm,91kg,28
+2015/2016,Kouyaté,West Ham,75,CDM,Senegal,EPL,2,3,M,M,193cm,78kg,26
+2015/2016,Westwood,Aston Villa,75,CM,England,EPL,2,3,M,M,170cm,67kg,26
+2015/2016,McCarthy,Crystal Palace,75,GK,England,EPL,1,2,M,M,193cm,79kg,26
+2015/2016,Éder,Swansea City,75,ST,Portugal,EPL,4,4,M,M,188cm,81kg,28
+2015/2016,Mason,Spurs,75,CM,England,EPL,3,3,H,M,175cm,68kg,24
+2015/2016,McAuley,West Brom,75,CB,Northern Ireland,EPL,2,3,L,H,195cm,90kg,36
+2015/2016,Jordi Amat,Swansea City,75,CB,Spain,EPL,2,3,L,H,185cm,83kg,24
+2015/2016,van Ginkel,Stoke City,75,CM,Netherlands,EPL,3,4,H,M,186cm,82kg,23
+2015/2016,Berghuis,Watford,75,RW,Netherlands,EPL,3,3,M,L,182cm,70kg,24
+2015/2016,Bešic,Everton,75,CDM,Bosnia Herzegovina,EPL,2,3,M,H,177cm,78kg,23
+2015/2016,Can,Liverpool,75,CDM,Germany,EPL,3,4,M,M,188cm,82kg,22
+2015/2016,Bentaleb,Spurs,75,CM,Algeria,EPL,2,3,M,M,187cm,68kg,21
+2015/2016,Amavi,Aston Villa,75,LB,France,EPL,3,3,H,M,176cm,70kg,22
+2015/2016,Toivonen,Sunderland,75,ST,Sweden,EPL,2,3,M,M,189cm,81kg,29
+2015/2016,Funes Mori,Everton,75,CB,Argentina,EPL,2,3,M,M,186cm,80kg,25
+2015/2016,Marc Muniesa,Stoke City,75,CB,Spain,EPL,2,3,M,M,179cm,72kg,24
+2015/2016,Gueye,Aston Villa,75,CM,Senegal,EPL,2,3,M,H,174cm,72kg,26
+2015/2016,Colback,Newcastle Utd,75,CDM,England,EPL,2,3,M,H,176cm,70kg,26
+2015/2016,Townsend,Spurs,75,RM,England,EPL,3,4,H,M,181cm,81kg,24
+2015/2016,Ings,Liverpool,75,ST,England,EPL,3,3,H,H,178cm,73kg,23
+2015/2016,Januzaj,Manchester Utd,75,LM,Belgium,EPL,4,4,M,M,180cm,75kg,21
+2015/2016,Lucas Piazon,Chelsea,75,CAM,Brazil,EPL,3,4,H,L,182cm,75kg,22
+2015/2016,Luis Alberto,Liverpool,75,CAM,Spain,EPL,3,4,M,L,182cm,72kg,23
+2015/2016,Vergini,Sunderland,75,CB,Argentina,EPL,2,3,M,H,191cm,83kg,27
+2015/2016,Townsend,Crystal Palace,75,RM,England,EPL,3,4,H,M,181cm,81kg,24
+2015/2016,van Ginkel,Chelsea,75,CM,Netherlands,EPL,3,4,H,M,186cm,82kg,23
+2015/2016,Sels,Newcastle Utd,75,GK,Belgium,EPL,1,3,M,M,189cm,82kg,24
+2015/2016,McCarthy,Southampton,75,GK,England,EPL,1,2,M,M,193cm,79kg,26
+2015/2016,Gueye,Everton,75,CM,Senegal,EPL,2,3,M,H,174cm,72kg,26
+2015/2016,Sané,Manchester City,75,RM,Germany,EPL,3,4,M,M,183cm,75kg,20
+2015/2016,Masuaku,West Ham,75,LB,France,EPL,2,2,H,M,179cm,70kg,22
+2015/2016,McCormack,Aston Villa,75,ST,Scotland,EPL,3,4,H,M,175cm,74kg,29
+2015/2016,Januzaj,Sunderland,75,LM,Belgium,EPL,4,4,M,M,180cm,75kg,21
+2015/2016,Marcos Alonso,Chelsea,75,LM,Spain,EPL,2,3,H,M,188cm,81kg,25
+2015/2016,Pedro Obiang,West Ham,74,CM,Spain,EPL,2,3,M,M,185cm,,24
+2015/2016,Jenkinson,West Ham,74,RB,England,EPL,2,3,H,H,185cm,,24
+2015/2016,Dier,Spurs,74,CB,England,EPL,2,3,M,H,188cm,86kg,22
+2015/2016,Butland,Stoke City,74,GK,England,EPL,1,3,M,M,196cm,95kg,23
+2015/2016,Héctor Bellerín,Arsenal,74,RB,Spain,EPL,3,3,M,M,177cm,74kg,21
+2015/2016,Zuculini,Manchester City,74,CM,Argentina,EPL,2,3,M,M,182cm,74kg,23
+2015/2016,Gardos,Southampton,74,CB,Romania,EPL,2,3,M,H,193cm,88kg,27
+2015/2016,Ward-Prowse,Southampton,74,CAM,England,EPL,3,3,H,M,173cm,66kg,21
+2015/2016,Traoré,Chelsea,74,ST,Burkina Faso,EPL,4,3,M,L,180cm,72kg,20
+2015/2016,Carles Gil,Aston Villa,74,RM,Spain,EPL,3,3,M,H,170cm,,23
+2015/2016,Belkalem,Watford,74,CB,Algeria,EPL,2,3,M,H,190cm,,27
+2015/2016,Jarvis,Norwich City,74,LM,England,EPL,3,4,M,H,170cm,73kg,30
+2015/2016,Jelavic,West Ham,74,ST,Croatia,EPL,3,4,M,H,187cm,84kg,30
+2015/2016,Antonio,West Ham,74,LM,England,EPL,4,4,M,M,180cm,79kg,26
+2015/2016,Ilori,Aston Villa,74,CB,Portugal,EPL,2,3,M,M,190cm,80kg,23
+2015/2016,Tremmel,Swansea City,74,GK,Germany,EPL,1,3,M,M,191cm,89kg,37
+2015/2016,Chamakh,Crystal Palace,74,CAM,Morocco,EPL,3,3,M,H,185cm,70kg,32
+2015/2016,Sidwell,Stoke City,74,CDM,England,EPL,3,3,M,M,178cm,80kg,33
+2015/2016,Fuchs,Leicester City,74,LWB,Austria,EPL,3,2,M,M,186cm,86kg,30
+2015/2016,Tettey,Norwich City,74,CM,Norway,EPL,3,3,M,M,180cm,,30
+2015/2016,Delaney,Crystal Palace,74,CB,Republic of Ireland,EPL,2,3,M,M,191cm,89kg,34
+2015/2016,Morrison,West Brom,74,CM,Scotland,EPL,3,3,M,M,178cm,64kg,30
+2015/2016,Larsson,Sunderland,74,CM,Sweden,EPL,2,3,M,M,178cm,70kg,30
+2015/2016,N'Zogbia,Aston Villa,74,CAM,France,EPL,4,2,M,L,171cm,70kg,29
+2015/2016,Ledley,Crystal Palace,74,CM,Wales,EPL,3,2,M,H,183cm,73kg,29
+2015/2016,Wilson,Stoke City,74,CB,Republic of Ireland,EPL,2,4,M,M,188cm,80kg,28
+2015/2016,Amalfitano,West Ham,74,RM,France,EPL,3,4,M,L,176cm,68kg,31
+2015/2016,Sinclair,Aston Villa,74,LM,England,EPL,4,2,H,M,177cm,69kg,27
+2015/2016,Bridcutt,Sunderland,74,CDM,Scotland,EPL,3,3,M,H,171cm,76kg,27
+2015/2016,Dorrans,Norwich City,74,CM,Scotland,EPL,3,3,M,M,175cm,73kg,29
+2015/2016,Taylor,Swansea City,74,LB,Wales,EPL,2,3,M,M,177cm,75kg,27
+2015/2016,Pieters,Stoke City,74,LB,Netherlands,EPL,2,2,M,M,182cm,86kg,27
+2015/2016,Mannone,Sunderland,74,GK,Italy,EPL,1,3,M,M,188cm,80kg,28
+2015/2016,Hooper,Norwich City,74,ST,England,EPL,2,2,M,M,175cm,71kg,28
+2015/2016,Howson,Norwich City,74,CM,England,EPL,3,4,M,H,181cm,77kg,28
+2015/2016,Anita,Newcastle Utd,74,CDM,Netherlands,EPL,3,3,M,H,168cm,65kg,27
+2015/2016,Kelly,Crystal Palace,74,RB,England,EPL,3,3,M,M,191cm,77kg,26
+2015/2016,van Aanholt,Sunderland,74,LB,Netherlands,EPL,3,3,H,M,175cm,67kg,25
+2015/2016,Ritchie,Bournemouth,74,RM,Scotland,EPL,3,4,H,M,173cm,71kg,26
+2015/2016,Naughton,Swansea City,74,RB,England,EPL,3,3,M,M,180cm,73kg,27
+2015/2016,Kozák,Aston Villa,74,ST,Czech Republic,EPL,2,3,M,M,193cm,82kg,26
+2015/2016,Britos,Watford,74,CB,Uruguay,EPL,2,3,M,M,188cm,82kg,30
+2015/2016,Sakho,West Ham,74,ST,Senegal,EPL,3,3,M,M,184cm,79kg,26
+2015/2016,Matthews,Sunderland,74,RB,Wales,EPL,2,3,H,M,178cm,71kg,24
+2015/2016,Joel Robles,Everton,74,GK,Spain,EPL,1,2,M,M,195cm,90kg,25
+2015/2016,Wilson,Bournemouth,74,ST,England,EPL,3,3,H,M,180cm,66kg,24
+2015/2016,McClean,West Brom,74,LM,Republic of Ireland,EPL,4,2,M,M,180cm,70kg,27
+2015/2016,Gamboa,West Brom,74,RB,Costa Rica,EPL,2,3,M,M,175cm,67kg,26
+2015/2016,Redmond,Norwich City,74,RM,England,EPL,4,3,M,M,173cm,75kg,22
+2015/2016,Cissokho,Aston Villa,74,LB,France,EPL,2,2,H,M,181cm,75kg,28
+2015/2016,Turner,Norwich City,74,CB,England,EPL,2,3,L,M,193cm,90kg,32
+2015/2016,Wellington Silva,Arsenal,74,RM,Brazil,EPL,5,3,M,M,170cm,68kg,23
+2015/2016,Jenkinson,Arsenal,74,RB,England,EPL,2,3,H,H,185cm,77kg,24
+2015/2016,Kalas,Chelsea,74,RB,Czech Republic,EPL,2,3,M,M,182cm,73kg,23
+2015/2016,Sidwell,Stoke City,74,CM,England,EPL,3,3,M,M,178cm,80kg,33
+2015/2016,Luís Hernández,Leicester City,74,CB,Spain,EPL,2,4,M,H,182cm,74kg,27
+2015/2016,Mooy,Manchester City,74,CM,Australia,EPL,3,3,M,M,176cm,,25
+2015/2016,Juanfran,Watford,74,RB,Spain,EPL,3,3,H,M,179cm,72kg,27
+2015/2016,Ritchie,Newcastle Utd,74,RM,Scotland,EPL,3,4,H,M,173cm,71kg,26
+2015/2016,Phillips,West Brom,74,RM,Scotland,EPL,4,4,M,M,183cm,75kg,25
+2015/2016,Redmond,Southampton,74,RM,England,EPL,4,3,H,M,173cm,75kg,22
+2015/2016,Diamé,Newcastle Utd,74,CAM,Senegal,EPL,3,3,M,H,185cm,,28
+2015/2016,Wilson,Bournemouth,74,CB,Republic of Ireland,EPL,2,4,M,M,188cm,80kg,28
+2015/2016,Calleri,West Ham,74,ST,Argentina,EPL,3,2,H,M,175cm,70kg,22
+2015/2016,Nélson Oliveira,Norwich City,74,ST,Portugal,EPL,3,3,H,M,186cm,82kg,24
+2015/2016,Schwarzer,Leicester City,73,GK,Australia,EPL,1,3,M,M,194cm,95kg,43
+2015/2016,Hangeland,Crystal Palace,73,CB,Norway,EPL,2,3,M,M,196cm,92kg,34
+2015/2016,Brunt,West Brom,73,LM,Northern Ireland,EPL,3,3,M,M,185cm,,31
+2015/2016,Morgan,Leicester City,73,CB,Jamaica,EPL,2,3,M,M,185cm,93kg,32
+2015/2016,Abdi,Watford,73,CAM,Switzerland,EPL,3,4,M,M,182cm,75kg,29
+2015/2016,Richardson,Aston Villa,73,LM,England,EPL,3,3,M,M,175cm,69kg,31
+2015/2016,Hutton,Aston Villa,73,RB,Scotland,EPL,2,3,M,M,185cm,73kg,31
+2015/2016,Williamson,Newcastle Utd,73,CB,England,EPL,2,3,M,M,194cm,,32
+2015/2016,Lee Chung Yong,Crystal Palace,73,RM,Korea Republic,EPL,4,3,M,M,178cm,60kg,27
+2015/2016,Martin,Norwich City,73,CB,Scotland,EPL,2,3,M,M,183cm,74kg,30
+2015/2016,Agbonlahor,Aston Villa,73,CF,England,EPL,3,4,M,M,180cm,79kg,29
+2015/2016,Federici,Bournemouth,73,GK,Australia,EPL,1,2,M,M,188cm,90kg,31
+2015/2016,Ulloa,Leicester City,73,ST,Argentina,EPL,2,4,H,M,185cm,80kg,29
+2015/2016,Anichebe,West Brom,73,ST,Nigeria,EPL,2,3,H,M,185cm,80kg,28
+2015/2016,Hennessey,Crystal Palace,73,GK,Wales,EPL,1,3,M,M,198cm,90kg,29
+2015/2016,Tomkins,West Ham,73,CB,England,EPL,2,2,M,M,191cm,74kg,27
+2015/2016,Arter,Bournemouth,73,CM,Republic of Ireland,EPL,3,5,H,H,178cm,,26
+2015/2016,Bogdán,Liverpool,73,GK,Hungary,EPL,1,3,M,M,194cm,,28
+2015/2016,Gestede,Aston Villa,73,ST,Benin,EPL,2,3,H,M,193cm,86kg,27
+2015/2016,Cresswell,West Ham,73,LB,England,EPL,2,3,M,M,170cm,,26
+2015/2016,McManaman,West Brom,73,RW,England,EPL,4,4,H,M,174cm,71kg,25
+2015/2016,Wickham,Crystal Palace,73,ST,England,EPL,2,3,H,M,189cm,90kg,23
+2015/2016,Yoshida,Southampton,73,CB,Japan,EPL,2,4,M,M,189cm,78kg,27
+2015/2016,Bacuna,Aston Villa,73,RB,Netherlands,EPL,3,3,M,M,187cm,77kg,24
+2015/2016,Oriol Romeu,Southampton,73,CDM,Spain,EPL,2,3,M,H,183cm,83kg,24
+2015/2016,Mahrez,Leicester City,73,RM,Algeria,EPL,4,4,M,M,179cm,62kg,25
+2015/2016,Ayoze Pérez,Newcastle Utd,73,ST,Spain,EPL,3,4,H,M,179cm,66kg,22
+2015/2016,Kramaric,Leicester City,73,ST,Croatia,EPL,4,4,M,M,180cm,70kg,24
+2015/2016,Angella,Watford,73,CB,Italy,EPL,2,3,M,M,191cm,,27
+2015/2016,Vydra,Watford,73,ST,Czech Republic,EPL,3,4,H,M,180cm,73kg,24
+2015/2016,Kabasele,Watford,73,CB,Belgium,EPL,2,3,L,H,187cm,84kg,25
+2015/2016,Doucouré,Watford,73,CM,France,EPL,2,3,H,M,183cm,75kg,23
+2015/2016,van Wolfswinkel,Norwich City,73,ST,Netherlands,EPL,3,4,M,M,186cm,,27
+2015/2016,Tomkins,Crystal Palace,73,CB,England,EPL,2,2,M,M,191cm,74kg,27
+2015/2016,Højbjerg,Southampton,73,CM,Denmark,EPL,3,4,M,M,185cm,84kg,20
+2015/2016,van der Hoorn,Swansea City,73,CB,Netherlands,EPL,2,3,M,H,190cm,82kg,23
+2015/2016,Murphy,Newcastle Utd,73,ST,Republic of Ireland,EPL,2,3,H,M,189cm,82kg,33
+2015/2016,Murray,Bournemouth,72,ST,England,EPL,2,3,M,M,185cm,84kg,32
+2015/2016,Cole,Aston Villa,72,RM,England,EPL,4,4,H,L,176cm,73kg,34
+2015/2016,Senderos,Aston Villa,72,CB,Switzerland,EPL,2,2,L,M,190cm,84kg,31
+2015/2016,Hibbert,Everton,72,RB,England,EPL,2,2,M,M,173cm,71kg,35
+2015/2016,Myhill,West Brom,72,GK,Wales,EPL,1,2,M,M,191cm,92kg,33
+2015/2016,Jones,Sunderland,72,RB,England,EPL,2,3,H,M,180cm,77kg,29
+2015/2016,Wasilewski,Leicester City,72,CB,Poland,EPL,2,3,M,H,186cm,88kg,35
+2015/2016,Bardsley,Stoke City,72,RB,Scotland,EPL,2,3,M,M,180cm,74kg,30
+2015/2016,Simpson,Leicester City,72,RB,England,EPL,2,3,M,M,177cm,77kg,29
+2015/2016,Randolph,West Ham,72,GK,Republic of Ireland,EPL,1,3,M,M,185cm,80kg,29
+2015/2016,Surman,Bournemouth,72,CM,England,EPL,3,4,M,M,178cm,73kg,29
+2015/2016,De Laet,Leicester City,72,RB,Belgium,EPL,2,4,M,M,186cm,77kg,27
+2015/2016,Ighalo,Watford,72,ST,Nigeria,EPL,3,3,M,M,179cm,77kg,26
+2015/2016,Chester,West Brom,72,CB,Wales,EPL,2,2,M,M,181cm,79kg,27
+2015/2016,Drinkwater,Leicester City,72,CM,England,EPL,3,4,M,M,178cm,70kg,26
+2015/2016,Rivière,Newcastle Utd,72,ST,France,EPL,2,3,H,M,182cm,76kg,26
+2015/2016,Nordfeldt,Swansea City,72,GK,Sweden,EPL,1,2,M,M,190cm,85kg,26
+2015/2016,Cook,Bournemouth,72,CB,England,EPL,2,3,M,M,185cm,83kg,25
+2015/2016,Coates,Sunderland,72,CB,Uruguay,EPL,2,3,M,M,196cm,85kg,25
+2015/2016,Roberge,Sunderland,72,CB,France,EPL,2,3,M,H,185cm,73kg,28
+2015/2016,Haïdara,Newcastle Utd,72,LB,France,EPL,2,3,H,H,180cm,75kg,23
+2015/2016,Flanagan,Liverpool,72,LB,England,EPL,2,3,M,H,181cm,69kg,23
+2015/2016,Chambers,Arsenal,72,RB,England,EPL,2,3,M,M,183cm,66kg,21
+2015/2016,Grealish,Aston Villa,72,LM,Republic of Ireland,EPL,4,3,M,M,175cm,68kg,20
+2015/2016,Williams,Crystal Palace,72,CAM,Wales,EPL,3,3,H,M,168cm,60kg,22
+2015/2016,Baker,Aston Villa,72,CB,England,EPL,2,2,L,H,189cm,82kg,25
+2015/2016,Pašalic,Chelsea,72,CDM,Croatia,EPL,3,5,H,M,186cm,78kg,21
+2015/2016,Manninger,Liverpool,72,GK,Austria,EPL,1,2,M,M,189cm,85kg,38
+2015/2016,Pied,Southampton,72,RB,France,EPL,3,3,H,M,173cm,69kg,27
+2015/2016,Chester,Aston Villa,72,CB,Wales,EPL,2,2,M,M,181cm,79kg,27
+2015/2016,Adomah,Aston Villa,72,RM,Ghana,EPL,3,3,M,L,185cm,74kg,28
+2015/2016,De Laet,Aston Villa,72,RB,Belgium,EPL,2,4,H,M,186cm,77kg,27
+2015/2016,Kenedy,Watford,72,LM,Brazil,EPL,3,4,M,L,181cm,77kg,20
+2015/2016,Manquillo,Sunderland,72,RB,Spain,EPL,2,3,H,M,180cm,72kg,22
+2015/2016,Whittaker,Norwich City,71,RB,Scotland,EPL,2,4,H,M,185cm,87kg,31
+2015/2016,Francis,Bournemouth,71,RB,England,EPL,2,4,H,M,191cm,89kg,31
+2015/2016,Walters,Stoke City,71,RM,Republic of Ireland,EPL,3,3,H,H,183cm,79kg,32
+2015/2016,Davis,Southampton,71,GK,England,EPL,1,3,M,M,185cm,82kg,39
+2015/2016,Watson,Watford,71,CM,England,EPL,2,3,M,H,178cm,69kg,30
+2015/2016,Bunn,Aston Villa,71,GK,England,EPL,1,2,M,M,183cm,78kg,31
+2015/2016,Graham,Sunderland,71,ST,England,EPL,2,3,H,M,183cm,87kg,30
+2015/2016,Pugh,Bournemouth,71,LM,England,EPL,4,4,H,M,180cm,72kg,29
+2015/2016,O'Brien,West Ham,71,RB,Republic of Ireland,EPL,2,3,M,H,180cm,70kg,30
+2015/2016,Campbell,Crystal Palace,71,ST,England,EPL,3,3,H,M,172cm,82kg,28
+2015/2016,Daniels,Bournemouth,71,LB,England,EPL,2,3,H,M,178cm,75kg,29
+2015/2016,Jordi Gómez,Sunderland,71,CM,Spain,EPL,3,3,M,M,178cm,74kg,31
+2015/2016,Mariappa,Crystal Palace,71,RB,Jamaica,EPL,2,3,M,M,178cm,81kg,29
+2015/2016,Cathcart,Watford,71,CB,Northern Ireland,EPL,2,3,M,M,188cm,73kg,27
+2015/2016,Albrighton,Leicester City,71,RM,England,EPL,3,3,H,M,175cm,67kg,26
+2015/2016,Bennett,Norwich City,71,CB,England,EPL,2,2,L,M,188cm,78kg,26
+2015/2016,Gosling,Bournemouth,71,CM,England,EPL,3,3,M,M,183cm,79kg,26
+2015/2016,Mutch,Crystal Palace,71,CM,England,EPL,2,4,M,M,188cm,81kg,24
+2015/2016,Buckley,Sunderland,71,RM,England,EPL,3,4,H,M,183cm,83kg,26
+2015/2016,Ekstrand,Watford,71,CB,Sweden,EPL,2,3,M,M,188cm,77kg,27
+2015/2016,Oviedo,Everton,71,LB,Costa Rica,EPL,3,3,H,M,172cm,65kg,26
+2015/2016,Wisdom,Norwich City,71,RB,England,EPL,2,3,M,M,186cm,78kg,23
+2015/2016,Carroll,Spurs,71,CM,England,EPL,3,2,M,M,178cm,64kg,23
+2015/2016,Pritchard,Spurs,71,CAM,England,EPL,3,4,H,H,171cm,62kg,23
+2015/2016,Gayle,Crystal Palace,71,ST,England,EPL,3,4,M,M,177cm,69kg,25
+2015/2016,Paredes,Watford,71,RWB,Ecuador,EPL,2,3,H,M,179cm,72kg,28
+2015/2016,Vardy,Leicester City,71,ST,England,EPL,3,3,H,H,178cm,76kg,29
+2015/2016,Adama,Aston Villa,71,RW,Spain,EPL,3,3,M,M,178cm,76kg,20
+2015/2016,Aarons,Newcastle Utd,71,LM,England,EPL,3,3,M,M,175cm,67kg,20
+2015/2016,Wisdom,Liverpool,71,RB,England,EPL,2,3,M,M,186cm,78kg,23
+2015/2016,Gayle,Newcastle Utd,71,ST,England,EPL,3,4,M,M,177cm,69kg,25
+2015/2016,Denayer,Manchester City,71,CB,Belgium,EPL,2,3,M,M,184cm,70kg,20
+2015/2016,Ibe,Bournemouth,71,LW,England,EPL,3,4,M,M,175cm,81kg,20
+2015/2016,Pritchard,Norwich City,71,CAM,England,EPL,3,4,H,H,171cm,62kg,23
+2015/2016,Borja Bastón,Swansea City,71,ST,Spain,EPL,2,4,M,L,191cm,82kg,23
+2015/2016,Mariappa,Watford,71,RB,Jamaica,EPL,2,3,M,M,178cm,81kg,29
+2015/2016,Kodjia,Aston Villa,71,ST,France,EPL,3,3,H,L,189cm,77kg,26
+2015/2016,Lazaar,Newcastle Utd,71,LB,Morocco,EPL,2,3,H,H,184cm,76kg,23
+2015/2016,Lafferty,Norwich City,70,ST,Northern Ireland,EPL,2,4,M,M,193cm,70kg,28
+2015/2016,Crespo,Aston Villa,70,CB,Spain,EPL,2,3,M,M,183cm,72kg,29
+2015/2016,Elphick,Bournemouth,70,CB,England,EPL,2,3,M,H,187cm,86kg,28
+2015/2016,King,Leicester City,70,CM,Wales,EPL,2,3,H,M,183cm,74kg,27
+2015/2016,Smith,Bournemouth,70,RB,England,EPL,3,3,H,M,180cm,81kg,25
+2015/2016,Arlauskis,Watford,70,GK,Lithuania,EPL,1,2,M,M,184cm,80kg,28
+2015/2016,Juanmi,Southampton,70,CAM,Spain,EPL,3,3,H,M,170cm,63kg,23
+2015/2016,Ibe,Liverpool,70,LW,England,EPL,3,4,M,M,175cm,81kg,20
+2015/2016,Gnabry,West Brom,70,RM,Germany,EPL,3,3,M,M,173cm,73kg,20
+2015/2016,Bamford,Crystal Palace,70,ST,England,EPL,2,3,H,M,189cm,84kg,22
+2015/2016,Mings,Bournemouth,70,LB,England,EPL,2,3,M,M,196cm,80kg,23
+2015/2016,Yedlin,Sunderland,70,RB,United States,EPL,3,3,H,M,173cm,73kg,22
+2015/2016,Moore,Leicester City,70,CB,England,EPL,2,3,M,M,185cm,86kg,23
+2015/2016,Bamford,Chelsea,70,ST,England,EPL,2,3,H,M,189cm,84kg,22
+2015/2016,Hector,Chelsea,70,CB,Jamaica,EPL,2,3,M,M,193cm,82kg,23
+2015/2016,Yedlin,Spurs,70,RB,United States,EPL,3,3,H,M,173cm,73kg,22
+2015/2016,Fraser,Bournemouth,70,LM,Scotland,EPL,3,4,H,M,163cm,62kg,22
+2015/2016,Sanogo,Arsenal,70,ST,France,EPL,3,3,M,M,193cm,74kg,23
+2015/2016,Omeruo,Chelsea,70,CB,Nigeria,EPL,2,3,M,M,185cm,75kg,22
+2015/2016,Elphick,Aston Villa,70,CB,England,EPL,2,3,M,H,187cm,86kg,28
+2015/2016,Nkoudou,Spurs,70,LM,France,EPL,3,3,H,L,172cm,68kg,21
+2015/2016,Yedlin,Newcastle Utd,70,RB,United States,EPL,3,3,H,M,173cm,73kg,22
+2015/2016,King,Bournemouth,69,LM,Norway,EPL,3,2,M,M,180cm,74kg,24
+2015/2016,James,Leicester City,69,CM,England,EPL,3,4,M,M,178cm,73kg,24
+2015/2016,Bartley,Swansea City,69,CB,England,EPL,2,3,M,H,194cm,94kg,25
+2015/2016,Bennett,Norwich City,69,RM,Jamaica,EPL,3,3,M,M,179cm,73kg,27
+2015/2016,Elliot,Newcastle Utd,69,GK,Republic of Ireland,EPL,1,2,M,M,188cm,93kg,30
+2015/2016,Kermorgant,Bournemouth,69,ST,France,EPL,2,3,H,H,184cm,84kg,34
+2015/2016,Grabban,Norwich City,69,ST,Jamaica,EPL,3,3,H,L,183cm,78kg,28
+2015/2016,Mavrias,Sunderland,69,RM,Greece,EPL,3,4,H,L,177cm,70kg,22
+2015/2016,Powell,Manchester Utd,69,CAM,England,EPL,2,3,M,M,183cm,65kg,22
+2015/2016,Hoban,Watford,69,CB,Republic of Ireland,EPL,2,3,M,M,188cm,83kg,22
+2015/2016,Dummett,Newcastle Utd,69,LB,Wales,EPL,2,2,H,M,183cm,77kg,24
+2015/2016,Lingard,Manchester Utd,69,CAM,England,EPL,3,3,M,L,173cm,58kg,23
+2015/2016,Aké,Watford,69,LB,Netherlands,EPL,2,3,M,M,180cm,75kg,21
+2015/2016,N'Jié,Spurs,69,ST,Cameroon,EPL,4,3,H,L,175cm,68kg,22
+2015/2016,Martina,Southampton,69,RB,Netherlands Antilles,EPL,2,3,M,M,183cm,72kg,26
+2015/2016,Obertan,Newcastle Utd,69,RM,France,EPL,4,3,M,L,186cm,83kg,27
+2015/2016,Garbutt,Everton,69,LB,England,EPL,2,3,H,M,178cm,73kg,23
+2015/2016,Ameobi,Newcastle Utd,69,LM,Nigeria,EPL,3,3,M,L,194cm,78kg,24
+2015/2016,Aké,Bournemouth,69,LB,Netherlands,EPL,2,3,M,M,180cm,75kg,21
+2015/2016,Janssen,Spurs,69,ST,Netherlands,EPL,2,4,H,M,184cm,80kg,21
+2015/2016,Hanley,Newcastle Utd,69,CB,Scotland,EPL,2,3,L,M,191cm,76kg,24
+2015/2016,O'Neil,Norwich City,68,CM,England,EPL,3,3,M,M,173cm,61kg,33
+2015/2016,Doyley,Watford,68,CB,Jamaica,EPL,2,2,H,M,178cm,88kg,33
+2015/2016,Hammond,Leicester City,68,CM,England,EPL,2,3,M,M,182cm,74kg,33
+2015/2016,McCarthy,Crystal Palace,68,CB,Republic of Ireland,EPL,2,3,M,M,185cm,81kg,32
+2015/2016,Tomlin,Bournemouth,68,CAM,England,EPL,3,3,M,M,180cm,74kg,27
+2015/2016,Emnes,Swansea City,68,ST,Netherlands,EPL,4,3,M,L,180cm,66kg,27
+2015/2016,Darlow,Newcastle Utd,68,GK,England,EPL,1,2,M,M,185cm,79kg,25
+2015/2016,O'Kane,Bournemouth,68,CM,Republic of Ireland,EPL,3,4,M,M,173cm,84kg,25
+2015/2016,Schlupp,Leicester City,68,LWB,Ghana,EPL,2,2,M,M,178cm,72kg,23
+2015/2016,Lascelles,Newcastle Utd,68,CB,England,EPL,2,3,M,H,189cm,83kg,22
+2015/2016,Guédioura,Watford,68,CM,Algeria,EPL,3,4,M,H,178cm,82kg,30
+2015/2016,Bennett,Bournemouth,68,LB,England,EPL,2,3,H,M,178cm,75kg,26
+2015/2016,Oulare,Watford,68,ST,Belgium,EPL,3,3,H,L,196cm,94kg,20
+2015/2016,Chalobah,Chelsea,68,CM,England,EPL,2,3,M,M,185cm,75kg,21
+2015/2016,Kane,Chelsea,68,RB,England,EPL,2,3,H,M,180cm,70kg,22
+2015/2016,Rubén Sobrino,Manchester City,68,ST,Spain,EPL,3,3,M,M,185cm,73kg,23
+2015/2016,Cook,Bournemouth,68,CM,England,EPL,2,4,M,H,174cm,66kg,19
+2015/2016,Iheanacho,Manchester City,67,ST,Nigeria,EPL,3,3,H,M,185cm,73kg,19
+2015/2016,Rudd,Norwich City,67,GK,England,EPL,1,3,M,M,191cm,85kg,25
+2015/2016,Reed,Southampton,67,CDM,England,EPL,2,3,M,H,176cm,74kg,21
+2015/2016,Teixeira,Liverpool,67,CAM,Portugal,EPL,3,3,H,M,177cm,76kg,23
+2015/2016,Alli,Spurs,67,CM,England,EPL,3,3,H,M,187cm,73kg,20
+2015/2016,Henry,West Ham,67,CB,Canada,EPL,2,2,M,M,184cm,82kg,23
+2015/2016,Andreu,Norwich City,67,CAM,France,EPL,3,4,H,L,178cm,73kg,28
+2015/2016,Konchesky,Leicester City,67,LB,England,EPL,2,3,M,M,178cm,69kg,35
+2015/2016,Pudil,Watford,67,LB,Czech Republic,EPL,2,2,M,H,183cm,74kg,30
+2015/2016,Armstrong,Newcastle Utd,67,ST,England,EPL,2,3,H,M,172cm,69kg,19
+2015/2016,Tarashaj,Everton,67,CAM,Switzerland,EPL,2,4,H,L,176cm,76kg,21
+2015/2016,Brown,Chelsea,67,LW,England,EPL,3,3,M,M,182cm,70kg,19
+2015/2016,Dyer,Watford,66,LM,England,EPL,2,1,M,M,173cm,70kg,33
+2015/2016,Anya,Watford,66,LWB,Scotland,EPL,2,3,H,M,168cm,72kg,28
+2015/2016,MacDonald,Bournemouth,66,CM,Wales,EPL,3,3,M,H,185cm,72kg,27
+2015/2016,Stanislas,Bournemouth,66,LM,England,EPL,4,3,H,M,183cm,76kg,26
+2015/2016,Dawson,West Brom,66,RB,England,EPL,2,2,M,M,188cm,85kg,26
+2015/2016,Browning,Everton,66,CB,England,EPL,2,3,M,M,181cm,,21
+2015/2016,Isgrove,Southampton,66,RM,Wales,EPL,3,3,M,M,170cm,72kg,23
+2015/2016,Rantie,Bournemouth,66,ST,South Africa,EPL,3,3,H,M,172cm,68kg,25
+2015/2016,Pereira,Manchester Utd,66,CAM,Brazil,EPL,3,4,H,M,170cm,66kg,20
+2015/2016,Wilson,Manchester Utd,66,ST,England,EPL,2,4,M,M,184cm,,20
+2015/2016,Targett,Southampton,66,LB,England,EPL,2,2,M,M,183cm,70kg,20
+2015/2016,Hamer,Leicester City,66,GK,England,EPL,1,3,M,M,193cm,78kg,28
+2015/2016,Blackett,Manchester Utd,66,CB,England,EPL,2,3,M,M,188cm,87kg,22
+2015/2016,Poyet,West Ham,66,CDM,Uruguay,EPL,2,3,M,M,183cm,74kg,21
+2015/2016,Toral,Arsenal,66,CAM,Spain,EPL,3,4,M,M,191cm,73kg,21
+2015/2016,Turnbull,Southampton,66,CB,England,EPL,2,2,M,M,185cm,,21
+2015/2016,Success,Watford,66,RW,Nigeria,EPL,3,3,M,M,186cm,,20
+2015/2016,Fernandes,West Ham,66,CAM,Switzerland,EPL,3,4,H,L,190cm,70kg,20
+2015/2016,Gardner,Aston Villa,65,CDM,England,EPL,3,3,M,M,186cm,82kg,23
+2015/2016,Appiah,Crystal Palace,65,ST,Ghana,EPL,2,4,H,L,180cm,78kg,25
+2015/2016,Bigirimana,Newcastle Utd,65,CM,England,EPL,2,3,M,M,177cm,74kg,22
+2015/2016,Brady,Norwich City,65,LWB,Republic of Ireland,EPL,3,4,M,M,175cm,69kg,24
+2015/2016,Gazzaniga,Southampton,65,GK,Argentina,EPL,1,3,M,M,196cm,90kg,24
+2015/2016,Toffolo,Norwich City,65,LB,England,EPL,2,2,H,M,183cm,71kg,20
+2015/2016,Fryers,Crystal Palace,65,LB,England,EPL,2,2,M,M,183cm,75kg,23
+2015/2016,Galloway,Everton,65,LB,England,EPL,2,3,M,M,186cm,74kg,20
+2015/2016,McNair,Manchester Utd,65,CB,Northern Ireland,EPL,2,2,M,H,183cm,71kg,21
+2015/2016,Pozo,Manchester City,65,CF,Spain,EPL,4,3,M,M,170cm,65kg,20
+2015/2016,Roberts,Manchester City,65,RM,England,EPL,3,2,M,M,167cm,58kg,19
+2015/2016,Barrow,Swansea City,65,RW,Gambia,EPL,3,2,H,M,176cm,63kg,23
+2015/2016,Martinez,Arsenal,65,GK,Argentina,EPL,1,3,M,M,193cm,85kg,23
+2015/2016,Lawrence,Leicester City,65,ST,Wales,EPL,2,4,M,M,175cm,75kg,22
+2015/2016,Bigirimana,Newcastle Utd,65,CDM,England,EPL,2,3,M,M,177cm,74kg,22
+2015/2016,Pantic,Chelsea,65,CAM,Serbia,EPL,3,4,M,M,180cm,68kg,19
+2015/2016,McGovern,Norwich City,65,GK,Northern Ireland,EPL,1,3,M,M,191cm,89kg,31
+2015/2016,McNair,Sunderland,65,CDM,Northern Ireland,EPL,2,2,M,H,183cm,71kg,21
+2015/2016,Galloway,West Brom,65,LB,England,EPL,2,3,M,M,186cm,74kg,20
+2015/2016,Thompson,Norwich City,64,CM,Wales,EPL,2,3,M,H,180cm,75kg,21
+2015/2016,Barker,Manchester City,64,LM,England,EPL,2,3,M,M,175cm,68kg,19
+2015/2016,Onomah,Spurs,64,CAM,England,EPL,3,3,M,L,180cm,64kg,19
+2015/2016,Gomez,Liverpool,64,CB,England,EPL,2,3,M,M,185cm,77kg,19
+2015/2016,Palmer,Chelsea,64,CAM,England,EPL,3,4,M,M,180cm,68kg,19
+2015/2016,Inniss,Crystal Palace,64,CB,England,EPL,2,3,M,M,196cm,84kg,20
+2015/2016,Murphy,Norwich City,64,LM,England,EPL,3,4,H,M,173cm,67kg,21
+2015/2016,Maddison,Norwich City,64,CAM,England,EPL,3,3,M,M,179cm,73kg,19
+2015/2016,Maitland-Niles,Arsenal,64,RM,England,EPL,3,4,M,M,184cm,70kg,18
+2015/2016,Vuckic,Newcastle Utd,64,LW,Slovenia,EPL,3,3,M,M,186cm,83kg,23
+2015/2016,Murphy,Norwich City,64,LM,England,EPL,3,3,H,M,173cm,67kg,21
+2015/2016,Hyndman,Bournemouth,64,CM,United States,EPL,3,3,M,M,172cm,61kg,20
+2015/2016,Cuevas,Chelsea,64,LB,Chile,EPL,3,3,H,M,175cm,65kg,21
+2015/2016,Wright,Manchester City,63,GK,England,EPL,1,2,M,M,188cm,,38
+2015/2016,Allsop,Bournemouth,63,GK,England,EPL,1,3,M,M,189cm,,23
+2015/2016,Good,Newcastle Utd,63,CB,Australia,EPL,2,3,M,H,187cm,,23
+2015/2016,Johnstone,Manchester Utd,63,GK,England,EPL,1,2,M,M,194cm,86kg,23
+2015/2016,Loftus-Cheek,Chelsea,63,CM,England,EPL,2,4,M,M,190cm,71kg,20
+2015/2016,Pennington,Everton,63,CB,England,EPL,2,2,M,M,185cm,77kg,21
+2015/2016,Cain,Leicester City,63,CM,England,EPL,2,4,H,H,182cm,67kg,22
+2015/2016,Varela,Manchester Utd,63,RB,Uruguay,EPL,2,3,M,H,171cm,69kg,23
+2015/2016,Fulton,Swansea City,63,CM,Scotland,EPL,2,3,M,H,178cm,68kg,22
+2015/2016,Stanek,Everton,63,GK,Czech Republic,EPL,1,3,M,M,192cm,83kg,20
+2015/2016,Gooch,Sunderland,63,CAM,United States,EPL,3,4,M,M,173cm,69kg,20
+2015/2016,Lewis,Watford,63,LW,England,EPL,3,3,M,M,178cm,69kg,19
+2015/2016,Donacien,Aston Villa,63,CB,St Lucia,EPL,2,2,L,H,183cm,,22
+2015/2016,Yeboah,Manchester City,63,ST,Ghana,EPL,3,2,H,M,169cm,,19
+2015/2016,Birighitti,Swansea City,63,GK,Australia,EPL,1,2,M,M,189cm,86kg,25
+2015/2016,Kean,Norwich City,62,GK,England,EPL,1,2,M,M,193cm,76kg,25
+2015/2016,Siegrist,Aston Villa,62,GK,Switzerland,EPL,1,1,M,M,194cm,85kg,24
+2015/2016,Nabi,West Brom,62,ST,England,EPL,3,3,M,M,176cm,70kg,22
+2015/2016,Swift,Chelsea,62,CM,England,EPL,3,3,H,H,185cm,73kg,20
+2015/2016,Grimes,Swansea City,62,CM,England,EPL,2,5,M,M,178cm,70kg,20
+2015/2016,Seager,Southampton,62,ST,England,EPL,2,3,M,L,176cm,75kg,20
+2015/2016,Cargill,Bournemouth,62,CB,England,EPL,2,3,M,H,192cm,87kg,20
+2015/2016,Kenedy,Chelsea,62,ST,Brazil,EPL,3,4,M,L,181cm,77kg,20
+2015/2016,Watmore,Sunderland,62,RW,England,EPL,3,3,M,M,175cm,72kg,22
+2015/2016,Ambrose,Manchester City,62,ST,France,EPL,2,2,H,L,177cm,69kg,19
+2015/2016,Hesketh,Southampton,62,CAM,England,EPL,3,3,H,L,173cm,63kg,20
+2015/2016,Dionatan Teixeira,Stoke City,62,CB,Slovakia,EPL,2,3,M,M,193cm,80kg,23
+2015/2016,Boga,Chelsea,62,CAM,France,EPL,3,3,M,M,172cm,68kg,19
+2015/2016,Shenton,Stoke City,62,CM,England,EPL,3,3,M,M,175cm,77kg,18
+2015/2016,Roberts,Newcastle Utd,62,CF,England,EPL,3,3,M,M,173cm,65kg,19
+2015/2016,Reine-Adelaïde,Arsenal,62,CAM,France,EPL,3,3,M,M,184cm,75kg,18
+2015/2016,Steer,Aston Villa,62,GK,England,EPL,1,2,M,M,182cm,80kg,23
+2015/2016,Swift,Chelsea,62,LM,England,EPL,3,3,H,H,185cm,,20
+2015/2016,Fofana,Manchester City,62,CM,France,EPL,3,3,H,H,183cm,77kg,21
+2015/2016,Mousset,Bournemouth,62,ST,France,EPL,2,2,M,M,185cm,80kg,20
+2015/2016,Solanke,Chelsea,62,ST,England,EPL,3,3,M,M,185cm,75kg,18
+2015/2016,Angban,Chelsea,62,CDM,Ivory Coast,EPL,3,4,H,H,180cm,68kg,19
+2015/2016,Tshibola,Aston Villa,62,CM,England,EPL,2,3,M,M,190cm,70kg,21
+2015/2016,Jones,Norwich City,62,GK,England,EPL,1,3,M,M,191cm,83kg,29
+2015/2016,Kapustka,Leicester City,62,LM,Poland,EPL,3,2,M,M,179cm,,19
+2015/2016,McAleny,Everton,61,ST,England,EPL,2,3,M,L,172cm,66kg,23
+2015/2016,Loza,Norwich City,61,ST,Jamaica,EPL,3,3,M,L,177cm,71kg,22
+2015/2016,Haugaard,Stoke City,61,GK,Denmark,EPL,1,3,M,M,199cm,87kg,24
+2015/2016,Evans,Manchester City,61,CM,England,EPL,2,2,M,M,184cm,76kg,21
+2015/2016,Flannigan,Southampton,61,CM,England,EPL,2,3,M,M,180cm,71kg,20
+2015/2016,Rossiter,Liverpool,61,CM,England,EPL,2,4,M,M,172cm,68kg,19
+2015/2016,Ledson,Everton,61,CM,England,EPL,2,2,M,M,181cm,69kg,18
+2015/2016,Hendrie,West Ham,61,LB,Scotland,EPL,2,4,M,H,178cm,70kg,21
+2015/2016,Moha,Stoke City,61,LW,Morocco,EPL,3,3,M,M,178cm,72kg,20
+2015/2016,Manu García,Manchester City,61,CAM,Spain,EPL,3,3,H,M,170cm,60kg,18
+2015/2016,Bielik,Arsenal,61,CDM,Poland,EPL,3,3,M,M,189cm,78kg,18
+2015/2016,Holgate,Everton,61,RB,England,EPL,2,3,M,H,181cm,63kg,19
+2015/2016,Green,Aston Villa,61,LM,England,EPL,3,3,H,M,180cm,71kg,17
+2015/2016,Chilwell,Leicester City,61,LB,England,EPL,2,3,M,M,178cm,72kg,19
+2015/2016,Bachmann,Stoke City,61,GK,Austria,EPL,1,3,M,M,191cm,81kg,21
+2015/2016,Kingsley,Swansea City,61,LB,Scotland,EPL,2,3,M,M,178cm,68kg,21
+2015/2016,McAleny,Everton,61,LM,England,EPL,2,3,M,L,172cm,66kg,23
+2015/2016,Akpom,Arsenal,61,ST,England,EPL,3,3,M,M,183cm,70kg,20
+2015/2016,Musonda,Chelsea,60,CAM,Belgium,EPL,4,3,M,M,165cm,55kg,19
+2015/2016,Mandron,Sunderland,60,ST,Scotland,EPL,2,2,M,M,191cm,82kg,21
+2015/2016,Henen,Everton,60,LW,Belgium,EPL,4,4,M,M,185cm,75kg,20
+2015/2016,Gape,Southampton,60,CM,England,EPL,2,3,M,M,180cm,70kg,21
+2015/2016,Toney,Newcastle Utd,60,ST,England,EPL,2,1,H,H,185cm,72kg,20
+2015/2016,Barmby,Leicester City,60,CAM,England,EPL,3,3,M,M,178cm,74kg,21
+2015/2016,Dodoo,Leicester City,60,ST,England,EPL,2,3,H,M,183cm,70kg,20
+2015/2016,Brannagan,Liverpool,60,CAM,England,EPL,2,3,H,M,180cm,71kg,20
+2015/2016,Samuelsen,West Ham,60,RM,Norway,EPL,4,3,M,M,175cm,68kg,19
+2015/2016,Sellars,Aston Villa,60,LM,England,EPL,2,2,M,M,173cm,73kg,20
+2015/2016,Aina,Chelsea,60,RB,England,EPL,2,3,H,M,175cm,65kg,19
+2015/2016,Jones,Liverpool,60,CB,England,EPL,2,3,M,M,190cm,75kg,20
+2015/2016,Canós,Liverpool,60,RM,Spain,EPL,3,3,M,M,170cm,66kg,19
+2015/2016,Rodríguez,Chelsea,60,ST,Colombia,EPL,4,2,M,L,180cm,69kg,20
+2015/2016,Canós,Norwich City,60,RM,Spain,EPL,3,3,M,M,170cm,66kg,19
+2015/2016,Spiegel,West Ham,59,GK,Switzerland,EPL,1,2,M,M,196cm,88kg,23
+2015/2016,Lucas,Swansea City,59,CM,Wales,EPL,2,3,M,M,178cm,73kg,23
+2015/2016,Blackman,Chelsea,59,GK,England,EPL,1,3,M,M,199cm,92kg,22
+2015/2016,Hanley,Swansea City,59,LB,England,EPL,2,3,H,M,173cm,69kg,22
+2015/2016,Lee,West Ham,59,ST,England,EPL,2,3,M,L,180cm,72kg,21
+2015/2016,Chambers,West Ham,59,CB,England,EPL,2,3,M,M,186cm,83kg,20
+2015/2016,Jones,West Brom,59,CB,England,EPL,2,3,M,M,183cm,76kg,20
+2015/2016,McQueen,Southampton,59,LM,England,EPL,2,3,M,L,176cm,70kg,21
+2015/2016,McCarthy,Southampton,59,CB,England,EPL,2,2,L,M,186cm,80kg,20
+2015/2016,Grant,Everton,59,CDM,England,EPL,2,3,M,M,176cm,80kg,21
+2015/2016,Duffus,Everton,59,ST,England,EPL,3,2,M,M,188cm,76kg,20
+2015/2016,Veljkovic,Spurs,59,CB,Serbia,EPL,2,3,M,M,184cm,77kg,20
+2015/2016,Rose,West Brom,59,GK,England,EPL,1,3,M,M,183cm,75kg,21
+2015/2016,Nabi,West Brom,59,CM,England,EPL,2,3,M,M,180cm,76kg,19
+2015/2016,Moore,Arsenal,59,RB,England,EPL,2,2,M,M,173cm,66kg,18
+2015/2016,Robson,Sunderland,59,LB,England,EPL,2,3,M,M,178cm,75kg,20
+2015/2016,Dowell,Everton,59,CAM,England,EPL,3,2,M,H,175cm,59kg,19
+2015/2016,Robinson,Aston Villa,59,LM,England,EPL,2,2,M,M,178cm,75kg,21
+2015/2016,Gollini,Aston Villa,59,GK,Italy,EPL,1,3,M,M,188cm,80kg,21
+2015/2016,Alfei,Swansea City,58,RB,Wales,EPL,2,3,M,M,180cm,77kg,24
+2015/2016,Bossaerts,Manchester City,58,CB,Belgium,EPL,2,3,M,M,184cm,,19
+2015/2016,Eve,Stoke City,58,GK,Bermuda,EPL,1,2,M,M,193cm,85kg,21
+2015/2016,McEvoy,Spurs,58,LM,Republic of Ireland,EPL,3,4,H,M,176cm,64kg,21
+2015/2016,Honeyman,Sunderland,58,CAM,England,EPL,2,3,M,M,173cm,72kg,21
+2015/2016,Smith,Sunderland,58,CM,England,EPL,2,3,M,M,180cm,,20
+2015/2016,Costa,Bournemouth,58,LB,Italy,EPL,2,2,M,M,175cm,70kg,21
+2015/2016,Winks,Spurs,58,CM,England,EPL,2,3,M,L,178cm,,20
+2015/2016,Agnew,Sunderland,58,CM,England,EPL,2,3,M,M,178cm,72kg,21
+2015/2016,Julio Pleguezuelo,Arsenal,58,RB,Spain,EPL,2,2,H,M,175cm,70kg,19
+2015/2016,McGee,Spurs,58,GK,England,EPL,1,3,M,M,188cm,80kg,20
+2015/2016,Page,West Ham,58,LB,England,EPL,2,3,M,M,178cm,72kg,20
+2015/2016,Sergio Molina,Stoke City,58,CDM,Spain,EPL,2,3,M,M,177cm,63kg,20
+2015/2016,Coulthirst,Spurs,58,LM,England,EPL,2,3,M,M,176cm,77kg,21
+2015/2016,Morris,Norwich City,58,ST,England,EPL,2,3,M,M,185cm,85kg,20
+2015/2016,Gilmartin,Watford,57,GK,Republic of Ireland,EPL,1,3,M,M,196cm,100kg,28
+2015/2016,Sheehan,Swansea City,57,CM,Wales,EPL,2,3,M,M,178cm,75kg,21
+2015/2016,Celina,Manchester City,57,CAM,Kosovo,EPL,2,3,M,M,173cm,68kg,19
+2015/2016,Huddart,Arsenal,57,GK,England,EPL,1,3,M,M,191cm,75kg,19
+2015/2016,McGrandles,Norwich City,57,CM,Scotland,EPL,3,3,H,H,183cm,68kg,20
+2015/2016,Cullen,West Ham,57,CM,Republic of Ireland,EPL,2,3,M,M,175cm,70kg,20
+2015/2016,Choudhury,Leicester City,57,CM,England,EPL,3,3,M,H,178cm,64kg,18
+2015/2016,Knoyle,West Ham,57,RB,England,EPL,2,3,M,M,177cm,63kg,19
+2015/2016,Vigouroux,Liverpool,57,GK,Chile,EPL,1,2,M,M,194cm,77kg,22
+2015/2016,Williams,Liverpool,57,CB,Wales,EPL,2,3,M,M,188cm,68kg,20
+2015/2016,Choudhury,Leicester City,57,CDM,England,EPL,3,3,M,H,178cm,64kg,18
+2015/2016,Allassani,Crystal Palace,56,LM,England,EPL,2,3,M,M,170cm,70kg,20
+2015/2016,Jakubiak,Watford,56,ST,Scotland,EPL,2,3,M,M,177cm,66kg,19
+2015/2016,Miller,Spurs,56,CAM,England,EPL,2,2,M,M,175cm,70kg,19
+2015/2016,Greenwood,Sunderland,56,LW,England,EPL,2,2,M,L,173cm,68kg,20
+2015/2016,Bailey,Leicester City,56,ST,England,EPL,2,3,M,M,177cm,65kg,19
+2015/2016,Iwobi,Arsenal,55,CF,England,EPL,3,3,M,M,176cm,66kg,20
+2015/2016,Kiwomya,Chelsea,55,RM,England,EPL,2,3,H,M,178cm,74kg,20
+2015/2016,Sesay,Leicester City,55,CB,Sierra Leone,EPL,2,2,L,H,183cm,75kg,22
+2015/2016,Fox,Leicester City,55,ST,England,EPL,2,3,M,M,177cm,64kg,19
+2015/2016,Parfitt-Williams,West Ham,55,ST,Bermuda,EPL,2,3,M,M,168cm,64kg,19
+2015/2016,Crowley,Arsenal,55,CM,England,EPL,3,3,M,M,175cm,68kg,18
+2015/2016,Findlay,Newcastle Utd,55,CB,Scotland,EPL,2,3,M,M,193cm,85kg,20
+2015/2016,Hayden,Newcastle Utd,55,CDM,England,EPL,2,3,M,M,187cm,79kg,21
+2015/2016,Satka,Newcastle Utd,54,CB,Slovakia,EPL,2,3,M,M,188cm,70kg,20
+2015/2016,Killip,Norwich City,54,GK,England,EPL,1,3,M,M,188cm,74kg,20
+2015/2016,Palmer,West Brom,54,GK,England,EPL,1,3,M,M,183cm,72kg,19
+2015/2016,Sonupe,Spurs,54,RM,England,EPL,2,3,M,M,180cm,70kg,20
+2015/2016,Beadling,Sunderland,54,CB,England,EPL,2,3,L,M,185cm,80kg,20
+2015/2016,O'Connor,Arsenal,54,CB,England,EPL,2,2,M,M,183cm,71kg,19
+2015/2016,Poole,Manchester Utd,54,CB,Wales,EPL,2,3,M,H,180cm,70kg,17
+2015/2016,Cornick,Bournemouth,52,RM,England,EPL,3,2,M,M,180cm,84kg,21
+2015/2016,Ogilvie,Spurs,52,LB,England,EPL,2,2,M,M,182cm,73kg,20
+2015/2016,Roberts,Swansea City,52,RB,Wales,EPL,2,4,H,M,175cm,71kg,20
+2015/2016,Gordon,West Ham,51,ST,England,EPL,2,3,H,M,178cm,65kg,20
+2015/2016,Macey,Arsenal,51,GK,England,EPL,1,2,M,M,198cm,81kg,21
+2015/2016,Kamara,Arsenal,51,CM,Finland,EPL,2,3,M,M,178cm,71kg,20
+2015/2016,Kinsella,Aston Villa,51,LB,England,EPL,2,3,M,M,175cm,70kg,21
+2015/2016,Kamara,Arsenal,51,CDM,Finland,EPL,2,3,M,M,178cm,71kg,20
+2015/2016,Pike,West Ham,50,RB,England,EPL,2,3,M,H,181cm,70kg,19
+2015/2016,Lewis,Southampton,48,GK,England,EPL,1,3,M,M,186cm,77kg,18

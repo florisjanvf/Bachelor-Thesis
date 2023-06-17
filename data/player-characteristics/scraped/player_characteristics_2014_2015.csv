@@ -1,0 +1,757 @@
+season,player_name,team,player_rating,position,nation,league,skill_moves,weak_foot_quality,work_rate_a,work_rate_d,player_height,player_weight,age
+2014/2015,Falcao,Manchester Utd,88,ST,Colombia,EPL,4,4,H,M,177cm,,29
+2014/2015,Robin van Persie,Manchester Utd,88,ST,Netherlands,EPL,4,4,M,L,187cm,,31
+2014/2015,Eden Hazard,Chelsea,88,LM,Belgium,EPL,4,4,H,M,173cm,,24
+2014/2015,Bastian Schweinsteiger,Manchester Utd,88,CM,Germany,EPL,3,3,H,H,183cm,,30
+2014/2015,Falcao,Chelsea,88,ST,Colombia,EPL,4,4,H,M,177cm,,29
+2014/2015,David Silva,Manchester City,87,LM,Spain,EPL,4,2,H,L,170cm,,29
+2014/2015,Mesut Özil,Arsenal,86,CAM,Germany,EPL,4,2,M,L,183cm,,26
+2014/2015,Ángel Di María,Manchester Utd,86,CAM,Argentina,EPL,4,2,H,H,180cm,,27
+2014/2015,Sergio Agüero,Manchester City,86,ST,Argentina,EPL,4,4,H,L,172cm,,26
+2014/2015,Wayne Rooney,Manchester Utd,86,ST,England,EPL,3,4,H,H,176cm,,29
+2014/2015,Yaya Touré,Manchester City,86,CM,Ivory Coast,EPL,3,4,M,M,189cm,,32
+2014/2015,Vincent Kompany,Manchester City,86,CB,Belgium,EPL,2,3,M,M,192cm,,29
+2014/2015,Thibaut Courtois,Chelsea,86,GK,Belgium,EPL,1,3,M,M,199cm,,23
+2014/2015,Juan Mata,Manchester Utd,85,CAM,Spain,EPL,4,3,M,M,174cm,,27
+2014/2015,Diego Costa,Chelsea,85,ST,Spain,EPL,3,4,H,M,188cm,,26
+2014/2015,Hugo Lloris,Spurs,85,GK,France,EPL,1,1,M,M,188cm,,28
+2014/2015,Petr Cech,Chelsea,85,GK,Czech Republic,EPL,1,3,M,M,196cm,,33
+2014/2015,Cesc Fàbregas,Chelsea,84,CM,Spain,EPL,3,3,H,M,179cm,,28
+2014/2015,Santi Cazorla,Arsenal,84,LM,Spain,EPL,4,5,M,M,168cm,,30
+2014/2015,Samir Nasri,Manchester City,84,LM,France,EPL,4,4,H,M,175cm,,27
+2014/2015,Alexis Sánchez,Arsenal,84,RW,Chile,EPL,4,3,H,M,171cm,,26
+2014/2015,Oscar,Chelsea,84,CAM,Brazil,EPL,4,3,M,H,179cm,,23
+2014/2015,Aaron Ramsey,Arsenal,83,CM,Wales,EPL,3,3,H,H,177cm,,24
+2014/2015,Christian Eriksen,Spurs,83,LM,Denmark,EPL,4,5,H,M,177cm,,23
+2014/2015,Jesús Navas,Manchester City,83,RM,Spain,EPL,4,3,M,M,170cm,,29
+2014/2015,Edin Dzeko,Manchester City,83,ST,Bosnia Herzegovina,EPL,3,4,M,M,193cm,,29
+2014/2015,Daniel Sturridge,Liverpool,83,ST,England,EPL,4,2,M,L,183cm,,25
+2014/2015,John Terry,Chelsea,83,CB,England,EPL,2,4,M,H,187cm,,34
+2014/2015,Per Mertesacker,Arsenal,83,CB,Germany,EPL,2,3,M,M,198cm,,30
+2014/2015,De Gea,Manchester Utd,83,GK,Spain,EPL,1,3,M,M,193cm,,24
+2014/2015,Steven Gerrard,Liverpool,82,CDM,England,EPL,3,3,M,M,183cm,,34
+2014/2015,Nemanja Matic,Chelsea,82,CDM,Serbia,EPL,3,3,M,H,194cm,,26
+2014/2015,Fernandinho,Manchester City,82,CM,Brazil,EPL,3,4,M,H,176cm,,30
+2014/2015,Willian,Chelsea,82,RM,Brazil,EPL,4,4,H,H,175cm,,26
+2014/2015,Mario Balotelli,Liverpool,82,ST,Italy,EPL,4,4,L,L,188cm,,24
+2014/2015,Jan Vertonghen,Spurs,82,CB,Belgium,EPL,3,3,H,M,189cm,,28
+2014/2015,Pablo Zabaleta,Manchester City,82,RB,Argentina,EPL,3,3,H,H,178cm,,30
+2014/2015,Leighton Baines,Everton,82,LB,England,EPL,3,3,H,M,170cm,,30
+2014/2015,Filipe Luís,Chelsea,82,LB,Brazil,EPL,3,3,H,M,182cm,,29
+2014/2015,Tim Howard,Everton,82,GK,United States,EPL,1,3,M,M,191cm,,36
+2014/2015,Joe Hart,Manchester City,82,GK,England,EPL,1,3,M,M,196cm,,28
+2014/2015,Simon Mignolet,Liverpool,82,GK,Belgium,EPL,1,2,M,M,193cm,,27
+2014/2015,Asmir Begovic,Stoke City,82,GK,Bosnia Herzegovina,EPL,1,2,M,M,200cm,,27
+2014/2015,Asmir Begovic,Chelsea,82,GK,Bosnia Herzegovina,EPL,1,2,M,M,200cm,,27
+2014/2015,Ramires,Chelsea,81,CDM,Brazil,EPL,3,3,H,H,180cm,,28
+2014/2015,Jack Wilshere,Arsenal,81,CM,England,EPL,3,3,M,M,172cm,,23
+2014/2015,André Schürrle,Chelsea,81,LM,Germany,EPL,4,4,M,M,183cm,,24
+2014/2015,Theo Walcott,Arsenal,81,RM,England,EPL,3,3,H,L,176cm,,26
+2014/2015,Coutinho,Liverpool,81,CAM,Brazil,EPL,4,4,H,M,171cm,,22
+2014/2015,Wilfried Bony,Swansea City,81,ST,Ivory Coast,EPL,3,4,M,L,182cm,,26
+2014/2015,Stevan Jovetic,Manchester City,81,ST,Montenegro,EPL,4,4,H,M,183cm,,25
+2014/2015,Samuel Eto'o,Everton,81,ST,Cameroon,EPL,4,3,M,M,179cm,,34
+2014/2015,Didier Drogba,Chelsea,81,ST,Ivory Coast,EPL,3,4,M,M,188cm,,37
+2014/2015,Soldado,Spurs,81,ST,Spain,EPL,3,3,M,L,179cm,,29
+2014/2015,Gary Cahill,Chelsea,81,CB,England,EPL,2,3,M,M,193cm,,29
+2014/2015,Laurent Koscielny,Arsenal,81,CB,France,EPL,2,3,M,H,186cm,,29
+2014/2015,Martin Škrtel,Liverpool,81,CB,Slovakia,EPL,2,2,M,H,191cm,,30
+2014/2015,Mamadou Sakho,Liverpool,81,CB,France,EPL,2,2,M,H,187cm,,25
+2014/2015,Branislav Ivanovic,Chelsea,81,RB,Serbia,EPL,2,3,H,M,185cm,,31
+2014/2015,Yohan Cabaye,Crystal Palace,81,CDM,France,EPL,3,4,M,M,175cm,,29
+2014/2015,Mikel Arteta,Arsenal,80,CDM,Spain,EPL,3,4,M,M,175cm,,33
+2014/2015,Frank Lampard,Manchester City,80,CM,England,EPL,3,4,M,M,184cm,,36
+2014/2015,Moussa Dembélé,Spurs,80,CM,Belgium,EPL,4,2,M,M,185cm,,27
+2014/2015,Dušan Tadić,Southampton,80,CAM,Serbia,EPL,4,2,M,M,181cm,,26
+2014/2015,Morgan Schneiderlin,Southampton,80,CDM,France,EPL,2,3,M,H,181cm,,25
+2014/2015,Antonio Valencia,Manchester Utd,80,RM,Ecuador,EPL,4,2,M,H,181cm,,29
+2014/2015,Gareth Barry,Everton,80,CDM,England,EPL,2,3,M,H,183cm,,34
+2014/2015,Kevin Mirallas,Everton,80,RM,Belgium,EPL,4,4,H,M,178cm,,27
+2014/2015,Raheem Sterling,Liverpool,80,RW,England,EPL,4,3,H,M,170cm,,20
+2014/2015,Tomáš Rosický,Arsenal,80,CAM,Czech Republic,EPL,3,3,H,H,178cm,,34
+2014/2015,Christian Benteke,Aston Villa,80,ST,Belgium,EPL,3,4,M,M,190cm,,24
+2014/2015,Eliaquim Mangala,Manchester City,80,CB,France,EPL,2,4,H,H,187cm,,24
+2014/2015,Phil Jagielka,Everton,80,CB,England,EPL,2,3,M,H,183cm,,32
+2014/2015,Romelu Lukaku,Everton,80,ST,Belgium,EPL,3,4,H,M,190cm,,22
+2014/2015,Loïc Rémy,Chelsea,80,ST,France,EPL,4,3,M,M,184cm,,45
+2014/2015,Paulinho,Spurs,80,CM,Brazil,EPL,3,3,H,M,181cm,,26
+2014/2015,Federico Fazio,Spurs,80,CB,Argentina,EPL,2,3,M,M,195cm,,28
+2014/2015,Bacary Sagna,Manchester City,80,RB,France,EPL,3,4,M,M,176cm,,32
+2014/2015,Emmanuel Adebayor,Spurs,80,ST,Togo,EPL,4,3,M,L,191cm,,31
+2014/2015,Mathieu Debuchy,Arsenal,80,RB,France,EPL,3,3,H,M,178cm,,29
+2014/2015,Gaël Clichy,Manchester City,80,LB,France,EPL,2,4,H,M,176cm,,29
+2014/2015,Wojciech Szczesny,Arsenal,80,GK,Poland,EPL,1,3,M,M,196cm,,25
+2014/2015,Raheem Sterling,Manchester City,80,CAM,England,EPL,4,3,H,M,170cm,,20
+2014/2015,Morgan Schneiderlin,Manchester Utd,80,CDM,France,EPL,2,3,M,H,181cm,,25
+2014/2015,Christian Benteke,Liverpool,80,ST,Belgium,EPL,3,4,M,M,190cm,,24
+2014/2015,Xherdan Shaqiri,Stoke City,80,CAM,Switzerland,EPL,4,4,H,M,169cm,,23
+2014/2015,Salomón Rondón,West Brom,80,ST,Venezuela,EPL,4,4,H,M,189cm,,25
+2014/2015,Dejan Lovren,Liverpool,79,CB,Croatia,EPL,2,4,H,H,188cm,,25
+2014/2015,Marouane Fellaini,Manchester Utd,79,CDM,Belgium,EPL,3,3,M,M,194cm,,27
+2014/2015,Fernando,Manchester City,79,CDM,Brazil,EPL,2,2,M,H,183cm,,27
+2014/2015,Rémy Cabella,Newcastle Utd,79,CAM,France,EPL,4,4,H,M,172cm,,25
+2014/2015,James McCarthy,Everton,79,CDM,Republic of Ireland,EPL,3,4,M,H,180cm,,24
+2014/2015,Fabricio Coloccini,Newcastle Utd,79,CB,Argentina,EPL,2,4,M,M,184cm,,33
+2014/2015,Jonny Evans,Manchester Utd,79,CB,Northern Ireland,EPL,2,3,L,M,189cm,,27
+2014/2015,Ron Vlaar,Aston Villa,79,CB,Netherlands,EPL,2,4,M,H,189cm,,30
+2014/2015,Aaron Lennon,Spurs,79,RM,England,EPL,3,3,H,M,165cm,,28
+2014/2015,Ashley Williams,Swansea City,79,CB,Wales,EPL,2,3,M,H,183cm,,30
+2014/2015,Martín Demichelis,Manchester City,79,CB,Argentina,EPL,2,3,L,M,184cm,,34
+2014/2015,Daley Blind,Manchester Utd,79,CDM,Netherlands,EPL,3,3,M,H,180cm,,45
+2014/2015,Joleon Lescott,West Brom,79,CB,England,EPL,2,3,M,M,188cm,,32
+2014/2015,Lucas Leiva,Liverpool,79,CDM,Brazil,EPL,2,3,L,H,179cm,,28
+2014/2015,Adam Lallana,Liverpool,79,CAM,England,EPL,4,5,H,M,173cm,,27
+2014/2015,Olivier Giroud,Arsenal,79,ST,France,EPL,2,3,M,M,192cm,,28
+2014/2015,Ander Herrera,Manchester Utd,79,CM,Spain,EPL,4,4,H,M,182cm,,25
+2014/2015,Phil Jones,Manchester Utd,79,CB,England,EPL,2,3,M,H,183cm,,23
+2014/2015,Younès Kaboul,Spurs,79,CB,France,EPL,2,3,M,M,191cm,,29
+2014/2015,Steven Pienaar,Everton,79,LM,South Africa,EPL,4,4,H,M,170cm,,33
+2014/2015,Alexandre Song,West Ham,79,CDM,Cameroon,EPL,3,3,M,M,185cm,,45
+2014/2015,Marcos Rojo,Manchester Utd,79,CB,Argentina,EPL,2,3,M,M,186cm,,25
+2014/2015,Michael Carrick,Manchester Utd,79,CM,England,EPL,2,3,L,M,188cm,,33
+2014/2015,Azpilicueta,Chelsea,79,LB,Spain,EPL,3,3,M,M,178cm,,25
+2014/2015,Michel Vorm,Spurs,79,GK,Netherlands,EPL,1,3,M,M,182cm,,31
+2014/2015,Wilfredo Caballero,Manchester City,79,GK,Argentina,EPL,1,3,M,M,186cm,,33
+2014/2015,Tim Krul,Newcastle Utd,79,GK,Netherlands,EPL,1,2,M,M,193cm,,27
+2014/2015,Younès Kaboul,Sunderland,79,CB,France,EPL,2,3,M,M,191cm,,29
+2014/2015,Aleksandar Kolarov,Manchester City,78,LB,Serbia,EPL,2,3,H,M,187cm,,29
+2014/2015,Jordan Henderson,Liverpool,78,CM,England,EPL,3,3,H,H,182cm,,24
+2014/2015,Kieran Gibbs,Arsenal,78,LB,England,EPL,3,2,H,M,178cm,,25
+2014/2015,Kolo Touré,Liverpool,78,CB,Ivory Coast,EPL,2,3,M,M,178cm,,34
+2014/2015,John Mikel,Chelsea,78,CDM,Nigeria,EPL,2,3,M,H,188cm,,28
+2014/2015,James Milner,Manchester City,78,RM,England,EPL,3,4,H,H,176cm,,29
+2014/2015,Bafétimbi Gomis,Swansea City,78,ST,France,EPL,2,3,M,L,184cm,,29
+2014/2015,Etienne Capoue,Spurs,78,CDM,France,EPL,2,3,M,H,189cm,,26
+2014/2015,Ashley Young,Manchester Utd,78,LM,England,EPL,4,3,H,M,175cm,,29
+2014/2015,Mame Diouf,Stoke City,78,ST,Senegal,EPL,3,3,M,M,185cm,,27
+2014/2015,Erik Lamela,Spurs,78,RM,Argentina,EPL,4,3,H,M,183cm,,23
+2014/2015,Aiden McGeady,Everton,78,RM,Republic of Ireland,EPL,5,4,H,M,180cm,,29
+2014/2015,Alex Oxlade-Chamberlain,Arsenal,78,RM,England,EPL,4,4,H,M,175cm,,21
+2014/2015,Ross Barkley,Everton,78,CAM,England,EPL,3,5,M,M,189cm,,21
+2014/2015,Cheick Tioté,Newcastle Utd,78,CDM,Ivory Coast,EPL,3,3,M,H,180cm,,28
+2014/2015,Alberto Moreno Pérez,Liverpool,78,LB,Spain,EPL,2,3,H,H,171cm,,22
+2014/2015,Varela,West Brom,78,LW,Portugal,EPL,4,5,M,M,179cm,,30
+2014/2015,Esteban Cambiasso,Leicester City,78,CDM,Argentina,EPL,2,4,M,H,177cm,,34
+2014/2015,Toby Alderweireld,Southampton,78,CB,Belgium,EPL,2,3,M,M,187cm,,45
+2014/2015,Lazar Markovic,Liverpool,78,RM,Serbia,EPL,4,3,H,M,175cm,,21
+2014/2015,Seamus Coleman,Everton,78,RB,Republic of Ireland,EPL,3,3,H,M,177cm,,26
+2014/2015,Danny Welbeck,Arsenal,78,ST,England,EPL,3,3,H,H,185cm,,45
+2014/2015,Brad Friedel,Spurs,78,GK,United States,EPL,1,2,M,M,188cm,,44
+2014/2015,Ben Foster,West Brom,78,GK,England,EPL,1,3,M,M,193cm,,32
+2014/2015,Brad Guzan,Aston Villa,78,GK,United States,EPL,1,2,M,M,193cm,,30
+2014/2015,Georginio Wijnaldum,Newcastle Utd,78,CAM,Netherlands,EPL,4,4,H,M,175cm,,24
+2014/2015,Toby Alderweireld,Spurs,78,CB,Belgium,EPL,2,3,M,M,187cm,,26
+2014/2015,Yann M'Vila,Sunderland,78,CDM,France,EPL,2,3,M,M,182cm,,24
+2014/2015,Matija Nastasic,Manchester City,77,CB,Serbia,EPL,2,3,M,H,187cm,,22
+2014/2015,José Enrique,Liverpool,77,LB,Spain,EPL,3,2,M,M,184cm,,29
+2014/2015,Sylvain Distin,Everton,77,CB,France,EPL,2,2,M,H,192cm,,37
+2014/2015,Andy Carroll,West Ham,77,ST,England,EPL,2,3,M,M,191cm,,26
+2014/2015,Stéphane Sessègnon,West Brom,77,CAM,Benin,EPL,4,3,M,L,172cm,,30
+2014/2015,Mathieu Flamini,Arsenal,77,CDM,France,EPL,2,3,H,H,178cm,,31
+2014/2015,Mauro Zárate,West Ham,77,ST,Argentina,EPL,4,4,H,L,176cm,,28
+2014/2015,Lukas Podolski,Arsenal,77,LM,Germany,EPL,3,2,M,L,182cm,,29
+2014/2015,Marko Arnautovic,Stoke City,77,LM,Austria,EPL,4,4,M,L,192cm,,26
+2014/2015,Ryan Shawcross,Stoke City,77,CB,England,EPL,2,3,M,H,191cm,,27
+2014/2015,Adam Johnson,Sunderland,77,RM,England,EPL,3,4,M,M,175cm,,27
+2014/2015,Joe Allen,Liverpool,77,CM,Wales,EPL,3,3,M,M,168cm,,25
+2014/2015,Emanuele Giaccherini,Sunderland,77,LM,Italy,EPL,3,3,H,M,167cm,,30
+2014/2015,Bojan,Stoke City,77,RW,Spain,EPL,4,3,M,L,170cm,,24
+2014/2015,Claudio Yacob,West Brom,77,CDM,Argentina,EPL,2,3,M,H,181cm,,27
+2014/2015,Gylfi Sigurðsson,Swansea City,77,CAM,Iceland,EPL,3,3,M,M,186cm,,25
+2014/2015,Siem de Jong,Newcastle Utd,77,CAM,Netherlands,EPL,2,4,H,M,185cm,,26
+2014/2015,Stewart Downing,West Ham,77,RM,England,EPL,3,3,M,M,180cm,,30
+2014/2015,Nacer Chadli,Spurs,77,LM,Belgium,EPL,3,3,M,M,187cm,,25
+2014/2015,Graziano Pellè,Southampton,77,ST,Italy,EPL,2,4,M,L,194cm,,29
+2014/2015,Kyle Walker,Spurs,77,RB,England,EPL,2,2,H,M,178cm,,24
+2014/2015,Rafael,Manchester Utd,77,RB,Brazil,EPL,3,4,H,M,172cm,,24
+2014/2015,David Ospina,Arsenal,77,GK,Colombia,EPL,1,3,M,M,183cm,,26
+2014/2015,Anders Lindegaard,Manchester Utd,77,GK,Denmark,EPL,1,3,M,M,193cm,,31
+2014/2015,Angelo Ogbonna,West Ham,77,CB,Italy,EPL,2,3,M,H,191cm,,27
+2014/2015,Ibrahim Afellay,Stoke City,76,LW,Netherlands,EPL,4,4,M,M,180cm,,29
+2014/2015,Steven Caulker,Southampton,76,CB,England,EPL,2,2,M,H,191cm,,23
+2014/2015,Brede Hangeland,Crystal Palace,76,CB,Norway,EPL,2,3,M,M,199cm,,33
+2014/2015,Monreal,Arsenal,76,LB,Spain,EPL,2,2,M,H,178cm,,29
+2014/2015,Ricardo Álvarez,Sunderland,76,CF,Argentina,EPL,4,2,H,H,188cm,,45
+2014/2015,Rickie Lambert,Liverpool,76,ST,England,EPL,2,4,H,M,188cm,,33
+2014/2015,Papiss Cissé,Newcastle Utd,76,ST,Senegal,EPL,3,4,M,L,183cm,,29
+2014/2015,Carlos Sánchez,Aston Villa,76,CDM,Colombia,EPL,2,3,M,M,182cm,,29
+2014/2015,Youssouf Mulumbu,West Brom,76,CDM,DR Congo,EPL,2,4,M,H,175cm,,28
+2014/2015,Abou Diaby,Arsenal,76,CM,France,EPL,3,3,M,M,190cm,,29
+2014/2015,Jack Rodwell,Sunderland,76,CM,England,EPL,3,4,M,H,188cm,,24
+2014/2015,Steven Fletcher,Sunderland,76,ST,Scotland,EPL,2,3,M,L,186cm,,28
+2014/2015,Darron Gibson,Everton,76,CM,Republic of Ireland,EPL,2,4,M,M,183cm,,27
+2014/2015,Stephen Ireland,Stoke City,76,CAM,Republic of Ireland,EPL,3,3,M,M,173cm,,28
+2014/2015,Chris Smalling,Manchester Utd,76,CB,England,EPL,2,3,M,M,192cm,,25
+2014/2015,Arouna Koné,Everton,76,ST,Ivory Coast,EPL,4,4,M,M,182cm,,31
+2014/2015,Vlad Chiriches,Spurs,76,CB,Romania,EPL,3,3,H,H,184cm,,25
+2014/2015,Robert Huth,Stoke City,76,CB,Germany,EPL,2,3,M,H,191cm,,30
+2014/2015,Mile Jedinak,Crystal Palace,76,CDM,Australia,EPL,2,3,M,H,188cm,,30
+2014/2015,Leon Osman,Everton,76,CM,England,EPL,3,3,M,M,173cm,,34
+2014/2015,Brown Ideye,West Brom,76,ST,Nigeria,EPL,2,4,H,L,181cm,,26
+2014/2015,Glen Johnson,Liverpool,76,RB,England,EPL,3,4,H,M,182cm,,30
+2014/2015,Benjamin Stambouli,Spurs,76,CDM,France,EPL,2,3,M,H,180cm,,45
+2014/2015,Jonas Olsson,West Brom,76,CB,Sweden,EPL,2,3,M,M,193cm,,32
+2014/2015,Julián Speroni,Crystal Palace,76,GK,Argentina,EPL,1,3,M,M,186cm,,36
+2014/2015,Artur Boruc,Southampton,76,GK,Poland,EPL,1,3,M,M,193cm,,35
+2014/2015,Adrián,West Ham,76,GK,Spain,EPL,1,2,M,M,188cm,,28
+2014/2015,Mark Schwarzer,Chelsea,76,GK,Australia,EPL,1,3,M,M,194cm,,42
+2014/2015,Matt Jarvis,West Ham,76,LM,England,EPL,3,5,H,L,170cm,,29
+2014/2015,Mohamed Salah,Chelsea,76,RM,Egypt,EPL,4,4,H,M,175cm,,22
+2014/2015,Steven Davis,Southampton,76,RM,Northern Ireland,EPL,3,3,H,H,173,,30
+2014/2015,Glen Johnson,Stoke City,76,RB,England,EPL,3,4,H,M,182cm,,30
+2014/2015,Idrissa Gueye,Aston Villa,76,CM,Senegal,EPL,2,3,M,H,174cm,,25
+2014/2015,Marco van Ginkel,Stoke City,76,CM,Netherlands,EPL,3,4,H,M,186cm,,22
+2014/2015,Nathaniel Clyne,Liverpool,76,RB,England,EPL,3,3,H,M,175cm,,24
+2014/2015,Jordy Clasie,Southampton,76,CDM,Netherlands,EPL,2,4,M,H,169cm,,23
+2014/2015,Rickie Lambert,West Brom,76,ST,England,EPL,2,4,H,M,188cm,,33
+2014/2015,Leon Britton,Swansea City,75,CM,England,EPL,3,3,M,H,167cm,,32
+2014/2015,Davide Santon,Newcastle Utd,75,LB,Italy,EPL,3,2,H,M,187cm,,24
+2014/2015,Moussa Sissoko,Newcastle Utd,75,RM,France,EPL,2,2,H,M,187cm,,25
+2014/2015,Wes Brown,Sunderland,75,CB,England,EPL,2,3,M,H,185cm,,35
+2014/2015,Joel Campbell,Arsenal,75,RM,Costa Rica,EPL,4,2,M,H,178cm,,23
+2014/2015,Steven Taylor,Newcastle Utd,75,CB,England,EPL,2,3,M,H,186cm,,29
+2014/2015,Morgan Amalfitano,West Ham,75,RM,France,EPL,3,4,M,L,176cm,,45
+2014/2015,John O'Shea,Sunderland,75,CB,Republic of Ireland,EPL,2,3,M,H,191cm,,34
+2014/2015,Peter Crouch,Stoke City,75,ST,England,EPL,3,3,M,M,201cm,,34
+2014/2015,Fabian Delph,Aston Villa,75,CM,England,EPL,3,3,M,H,174cm,,25
+2014/2015,Victor Moses,Stoke City,75,RM,Nigeria,EPL,4,4,M,M,177cm,,24
+2014/2015,Kevin Nolan,West Ham,75,CAM,England,EPL,3,3,H,M,183cm,,32
+2014/2015,Marouane Chamakh,Crystal Palace,75,CAM,Morocco,EPL,3,3,M,H,188cm,,31
+2014/2015,Steve Sidwell,Stoke City,75,CDM,England,EPL,3,3,M,M,183cm,,32
+2014/2015,Daryl Janmaat,Newcastle Utd,75,RB,Netherlands,EPL,3,3,H,M,185cm,,25
+2014/2015,Steven Naismith,Everton,75,ST,Scotland,EPL,3,3,H,H,178cm,,28
+2014/2015,Darren Fletcher,Manchester Utd,75,CM,Scotland,EPL,2,3,M,H,184cm,,31
+2014/2015,Charles N'Zogbia,Aston Villa,75,CAM,France,EPL,4,2,M,L,171cm,,28
+2014/2015,Jack Cork,Southampton,75,CDM,England,EPL,2,4,L,H,185cm,,25
+2014/2015,Winston Reid,West Ham,75,CB,New Zealand,EPL,2,2,M,H,190cm,,26
+2014/2015,Barry Bannan,Crystal Palace,75,RM,Scotland,EPL,3,2,M,M,169cm,,25
+2014/2015,Steven N'Zonzi,Stoke City,75,CM,France,EPL,3,3,M,M,190cm,,26
+2014/2015,Mike Williamson,Newcastle Utd,75,CB,England,EPL,2,3,M,M,194cm,,31
+2014/2015,Jay Rodriguez,Southampton,75,LM,England,EPL,3,4,H,L,185cm,,25
+2014/2015,Adnan Januzaj,Manchester Utd,75,LM,Belgium,EPL,4,4,M,M,180cm,,20
+2014/2015,Wayne Routledge,Swansea City,75,LM,England,EPL,4,4,H,M,170cm,,30
+2014/2015,Shane Long,Southampton,75,ST,Republic of Ireland,EPL,3,3,H,H,180cm,,28
+2014/2015,Mark Noble,West Ham,75,CM,England,EPL,3,3,H,H,180cm,,28
+2014/2015,Luke Shaw,Manchester Utd,75,LB,England,EPL,2,2,H,M,185cm,,19
+2014/2015,Christian Atsu,Everton,75,CAM,Ghana,EPL,3,2,M,M,172cm,,23
+2014/2015,Victor Wanyama,Southampton,75,CDM,Kenya,EPL,2,3,M,H,188cm,,23
+2014/2015,Àngel Rangel,Swansea City,75,RB,Spain,EPL,3,3,H,M,180cm,,32
+2014/2015,Fraser Forster,Southampton,75,GK,England,EPL,1,4,M,M,201cm,,27
+2014/2015,Lukasz Fabianski,Swansea City,75,GK,Poland,EPL,1,2,M,M,190cm,,30
+2014/2015,Barry Bannan,Crystal Palace,75,CM,Scotland,EPL,3,2,M,M,169cm,,25
+2014/2015,Christian Atsu,Chelsea,75,LW,Ghana,EPL,3,2,M,M,172cm,,23
+2014/2015,Alex McCarthy,Crystal Palace,75,GK,England,EPL,1,2,M,M,193cm,,25
+2014/2015,Fabian Delph,Manchester City,75,CM,England,EPL,3,3,M,H,174cm,,25
+2014/2015,Yohan Benalouane,Leicester City,75,CB,Tunisia,EPL,2,3,M,M,187cm,,28
+2014/2015,Yoan Gouffran,Newcastle Utd,74,LM,France,EPL,3,3,M,M,176cm,,29
+2014/2015,Fabio Borini,Liverpool,74,LM,Italy,EPL,3,3,M,M,180cm,,24
+2014/2015,Joel Ward,Crystal Palace,74,LB,England,EPL,2,3,M,M,187cm,,25
+2014/2015,Oussama Assaidi,Stoke City,74,LM,Morocco,EPL,5,4,H,L,178cm,,45
+2014/2015,Jonjo Shelvey,Swansea City,74,CAM,England,EPL,2,3,H,M,184cm,,23
+2014/2015,Florin Gardoş,Southampton,74,CB,Romania,EPL,2,3,M,H,193cm,,26
+2014/2015,Tom Cleverley,Aston Villa,74,CM,England,EPL,3,3,M,M,175cm,,45
+2014/2015,Jefferson Montero,Swansea City,74,LW,Ecuador,EPL,4,4,H,M,173cm,,25
+2014/2015,Lee Cattermole,Sunderland,74,CDM,England,EPL,2,3,L,H,178cm,,27
+2014/2015,Sung Yueng Ki,Swansea City,74,CM,Korea Republic,EPL,3,4,H,M,187cm,,26
+2014/2015,Jozy Altidore,Sunderland,74,ST,United States,EPL,3,4,M,M,186cm,,25
+2014/2015,Federico Fernández,Swansea City,74,CB,Argentina,EPL,2,2,M,M,189cm,,26
+2014/2015,Enner Valencia,West Ham,74,ST,Ecuador,EPL,2,3,H,L,174cm,,26
+2014/2015,José Miguel da Rocha Fonte,Southampton,74,CB,Portugal,EPL,2,3,M,M,187cm,,31
+2014/2015,James Collins,West Ham,74,CB,Wales,EPL,2,2,L,H,193cm,,31
+2014/2015,Chris Brunt,West Brom,74,LM,Northern Ireland,EPL,3,3,M,M,185cm,,30
+2014/2015,Suso,Liverpool,74,RM,Spain,EPL,4,3,M,L,178cm,,21
+2014/2015,Glenn Whelan,Stoke City,74,CM,Republic of Ireland,EPL,3,4,M,H,180cm,,31
+2014/2015,Aly Cissokho,Aston Villa,74,LB,France,EPL,2,2,H,M,181cm,,27
+2014/2015,Benoît Assou-Ekotto,Spurs,74,LB,Cameroon,EPL,2,3,H,M,180cm,,31
+2014/2015,Nathan Dyer,Swansea City,74,RM,England,EPL,4,3,H,H,165cm,,27
+2014/2015,Nathaniel Clyne,Southampton,74,RB,England,EPL,3,3,H,M,175cm,,24
+2014/2015,Joe Cole,Aston Villa,74,RM,England,EPL,4,4,H,L,176cm,,33
+2014/2015,James Ward-Prowse,Southampton,74,CM,England,EPL,3,3,H,M,173cm,,20
+2014/2015,Emre Can,Liverpool,74,CM,Germany,EPL,4,4,M,M,184cm,,21
+2014/2015,Andros Townsend,Spurs,74,RM,England,EPL,3,4,H,M,181cm,,23
+2014/2015,Sadio Mane,Southampton,74,LM,Senegal,EPL,4,3,H,M,175cm,,23
+2014/2015,Danny Rose,Spurs,74,LB,England,EPL,3,3,H,M,173cm,,24
+2014/2015,Vurnon Anita,Newcastle Utd,74,CDM,Netherlands,EPL,3,3,M,H,168cm,,26
+2014/2015,Ravel Morrison,West Ham,74,CAM,England,EPL,3,4,M,M,175cm,,22
+2014/2015,Ryan Bertrand,Southampton,74,LB,England,EPL,2,3,M,M,179cm,,25
+2014/2015,Jordi Amat,Swansea City,74,CB,Spain,EPL,2,3,M,H,185cm,,23
+2014/2015,Antolín Alcaraz,Everton,74,CB,Paraguay,EPL,2,3,M,M,187cm,,32
+2014/2015,Craig Gardner,West Brom,74,CM,England,EPL,2,3,H,M,176cm,,28
+2014/2015,Kurt Zouma,Chelsea,74,CB,France,EPL,2,3,M,M,187cm,,20
+2014/2015,Jonás Gutiérrez,Newcastle Utd,74,LM,Argentina,EPL,3,3,H,H,183cm,,31
+2014/2015,Martin Kelly,Crystal Palace,74,RB,England,EPL,3,3,M,M,191cm,,25
+2014/2015,Darren Bent,Aston Villa,74,ST,England,EPL,3,3,L,L,180cm,,31
+2014/2015,Shay Given,Aston Villa,74,GK,Republic of Ireland,EPL,1,3,M,M,185cm,,39
+2014/2015,Costel Pantilimon,Sunderland,74,GK,Romania,EPL,1,2,M,M,203cm,,28
+2014/2015,Kasper Schmeichel,Leicester City,74,GK,Denmark,EPL,1,3,M,M,185cm,,28
+2014/2015,Matteo Darmian,Manchester Utd,74,RB,Italy,EPL,2,3,M,H,182cm,,25
+2014/2015,José Luis Sanmartín Mato,Stoke City,74,ST,Spain,EPL,3,3,M,M,191cm,,25
+2014/2015,Tomas Kalas,Chelsea,74,CB,Czech Republic,EPL,2,3,M,M,182cm,,22
+2014/2015,Shay Given,Stoke City,74,GK,Republic of Ireland,EPL,1,3,M,M,185cm,,39
+2014/2015,Tom Cleverley,Everton,74,CM,England,EPL,3,3,M,M,175cm,,25
+2014/2015,Aleksandar Mitrovic,Newcastle Utd,74,ST,Serbia,EPL,2,4,M,L,189cm,,20
+2014/2015,Bakary Sako,Crystal Palace,74,LM,Mali,EPL,3,3,H,M,184cm,,27
+2014/2015,Ryan Taylor,Newcastle Utd,73,RB,England,EPL,2,3,M,M,179cm,,30
+2014/2015,Jores Okore,Aston Villa,73,CB,Denmark,EPL,2,3,M,H,183cm,,22
+2014/2015,Geoff Cameron,Stoke City,73,RB,United States,EPL,3,3,H,M,191cm,,29
+2014/2015,Danny Simpson,Leicester City,73,RB,England,EPL,2,3,M,M,177cm,,45
+2014/2015,James Morrison,West Brom,73,CM,Scotland,EPL,3,3,M,M,178cm,,29
+2014/2015,Graham Dorrans,West Brom,73,CM,Scotland,EPL,3,3,M,M,175cm,,28
+2014/2015,Charlie Adam,Stoke City,73,CM,Scotland,EPL,3,3,M,L,185cm,,29
+2014/2015,Jason Puncheon,Crystal Palace,73,RM,England,EPL,3,2,M,L,173cm,,28
+2014/2015,Emmanuel Rivière,Newcastle Utd,73,ST,France,EPL,2,3,H,M,182cm,,25
+2014/2015,Andreas Weimann,Aston Villa,73,CF,Austria,EPL,2,3,H,M,188cm,,23
+2014/2015,Yannick Bolasie,Crystal Palace,73,LM,DR Congo,EPL,5,4,H,M,185cm,,26
+2014/2015,Ciaran Clark,Aston Villa,73,CB,Republic of Ireland,EPL,2,2,M,M,188cm,,25
+2014/2015,Liam Bridcutt,Sunderland,73,CDM,Scotland,EPL,3,3,M,H,171cm,,26
+2014/2015,Ben Davies,Spurs,73,LB,Wales,EPL,2,3,H,H,181cm,,22
+2014/2015,Erik Pieters,Stoke City,73,LB,Netherlands,EPL,2,2,M,M,182cm,,26
+2014/2015,Libor Kozák,Aston Villa,73,ST,Czech Republic,EPL,2,3,M,L,193cm,,25
+2014/2015,Kieran Richardson,Aston Villa,73,LB,England,EPL,3,3,M,M,175cm,,30
+2014/2015,Gabriel Agbonlahor,Aston Villa,73,CF,England,EPL,3,4,M,M,180cm,,28
+2014/2015,Eric Dier,Spurs,73,CB,England,EPL,2,3,M,H,191cm,,21
+2014/2015,Santiago Vergini,Sunderland,73,CB,Argentina,EPL,2,2,M,H,191cm,,26
+2014/2015,Anderson,Manchester Utd,73,CM,Brazil,EPL,3,2,M,M,176cm,,27
+2014/2015,Gareth McAuley,West Brom,73,CB,Northern Ireland,EPL,2,3,L,H,195cm,,35
+2014/2015,James Tomkins,West Ham,73,CB,England,EPL,2,2,M,M,191cm,,26
+2014/2015,Scott Dann,Crystal Palace,73,CB,England,EPL,2,3,L,M,188cm,,28
+2014/2015,Matthew Lowton,Aston Villa,73,RB,England,EPL,2,3,H,M,180cm,,25
+2014/2015,Gerhard Tremmel,Swansea City,73,GK,Germany,EPL,1,3,M,M,191cm,,36
+2014/2015,Vito Mannone,Sunderland,73,GK,Italy,EPL,1,3,M,M,188cm,,27
+2014/2015,Jussi Jääskeläinen,West Ham,73,GK,Finland,EPL,1,2,M,M,191cm,,40
+2014/2015,Sylvain Marveaux,Newcastle Utd,73,CAM,France,EPL,3,3,M,M,172cm,,29
+2014/2015,Ilori,Liverpool,73,CB,Portugal,EPL,2,3,M,M,190cm,,22
+2014/2015,James McClean,West Brom,73,LM,Republic of Ireland,EPL,4,2,H,M,180cm,,26
+2014/2015,Bruno Zuculini,Manchester City,73,CM,Argentina,EPL,2,3,M,M,178cm,,22
+2014/2015,Christian Fuchs,Leicester City,73,LB,Austria,EPL,3,2,H,M,186cm,,29
+2014/2015,Pedro Obiang,West Ham,73,CM,Spain,EPL,2,3,M,M,185cm,,23
+2014/2015,Jordan Ayew,Aston Villa,73,ST,Ghana,EPL,3,3,M,M,182cm,,23
+2014/2015,Neil Taylor,Swansea City,72,LB,Wales,EPL,2,3,H,M,177cm,,26
+2014/2015,Kyle Naughton,Spurs,72,RB,England,EPL,3,3,M,M,180cm,,26
+2014/2015,Victor Anichebe,West Brom,72,ST,Nigeria,EPL,2,3,H,M,191cm,,27
+2014/2015,Marc Muniesa Martínez,Stoke City,72,LB,Spain,EPL,2,3,M,M,179cm,,23
+2014/2015,Fraizer Campbell,Crystal Palace,72,ST,England,EPL,3,3,H,M,172cm,,27
+2014/2015,Andy Wilkinson,Stoke City,72,RB,England,EPL,2,3,M,M,180cm,,30
+2014/2015,Leonardo Ulloa,Leicester City,72,ST,Argentina,EPL,2,4,H,M,185cm,,28
+2014/2015,Damien Delaney,Crystal Palace,72,CB,Republic of Ireland,EPL,2,3,M,M,191cm,,33
+2014/2015,Peter Odemwingie,Stoke City,72,RM,Nigeria,EPL,3,4,H,L,182cm,,33
+2014/2015,Scott Sinclair,Manchester City,72,LM,England,EPL,4,3,H,M,177cm,,26
+2014/2015,Sébastien Pocognoli,West Brom,72,LB,Belgium,EPL,3,3,H,M,183cm,,27
+2014/2015,Connor Wickham,Sunderland,72,ST,England,EPL,2,3,H,M,189cm,,22
+2014/2015,Joe Ledley,Crystal Palace,72,CM,Wales,EPL,3,2,M,H,183cm,,28
+2014/2015,Philippe Senderos,Aston Villa,72,CB,Switzerland,EPL,2,2,L,M,190cm,,30
+2014/2015,Sebastian Larsson,Sunderland,72,CM,Sweden,EPL,3,3,M,M,178cm,,29
+2014/2015,Ashley Westwood,Aston Villa,72,CDM,England,EPL,2,3,M,M,175cm,,25
+2014/2015,Carlton Cole,West Ham,72,ST,England,EPL,2,3,H,M,191cm,,31
+2014/2015,Facundo Ferreyra,Newcastle Utd,72,ST,Argentina,EPL,3,2,M,M,187cm,,24
+2014/2015,Tony Hibbert,Everton,72,RB,England,EPL,2,2,M,M,173cm,,34
+2014/2015,Matthew Upson,Leicester City,72,CB,England,EPL,2,3,M,M,185cm,,36
+2014/2015,Wilfried Zaha,Crystal Palace,72,LM,England,EPL,4,3,M,L,180cm,,22
+2014/2015,Wayne Hennessey,Crystal Palace,72,GK,Wales,EPL,1,3,M,M,198cm,,28
+2014/2015,Boaz Myhill,West Brom,72,GK,Wales,EPL,1,2,M,M,191cm,,32
+2014/2015,Jack Butland,Stoke City,72,GK,England,EPL,1,3,M,M,196cm,,22
+2014/2015,Darren Randolph,West Ham,72,GK,Republic of Ireland,EPL,1,3,M,M,185cm,,28
+2014/2015,Kieran Trippier,Spurs,72,RB,England,EPL,3,4,H,H,179cm,,24
+2014/2015,Modibo Maiga,West Ham,72,ST,Mali,EPL,3,3,M,L,185cm,,27
+2014/2015,Oriol Romeu Vidal,Chelsea,72,CDM,Spain,EPL,2,3,M,H,183cm,,23
+2014/2015,Adam Matthews,Sunderland,72,RB,Wales,EPL,2,2,H,M,178cm,,23
+2014/2015,Valentin Roberge,Sunderland,72,CB,France,EPL,2,3,M,H,189cm,,27
+2014/2015,Sergio Romero,Manchester Utd,72,GK,Argentina,EPL,1,3,M,M,192cm,,28
+2014/2015,Connor Wickham,Crystal Palace,72,ST,England,EPL,2,3,H,M,189cm,,22
+2014/2015,Jordan Veretout,Aston Villa,72,CM,France,EPL,3,3,M,H,177cm,,22
+2014/2015,Bertrand Traoré,Chelsea,72,ST,Burkina Faso,EPL,4,3,M,L,180cm,,19
+2014/2015,N'Golo Kanté,Leicester City,72,CM,France,EPL,3,3,M,M,169cm,,24
+2014/2015,David Nugent,Leicester City,71,ST,England,EPL,3,3,H,M,180cm,,30
+2014/2015,Chris Baird,West Brom,71,CDM,Northern Ireland,EPL,2,3,M,M,181cm,,33
+2014/2015,Nathan Baker,Aston Villa,71,CB,England,EPL,2,2,L,H,189cm,,24
+2014/2015,James McArthur,Crystal Palace,71,CM,Scotland,EPL,3,3,M,M,178cm,,45
+2014/2015,Patrick van Aanholt,Sunderland,71,LB,Netherlands,EPL,3,3,H,M,175cm,,24
+2014/2015,Will Buckley,Sunderland,71,RW,England,EPL,3,4,H,M,183cm,,25
+2014/2015,John Stones,Everton,71,CB,England,EPL,2,2,H,M,188cm,,20
+2014/2015,Marc Albrighton,Leicester City,71,RM,England,EPL,3,3,H,M,175cm,,25
+2014/2015,Cristian Gamboa,West Brom,71,RB,Costa Rica,EPL,2,3,H,M,175cm,,25
+2014/2015,Cheikhou Kouyaté,West Ham,71,CDM,Senegal,EPL,2,3,M,M,193cm,,25
+2014/2015,Phil Bardsley,Stoke City,71,RB,Scotland,EPL,2,3,M,M,180cm,,29
+2014/2015,Muhamed Bešić,Everton,71,CDM,Bosnia Herzegovina,EPL,2,3,M,H,180cm,,22
+2014/2015,Maya Yoshida,Southampton,71,CB,Japan,EPL,2,4,M,M,189cm,,26
+2014/2015,Marcin Wasilewski,Leicester City,71,CB,Poland,EPL,2,3,M,H,186cm,,34
+2014/2015,Jon Flanagan,Liverpool,71,LB,England,EPL,2,3,M,H,181cm,,22
+2014/2015,Emmanuel Mayuka,Southampton,71,ST,Zambia,EPL,4,4,H,L,178cm,,24
+2014/2015,Carl Jenkinson,West Ham,71,RB,England,EPL,2,3,H,H,185cm,,23
+2014/2015,Wes Morgan,Leicester City,71,CB,Jamaica,EPL,2,3,M,M,185cm,,31
+2014/2015,Sebastián Coates,Sunderland,71,CB,Uruguay,EPL,2,3,M,M,196cm,,45
+2014/2015,Marc Wilson,Stoke City,71,CB,Republic of Ireland,EPL,2,4,M,M,188cm,,27
+2014/2015,Brad Jones,Liverpool,71,GK,Australia,EPL,1,2,M,M,191cm,,33
+2014/2015,Thomas Sørensen,Stoke City,71,GK,Denmark,EPL,1,3,M,M,196cm,,38
+2014/2015,Kristoffer Nordfeldt,Swansea City,71,GK,Sweden,EPL,1,2,M,M,190cm,,25
+2014/2015,Kevin Wimmer,Spurs,71,CB,Austria,EPL,2,3,M,M,187cm,,22
+2014/2015,Antonio Manuel Luna Rodriguez,Aston Villa,71,LB,Spain,EPL,2,3,H,M,177cm,,24
+2014/2015,Jordan Amavi,Aston Villa,71,LB,France,EPL,2,2,M,M,176cm,,21
+2014/2015,Carl Jenkinson,Arsenal,71,RB,England,EPL,2,3,H,H,185cm,,23
+2014/2015,Danny Ings,Liverpool,71,ST,England,EPL,3,3,H,H,178cm,,22
+2014/2015,James Chester,West Brom,71,CB,Wales,EPL,2,2,M,M,181cm,,26
+2014/2015,Jonathan Williams,Crystal Palace,70,CAM,Wales,EPL,3,3,H,M,168cm,,21
+2014/2015,Serge Gnabry,Arsenal,70,RM,Germany,EPL,3,3,M,M,173cm,,19
+2014/2015,Adrian Mariappa,Crystal Palace,70,RB,Jamaica,EPL,2,3,M,M,178cm,,28
+2014/2015,Jack Colback,Newcastle Utd,70,CM,England,EPL,2,3,M,H,176cm,,25
+2014/2015,Jonathan Walters,Stoke City,70,RM,Republic of Ireland,EPL,3,3,H,H,183cm,,31
+2014/2015,Diafra Sakho,West Ham,70,ST,Senegal,EPL,3,3,M,M,184cm,,25
+2014/2015,Alan Hutton,Aston Villa,70,RB,Scotland,EPL,2,3,M,M,185cm,,30
+2014/2015,Billy Jones,Sunderland,70,RB,England,EPL,2,3,H,M,180cm,,28
+2014/2015,Dwight Tiendalli,Swansea City,70,RB,Netherlands,EPL,2,3,M,M,176cm,,29
+2014/2015,Anthony Knockaert,Leicester City,70,RM,France,EPL,4,3,M,M,172cm,,23
+2014/2015,Chris Herd,Aston Villa,70,CB,Australia,EPL,3,3,M,H,173cm,,26
+2014/2015,Guy Demel,West Ham,70,RB,Ivory Coast,EPL,2,3,M,M,188cm,,33
+2014/2015,Javier Manquillo Gaitán,Liverpool,70,RB,Spain,EPL,2,3,H,M,180cm,,21
+2014/2015,Joey O'Brien,West Ham,70,LB,Republic of Ireland,EPL,2,3,M,H,180cm,,29
+2014/2015,Aaron Cresswell,West Ham,70,LB,England,EPL,2,3,M,M,170cm,,25
+2014/2015,Kevin Doyle,Crystal Palace,70,ST,Republic of Ireland,EPL,3,3,H,H,181cm,,45
+2014/2015,Calum Chambers,Arsenal,70,RB,England,EPL,2,3,H,M,183cm,,20
+2014/2015,Francis Coquelin,Arsenal,70,LM,France,EPL,3,3,M,M,178cm,,24
+2014/2015,Danny Drinkwater,Leicester City,70,CM,England,EPL,3,4,M,M,178cm,,25
+2014/2015,Dwight Gayle,Crystal Palace,70,ST,England,EPL,3,4,M,M,173cm,,24
+2014/2015,Kelvin Davis,Southampton,70,GK,England,EPL,1,3,M,M,185cm,,38
+2014/2015,Joel Robles Blázquez,Everton,70,GK,Spain,EPL,1,2,M,M,195cm,,24
+2014/2015,Ádám Bogdán,Liverpool,70,GK,Hungary,EPL,1,3,M,M,194cm,,27
+2014/2015,Josh McEachran,Chelsea,70,CM,England,EPL,3,2,M,M,178cm,,22
+2014/2015,Serge Gnabry,West Brom,70,RM,Germany,EPL,3,3,M,M,173cm,,19
+2014/2015,Adlène Guédioura,Crystal Palace,69,CM,Algeria,EPL,3,4,M,H,178cm,,29
+2014/2015,Bryan Oviedo,Everton,69,LB,Costa Rica,EPL,3,3,H,M,172cm,,25
+2014/2015,Charis Mavrias,Sunderland,69,RM,Greece,EPL,3,4,H,L,177cm,,21
+2014/2015,Jamie Vardy,Leicester City,69,ST,England,EPL,3,3,H,H,178cm,,28
+2014/2015,Andre Wisdom,West Brom,69,RB,England,EPL,2,3,M,M,186cm,,22
+2014/2015,Tom Carroll,Swansea City,69,CM,England,EPL,3,2,M,M,171cm,,22
+2014/2015,Massadio Haïdara,Newcastle Utd,69,LB,France,EPL,2,3,H,H,180cm,,22
+2014/2015,Marvin Emnes,Swansea City,69,ST,Netherlands,EPL,4,3,M,L,176cm,,26
+2014/2015,Chris Wood,Leicester City,69,ST,New Zealand,EPL,3,3,M,M,191cm,,23
+2014/2015,Riyad Mahrez,Leicester City,69,RM,Algeria,EPL,3,4,M,M,179cm,,24
+2014/2015,Jerome Thomas,Crystal Palace,69,LM,England,EPL,4,3,M,M,178cm,,32
+2014/2015,Liam Moore,Leicester City,69,CB,England,EPL,2,3,M,M,185cm,,22
+2014/2015,Nick Powell,Leicester City,69,CAM,England,EPL,2,3,M,M,183cm,,45
+2014/2015,Georgios Samaras,West Brom,69,ST,Greece,EPL,3,3,H,M,193cm,,30
+2014/2015,Ricardo Vaz Tê,West Ham,69,RM,Portugal,EPL,3,3,L,L,189cm,,28
+2014/2015,Danny Graham,Sunderland,69,ST,England,EPL,2,3,H,M,183cm,,29
+2014/2015,Wilson Palacios,Stoke City,69,CDM,Honduras,EPL,2,3,M,H,178cm,,30
+2014/2015,Jordi Gómez,Sunderland,69,CM,Spain,EPL,3,3,M,M,178cm,,30
+2014/2015,Yaya Sanogo,Arsenal,69,ST,France,EPL,3,3,M,M,191cm,,22
+2014/2015,Cristian Ceballos Prieto,Spurs,69,LW,Spain,EPL,3,4,M,L,173cm,,22
+2014/2015,Ritchie De Laet,Leicester City,69,RB,Belgium,EPL,2,4,H,M,186cm,,26
+2014/2015,Andre Wisdom,Liverpool,69,RB,England,EPL,2,3,M,M,186cm,,22
+2014/2015,Tom Carroll,Spurs,69,CM,England,EPL,3,2,M,M,171cm,,22
+2014/2015,Kenneth Omeruo,Chelsea,69,CB,Nigeria,EPL,2,3,M,M,185cm,,21
+2014/2015,Stephen Dobbie,Crystal Palace,69,ST,Scotland,EPL,3,3,M,L,173cm,,32
+2014/2015,Cuco Martina,Southampton,69,RB,Netherlands Antilles,EPL,2,3,M,M,183cm,,25
+2014/2015,Enes Ünal,Manchester City,69,ST,Turkey,EPL,4,4,M,M,185cm,,18
+2014/2015,Mark Bunn,Aston Villa,69,GK,England,EPL,1,2,M,M,183cm,,30
+2014/2015,Andy King,Leicester City,68,CM,Wales,EPL,2,3,H,M,183cm,,26
+2014/2015,Sammy Ameobi,Newcastle Utd,68,LM,Nigeria,EPL,3,3,M,L,194cm,,23
+2014/2015,Nabil Bentaleb,Spurs,68,CM,Algeria,EPL,2,3,M,M,187cm,,20
+2014/2015,Craig Dawson,West Brom,68,CB,England,EPL,2,2,M,M,188cm,,25
+2014/2015,Dedryck Boyata,Manchester City,68,RB,Belgium,EPL,2,3,M,M,188cm,,24
+2014/2015,Paul Konchesky,Leicester City,68,LB,England,EPL,2,3,M,M,178cm,,34
+2014/2015,Gabriel Obertan,Newcastle Utd,68,RM,France,EPL,4,3,M,L,186cm,,26
+2014/2015,Jesse Lingard,Manchester Utd,68,CAM,England,EPL,3,3,M,M,168cm,,22
+2014/2015,Matty James,Leicester City,68,CM,England,EPL,3,4,M,M,178cm,,23
+2014/2015,Harry Kane,Spurs,68,ST,England,EPL,3,3,M,M,188cm,,21
+2014/2015,Rob Elliot,Newcastle Utd,68,GK,Republic of Ireland,EPL,1,2,M,M,188cm,,29
+2014/2015,Gary Gardner,Aston Villa,68,CM,England,EPL,3,3,M,M,186cm,,22
+2014/2015,Nathaniel Chalobah,Chelsea,68,CM,England,EPL,2,3,M,M,185cm,,20
+2014/2015,Karl Darlow,Newcastle Utd,68,GK,England,EPL,1,2,M,M,185cm,,24
+2014/2015,Juan Miguel Jimenez López,Southampton,68,CAM,Spain,EPL,3,3,M,H,170cm,,22
+2014/2015,Rudy Gestede,Aston Villa,68,ST,Benin,EPL,2,3,H,M,193cm,,26
+2014/2015,Dean Hammond,Leicester City,67,CM,England,EPL,2,3,M,H,183cm,,32
+2014/2015,Patrick McCarthy,Crystal Palace,67,CB,Republic of Ireland,EPL,2,3,M,M,185cm,,31
+2014/2015,Nathan Ake,Chelsea,67,CB,Netherlands,EPL,2,3,H,M,180cm,,20
+2014/2015,Leandro Bacuna,Aston Villa,67,RB,Netherlands,EPL,3,3,H,M,187cm,,23
+2014/2015,Jason Davidson,West Brom,67,LB,Australia,EPL,2,2,M,M,180cm,,23
+2014/2015,Gary Taylor-Fletcher,Leicester City,67,ST,England,EPL,3,2,M,M,183cm,,33
+2014/2015,Saido Berahino,West Brom,67,ST,England,EPL,3,4,M,M,180cm,,21
+2014/2015,Ayoze Pérez Gutiérrez,Newcastle Utd,67,ST,Spain,EPL,3,4,H,M,179cm,,21
+2014/2015,Jamaal Lascelles,Newcastle Utd,67,CB,England,EPL,2,3,M,H,189cm,,21
+2014/2015,Patrick Roberts,Manchester City,67,RM,England,EPL,3,2,M,M,167cm,,18
+2014/2015,José Ángel Crespo Rincón,Aston Villa,67,CB,Spain,EPL,2,3,M,M,183cm,,28
+2014/2015,Alan Tate,Swansea City,66,CB,England,EPL,2,3,M,M,185cm,,32
+2014/2015,Stuart O'Keefe,Crystal Palace,66,CM,England,EPL,2,3,M,H,173cm,,24
+2014/2015,Peter Ramage,Crystal Palace,66,CB,England,EPL,2,3,M,M,185cm,,31
+2014/2015,Jimmy Kebe,Crystal Palace,66,RM,Mali,EPL,3,3,M,L,187cm,,31
+2014/2015,Ashley Richards,Swansea City,66,RB,Wales,EPL,3,3,M,M,175cm,,24
+2014/2015,Paul Dummett,Newcastle Utd,66,LB,Wales,EPL,2,2,H,M,183cm,,23
+2014/2015,Joe Bennett,Aston Villa,66,LB,England,EPL,2,3,M,M,183cm,,25
+2014/2015,Jamie Ness,Stoke City,66,CM,Scotland,EPL,3,3,M,M,177cm,,24
+2014/2015,Mehdi Abeid,Newcastle Utd,65,CM,Algeria,EPL,3,3,M,M,180cm,,22
+2014/2015,Kyle Bartley,Swansea City,65,CB,England,EPL,2,3,M,M,194cm,,24
+2014/2015,Haris Vučkić,Newcastle Utd,65,CAM,Slovenia,EPL,3,3,M,M,186cm,,22
+2014/2015,Adilson Tavares Varela,Sunderland,65,CM,Switzerland,EPL,2,2,M,H,178cm,,26
+2014/2015,Krisztián Adorján,Liverpool,65,CAM,Hungary,EPL,3,0,M,M,180cm,,45
+2014/2015,Rory Donnelly,Swansea City,65,ST,Northern Ireland,EPL,2,3,H,M,188cm,,23
+2014/2015,Shane Ferguson,Newcastle Utd,65,LM,Northern Ireland,EPL,2,3,M,M,175cm,,23
+2014/2015,Jack Grealish,Aston Villa,65,LM,Republic of Ireland,EPL,4,3,M,M,178cm,,19
+2014/2015,Ben Amos,Manchester Utd,65,GK,England,EPL,1,2,M,M,193cm,,25
+2014/2015,Ben Hamer,Leicester City,65,GK,England,EPL,1,3,M,M,193cm,,27
+2014/2015,Alex Pritchard,Spurs,65,CAM,England,EPL,3,4,H,H,171cm,,22
+2014/2015,Paul Gallagher,Leicester City,65,LM,Scotland,EPL,3,3,M,M,185cm,,30
+2014/2015,Patrick Bamford,Chelsea,65,ST,England,EPL,2,3,H,M,189cm,,21
+2014/2015,Patrick Bamford,Crystal Palace,65,ST,England,EPL,2,3,H,M,189cm,,21
+2014/2015,Ezekiel Fryers,Crystal Palace,64,CB,England,EPL,2,2,M,M,183cm,,45
+2014/2015,Todd Kane,Chelsea,64,RB,England,EPL,2,3,H,M,180cm,,21
+2014/2015,Lloyd Isgrove,Southampton,64,RM,Wales,EPL,3,3,M,M,178cm,,22
+2014/2015,Ryan Mason,Spurs,64,CAM,England,EPL,3,3,M,M,175cm,,23
+2014/2015,Bongani Khumalo,Spurs,64,CB,South Africa,EPL,2,3,M,M,188cm,,28
+2014/2015,Luke Garbutt,Everton,64,LB,England,EPL,2,3,H,M,178cm,,22
+2014/2015,Lewis Price,Crystal Palace,64,GK,Wales,EPL,1,2,M,M,191cm,,30
+2014/2015,Kwesi Appiah,Crystal Palace,64,ST,England,EPL,2,4,H,L,180cm,,24
+2014/2015,Samed Yesil,Liverpool,63,ST,Germany,EPL,3,3,M,M,180cm,,21
+2014/2015,Jeffrey Schlupp,Leicester City,63,LB,Ghana,EPL,2,2,M,M,178cm,,22
+2014/2015,Gael Bigirimana,Newcastle Utd,63,CM,England,EPL,2,3,M,M,177cm,,21
+2014/2015,Jay Fulton,Swansea City,63,CAM,England,EPL,2,3,M,M,178cm,,21
+2014/2015,Sam Gallagher,Southampton,63,ST,England,EPL,2,2,M,M,193cm,,19
+2014/2015,James Wilson,Manchester Utd,63,ST,England,EPL,2,4,M,M,184cm,,19
+2014/2015,Souleymane Coulibaly,Spurs,63,ST,Ivory Coast,EPL,3,4,M,M,172cm,,45
+2014/2015,Damian Martinez,Arsenal,63,GK,Argentina,EPL,1,3,M,M,191cm,,22
+2014/2015,Paulo Gazzaniga,Southampton,63,GK,Argentina,EPL,1,3,M,M,196cm,,23
+2014/2015,Rolando Aarons,Newcastle Utd,62,LM,Jamaica,EPL,3,3,M,M,175cm,,19
+2014/2015,Adam Armstrong,Newcastle Utd,62,CF,England,EPL,2,3,H,M,172cm,,18
+2014/2015,Enda Stevens,Aston Villa,62,LB,Republic of Ireland,EPL,2,2,M,M,183cm,,24
+2014/2015,Gedion Zelalem,Arsenal,62,CM,Germany,EPL,3,4,M,M,180cm,,18
+2014/2015,Harrison Reed,Southampton,62,CM,England,EPL,2,3,M,M,168cm,,20
+2014/2015,Richard Wright,Manchester City,62,GK,England,EPL,1,2,M,M,188cm,,37
+2014/2015,Grant Hall,Spurs,62,CB,England,EPL,2,3,L,M,191cm,,23
+2014/2015,João Carlos Vilaça Teixeira,Liverpool,62,CAM,Portugal,EPL,3,3,H,M,177cm,,22
+2014/2015,Donervon Daniels,West Brom,62,CB,England,EPL,2,2,M,M,185cm,,21
+2014/2015,Diego Poyet,West Ham,61,CDM,England,EPL,2,3,M,M,180cm,,20
+2014/2015,Adam Campbell,Newcastle Utd,61,ST,England,EPL,2,3,H,M,168cm,,45
+2014/2015,Tyias Browning,Everton,61,CB,England,EPL,2,3,M,M,181cm,,20
+2014/2015,Francisco Santos Silva Júnior,Everton,61,CM,Guinea Bissau,EPL,2,3,M,H,162cm,,23
+2014/2015,Conor McAleny,Everton,61,ST,England,EPL,2,3,M,L,172cm,,22
+2014/2015,Adil Nabi,West Brom,61,ST,England,EPL,3,3,M,M,176cm,,21
+2014/2015,Dionatan Teixeira,Stoke City,61,CB,Slovakia,EPL,2,3,M,M,193cm,,22
+2014/2015,Zoumana Bakayogo,Leicester City,61,LB,Ivory Coast,EPL,2,3,H,M,183cm,,28
+2014/2015,Héctor Bellerín Moruno,Arsenal,61,RB,Spain,EPL,3,3,M,M,177cm,,20
+2014/2015,Samuel Galindo,Arsenal,61,CAM,Bolivia,EPL,3,3,M,M,189cm,,23
+2014/2015,Kemar Roofe,West Brom,61,LM,England,EPL,3,3,M,M,178cm,,22
+2014/2015,Benjamin Siegrist,Aston Villa,61,GK,Switzerland,EPL,1,1,M,M,194cm,,23
+2014/2015,Jindrich Stanek,Everton,61,GK,Czech Republic,EPL,1,3,M,M,192cm,,19
+2014/2015,Jak Alnwick,Newcastle Utd,61,GK,England,EPL,1,2,M,M,188cm,,21
+2014/2015,Blair Turgott,West Ham,60,RM,England,EPL,2,3,M,M,179cm,,21
+2014/2015,Jordan Rossiter,Liverpool,60,CM,England,EPL,2,4,M,M,172cm,,18
+2014/2015,Isaiah Brown,Chelsea,60,ST,England,EPL,2,3,M,M,182cm,,18
+2014/2015,Will Keane,Manchester Utd,60,ST,England,EPL,3,3,M,M,187cm,,22
+2014/2015,Mikael Mandron,Sunderland,60,ST,France,EPL,2,2,M,M,191cm,,20
+2014/2015,Curtis Obeng,Swansea City,60,RB,England,EPL,2,2,M,M,173cm,,26
+2014/2015,Tyler Blackett,Manchester Utd,60,CB,England,EPL,2,3,M,M,188cm,,21
+2014/2015,James Alabi,Stoke City,60,ST,England,EPL,2,2,M,M,182cm,,45
+2014/2015,Paul McCallum,West Ham,60,ST,England,EPL,3,2,M,M,191cm,,21
+2014/2015,Michael Drennan,Aston Villa,60,ST,Republic of Ireland,EPL,3,3,H,M,178cm,,21
+2014/2015,Bradley Garmston,West Brom,60,LB,Republic of Ireland,EPL,2,2,H,M,177cm,,21
+2014/2015,Brendan Galloway,Everton,60,LB,England,EPL,2,3,M,M,186cm,,19
+2014/2015,Daniel Potts,West Ham,60,LB,England,EPL,2,3,H,M,172cm,,21
+2014/2015,Callum Robinson,Aston Villa,60,ST,England,EPL,2,2,H,M,178cm,,20
+2014/2015,Luke Daniels,West Brom,60,GK,England,EPL,1,3,M,M,195cm,,27
+2014/2015,Chris Kettings,Crystal Palace,60,GK,Scotland,EPL,1,2,M,M,193cm,,22
+2014/2015,Jakob Haugaard,Stoke City,60,GK,Denmark,EPL,1,3,M,M,199cm,,23
+2014/2015,Janoi Donacien,Aston Villa,60,CB,St Lucia,EPL,2,2,L,H,183cm,,21
+2014/2015,Callum Robinson,Aston Villa,60,LM,England,EPL,2,2,H,M,178cm,,20
+2014/2015,James Loveridge,Swansea City,59,ST,Wales,EPL,2,3,M,M,188cm,,21
+2014/2015,Lewis Baker,Chelsea,59,CAM,England,EPL,3,5,M,M,178cm,,20
+2014/2015,Ryan Ledson,Everton,59,CM,England,EPL,2,2,M,M,181cm,,17
+2014/2015,Graham Burke,Aston Villa,59,CF,Republic of Ireland,EPL,3,3,M,L,180cm,,21
+2014/2015,Ryan Seager,Southampton,59,ST,England,EPL,2,3,M,L,176cm,,19
+2014/2015,Jake Hesketh,Southampton,59,CAM,England,EPL,3,3,M,L,168cm,,19
+2014/2015,Seko Fofana,Manchester City,59,CDM,France,EPL,3,3,M,M,183cm,,20
+2014/2015,Jordan Pickford,Sunderland,59,GK,England,EPL,1,3,M,M,185cm,,21
+2014/2015,John Swift,Chelsea,59,CM,England,EPL,3,3,H,H,185cm,,19
+2014/2015,Jordan Graham,Aston Villa,58,RM,England,EPL,4,3,M,M,182cm,,20
+2014/2015,Simonas Stankevičius,Leicester City,58,ST,Lithuania,EPL,2,3,M,M,185cm,,19
+2014/2015,Liam Agnew,Sunderland,58,CAM,England,EPL,2,3,M,M,178cm,,20
+2014/2015,Tom Lawrence,Leicester City,58,LM,Wales,EPL,2,3,M,M,175cm,,45
+2014/2015,Jerome Binnom-Williams,Crystal Palace,58,LB,England,EPL,2,3,H,M,180cm,,20
+2014/2015,Michael Cain,Leicester City,58,CM,England,EPL,2,3,M,M,182cm,,21
+2014/2015,Scott Tancock,Swansea City,58,CB,Wales,EPL,2,3,M,M,185cm,,22
+2014/2015,Lamisha Musonda,Chelsea,58,CDM,Belgium,EPL,2,0,M,M,167cm,,45
+2014/2015,Sebastian Lletget,West Ham,58,CM,United States,EPL,3,4,M,M,180cm,,22
+2014/2015,Cameron Brannagan,Liverpool,58,CAM,England,EPL,2,3,H,M,180cm,,19
+2014/2015,Ryan Inniss,Crystal Palace,58,CB,England,EPL,2,3,M,M,196cm,,19
+2014/2015,George Evans,Manchester City,58,CM,England,EPL,2,2,M,M,184cm,,20
+2014/2015,Jordi Hiwula,Manchester City,58,ST,England,EPL,2,3,M,M,178cm,,20
+2014/2015,Chuba Akpom,Arsenal,58,ST,England,EPL,2,3,M,M,183cm,,19
+2014/2015,Matt Targett,Southampton,58,LB,England,EPL,2,2,M,M,183cm,,19
+2014/2015,Andreas Christensen,Chelsea,58,CB,Denmark,EPL,2,3,M,M,188cm,,19
+2014/2015,Callam Jones,West Brom,58,CB,England,EPL,2,3,M,M,183cm,,19
+2014/2015,Raphael Spiegel,West Ham,58,GK,Switzerland,EPL,1,2,M,M,196cm,,22
+2014/2015,David Cornell,Swansea City,58,GK,Wales,EPL,1,3,M,M,188cm,,24
+2014/2015,Jack Rose,West Brom,58,GK,England,EPL,1,3,M,M,183cm,,20
+2014/2015,Adam Smith,Leicester City,58,GK,England,EPL,1,2,M,M,180cm,,22
+2014/2015,John Lundstram,Everton,58,CM,England,EPL,3,3,M,M,181cm,,21
+2014/2015,Shaquile Coulthirst,Spurs,58,LM,England,EPL,2,3,M,M,176cm,,20
+2014/2015,Ivan Toney,Newcastle Utd,58,ST,England,EPL,2,1,H,H,181cm,,19
+2014/2015,Jack Stephens,Southampton,58,CB,England,EPL,2,3,M,M,185cm,,21
+2014/2015,Elliot Lee,West Ham,57,ST,England,EPL,2,2,M,L,180cm,,20
+2014/2015,Duncan Watmore,Sunderland,57,RW,England,EPL,3,3,M,M,175cm,,21
+2014/2015,Reise Allassani,Crystal Palace,57,LW,England,EPL,2,3,M,M,170cm,,19
+2014/2015,Leo Chambers,West Ham,57,CB,England,EPL,2,3,M,M,186cm,,19
+2014/2015,Raheem Hanley,Swansea City,57,LB,England,EPL,2,3,H,M,173cm,,21
+2014/2015,Jake Sinclair,Southampton,57,ST,England,EPL,3,0,M,M,173cm,,45
+2014/2015,Jake Flannigan,Southampton,57,CM,England,EPL,2,3,M,M,180cm,,19
+2014/2015,Jack Barmby,Leicester City,57,CF,England,EPL,3,3,H,M,178cm,,20
+2014/2015,Charlie Ward,Stoke City,57,CAM,England,EPL,2,3,M,M,177cm,,20
+2014/2015,Mani O'Sullivan,West Brom,57,LM,England,EPL,2,3,M,M,182cm,,21
+2014/2015,Liam O'Neil,West Brom,57,CDM,England,EPL,2,3,M,M,180cm,,21
+2014/2015,Josh Vickers,Arsenal,57,GK,England,EPL,1,2,M,M,183cm,,19
+2014/2015,Dale Eve,Stoke City,57,GK,Bermuda,EPL,1,2,M,M,193cm,,20
+2014/2015,Joel Dixon,Sunderland,57,GK,England,EPL,1,2,M,M,193cm,,45
+2014/2015,Devante Cole,Manchester City,57,ST,England,EPL,2,3,M,M,186cm,,20
+2014/2015,Grant Ward,Spurs,57,CDM,England,EPL,2,3,H,M,178cm,,20
+2014/2015,Jordan Archer,Spurs,57,GK,Scotland,EPL,1,2,M,M,191cm,,22
+2014/2015,Ryan Fredericks,Spurs,57,RB,England,EPL,3,3,H,M,173cm,,22
+2014/2015,Sam McQueen,Southampton,56,LM,England,EPL,2,3,M,L,176cm,,20
+2014/2015,Jake Gray,Crystal Palace,56,RW,England,EPL,3,3,M,M,180cm,,19
+2014/2015,Aaron Birch,West Brom,56,CAM,England,EPL,2,3,M,M,173cm,,20
+2014/2015,George Honeyman,Sunderland,56,CAM,England,EPL,2,3,M,M,173cm,,20
+2014/2015,Joe Davis,Leicester City,56,CB,England,EPL,2,3,M,M,183cm,,21
+2014/2015,Tom Hopper,Leicester City,56,ST,England,EPL,2,3,M,M,186cm,,21
+2014/2015,Reece James,Manchester Utd,56,LB,England,EPL,2,3,M,M,168cm,,21
+2014/2015,Martin Smith,Sunderland,56,CM,England,EPL,2,3,M,M,178cm,,19
+2014/2015,Ruben Loftus-Cheek,Chelsea,56,CM,England,EPL,2,3,M,M,190cm,,19
+2014/2015,José Ángel Pozo la Rosa,Manchester City,56,CF,Spain,EPL,3,3,M,L,170cm,,19
+2014/2015,Ian Lawlor,Manchester City,56,GK,Republic of Ireland,EPL,1,3,M,M,192cm,,20
+2014/2015,Maksymilian Stryjek,Sunderland,56,GK,Poland,EPL,1,2,M,M,188cm,,18
+2014/2015,Angus Gunn,Manchester City,56,GK,England,EPL,1,3,M,M,196cm,,19
+2014/2015,Rafael Páez Cardona,Liverpool,56,CB,Spain,EPL,2,3,M,M,192cm,,20
+2014/2015,Kenneth McEvoy,Spurs,56,LM,Republic of Ireland,EPL,3,4,H,M,176cm,,20
+2014/2015,Jon Toral,Arsenal,56,CAM,Spain,EPL,3,4,M,M,191cm,,20
+2014/2015,Jacob Blyth,Leicester City,56,ST,England,EPL,2,3,M,M,191cm,,22
+2014/2015,David Ferguson,Sunderland,55,LB,England,EPL,2,2,M,M,178cm,,20
+2014/2015,Wes Atkinson,West Brom,55,RB,England,EPL,2,3,M,M,175cm,,20
+2014/2015,Carl Lawson,Sunderland,55,ST,England,EPL,2,3,M,M,182cm,,20
+2014/2015,Joseph Gomez,Liverpool,55,CB,England,EPL,2,3,M,M,185cm,,18
+2014/2015,Jordan Turnbull,Southampton,55,CB,England,EPL,2,2,M,M,185cm,,20
+2014/2015,Dele Alli,Spurs,55,CM,England,EPL,3,3,H,M,187cm,,19
+2014/2015,Hiram Boateng,Crystal Palace,54,CDM,England,EPL,3,3,M,M,170cm,,19
+2014/2015,Jason McCarthy,Southampton,54,CB,England,EPL,2,2,L,M,186cm,,19
+2014/2015,Reece Burke,West Ham,54,CB,England,EPL,2,2,M,M,186cm,,18
+2014/2015,Adam King,Swansea City,54,CM,Scotland,EPL,2,3,M,M,180cm,,19
+2014/2015,Harrison Panayiotou,Leicester City,54,ST,England,EPL,2,3,M,M,178cm,,20
+2014/2015,Alie Sesay,Leicester City,53,CB,England,EPL,2,2,L,H,183cm,,21
+2014/2015,Josh Sheehan,Swansea City,53,CM,Wales,EPL,2,3,M,M,184cm,,20
+2014/2015,Matthew Pennington,Everton,53,RB,England,EPL,2,2,M,M,185cm,,20
+2014/2015,Alex Grant,Stoke City,52,CB,Australia,EPL,2,0,M,M,180cm,,45
+2014/2015,Stephen Kingsley,Swansea City,52,LB,Scotland,EPL,2,3,M,M,178cm,,20
+2014/2015,Kieran Kennedy,Leicester City,51,CB,England,EPL,2,3,M,M,183cm,,21
+2014/2015,Jaanai Gordon,West Ham,50,ST,England,EPL,2,3,H,M,178cm,,19
+2014/2015,Bradley Lewis,Aston Villa,49,CB,Republic of Ireland,EPL,2,2,M,H,180cm,,20
+2014/2015,Elliot Wheeler,Stoke City,48,RM,England,EPL,2,2,M,M,180cm,,21
+2014/2015,Sandro,QPR,79,CDM,Brazil,EPL,3,3,M,H,187cm,,45
+2014/2015,Adel Taarabt,QPR,79,CAM,Morocco,EPL,5,4,M,L,177cm,,26
+2014/2015,Rio Ferdinand,QPR,79,CB,England,EPL,2,3,M,M,196cm,,36
+2014/2015,Eduardo Vargas,QPR,77,ST,Chile,EPL,4,4,H,M,175cm,,25
+2014/2015,Steven Caulker,QPR,76,CB,England,EPL,2,2,M,H,191cm,,23
+2014/2015,Mauricio Isla,QPR,76,RM,Chile,EPL,3,3,H,H,177cm,,26
+2014/2015,Leroy Fer,QPR,76,CM,Netherlands,EPL,3,4,H,H,188cm,,25
+2014/2015,Robert Green,QPR,76,GK,England,EPL,1,3,M,M,191cm,,35
+2014/2015,Nedum Onuoha,QPR,75,CB,England,EPL,2,2,M,M,188cm,,28
+2014/2015,Joey Barton,QPR,75,CDM,England,EPL,3,3,M,M,180cm,,32
+2014/2015,Alex McCarthy,QPR,75,GK,England,EPL,1,2,M,M,193cm,,45
+2014/2015,Alejandro Faurlín,QPR,74,CM,Argentina,EPL,3,2,M,M,185cm,,28
+2014/2015,Richard Dunne,QPR,74,CB,Republic of Ireland,EPL,2,2,L,H,188cm,,35
+2014/2015,Charlie Austin,QPR,74,ST,England,EPL,2,3,H,M,188cm,,25
+2014/2015,Junior Hoilett,QPR,73,LM,Canada,EPL,3,3,M,L,172cm,,24
+2014/2015,Tjaronn Chery,QPR,72,CAM,Netherlands,EPL,3,1,M,L,170cm,,26
+2014/2015,Matt Phillips,QPR,71,RM,Scotland,EPL,4,4,M,M,183cm,,24
+2014/2015,Bobby Zamora,QPR,71,ST,England,EPL,3,3,L,M,185cm,,34
+2014/2015,Armand Traoré,QPR,71,LM,Senegal,EPL,2,2,H,M,185cm,,25
+2014/2015,Clint Hill,QPR,71,CB,England,EPL,2,1,M,H,183cm,,36
+2014/2015,Shaun Wright-Phillips,QPR,70,RM,England,EPL,3,3,H,L,166cm,,33
+2014/2015,Karl Henry,QPR,70,CDM,England,EPL,3,3,L,H,185cm,,32
+2014/2015,James Perch,QPR,70,RB,England,EPL,2,3,M,M,180cm,,29
+2014/2015,Jordon Mutch,QPR,69,CM,England,EPL,2,4,M,M,188cm,,23
+2014/2015,Sebastian Polter,QPR,69,ST,Germany,EPL,2,3,M,M,190cm,,24
+2014/2015,Suk Young Yun,QPR,68,LB,Korea Republic,EPL,2,4,M,H,182cm,,25
+2014/2015,Jamie Mackie,QPR,68,RM,Scotland,EPL,3,3,H,H,173cm,,29
+2014/2015,Paul Konchesky,QPR,68,LB,England,EPL,2,3,M,M,178cm,,34
+2014/2015,Jay Emmanuel-Thomas,QPR,67,ST,England,EPL,4,4,L,L,191cm,,24
+2014/2015,Jack Robinson,QPR,66,LB,England,EPL,2,3,H,M,180cm,,21
+2014/2015,Brian Murphy,QPR,65,GK,Republic of Ireland,EPL,1,3,M,M,183cm,,32
+2014/2015,Massimo Luongo,QPR,64,CM,Australia,EPL,3,3,H,H,174cm,,22
+2014/2015,Oscar Gobern,QPR,63,CM,England,EPL,2,2,M,H,191cm,,24
+2014/2015,Grant Hall,QPR,62,CB,England,EPL,2,3,L,M,191cm,,23
+2014/2015,Bruno Miguel Carvalho Andrade,QPR,61,RM,Portugal,EPL,3,3,M,L,175cm,,21
+2014/2015,Michael Harriman,QPR,61,RB,Republic of Ireland,EPL,2,2,M,H,168cm,,22
+2014/2015,Max Ehmer,QPR,61,CB,Germany,EPL,2,3,M,M,188cm,,23
+2014/2015,Frankie Sutherland,QPR,60,CM,Republic of Ireland,EPL,2,3,M,M,177cm,,21
+2014/2015,Michael Doughty,QPR,58,CM,Wales,EPL,3,3,M,M,185cm,,22
+2014/2015,Jordan Gibbons,QPR,56,RM,England,EPL,2,2,M,M,173cm,,21
+2014/2015,Coll Donaldson,QPR,54,CB,Scotland,EPL,2,3,M,M,188cm,,20
+2014/2015,Jamie Sendles-White,QPR,54,CB,Northern Ireland,EPL,2,3,M,M,188cm,,21
+2014/2015,Jelle Vossen,Burnley,74,ST,Belgium,EPL,3,4,H,H,180cm,,26
+2014/2015,Matthew Lowton,Burnley,73,RB,England,EPL,2,3,H,M,180cm,,25
+2014/2015,Michael Kightly,Burnley,72,LM,England,EPL,3,3,H,H,173cm,,29
+2014/2015,Jason Shackell,Burnley,72,CB,England,EPL,2,3,M,M,193cm,,31
+2014/2015,Kieran Trippier,Burnley,72,RB,England,EPL,3,4,H,H,179cm,,24
+2014/2015,Tom Heaton,Burnley,72,GK,England,EPL,1,3,M,M,188cm,,29
+2014/2015,Danny Ings,Burnley,71,ST,England,EPL,3,3,H,H,178cm,,22
+2014/2015,Matt Gilks,Burnley,71,GK,Scotland,EPL,1,2,M,M,185cm,,32
+2014/2015,David Jones,Burnley,70,CM,England,EPL,2,2,M,H,183cm,,30
+2014/2015,Lukas Jutkiewicz,Burnley,70,ST,England,EPL,3,4,M,M,185cm,,26
+2014/2015,Matt Taylor,Burnley,70,CM,England,EPL,3,3,M,M,178cm,,33
+2014/2015,Stephen Ward,Burnley,70,LB,Republic of Ireland,EPL,3,5,H,M,184cm,,29
+2014/2015,Steven Reid,Burnley,69,RB,Republic of Ireland,EPL,3,3,M,M,180cm,,34
+2014/2015,Ross Wallace,Burnley,69,RM,Scotland,EPL,3,3,H,M,167cm,,30
+2014/2015,Sam Vokes,Burnley,69,ST,Wales,EPL,2,3,H,M,188cm,,25
+2014/2015,Ben Mee,Burnley,69,LB,England,EPL,2,3,M,M,180cm,,25
+2014/2015,Ashley Barnes,Burnley,69,ST,Austria,EPL,2,4,H,M,186cm,,25
+2014/2015,Nathaniel Chalobah,Burnley,68,CM,England,EPL,2,3,M,M,185cm,,45
+2014/2015,Scott Arfield,Burnley,68,RM,Scotland,EPL,3,3,H,H,178cm,,26
+2014/2015,Dean Marney,Burnley,68,CM,England,EPL,2,3,M,H,183cm,,31
+2014/2015,Michael Duff,Burnley,67,CB,Northern Ireland,EPL,2,2,L,M,186cm,,37
+2014/2015,George Boyd,Burnley,67,LM,Scotland,EPL,4,4,M,L,186cm,,45
+2014/2015,Fredrik Ulvestad,Burnley,67,CM,Norway,EPL,3,3,M,M,183cm,,22
+2014/2015,Marvin Sordell,Burnley,66,ST,England,EPL,3,3,M,M,177cm,,24
+2014/2015,Michael Keane,Burnley,65,CB,England,EPL,2,3,M,M,188cm,,45
+2014/2015,Kevin Long,Burnley,65,CB,Republic of Ireland,EPL,2,2,L,M,187cm,,24
+2014/2015,Daniel Lafferty,Burnley,64,LB,Northern Ireland,EPL,2,4,H,M,180cm,,26
+2014/2015,Alex Cisak,Burnley,63,GK,Australia,EPL,1,3,M,M,190cm,,26
+2014/2015,Cameron Howieson,Burnley,62,CAM,New Zealand,EPL,2,3,H,M,177cm,,20
+2014/2015,Tendayi Darikwa,Burnley,61,RB,England,EPL,2,3,H,M,188cm,,23
+2014/2015,Luke O'Neill,Burnley,60,RB,England,EPL,2,2,M,M,183cm,,23
+2014/2015,Steven Hewitt,Burnley,59,CM,England,EPL,2,3,M,H,175cm,,21
+2014/2015,Jason Gilchrist,Burnley,58,ST,England,EPL,2,3,M,M,178cm,,20
+2014/2015,Tom Anderson,Burnley,56,CB,England,EPL,2,3,L,M,193cm,,21
+2014/2015,Cameron Dummigan,Burnley,56,RB,Northern Ireland,EPL,2,3,M,M,180cm,,18
+2014/2015,Conor Mitchell,Burnley,52,GK,Northern Ireland,EPL,1,2,M,M,183cm,,19
+2014/2015,Luke Hendrie,Burnley,47,CM,England,EPL,2,3,M,M,178cm,,20
+2014/2015,Michael Dawson,Hull City,79,CB,England,EPL,2,3,M,H,188cm,,31
+2014/2015,Gastón Ramirez,Hull City,78,CAM,Uruguay,EPL,4,3,M,M,183cm,,45
+2014/2015,Hatem Ben Arfa,Hull City,78,RM,France,EPL,5,3,M,L,178cm,,45
+2014/2015,Tom Huddlestone,Hull City,75,CM,England,EPL,3,5,L,M,188cm,,28
+2014/2015,Curtis Davies,Hull City,75,CB,England,EPL,2,3,M,M,188cm,,30
+2014/2015,Robert Snodgrass,Hull City,74,RM,Scotland,EPL,3,3,H,H,182cm,,27
+2014/2015,Allan McGregor,Hull City,74,GK,Scotland,EPL,1,3,M,M,183cm,,33
+2014/2015,Nikica Jelavic,Hull City,73,ST,Croatia,EPL,3,4,M,L,187cm,,29
+2014/2015,Jake Livermore,Hull City,73,CM,England,EPL,2,2,M,H,180cm,,25
+2014/2015,Mohamed Diame,Hull City,73,CM,Senegal,EPL,3,4,M,M,185cm,,45
+2014/2015,Maynor Figueroa,Hull City,73,LB,Honduras,EPL,3,2,M,M,184cm,,32
+2014/2015,Ryan Taylor,Hull City,73,LB,England,EPL,2,3,M,M,179cm,,30
+2014/2015,Abel Hernández,Hull City,72,ST,Uruguay,EPL,3,3,M,L,185cm,,45
+2014/2015,Ahmed Elmohamady,Hull City,72,RWB,Egypt,EPL,3,3,H,H,182cm,,27
+2014/2015,Thomas Ince,Hull City,72,RM,England,EPL,4,3,H,M,178cm,,23
+2014/2015,Robbie Brady,Hull City,71,LM,Republic of Ireland,EPL,3,4,M,M,175cm,,23
+2014/2015,Yannick Sagbo,Hull City,71,ST,Ivory Coast,EPL,3,3,M,M,183cm,,27
+2014/2015,Sone Aluko,Hull City,71,CF,Nigeria,EPL,3,4,H,L,173cm,,26
+2014/2015,James Chester,Hull City,71,CB,Wales,EPL,2,2,M,M,181cm,,26
+2014/2015,Andrew Robertson,Hull City,69,LB,Scotland,EPL,2,3,H,H,178cm,,21
+2014/2015,Stephen Quinn,Hull City,68,CM,Republic of Ireland,EPL,3,2,M,M,168cm,,29
+2014/2015,David Meyler,Hull City,68,CM,Republic of Ireland,EPL,2,3,M,H,189cm,,26
+2014/2015,Steve Harper,Hull City,68,GK,England,EPL,1,3,M,M,188cm,,40
+2014/2015,Alex Bruce,Hull City,67,CB,Northern Ireland,EPL,2,2,L,M,180cm,,30
+2014/2015,Liam Rosenior,Hull City,67,RB,England,EPL,3,3,M,M,178cm,,30
+2014/2015,Eldin Jakupović,Hull City,67,GK,Switzerland,EPL,1,2,M,M,191cm,,30
+2014/2015,Paul McShane,Hull City,66,CB,Republic of Ireland,EPL,2,3,M,H,183cm,,29
+2014/2015,Harry Maguire,Hull City,66,CB,England,EPL,2,3,M,M,188cm,,22
+2014/2015,Moses Odubajo,Hull City,65,RB,England,EPL,3,4,M,M,177cm,,21
+2014/2015,Sam Clucas,Hull City,61,ST,England,EPL,2,3,H,M,188cm,,24
+2014/2015,Brian Lenihan,Hull City,60,RB,Republic of Ireland,EPL,2,3,M,M,187cm,,45
+2014/2015,Conor Townsend,Hull City,59,LB,England,EPL,2,3,M,M,183cm,,22
+2014/2015,Chuba Akpom,Hull City,58,ST,England,EPL,2,3,M,M,183cm,,19
+2014/2015,Will Aimson,Hull City,57,CB,England,EPL,2,3,M,M,181cm,,20
+2014/2015,Calaum Jahraldo-Martin,Hull City,56,ST,Antigua & Barbuda,EPL,2,3,M,M,176cm,,22
+2014/2015,Max Clark,Hull City,53,LB,England,EPL,2,3,M,H,180cm,,19

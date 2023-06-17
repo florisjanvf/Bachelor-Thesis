@@ -1,0 +1,21 @@
+﻿team_name,location,stadium_name,stadium_capacity,average_attendance,manager_name,promoted,captain
+Arsenal,London (Holloway),Emirates Stadium,60704,60196,Mikel Arteta,FALSE,Martin Ødegaard
+Aston Villa,Birmingham,Villa Park,42657,41679,Unai Emery,FALSE,John McGinn
+Bournemouth,Bournemouth,Dean Court,11307,10313,Gary O'Neil,TRUE,Neto
+Brentford,London (Brentford),Brentford Community Stadium,17250,17064,Thomas Frank,FALSE,Pontus Jansson
+Brighton & Hove Albion,Falmer,Falmer Stadium,31780,31480,Roberto De Zerbi,FALSE,Lewis Dunk
+Chelsea,London (Fulham),Stamford Bridge,40343,39995,Graham Potter,FALSE,César Azpilicueta
+Crystal Palace,London (Selhurst),Selhurst Park,25486,25602,Roy Hodgson,FALSE,Luka Milivojević
+Everton,Liverpool (Walton),Goodison Park,39414,39232,Sean Dyche,FALSE,Séamus Coleman
+Fulham,London (Fulham),Craven Cottage,22384,23867,Marco Silva,TRUE,Tom Cairney
+Leeds United,Leeds,Elland Road,37608,36549,Sam Allardyce,FALSE,Liam Cooper
+Leicester City,Leicester,King Power Stadium,32262,31850,Dean Smith,FALSE,Jonny Evans
+Liverpool,Liverpool (Anfield),Anfield,53394,53176,Jürgen Klopp,FALSE,Jordan Henderson
+Manchester City,Manchester (Bradford),City of Manchester Stadium,53400,53236,Pep Guardiola,FALSE,İlkay Gündoğan
+Manchester United,Manchester (Old Trafford),Old Trafford,74310,73832,Erik ten Hag,FALSE,Harry Maguire
+Newcastle United,Newcastle upon Tyne,St James' Park,52305,52126,Eddie Howe,FALSE,Jamaal Lascelles
+Nottingham Forest,West Bridgford,City Ground,30332,29170,Steve Cooper,TRUE,Joe Worrall
+Southampton,Southampton,St Mary's Stadium,32384,30553,Rubén Sellés,FALSE,James Ward-Prowse
+Tottenham Hotspur,London (Tottenham),Tottenham Hotspur Stadium,62850,61579,Antonio Conte,FALSE,Hugo Lloris
+West Ham United,London (Stratford),London Stadium,62500,62461,David Moyes,FALSE,Declan Rice
+Wolverhampton Wanderers,Wolverhampton,Molineux Stadium,31750,31499,Julen Lopetegui,FALSE,Rúben Neves

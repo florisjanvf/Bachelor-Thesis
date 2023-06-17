@@ -1,0 +1,21 @@
+﻿team_name,location,stadium_name,stadium_capacity,average_attendance,manager_name,promoted,captain
+Arsenal,London (Holloway),Emirates Stadium,60362,60079,Arsène Wenger,FALSE,Thomas Vermaelen
+Aston Villa,Birmingham,Villa Park,42785,35059,Paul Lambert,FALSE,Ron Vlaar
+Chelsea,London (Fulham),Stamford Bridge,41798,41462,Rafael Benítez,FALSE,John Terry
+Everton,Liverpool (Walton),Goodison Park,40157,36355,David Moyes,FALSE,Phil Neville
+Fulham,London (Fulham),Craven Cottage,25700,25394,Martin Jol,FALSE,Brede Hangeland
+Liverpool,Liverpool (Anfield),Anfield,45276,44748,Brendan Rodgers,FALSE,Steven Gerrard
+Manchester City,Manchester (Bradford),City of Manchester Stadium,55097,46963,Roberto Mancini,FALSE,Vincent Kompany
+Manchester United,Manchester (Old Trafford),Old Trafford,75765,75529,Sir Alex Ferguson,FALSE,Nemanja Vidić
+Newcastle United,Newcastle upon Tyne,St James' Park,52405,50517,Alan Pardew,FALSE,Fabricio Coloccini
+Norwich City,Norwich,Carrow Road,27224,26671,Chris Hughton,FALSE,Grant Holt
+Queens Park Rangers,London (Shepherd's Bush),Loftus Road,18439,17748,Harry Redknapp,FALSE,Clint Hill
+Reading,Reading,Madejski Stadium,24197,23862,Nigel Adkins,TRUE,Jobi McAnuff
+Southampton,Southampton,St Mary's Stadium,32689,30926,Mauricio Pochettino,TRUE,Adam Lallana
+Stoke City,Stoke-on-Trent,Britannia Stadium,27740,26722,Tony Pulis,FALSE,Ryan Shawcross
+Sunderland,Sunderland,Stadium of Light,48707,40544,Paolo Di Canio,FALSE,Lee Cattermole
+Swansea City,Swansea,Liberty Stadium,20750,20370,Michael Laudrup,FALSE,Garry Monk
+Tottenham Hotspur,London (Tottenham),White Hart Lane,36284,36066,André Villas-Boas,FALSE,Michael Dawson
+West Bromwich Albion,West Bromwich,The Hawthorns,26445,25293,Steve Clarke,FALSE,Chris Brunt
+West Ham United,London (Upton Park),Boleyn Ground,35016,34719,Sam Allardyce,TRUE,Kevin Nolan
+Wigan Athletic,Wigan,DW Stadium,25133,19359,Roberto Martínez,FALSE,Gary Caldwell

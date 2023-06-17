@@ -1,0 +1,281 @@
+season,team_name,location,stadium_name,stadium_capacity,average_attendance,manager_name,promoted,captain
+2009/2010,Arsenal,London (Holloway),Emirates Stadium,60355,59927,Arsène Wenger,False,Cesc Fàbregas
+2009/2010,Aston Villa,Birmingham (Aston),Villa Park,42788,38573,Martin O'Neill,False,Stiliyan Petrov
+2009/2010,Birmingham City,Birmingham (Bordesley),St Andrew's,30009,25246,Alex McLeish,True,Stephen Carr
+2009/2010,Blackburn Rovers,Blackburn,Ewood Park,31367,25428,Sam Allardyce,False,Ryan Nelsen
+2009/2010,Bolton Wanderers,Bolton,Reebok Stadium,28723,21881,Owen Coyle,False,Kevin Davies
+2009/2010,Burnley,Bumley,Turf Moor,22546,20654,Brian Laws,True,Steven Caldwell
+2009/2010,Chelsea,London (Fulham),Stamford Bridge,42055,41423,Carlo Ancelotti,False,John Terry
+2009/2010,Everton,Liverpool (Walton),Goodison Park,40157,36725,David Moyes,False,Phil Neville
+2009/2010,Fulham,London (Fulham),Craven Cottage,25700,23909,Roy Hodgson,False,Danny Murphy
+2009/2010,Hull City,Kingston upon Hull,KC Stadium,25404,24390,Iain Dowie,False,Anthony Gardner
+2009/2010,Liverpool,Liverpool (Anfield),Anfield,45276,42864,Rafael Benítez,False,Steven Gerrard
+2009/2010,Manchester City,Manchester (Bradford),City of Manchester Stadium,55097,45513,Roberto Mancini,False,Kolo Touré
+2009/2010,Manchester United,Trafford (Old Trafford),Old Trafford,76212,74864,Sir Alex Ferguson,False,Gary Neville
+2009/2010,Portsmouth,Portsmouth,Fratton Park,20688,18249,Avram Grant,False,David James
+2009/2010,Stoke City,Stoke-on-Trent,Britannia Stadium,28383,27162,Tony Pulis,False,Abdoulaye Faye
+2009/2010,Sunderland,Sunderland,Stadium of Light,49000,40355,Steve Bruce,False,Lorik Cana
+2009/2010,Tottenham Hotspur,London (Tottenham),White Hart Lane,36240,35794,Harry Redknapp,False,Ledley King
+2009/2010,West Ham United,London (Upton Park),Boleyn Ground,35309,33683,Gianfranco Zola,False,Matthew Upson
+2009/2010,Wigan Athletic,Wigan,DW Stadiumbl,25138,18006,Roberto Martínez,False,Mario Melchiot
+2009/2010,Wolverhampton Wanderers,Wolverhampton,Molineux Stadium,29303,28366,Mick McCarthy,True,Karl Henry
+2010/2011,Arsenal,London (Holloway),Emirates Stadium,60361,60024,Arsène Wenger,False,Cesc Fàbregas
+2010/2011,Aston Villa,Birmingham (Aston),Villa Park,42789,37194,Gérard Houllier,False,Stiliyan Petrov
+2010/2011,Birmingham City,Birmingham (Bordesley),St Andrew's,30079,25462,Alex McLeish,False,Stephen Carr
+2010/2011,Blackburn Rovers,Blackburn,Ewood Park,31367,25000,Steve Kean,False,Ryan Nelsen
+2010/2011,Blackpool,Blackpool,Bloomfield Road,16220,15780,Ian Holloway,True,Charlie Adam
+2010/2011,Bolton Wanderers,Bolton,Reebok Stadium,28723,22870,Owen Coyle,False,Kevin Davies
+2010/2011,Chelsea,London (Fulham),Stamford Bridge,42449,41435,Carlo Ancelotti,False,John Terry
+2010/2011,Everton,Liverpool (Walton),Goodison Park,40157,36039,David Moyes,False,Phil Neville
+2010/2011,Fulham,London (Fulham),Craven Cottage,25700,25043,Mark Hughes,False,Danny Murphy
+2010/2011,Liverpool,Liverpool (Anfield),Anfield,45276,42820,Kenny Dalglish,False,Steven Gerrard
+2010/2011,Manchester City,Manchester (Bradford),City of Manchester Stadium,47405,45880,Roberto Mancini,False,Carlos Tevez
+2010/2011,Manchester United,Manchester (Old Trafford),Old Trafford,75797,75109,Sir Alex Ferguson,False,Gary Neville
+2010/2011,Newcastle United,Newcastle upon Tyne,St James' Park,52409,47718,Alan Pardew,True,Kevin Nolan
+2010/2011,Stoke City,Stoke-on-Trent,Britannia Stadium,27740,26858,Tony Pulis,False,Ryan Shawcross
+2010/2011,Sunderland,Sunderland,Stadium of Light,49000,40011,Steve Bruce,False,Lee Cattermole
+2010/2011,Tottenham Hotspur,London (Tottenham),White Hart Lane,36230,35704,Harry Redknapp,False,Michael Dawson
+2010/2011,West Bromwich Albion,West Bromwich,The Hawthorns,26484,24683,Roy Hodgson,True,Chris Brunt
+2010/2011,West Ham United,London (Upton Park),Boleyn Ground,35303,33492,Avram Grant,False,Matthew Upson
+2010/2011,Wigan Athletic,Wigan,DW Stadium,25133,16812,Roberto Martínez,False,Gary Caldwell
+2010/2011,Wolverhampton Wanderers,Wolverhampton,Molineux Stadium,29195,27696,Mick McCarthy,False,Karl Henry
+2011/2012,Arsenal,London (Holloway),Emirates Stadium,60361,60000,Arsène Wenger,False,Robin van Persie
+2011/2012,Aston Villa,Birmingham,Villa Park,42785,33873,Alex McLeish,False,Stiliyan Petrov
+2011/2012,Blackburn Rovers,Blackburn,Ewood Park,31154,22551,Steve Kean,False,Paul Robinson
+2011/2012,Bolton Wanderers,Bolton,Reebok Stadium,28100,23670,Owen Coyle,False,Kevin Davies
+2011/2012,Chelsea,London (Fulham),Stamford Bridge,42449,41478,Roberto Di Matteo,False,John Terry
+2011/2012,Everton,Liverpool (Walton),Goodison Park,40157,33228,David Moyes,False,Phil Neville
+2011/2012,Fulham,London (Fulham),Craven Cottage,25700,25294,Martin Jol,False,Danny Murphy
+2011/2012,Liverpool,Liverpool (Anfield),Anfield,45276,44253,Kenny Dalglish,False,Steven Gerrard
+2011/2012,Manchester City,Manchester (Bradford),City of Manchester Stadium,47405,47045,Roberto Mancini,False,Vincent Kompany
+2011/2012,Manchester United,Manchester (Old Trafford),Old Trafford,75811,75387,Sir Alex Ferguson,False,Nemanja Vidić
+2011/2012,Newcastle United,Newcastle upon Tyne,St James' Park,52409,49936,Alan Pardew,False,Fabricio Coloccini
+2011/2012,Norwich City,Norwich,Carrow Road,27183,26606,Paul Lambert,True,Grant Holt
+2011/2012,Queens Park Rangers,London (Shepherd's Bush),Loftus Road,18439,17295,Mark Hughes,True,Joey Barton
+2011/2012,Stoke City,Stoke-on-Trent,Britannia Stadium,27740,27226,Tony Pulis,False,Ryan Shawcross
+2011/2012,Sunderland,Sunderland,Stadium of Light,49000,39095,Martin O'Neill,False,Lee Cattermole
+2011/2012,Swansea City,Swansea,Liberty Stadium,20520,19946,Brendan Rodgers,True,Garry Monk
+2011/2012,Tottenham Hotspur,London (Tottenham),White Hart Lane,36230,36026,Harry Redknapp,False,Ledley King
+2011/2012,West Bromwich Albion,West Bromwich,The Hawthorns,27877,24798,Roy Hodgson,False,Chris Brunt
+2011/2012,Wigan Athletic,Wigan,DW Stadium,25133,18634,Roberto Martínez,False,Gary Caldwell
+2011/2012,Wolverhampton Wanderers,Wolverhampton,Molineux Stadium,27828,25682,Terry Connor,False,Roger Johnson
+2012/2013,Arsenal,London (Holloway),Emirates Stadium,60362,60079,Arsène Wenger,False,Thomas Vermaelen
+2012/2013,Aston Villa,Birmingham,Villa Park,42785,35059,Paul Lambert,False,Ron Vlaar
+2012/2013,Chelsea,London (Fulham),Stamford Bridge,41798,41462,Rafael Benítez,False,John Terry
+2012/2013,Everton,Liverpool (Walton),Goodison Park,40157,36355,David Moyes,False,Phil Neville
+2012/2013,Fulham,London (Fulham),Craven Cottage,25700,25394,Martin Jol,False,Brede Hangeland
+2012/2013,Liverpool,Liverpool (Anfield),Anfield,45276,44748,Brendan Rodgers,False,Steven Gerrard
+2012/2013,Manchester City,Manchester (Bradford),City of Manchester Stadium,55097,46963,Roberto Mancini,False,Vincent Kompany
+2012/2013,Manchester United,Manchester (Old Trafford),Old Trafford,75765,75529,Sir Alex Ferguson,False,Nemanja Vidić
+2012/2013,Newcastle United,Newcastle upon Tyne,St James' Park,52405,50517,Alan Pardew,False,Fabricio Coloccini
+2012/2013,Norwich City,Norwich,Carrow Road,27224,26671,Chris Hughton,False,Grant Holt
+2012/2013,Queens Park Rangers,London (Shepherd's Bush),Loftus Road,18439,17748,Harry Redknapp,False,Clint Hill
+2012/2013,Reading,Reading,Madejski Stadium,24197,23862,Nigel Adkins,True,Jobi McAnuff
+2012/2013,Southampton,Southampton,St Mary's Stadium,32689,30926,Mauricio Pochettino,True,Adam Lallana
+2012/2013,Stoke City,Stoke-on-Trent,Britannia Stadium,27740,26722,Tony Pulis,False,Ryan Shawcross
+2012/2013,Sunderland,Sunderland,Stadium of Light,48707,40544,Paolo Di Canio,False,Lee Cattermole
+2012/2013,Swansea City,Swansea,Liberty Stadium,20750,20370,Michael Laudrup,False,Garry Monk
+2012/2013,Tottenham Hotspur,London (Tottenham),White Hart Lane,36284,36066,André Villas-Boas,False,Michael Dawson
+2012/2013,West Bromwich Albion,West Bromwich,The Hawthorns,26445,25293,Steve Clarke,False,Chris Brunt
+2012/2013,West Ham United,London (Upton Park),Boleyn Ground,35016,34719,Sam Allardyce,True,Kevin Nolan
+2012/2013,Wigan Athletic,Wigan,DW Stadium,25133,19359,Roberto Martínez,False,Gary Caldwell
+2013/2014,Arsenal,London (Holloway),Emirates Stadium,60338,60013,Arsène Wenger,False,Thomas Vermaelen
+2013/2014,Aston Villa,Birmingham,Villa Park,42682,36080,Paul Lambert,False,Ron Vlaar
+2013/2014,Cardiff City,Cardiff,Cardiff City Stadium,27815,27429,Ole Gunnar Solskjær,True,David Marshall
+2013/2014,Chelsea,London (Fulham),Stamford Bridge,41798,41481,José Mourinho,False,John Terry
+2013/2014,Crystal Palace,London (Selhurst),Selhurst Park,26255,24377,Tony Pulis,True,Mile Jedinak
+2013/2014,Everton,Liverpool (Walton),Goodison Park,39571,37731,Roberto Martínez,False,Phil Jagielka
+2013/2014,Fulham,London (Fulham),Craven Cottage,25700,24977,Felix Magath,False,Brede Hangeland
+2013/2014,Hull City,Kingston upon Hull,KC Stadium,25400,24116,Steve Bruce,True,Robert Koren
+2013/2014,Liverpool,Liverpool (Anfield),Anfield,45276,44672,Brendan Rodgers,False,Steven Gerrard
+2013/2014,Manchester City,Manchester (Bradford),City of Manchester Stadium,47405,47080,Manuel Pellegrini,False,Vincent Kompany
+2013/2014,Manchester United,Manchester (Old Trafford),Old Trafford,75731,75206,David Moyes,False,Nemanja Vidić
+2013/2014,Newcastle United,Newcastle upon Tyne,St James' Park,52405,50395,Alan Pardew,False,Fabricio Coloccini
+2013/2014,Norwich City,Norwich,Carrow Road,27244,26805,Neil Adams,False,Russell Martin
+2013/2014,Southampton,Southampton,St Mary's Stadium,32589,30211,Mauricio Pochettino,False,Adam Lallana
+2013/2014,Stoke City,Stoke-on-Trent,Britannia Stadium,27740,26137,Mark Hughes,False,Ryan Shawcross
+2013/2014,Sunderland,Sunderland,Stadium of Light,48707,41089,Gus Poyet,False,John O'Shea
+2013/2014,Swansea City,Swansea,Liberty Stadium,20750,20406,Garry Monk,False,Ashley Williams
+2013/2014,Tottenham Hotspur,London (Tottenham),White Hart Lane,36284,35808,Tim Sherwood,False,Michael Dawson
+2013/2014,West Bromwich Albion,West Bromwich,The Hawthorns,26445,25194,Pepe Mel,False,Chris Brunt
+2013/2014,West Ham United,London (Upton Park),Boleyn Ground,35016,34196,Sam Allardyce,False,Kevin Nolan
+2014/2015,Arsenal,London (Holloway),Emirates Stadium,60272,59993,Arsène Wenger,False,Mikel Arteta
+2014/2015,Aston Villa,Birmingham,Villa Park,42682,34132,Tim Sherwood,False,Fabian Delph
+2014/2015,Burnley,Burnley,Turf Moor,21401,19042,Sean Dyche,True,Jason Shackell
+2014/2015,Chelsea,London (Fulham),Stamford Bridge,41798,41546,José Mourinho,False,John Terry
+2014/2015,Crystal Palace,London (Selhurst),Selhurst Park,25747,24413,Alan Pardew,False,Mile Jedinak
+2014/2015,Everton,Liverpool (Walton),Goodison Park,39571,38405,Roberto Martínez,False,Phil Jagielka
+2014/2015,Hull City,Kingston upon Hull,KC Stadium,25400,23508,Steve Bruce,False,Curtis Davies
+2014/2015,Leicester City,Leicester,King Power Stadium,32312,31692,Nigel Pearson,True,Wes Morgan
+2014/2015,Liverpool,Liverpool (Anfield),Anfield,45276,44658,Brendan Rodgers,False,Steven Gerrard
+2014/2015,Manchester City,Manchester (Bradford),City of Manchester Stadium,46708,45411,Manuel Pellegrini,False,Vincent Kompany
+2014/2015,Manchester United,Manchester (Old Trafford),Old Trafford,75635,75335,Louis van Gaal,False,Wayne Rooney
+2014/2015,Newcastle United,Newcastle upon Tyne,St James' Park,52405,50250,John Carver,False,Fabricio Coloccini
+2014/2015,Queens Park Rangers,London (Shepherd's Bush),Loftus Road,18000,17808,Chris Ramsey,True,Clint Hill
+2014/2015,Southampton,Southampton,St Mary's Stadium,32505,30652,Ronald Koeman,False,José Fonte
+2014/2015,Stoke City,Stoke-on-Trent,Britannia Stadium,27740,27081,Mark Hughes,False,Ryan Shawcross
+2014/2015,Sunderland,Sunderland,Stadium of Light,48707,43157,Dick Advocaat,False,John O'Shea
+2014/2015,Swansea City,Swansea,Liberty Stadium,20827,20548,Garry Monk,False,Ashley Williams
+2014/2015,Tottenham Hotspur,London (Tottenham),White Hart Lane,36284,35727,Mauricio Pochettino,False,Younès Kaboul
+2014/2015,West Bromwich Albion,West Bromwich,The Hawthorns,26445,25063,Tony Pulis,False,Darren Fletcher
+2014/2015,West Ham United,London (Upton Park),Boleyn Ground,35245,34871,Sam Allardyce,False,Kevin Nolan
+2015/2016,Arsenal,London (Holloway),Emirates Stadium,60260,59943,Arsène Wenger,False,Mikel Arteta
+2015/2016,Aston Villa,Birmingham,Villa Park,42660,34479,Eric Black (caretaker),False,Micah Richards
+2015/2016,Bournemouth,Bournemouth,Dean Court,11464,11188,Eddie Howe,True,Tommy Elphick
+2015/2016,Chelsea,London (Fulham),Stamford Bridge,41798,41499,Guus Hiddink (caretaker),False,John Terry
+2015/2016,Crystal Palace,London (Selhurst),Selhurst Park,25073,24596,Alan Pardew,False,Mile Jedinak
+2015/2016,Everton,Liverpool (Walton),Goodison Park,39571,38051,Roberto Martínez,False,Phil Jagielka
+2015/2016,Leicester City,Leicester,King Power Stadium,32312,32020,Claudio Ranieri,False,Wes Morgan
+2015/2016,Liverpool,Liverpool (Anfield),Anfield,44742,43901,Jürgen Klopp,False,Jordan Henderson
+2015/2016,Manchester City,Manchester (Bradford),City of Manchester Stadium,55097,54020,Manuel Pellegrini,False,Vincent Kompany
+2015/2016,Manchester United,Manchester (Old Trafford),Old Trafford,75653,75268,Louis van Gaal,False,Wayne Rooney
+2015/2016,Newcastle United,Newcastle upon Tyne,St James' Park,52338,49464,Rafael Benítez,False,Fabricio Coloccini
+2015/2016,Norwich City,Norwich,Carrow Road,27010,26972,Alex Neil,True,Russell Martin
+2015/2016,Southampton,Southampton,St Mary's Stadium,32505,30750,Ronald Koeman,False,José Fonte
+2015/2016,Stoke City,Stoke-on-Trent,Britannia Stadium,27740,27534,Mark Hughes,False,Ryan Shawcross
+2015/2016,Sunderland,Sunderland,Stadium of Light,48707,43071,Sam Allardyce,False,John O'Shea
+2015/2016,Swansea City,Swansea,Liberty Stadium,20909,20710,Francesco Guidolin,False,Ashley Williams
+2015/2016,Tottenham Hotspur,London (Tottenham),White Hart Lane,36284,35807,Mauricio Pochettino,False,Hugo Lloris
+2015/2016,Watford,Watford,Vicarage Road,21500,20571,Quique Sánchez Flores,True,Troy Deeney
+2015/2016,West Bromwich Albion,West Bromwich,The Hawthorns,26850,24488,Tony Pulis,False,Darren Fletcher
+2015/2016,West Ham United,London (Upton Park),Boleyn Ground[a],35345,34906,Slaven Bilić,False,Mark Noble
+2016/2017,Arsenal,London (Holloway),Emirates Stadium,60432,59955,Arsène Wenger,False,Laurent Koscielny
+2016/2017,Bournemouth,Bournemouth,Dean Court,11464,11182,Eddie Howe,False,Simon Francis
+2016/2017,Burnley,Burnley,Turf Moor,22546,20558,Sean Dyche,True,Tom Heaton
+2016/2017,Chelsea,London (Fulham),Stamford Bridge,41623,41502,Antonio Conte,False,John Terry
+2016/2017,Crystal Palace,London (Selhurst),Selhurst Park,26309,25174,Sam Allardyce,False,Scott Dann
+2016/2017,Everton,Liverpool (Walton),Goodison Park,39572,39046,Ronald Koeman,False,Phil Jagielka
+2016/2017,Hull City,Kingston upon Hull,KCOM Stadium,25404,20761,Marco Silva,True,Michael Dawson
+2016/2017,Leicester City,Leicester,King Power Stadium,32500,31893,Claudio Ranieri,False,Wes Morgan
+2016/2017,Liverpool,Liverpool (Anfield),Anfield,54074,53016,Jürgen Klopp,False,Jordan Henderson
+2016/2017,Manchester City,Manchester (Bradford),City of Manchester Stadium,55097,54018,Pep Guardiola,False,Vincent Kompany
+2016/2017,Manchester United,Manchester (Old Trafford),Old Trafford,76100,75289,José Mourinho,False,Wayne Rooney
+2016/2017,Middlesbrough,Middlesbrough,Riverside Stadium,35100,30449,Aitor Karanka,True,Grant Leadbitter
+2016/2017,Southampton,Southampton,St Mary's Stadium,32689,30936,Claude Puel,False,Steven Davis
+2016/2017,Stoke City,Stoke-on-Trent,Bet365 Stadium[a],28383,27456,Mark Hughes,False,Ryan Shawcross
+2016/2017,Sunderland,Sunderland,Stadium of Light,49000,41286,David Moyes,False,John O'Shea
+2016/2017,Swansea City,Swansea,Liberty Stadium,20972,20619,Paul Clement,False,Leon Britton
+2016/2017,Tottenham Hotspur,London (Tottenham),White Hart Lane,32000,31639,Mauricio Pochettino,False,Hugo Lloris
+2016/2017,Watford,Watford,Vicarage Road,21977,20571,Walter Mazzarri,False,Troy Deeney
+2016/2017,West Bromwich Albion,West Bromwich,The Hawthorns,26500,23902,Tony Pulis,False,Darren Fletcher
+2016/2017,West Ham United,London (Stratford),London Stadium[c],57000,56971,Slaven Bilić,False,Mark Noble
+2017/2018,Arsenal,London (Holloway),Emirates Stadium,59867,59322,Arsène Wenger,False,Per Mertesacker
+2017/2018,Bournemouth,Bournemouth,Vitality Stadium,11360,10620,Eddie Howe,False,Simon Francis
+2017/2018,Brighton & Hove Albion,Falmer,Falmer Stadium,30666,30402,Chris Hughton,True,Bruno
+2017/2018,Burnley,Burnley,Turf Moor,21944,20688,Sean Dyche,False,Tom Heaton
+2017/2018,Chelsea,London (Fulham),Stamford Bridge,41631,41281,Antonio Conte,False,Gary Cahill
+2017/2018,Crystal Palace,London (Selhurst),Selhurst Park,25456,25062,Roy Hodgson,False,Jason Puncheon
+2017/2018,Everton,Liverpool (Walton),Goodison Park,39595,38797,Sam Allardyce,False,Phil Jagielka
+2017/2018,Huddersfield Town,Huddersfield,Kirklees Stadium,24169,24039,David Wagner,True,Tommy Smith
+2017/2018,Leicester City,Leicester,King Power Stadium,32273,31583,Claude Puel,False,Wes Morgan
+2017/2018,Liverpool,Liverpool (Anfield),Anfield,53394,53049,Jürgen Klopp,False,Jordan Henderson
+2017/2018,Manchester City,Manchester (Bradford),City of Manchester Stadium,55017,54054,Pep Guardiola,False,Vincent Kompany
+2017/2018,Manchester United,Manchester (Old Trafford),Old Trafford,74994,74975,José Mourinho,False,Michael Carrick
+2017/2018,Newcastle United,Newcastle upon Tyne,St James' Park,52354,51991,Rafael Benítez,True,Jamaal Lascelles
+2017/2018,Southampton,Southampton,St Mary's Stadium,32384,30793,Mark Hughes,False,Steven Davis
+2017/2018,Stoke City,Stoke-on-Trent,Bet365 Stadium,30089,29279,Paul Lambert,False,Ryan Shawcross
+2017/2018,Swansea City,Swansea,Liberty Stadium,21088,20622,Carlos Carvalhal,False,Àngel Rangel
+2017/2018,Tottenham Hotspur,London (Wembley),Wembley Stadium[a],90000,67952,Mauricio Pochettino,False,Hugo Lloris
+2017/2018,Watford,Watford,Vicarage Road,21577,20230,Javi Gracia,False,Troy Deeney
+2017/2018,West Bromwich Albion,West Bromwich,The Hawthorns,26688,24519,Alan Pardew,False,Jonny Evans
+2017/2018,West Ham United,London (Stratford),London Stadium,60000,56884,David Moyes,False,Mark Noble
+2018/2019,Arsenal,London (Holloway),Emirates Stadium,60260,59898,Unai Emery,False,Laurent Koscielny
+2018/2019,Bournemouth,Bournemouth,Dean Court,11329,10531,Eddie Howe,False,Simon Francis
+2018/2019,Brighton & Hove Albion,Falmer,Falmer Stadium,30666,30425,Chris Hughton,False,Bruno
+2018/2019,Burnley,Burnley,Turf Moor,21944,20534,Sean Dyche,False,Tom Heaton
+2018/2019,Cardiff City,Cardiff,Cardiff City Stadium,33316,31407,Neil Warnock,True,Sean Morrison
+2018/2019,Chelsea,London (Fulham),Stamford Bridge,40853,40436,Maurizio Sarri,False,Gary Cahill
+2018/2019,Crystal Palace,London (Selhurst),Selhurst Park,26074,25440,Roy Hodgson,False,Luka Milivojević
+2018/2019,Everton,Liverpool (Walton),Goodison Park,39221,39042,Marco Silva,False,Phil Jagielka
+2018/2019,Fulham,London (Fulham),Craven Cottage,25700,24336,Scott Parker,True,Tom Cairney
+2018/2019,Huddersfield Town,Huddersfield,Kirklees Stadium,24121,23340,Jan Siewert,False,Tommy Smith
+2018/2019,Leicester City,Leicester,King Power Stadium,32273,31832,Brendan Rodgers,False,Wes Morgan
+2018/2019,Liverpool,Liverpool (Anfield),Anfield,54074,53050,Jürgen Klopp,False,Jordan Henderson
+2018/2019,Manchester City,Manchester (Bradford),City of Manchester Stadium,55017,54128,Pep Guardiola,False,Vincent Kompany
+2018/2019,Manchester United,Manchester (Old Trafford),Old Trafford,74879,74498,Ole Gunnar Solskjær,False,Antonio Valencia
+2018/2019,Newcastle United,Newcastle upon Tyne,St James' Park,52354,51120,Rafael Benítez,False,Jamaal Lascelles
+2018/2019,Southampton,Southampton,St Mary's Stadium,32384,30212,Ralph Hasenhüttl,False,Pierre-Emile Højbjerg
+2018/2019,Tottenham Hotspur,London (Wembley),Wembley Stadium[a],90000,54216,Mauricio Pochettino,False,Hugo Lloris
+2018/2019,Watford,Watford,Vicarage Road,20400,20015,Javi Gracia,False,Troy Deeney
+2018/2019,West Ham United,London (Stratford),London Stadium,60000,58335,Manuel Pellegrini,False,Mark Noble
+2018/2019,Wolverhampton Wanderers,Wolverhampton,Molineux Stadium,32050,31030,Nuno Espírito Santo,True,Conor Coady
+2019/2020,Arsenal,London (Holloway),Emirates Stadium,60704,47589,Mikel Arteta,False,Pierre-Emerick Aubameyang
+2019/2020,Aston Villa,Birmingham,Villa Park,42785,28505,Dean Smith,True,Jack Grealish
+2019/2020,Bournemouth,Bournemouth,Dean Court,11329,7745,Eddie Howe,False,Simon Francis
+2019/2020,Brighton & Hove Albion,Falmer,Falmer Stadium,30750,22369,Graham Potter,False,Lewis Dunk
+2019/2020,Burnley,Burnley,Turf Moor,21944,15995,Sean Dyche,False,Ben Mee
+2019/2020,Chelsea,London (Fulham),Stamford Bridge,40834,32023,Frank Lampard,False,César Azpilicueta
+2019/2020,Crystal Palace,London (Selhurst),Selhurst Park,25486,19784,Roy Hodgson,False,Luka Milivojević
+2019/2020,Everton,Liverpool (Walton),Goodison Park,39414,28848,Carlo Ancelotti,False,Séamus Coleman
+2019/2020,Leicester City,Leicester,King Power Stadium,32243,25312,Brendan Rodgers,False,Wes Morgan
+2019/2020,Liverpool,Liverpool (Anfield),Anfield,53394,41955,Jürgen Klopp,False,Jordan Henderson
+2019/2020,Manchester City,Manchester (Bradford),City of Manchester Stadium,55097,37097,Pep Guardiola,False,David Silva
+2019/2020,Manchester United,Manchester (Old Trafford),Old Trafford,74879,57942,Ole Gunnar Solskjær,False,Harry Maguire
+2019/2020,Newcastle United,Newcastle upon Tyne,St James' Park,52388,35551,Steve Bruce,False,Jamaal Lascelles
+2019/2020,Norwich City,Norwich,Carrow Road,27244,19913,Daniel Farke,True,Grant Hanley
+2019/2020,Sheffield United,Sheffield,Bramall Lane,32125,24370,Chris Wilder,True,Billy Sharp
+2019/2020,Southampton,Southampton,St Mary's Stadium,32505,23428,Ralph Hasenhüttl,False,James Ward-Prowse
+2019/2020,Tottenham Hotspur,London (Tottenham),Tottenham Hotspur Stadium,62303,43757,José Mourinho,False,Hugo Lloris
+2019/2020,Watford,Watford,Vicarage Road,22220,15353,Nigel Pearson,False,Troy Deeney
+2019/2020,West Ham United,London (Stratford),London Stadium,60000,44134,David Moyes,False,Mark Noble
+2019/2020,Wolverhampton Wanderers,Wolverhampton,Molineux Stadium,32050,24758,Nuno Espírito Santo,False,Conor Coady
+2020/2021,Arsenal,London (Holloway),Emirates Stadium,60704,632,Mikel Arteta,False,Pierre-Emerick Aubameyang
+2020/2021,Aston Villa,Birmingham,Villa Park,42682,526,Dean Smith,False,Jack Grealish
+2020/2021,Brighton & Hove Albion,Falmer,Falmer Stadium,30750,523,Graham Potter,False,Lewis Dunk
+2020/2021,Burnley,Burnley,Turf Moor,21944,158,Sean Dyche,False,Ben Mee
+2020/2021,Chelsea,London (Fulham),Stamford Bridge,40834,526,Thomas Tuchel,False,César Azpilicueta
+2020/2021,Crystal Palace,London (Selhurst),Selhurst Park,25486,447,Roy Hodgson,False,Luka Milivojević
+2020/2021,Everton,Liverpool (Walton),Goodison Park,39414,368,Carlo Ancelotti,False,Séamus Coleman
+2020/2021,Fulham,London (Fulham),Craven Cottage,19359,211,Scott Parker,True,Tom Cairney
+2020/2021,Leeds United,Leeds,Elland Road,37792,421,Marcelo Bielsa,True,Liam Cooper
+2020/2021,Leicester City,Leicester,King Power Stadium,32261,421,Brendan Rodgers,False,Wes Morgan
+2020/2021,Liverpool,Liverpool (Anfield),Anfield,53394,837,Jürgen Klopp,False,Jordan Henderson
+2020/2021,Manchester City,Manchester (Bradford),City of Manchester Stadium,55017,526,Pep Guardiola,False,Fernandinho
+2020/2021,Manchester United,Manchester (Old Trafford),Old Trafford,74140,526,Ole Gunnar Solskjær,False,Harry Maguire
+2020/2021,Newcastle United,Newcastle upon Tyne,St James' Park,52305,526,Steve Bruce,False,Jamaal Lascelles
+2020/2021,Sheffield United,Sheffield,Bramall Lane,32050,263,Chris Wilder,False,Billy Sharp
+2020/2021,Southampton,Southampton,St Mary's Stadium,32384,526,Ralph Hasenhüttl,False,James Ward-Prowse
+2020/2021,Tottenham Hotspur,London (Tottenham),Tottenham Hotspur Stadium,62303,632,José Mourinho,False,Hugo Lloris
+2020/2021,West Bromwich Albion,West Bromwich,The Hawthorns,26688,276,Sam Allardyce,False,Jake Livermore
+2020/2021,West Ham United,London (Stratford),London Stadium,60000,632,David Moyes,True,Mark Noble
+2020/2021,Wolverhampton Wanderers,Wolverhampton,Molineux Stadium,32050,237,Nuno Espírito Santo,False,Conor Coady
+2021/2022,Arsenal,London (Holloway),Emirates Stadium,60704,59776,Mikel Arteta,False,Alexandre Lacazette
+2021/2022,Aston Villa,Birmingham,Villa Park,42682,41838,Steven Gerrard,False,Tyrone Mings
+2021/2022,Brentford,London (Brentford),Brentford Community Stadium,17250,16912,Thomas Frank,True,Pontus Jansson
+2021/2022,Brighton & Hove Albion,Falmer,Falmer Stadium,31800,30988,Graham Potter,False,Lewis Dunk
+2021/2022,Burnley,Burnley,Turf Moor,21944,19189,Sean Dyche,False,Ben Mee
+2021/2022,Chelsea,London (Fulham),Stamford Bridge,40834,36424,Thomas Tuchel,False,César Azpilicueta
+2021/2022,Crystal Palace,London (Selhurst),Selhurst Park,25486,24282,Patrick Vieira,False,Luka Milivojević
+2021/2022,Everton,Liverpool (Walton),Goodison Park,39414,38441,Frank Lampard,False,Séamus Coleman
+2021/2022,Leeds United,Leeds,Elland Road,37792,36308,Jesse Marsch,False,Liam Cooper
+2021/2022,Leicester City,Leicester,King Power Stadium,32312,32061,Brendan Rodgers,False,Kasper Schmeichel
+2021/2022,Liverpool,Liverpool (Anfield),Anfield,53394,53027,Jürgen Klopp,False,Jordan Henderson
+2021/2022,Manchester City,Manchester (Bradford),City of Manchester Stadium,53400,52739,Pep Guardiola,False,Fernandinho
+2021/2022,Manchester United,Manchester (Old Trafford),Old Trafford,74140,72992,Ralf Rangnick (interim),False,Harry Maguire
+2021/2022,Newcastle United,Newcastle upon Tyne,St James' Park,52305,51487,Eddie Howe,False,Jamaal Lascelles
+2021/2022,Norwich City,Norwich,Carrow Road,27244,26885,Dean Smith,True,Grant Hanley
+2021/2022,Southampton,Southampton,St Mary's Stadium,32384,29939,Ralph Hasenhüttl,False,James Ward-Prowse
+2021/2022,Tottenham Hotspur,London (Tottenham),Tottenham Hotspur Stadium,62850,56523,Antonio Conte,False,Hugo Lloris
+2021/2022,Watford,Watford,Vicarage Road,22200,20612,Roy Hodgson,True,Troy Deeney
+2021/2022,West Ham United,London (Stratford),London Stadium,60000,57915,David Moyes,False,Mark Noble
+2021/2022,Wolverhampton Wanderers,Wolverhampton,Molineux Stadium,32050,30725,Bruno Lage,False,Conor Coady
+2022/2023,Arsenal,London (Holloway),Emirates Stadium,60704,60196,Mikel Arteta,False,Martin Ødegaard
+2022/2023,Aston Villa,Birmingham,Villa Park,42657,41679,Unai Emery,False,John McGinn
+2022/2023,Bournemouth,Bournemouth,Dean Court,11307,10313,Gary O'Neil,True,Neto
+2022/2023,Brentford,London (Brentford),Brentford Community Stadium,17250,17064,Thomas Frank,False,Pontus Jansson
+2022/2023,Brighton & Hove Albion,Falmer,Falmer Stadium,31780,31480,Roberto De Zerbi,False,Lewis Dunk
+2022/2023,Chelsea,London (Fulham),Stamford Bridge,40343,39995,Graham Potter,False,César Azpilicueta
+2022/2023,Crystal Palace,London (Selhurst),Selhurst Park,25486,25602,Roy Hodgson,False,Luka Milivojević
+2022/2023,Everton,Liverpool (Walton),Goodison Park,39414,39232,Sean Dyche,False,Séamus Coleman
+2022/2023,Fulham,London (Fulham),Craven Cottage,22384,23867,Marco Silva,True,Tom Cairney
+2022/2023,Leeds United,Leeds,Elland Road,37608,36549,Sam Allardyce,False,Liam Cooper
+2022/2023,Leicester City,Leicester,King Power Stadium,32262,31850,Dean Smith,False,Jonny Evans
+2022/2023,Liverpool,Liverpool (Anfield),Anfield,53394,53176,Jürgen Klopp,False,Jordan Henderson
+2022/2023,Manchester City,Manchester (Bradford),City of Manchester Stadium,53400,53236,Pep Guardiola,False,İlkay Gündoğan
+2022/2023,Manchester United,Manchester (Old Trafford),Old Trafford,74310,73832,Erik ten Hag,False,Harry Maguire
+2022/2023,Newcastle United,Newcastle upon Tyne,St James' Park,52305,52126,Eddie Howe,False,Jamaal Lascelles
+2022/2023,Nottingham Forest,West Bridgford,City Ground,30332,29170,Steve Cooper,True,Joe Worrall
+2022/2023,Southampton,Southampton,St Mary's Stadium,32384,30553,Rubén Sellés,False,James Ward-Prowse
+2022/2023,Tottenham Hotspur,London (Tottenham),Tottenham Hotspur Stadium,62850,61579,Antonio Conte,False,Hugo Lloris
+2022/2023,West Ham United,London (Stratford),London Stadium,62500,62461,David Moyes,False,Declan Rice
+2022/2023,Wolverhampton Wanderers,Wolverhampton,Molineux Stadium,31750,31499,Julen Lopetegui,False,Rúben Neves

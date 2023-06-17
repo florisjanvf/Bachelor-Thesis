@@ -1,0 +1,21 @@
+﻿team_name,location,stadium_name,stadium_capacity,average_attendance,manager_name,promoted,captain
+Arsenal,London (Holloway),Emirates Stadium,60704,632,Mikel Arteta,FALSE,Pierre-Emerick Aubameyang
+Aston Villa,Birmingham,Villa Park,42682,526,Dean Smith,FALSE,Jack Grealish
+Brighton & Hove Albion,Falmer,Falmer Stadium,30750,523,Graham Potter,FALSE,Lewis Dunk
+Burnley,Burnley,Turf Moor,21944,158,Sean Dyche,FALSE,Ben Mee
+Chelsea,London (Fulham),Stamford Bridge,40834,526,Thomas Tuchel,FALSE,César Azpilicueta
+Crystal Palace,London (Selhurst),Selhurst Park,25486,447,Roy Hodgson,FALSE,Luka Milivojević
+Everton,Liverpool (Walton),Goodison Park,39414,368,Carlo Ancelotti,FALSE,Séamus Coleman
+Fulham,London (Fulham),Craven Cottage,19359,211,Scott Parker,TRUE,Tom Cairney
+Leeds United,Leeds,Elland Road,37792,421,Marcelo Bielsa,TRUE,Liam Cooper
+Leicester City,Leicester,King Power Stadium,32261,421,Brendan Rodgers,FALSE,Wes Morgan
+Liverpool,Liverpool (Anfield),Anfield,53394,837,Jürgen Klopp,FALSE,Jordan Henderson
+Manchester City,Manchester (Bradford),City of Manchester Stadium,55017,526,Pep Guardiola,FALSE,Fernandinho
+Manchester United,Manchester (Old Trafford),Old Trafford,74140,526,Ole Gunnar Solskjær,FALSE,Harry Maguire
+Newcastle United,Newcastle upon Tyne,St James' Park,52305,526,Steve Bruce,FALSE,Jamaal Lascelles
+Sheffield United,Sheffield,Bramall Lane,32050,263,Chris Wilder,FALSE,Billy Sharp
+Southampton,Southampton,St Mary's Stadium,32384,526,Ralph Hasenhüttl,FALSE,James Ward-Prowse
+Tottenham Hotspur,London (Tottenham),Tottenham Hotspur Stadium,62303,632,José Mourinho,FALSE,Hugo Lloris
+West Bromwich Albion,West Bromwich,The Hawthorns,26688,276,Sam Allardyce,FALSE,Jake Livermore
+West Ham United,London (Stratford),London Stadium,60000,632,David Moyes,TRUE,Mark Noble
+Wolverhampton Wanderers,Wolverhampton,Molineux Stadium,32050,237,Nuno Espírito Santo,FALSE,Conor Coady

@@ -1,0 +1,723 @@
+season,player_name,team,player_rating,position,nation,league,skill_moves,weak_foot_quality,work_rate_a,work_rate_d,player_height,player_weight,age
+2018/2019,De Gea,Manchester United,91,GK,Spain,EPL,1,3,M,M,193cm,76kg,28
+2018/2019,Kevin De Bruyne,Manchester City,91,CAM,Belgium,EPL,4,5,H,H,181cm,70kg,27
+2018/2019,Eden Hazard,Chelsea,91,LW,Belgium,EPL,4,4,H,M,173cm,74kg,28
+2018/2019,Harry Kane,Tottenham Hotspur,90,ST,England,EPL,3,4,H,H,188cm,89kg,25
+2018/2019,Sergio Agüero,Manchester City,89,ST,Argentina,EPL,4,4,H,M,173cm,70kg,30
+2018/2019,David Silva,Manchester City,89,CAM,Spain,EPL,4,2,H,M,173cm,67kg,33
+2018/2019,N'Golo Kanté,Chelsea,89,CDM,France,EPL,2,3,M,H,168cm,68kg,28
+2018/2019,Harry Kane,Tottenham Hotspur,89,ST,England,EPL,3,4,H,H,188cm,89kg,25
+2018/2019,Paul Pogba,Manchester United,88,CM,France,EPL,5,4,H,L,191cm,84kg,26
+2018/2019,Mohamed Salah,Liverpool,88,RW,Egypt,EPL,4,3,H,M,175cm,71kg,26
+2018/2019,Christian Eriksen,Tottenham Hotspur,88,CAM,Denmark,EPL,4,5,H,M,181cm,76kg,27
+2018/2019,Hugo Lloris,Tottenham Hotspur,88,GK,France,EPL,1,1,M,M,188cm,82kg,32
+2018/2019,Gonzalo Higuaín,Chelsea,88,ST,Argentina,EPL,3,4,H,M,186cm,89kg,31
+2018/2019,Virgil van Dijk,Liverpool,88,CB,Holland,EPL,2,3,M,M,193cm,92kg,27
+2018/2019,Aubameyang,Arsenal,88,ST,Gabon,EPL,4,4,M,L,187cm,80kg,29
+2018/2019,Romelu Lukaku,Manchester United,87,ST,Belgium,EPL,3,4,M,M,190cm,94kg,26
+2018/2019,Alexis Sánchez,Manchester United,87,LW,Chile,EPL,4,3,H,H,169cm,74kg,30
+2018/2019,Jan Vertonghen,Tottenham Hotspur,87,CB,Belgium,EPL,3,3,H,H,189cm,86kg,32
+2018/2019,Aubameyang,Arsenal,87,ST,Gabon,EPL,4,4,M,L,187cm,80kg,29
+2018/2019,Fernandinho,Manchester City,87,CDM,Brazil,EPL,3,4,M,H,179cm,67kg,34
+2018/2019,Alisson,Liverpool,87,GK,Brazil,EPL,1,3,M,M,191cm,91kg,26
+2018/2019,Toby Alderweireld,Tottenham Hotspur,87,CB,Belgium,EPL,2,3,M,M,186cm,81kg,30
+2018/2019,Nemanja Matic,Manchester United,86,CDM,Serbia,EPL,3,3,M,H,194cm,85kg,30
+2018/2019,Ederson,Manchester City,86,GK,Brazil,EPL,1,3,M,M,188cm,86kg,25
+2018/2019,Fernandinho,Manchester City,86,CDM,Brazil,EPL,3,4,M,H,179cm,67kg,34
+2018/2019,Leroy Sané,Manchester City,86,LW,Germany,EPL,4,3,H,M,183cm,75kg,23
+2018/2019,Nicolás Otamendi,Manchester City,86,CB,Argentina,EPL,2,3,H,H,183cm,81kg,31
+2018/2019,Azpilicueta,Chelsea,86,CB,Spain,EPL,2,3,M,M,178cm,78kg,29
+2018/2019,Roberto Firmino,Liverpool,86,CF,Brazil,EPL,4,4,H,H,181cm,76kg,27
+2018/2019,Sadio Mané,Liverpool,86,LW,Senegal,EPL,4,4,H,M,175cm,69kg,27
+2018/2019,Mesut Özil,Arsenal,86,CAM,Germany,EPL,4,2,M,L,180cm,76kg,30
+2018/2019,Raheem Sterling,Manchester City,85,RW,England,EPL,4,3,H,M,170cm,69kg,24
+2018/2019,Vincent Kompany,Manchester City,85,CB,Belgium,EPL,2,3,M,H,190cm,85kg,33
+2018/2019,Riyad Mahrez,Manchester City,85,RW,Algeria,EPL,5,4,M,M,179cm,67kg,28
+2018/2019,Virgil van Dijk,Liverpool,85,CB,Holland,EPL,2,3,M,M,193cm,92kg,27
+2018/2019,Fabinho,Liverpool,85,CDM,Brazil,EPL,3,2,M,M,188cm,78kg,25
+2018/2019,Alisson,Liverpool,85,GK,Brazil,EPL,1,3,M,M,191cm,91kg,26
+2018/2019,Toby Alderweireld,Tottenham Hotspur,85,CB,Belgium,EPL,2,3,M,M,186cm,81kg,30
+2018/2019,Heung Min Son,Tottenham Hotspur,85,LM,Korea Republic,EPL,4,5,H,H,183cm,65kg,26
+2018/2019,Alexandre Lacazette,Arsenal,85,ST,France,EPL,4,4,H,M,175cm,73kg,27
+2018/2019,Bernardo Silva,Manchester City,84,RW,Portugal,EPL,4,3,H,M,173cm,64kg,24
+2018/2019,Ilkay Gündogan,Manchester City,84,CM,Germany,EPL,4,4,H,M,180cm,80kg,28
+2018/2019,Kyle Walker,Manchester City,84,RB,England,EPL,2,2,H,H,183cm,70kg,28
+2018/2019,Luiz Frello Filho Jorge,Chelsea,84,CM,Italy,EPL,4,3,M,M,180cm,65kg,27
+2018/2019,Cesc Fàbregas,Chelsea,84,CM,Spain,EPL,3,3,H,M,180cm,77kg,32
+2018/2019,Willian,Chelsea,84,RW,Brazil,EPL,4,4,H,H,175cm,77kg,30
+2018/2019,Moussa Dembélé,Tottenham Hotspur,84,CM,Belgium,EPL,4,2,M,M,185cm,82kg,31
+2018/2019,Heung Min Son,Tottenham Hotspur,84,LM,Korea Republic,EPL,4,5,H,H,183cm,65kg,26
+2018/2019,Dele Alli,Tottenham Hotspur,84,CAM,England,EPL,4,3,H,M,188cm,80kg,23
+2018/2019,Davinson Sánchez,Tottenham Hotspur,84,CB,Colombia,EPL,2,3,M,H,187cm,79kg,22
+2018/2019,Henrikh Mkhitaryan,Arsenal,84,CAM,Armenia,EPL,4,5,M,M,177cm,75kg,30
+2018/2019,Alexandre Lacazette,Arsenal,84,ST,France,EPL,4,4,H,M,175cm,73kg,27
+2018/2019,Sokratis,Arsenal,84,CB,Greece,EPL,2,2,M,H,186cm,85kg,30
+2018/2019,Bernd Leno,Arsenal,84,GK,Germany,EPL,1,4,M,M,190cm,83kg,27
+2018/2019,Kasper Schmeichel,Leicester City,84,GK,Denmark,EPL,1,3,M,M,189cm,89kg,32
+2018/2019,Anthony Martial,Manchester United,84,LW,France,EPL,4,3,M,M,184cm,76kg,23
+2018/2019,Aymeric Laporte,Manchester City,84,CB,France,EPL,2,3,M,M,189cm,85kg,24
+2018/2019,Kepa Arrizabalaga,Chelsea,84,GK,Spain,EPL,1,4,M,M,187cm,85kg,24
+2018/2019,Felipe Anderson,West Ham United,84,LM,Brazil,EPL,4,4,H,H,175cm,70kg,26
+2018/2019,Anthony Martial,Manchester United,83,LW,France,EPL,4,3,M,M,184cm,76kg,23
+2018/2019,Juan Mata,Manchester United,83,RM,Spain,EPL,4,3,M,M,170cm,63kg,31
+2018/2019,Aymeric Laporte,Manchester City,83,CB,France,EPL,2,3,M,M,189cm,85kg,24
+2018/2019,Gabriel Jesus,Manchester City,83,ST,Brazil,EPL,4,3,H,H,175cm,73kg,22
+2018/2019,Mateo Kovacic,Chelsea,83,CM,Croatia,EPL,4,4,H,H,178cm,78kg,25
+2018/2019,Morata,Chelsea,83,ST,Spain,EPL,3,4,H,H,189cm,85kg,26
+2018/2019,David Luiz,Chelsea,83,CB,Brazil,EPL,3,3,M,M,189cm,84kg,32
+2018/2019,Kepa Arrizabalaga,Chelsea,83,GK,Spain,EPL,1,4,M,M,187cm,85kg,24
+2018/2019,Naby Keïta,Liverpool,83,CM,Guinea,EPL,4,4,H,M,172cm,64kg,24
+2018/2019,Jordan Pickford,Everton,83,GK,England,EPL,1,4,M,M,185cm,77kg,25
+2018/2019,Rui Patrício,Wolverhampton Wanderers,83,GK,Portugal,EPL,1,2,M,M,190cm,84kg,31
+2018/2019,Andrew Robertson,Liverpool,83,LB,Scotland,EPL,3,2,H,H,178cm,64kg,25
+2018/2019,Antonio Valencia,Manchester United,82,RB,Ecuador,EPL,3,2,H,H,180cm,83kg,33
+2018/2019,Jesse Lingard,Manchester United,82,CAM,England,EPL,4,3,H,H,175cm,62kg,26
+2018/2019,Fred,Manchester United,82,CM,Brazil,EPL,4,4,H,H,169cm,64kg,26
+2018/2019,Eric Bailly,Manchester United,82,CB,Côte d'Ivoire,EPL,2,3,M,H,187cm,77kg,25
+2018/2019,Ander Herrera,Manchester United,82,CM,Spain,EPL,3,4,H,H,182cm,70kg,29
+2018/2019,John Stones,Manchester City,82,CB,England,EPL,3,4,H,M,188cm,70kg,24
+2018/2019,Marcos Alonso,Chelsea,82,LB,Spain,EPL,3,3,H,H,188cm,84kg,28
+2018/2019,Pedro,Chelsea,82,RW,Spain,EPL,4,5,H,H,169cm,65kg,31
+2018/2019,Andreas Christensen,Chelsea,82,CB,Denmark,EPL,2,3,L,M,188cm,78kg,23
+2018/2019,Olivier Giroud,Chelsea,82,ST,France,EPL,3,3,M,M,192cm,88kg,32
+2018/2019,Jordan Henderson,Liverpool,82,CDM,England,EPL,3,3,H,H,182cm,80kg,28
+2018/2019,Georginio Wijnaldum,Liverpool,82,CM,Holland,EPL,4,3,H,H,175cm,69kg,28
+2018/2019,Kieran Trippier,Tottenham Hotspur,82,RB,England,EPL,3,4,H,H,178cm,72kg,28
+2018/2019,Lucas,Tottenham Hotspur,82,RM,Brazil,EPL,4,3,M,M,174cm,70kg,26
+2018/2019,Laurent Koscielny,Arsenal,82,CB,France,EPL,2,3,M,H,186cm,75kg,33
+2018/2019,Petr Cech,Arsenal,82,GK,Czech Republic,EPL,1,3,M,M,196cm,90kg,37
+2018/2019,Aaron Ramsey,Arsenal,82,CM,Wales,EPL,3,3,H,H,183cm,76kg,28
+2018/2019,Shkodran Mustafi,Arsenal,82,CB,Germany,EPL,2,3,M,H,184cm,82kg,27
+2018/2019,Gylfi Sigurðsson,Everton,82,CAM,Iceland,EPL,3,4,H,H,186cm,82kg,29
+2018/2019,Idrissa Gueye,Everton,82,CDM,Senegal,EPL,3,3,M,H,174cm,66kg,29
+2018/2019,Felipe Anderson,West Ham United,82,LM,Brazil,EPL,4,4,H,H,175cm,70kg,26
+2018/2019,Marko Arnautovic,West Ham United,82,ST,Austria,EPL,4,4,H,M,192cm,83kg,30
+2018/2019,Harry Maguire,Leicester City,82,CB,England,EPL,2,3,H,H,194cm,100kg,26
+2018/2019,Jamie Vardy,Leicester City,82,ST,England,EPL,3,3,H,H,179cm,74kg,32
+2018/2019,Wilfried Zaha,Crystal Palace,82,CF,Côte d'Ivoire,EPL,5,3,H,M,180cm,66kg,26
+2018/2019,Jean Michaël Seri,Fulham,82,CM,Côte d'Ivoire,EPL,3,4,H,M,168cm,65kg,27
+2018/2019,Marcus Rashford,Manchester United,82,ST,England,EPL,5,4,H,M,185cm,70kg,21
+2018/2019,Lucas Torreira,Arsenal,82,CDM,Uruguay,EPL,4,3,M,H,168cm,64kg,23
+2018/2019,Chris Smalling,Manchester United,81,CB,England,EPL,2,3,M,H,194cm,81kg,29
+2018/2019,Marcus Rashford,Manchester United,81,LW,England,EPL,5,4,H,M,185cm,70kg,21
+2018/2019,Benjamin Mendy,Manchester City,81,LB,France,EPL,3,3,H,M,185cm,85kg,24
+2018/2019,Gary Cahill,Chelsea,81,CB,England,EPL,2,3,M,M,193cm,86kg,33
+2018/2019,Antonio Rüdiger,Chelsea,81,CB,Germany,EPL,2,3,M,H,190cm,85kg,26
+2018/2019,Joel Matip,Liverpool,81,CB,Cameroon,EPL,2,2,M,M,195cm,90kg,27
+2018/2019,Dejan Lovren,Liverpool,81,CB,Croatia,EPL,2,4,M,H,188cm,84kg,29
+2018/2019,Xherdan Shaqiri,Liverpool,81,RW,Switzerland,EPL,5,4,M,M,169cm,72kg,27
+2018/2019,Adam Lallana,Liverpool,81,CM,England,EPL,4,5,H,H,178cm,73kg,31
+2018/2019,Andrew Robertson,Liverpool,81,LB,Scotland,EPL,3,2,H,H,178cm,64kg,25
+2018/2019,James Milner,Liverpool,81,CM,England,EPL,3,4,H,H,175cm,70kg,33
+2018/2019,Serge Aurier,Tottenham Hotspur,81,RB,Côte d'Ivoire,EPL,3,3,H,H,176cm,76kg,26
+2018/2019,Ben Davies,Tottenham Hotspur,81,LB,Wales,EPL,3,3,H,H,182cm,76kg,26
+2018/2019,Granit Xhaka,Arsenal,81,CM,Switzerland,EPL,3,2,M,M,185cm,82kg,26
+2018/2019,Abdoulaye Doucouré,Watford,81,CDM,France,EPL,3,3,H,M,182cm,76kg,26
+2018/2019,Deulofeu,Watford,81,RM,Spain,EPL,4,4,H,L,177cm,73kg,25
+2018/2019,Manuel Lanzini,West Ham United,81,CAM,Argentina,EPL,4,3,M,M,167cm,59kg,26
+2018/2019,Iborra,Leicester City,81,CDM,Spain,EPL,3,4,M,M,190cm,91kg,31
+2018/2019,Ricardo Pereira,Leicester City,81,RB,Portugal,EPL,3,4,H,H,175cm,70kg,25
+2018/2019,Guaita,Crystal Palace,81,GK,Spain,EPL,1,3,M,M,190cm,80kg,32
+2018/2019,João Moutinho,Wolverhampton Wanderers,81,CM,Portugal,EPL,3,4,H,M,170cm,61kg,32
+2018/2019,Michy Batshuayi,Crystal Palace,81,ST,Belgium,EPL,4,5,M,L,185cm,78kg,25
+2018/2019,Lucas Digne,Everton,81,LB,France,EPL,3,3,H,M,178cm,74kg,25
+2018/2019,Ashley Young,Manchester United,80,LB,England,EPL,4,3,H,M,175cm,65kg,33
+2018/2019,Sergio Romero,Manchester United,80,GK,Argentina,EPL,1,3,M,M,192cm,87kg,32
+2018/2019,Phil Jones,Manchester United,80,CB,England,EPL,2,3,M,H,185cm,71kg,27
+2018/2019,Fabian Delph,Manchester City,80,LB,England,EPL,3,3,H,H,174cm,78kg,29
+2018/2019,Daniel Sturridge,Liverpool,80,ST,England,EPL,4,2,M,L,180cm,76kg,29
+2018/2019,Alex Oxlade-Chamberlain,Liverpool,80,CM,England,EPL,4,4,H,H,175cm,70kg,25
+2018/2019,Nathaniel Clyne,Liverpool,80,RB,England,EPL,3,2,H,M,175cm,67kg,28
+2018/2019,Victor Wanyama,Tottenham Hotspur,80,CDM,Kenya,EPL,2,3,M,H,184cm,87kg,27
+2018/2019,Danny Rose,Tottenham Hotspur,80,LB,England,EPL,3,3,M,H,174cm,76kg,28
+2018/2019,Erik Lamela,Tottenham Hotspur,80,RM,Argentina,EPL,4,2,H,H,184cm,80kg,27
+2018/2019,Nacho Monreal,Arsenal,80,LB,Spain,EPL,3,3,H,M,179cm,72kg,33
+2018/2019,Stephan Lichtsteiner,Arsenal,80,RB,Switzerland,EPL,3,3,H,H,182cm,76kg,35
+2018/2019,Cenk Tosun,Everton,80,ST,Turkey,EPL,3,4,H,M,183cm,78kg,27
+2018/2019,Séamus Coleman,Everton,80,RB,Republic of Ireland,EPL,3,3,H,H,177cm,67kg,30
+2018/2019,Jack Wilshere,West Ham United,80,CM,England,EPL,4,2,M,M,172cm,68kg,27
+2018/2019,Andriy Yarmolenko,West Ham United,80,RM,Ukraine,EPL,4,3,H,M,190cm,83kg,29
+2018/2019,Lukasz Fabianski,West Ham United,80,GK,Poland,EPL,1,2,M,M,190cm,83kg,34
+2018/2019,Onyinye Ndidi,Leicester City,80,CDM,Nigeria,EPL,3,4,M,H,183cm,74kg,22
+2018/2019,Mamadou Sakho,Crystal Palace,80,CB,France,EPL,2,2,M,H,187cm,83kg,29
+2018/2019,Tom Heaton,Burnley,80,GK,England,EPL,1,3,M,M,187cm,92kg,33
+2018/2019,Steven Defour,Burnley,80,CM,Belgium,EPL,3,3,M,M,175cm,72kg,31
+2018/2019,Ben Mee,Burnley,80,CB,England,EPL,2,3,M,H,183cm,82kg,29
+2018/2019,Fabricio,Fulham,80,GK,Spain,EPL,1,4,M,M,185cm,67kg,31
+2018/2019,Sead Kolašinac,Arsenal,80,LB,Bosnia and Herzegovina,EPL,3,2,M,H,183cm,85kg,25
+2018/2019,André Gomes,Everton,80,CM,Portugal,EPL,4,4,M,M,188cm,84kg,25
+2018/2019,Fabián Balbuena,West Ham United,80,CB,Paraguay,EPL,2,3,L,M,188cm,85kg,27
+2018/2019,Marcos Rojo,Manchester United,80,CB,Argentina,EPL,3,2,M,H,187cm,80kg,29
+2018/2019,Eric Dier,Tottenham Hotspur,80,CDM,England,EPL,2,3,M,H,188cm,90kg,25
+2018/2019,James Tarkowski,Burnley,80,CB,England,EPL,2,4,M,M,192cm,81kg,26
+2018/2019,Jannik Vestergaard,Southampton,80,CB,Denmark,EPL,2,4,M,M,199cm,98kg,26
+2018/2019,Héctor Bellerín,Arsenal,80,RB,Spain,EPL,3,3,H,M,178cm,74kg,24
+2018/2019,Nick Pope,Burnley,80,GK,England,EPL,1,3,M,M,200cm,76kg,27
+2018/2019,Bernard,Everton,80,LM,Brazil,EPL,4,4,H,M,164cm,60kg,26
+2018/2019,Sergio Rico,Fulham,80,GK,Spain,EPL,1,3,M,M,194cm,88kg,25
+2018/2019,Nathaniel Clyne,Bournemouth,80,RB,England,EPL,3,2,H,M,175cm,67kg,28
+2018/2019,Miguel Almirón,Newcastle United,80,CAM,Paraguay,EPL,4,2,H,H,175cm,63kg,25
+2018/2019,Richarlison,Everton,80,ST,Brazil,EPL,4,5,H,H,181cm,70kg,22
+2018/2019,Rúben Neves,Wolverhampton Wanderers,80,CM,Portugal,EPL,3,3,M,M,180cm,80kg,22
+2018/2019,Victor Nilsson Lindelöf,Manchester United,79,CB,Sweden,EPL,3,3,M,M,187cm,80kg,24
+2018/2019,Marouane Fellaini,Manchester United,79,CM,Belgium,EPL,3,3,M,M,194cm,85kg,31
+2018/2019,Danilo,Manchester City,79,RB,Brazil,EPL,3,4,H,M,184cm,78kg,27
+2018/2019,Claudio Bravo,Manchester City,79,GK,Chile,EPL,1,3,M,M,184cm,80kg,36
+2018/2019,Danny Drinkwater,Chelsea,79,CM,England,EPL,3,4,M,M,177cm,70kg,29
+2018/2019,Ross Barkley,Chelsea,79,CAM,England,EPL,4,5,M,M,189cm,76kg,25
+2018/2019,Marco van Ginkel,Chelsea,79,CM,Holland,EPL,3,4,H,H,186cm,82kg,26
+2018/2019,Davide Zappacosta,Chelsea,79,RB,Italy,EPL,3,3,H,H,182cm,70kg,26
+2018/2019,Simon Mignolet,Liverpool,79,GK,Belgium,EPL,1,2,M,M,193cm,87kg,31
+2018/2019,Theo Walcott,Everton,79,RM,England,EPL,3,3,M,M,176cm,68kg,30
+2018/2019,Leighton Baines,Everton,79,LB,England,EPL,3,3,H,M,170cm,70kg,34
+2018/2019,Michael Keane,Everton,79,CB,England,EPL,2,3,M,H,191cm,82kg,26
+2018/2019,Morgan Schneiderlin,Everton,79,CDM,France,EPL,3,3,L,H,185cm,75kg,29
+2018/2019,Roberto Pereyra,Watford,79,LM,Argentina,EPL,4,4,H,M,182cm,77kg,28
+2018/2019,Javier Hernández,West Ham United,79,ST,Mexico,EPL,3,3,M,L,175cm,73kg,30
+2018/2019,Lucas Pérez,West Ham United,79,ST,Spain,EPL,4,4,H,H,180cm,73kg,30
+2018/2019,Mohamed Elyounoussi,Southampton,79,LM,Norway,EPL,4,4,H,M,178cm,70kg,24
+2018/2019,Ryan Bertrand,Southampton,79,LB,England,EPL,3,3,H,M,179cm,85kg,29
+2018/2019,Adrien Silva,Leicester City,79,CM,Portugal,EPL,3,4,M,H,175cm,69kg,30
+2018/2019,Max Meyer,Crystal Palace,79,CM,Germany,EPL,4,4,M,M,173cm,68kg,23
+2018/2019,Luka Milivojevic,Crystal Palace,79,CDM,Serbia,EPL,3,2,M,H,186cm,80kg,28
+2018/2019,Jefferson Lerma,Bournemouth,79,CDM,Colombia,EPL,3,4,M,H,179cm,70kg,24
+2018/2019,Nathan Aké,Bournemouth,79,CB,Holland,EPL,2,3,M,H,180cm,75kg,24
+2018/2019,Asmir Begovic,Bournemouth,79,GK,Bosnia and Herzegovina,EPL,1,2,M,M,199cm,83kg,31
+2018/2019,Jack Cork,Burnley,79,CM,England,EPL,3,4,M,H,184cm,75kg,29
+2018/2019,Jóhann Berg Gudmundsson,Burnley,79,RM,Iceland,EPL,4,4,H,H,179cm,77kg,28
+2018/2019,Jonny,Wolverhampton Wanderers,79,LWB,Spain,EPL,3,3,H,M,170cm,70kg,25
+2018/2019,Rúben Neves,Wolverhampton Wanderers,79,CM,Portugal,EPL,3,3,M,M,180cm,80kg,22
+2018/2019,Tom Cairney,Fulham,79,CM,Scotland,EPL,4,2,H,M,185cm,83kg,28
+2018/2019,Aaron Mooy,Huddersfield Town,79,CM,Australia,EPL,3,3,M,M,173cm,72kg,28
+2018/2019,Ryan Babel,Fulham,79,LM,Holland,EPL,4,3,M,L,185cm,85kg,32
+2018/2019,Denis Suárez,Arsenal,79,CM,Spain,EPL,3,3,M,M,176cm,69kg,25
+2018/2019,Youri Tielemans,Leicester City,79,CM,Belgium,EPL,4,5,M,M,176cm,72kg,22
+2018/2019,Luke Shaw,Manchester United,78,LB,England,EPL,3,2,H,M,181cm,75kg,23
+2018/2019,Andreas Pereira,Manchester United,78,RM,Brazil,EPL,4,4,M,M,178cm,71kg,23
+2018/2019,Victor Moses,Chelsea,78,RW,Nigeria,EPL,4,4,M,M,177cm,75kg,28
+2018/2019,Trent Alexander-Arnold,Liverpool,78,RB,England,EPL,3,3,H,M,180cm,69kg,20
+2018/2019,Michel Vorm,Tottenham Hotspur,78,GK,Holland,EPL,1,3,M,M,184cm,84kg,35
+2018/2019,Mohamed Elneny,Arsenal,78,CDM,Egypt,EPL,3,3,M,H,181cm,74kg,26
+2018/2019,Lucas Torreira,Arsenal,78,CM,Uruguay,EPL,4,3,M,H,168cm,64kg,23
+2018/2019,Lucas Digne,Everton,78,LB,France,EPL,3,3,H,M,178cm,74kg,25
+2018/2019,Phil Jagielka,Everton,78,CB,England,EPL,2,3,M,H,180cm,87kg,36
+2018/2019,James McCarthy,Everton,78,CDM,Republic of Ireland,EPL,3,4,M,H,180cm,72kg,28
+2018/2019,Yerry Mina,Everton,78,CB,Colombia,EPL,2,2,M,H,195cm,94kg,24
+2018/2019,Kurt Zouma,Everton,78,CB,France,EPL,2,3,M,M,190cm,96kg,24
+2018/2019,Christian Kabasele,Watford,78,CB,Belgium,EPL,2,3,M,H,188cm,84kg,28
+2018/2019,Michail Antonio,West Ham United,78,ST,England,EPL,4,3,H,M,178cm,82kg,29
+2018/2019,Adrián,West Ham United,78,GK,Spain,EPL,1,2,M,M,190cm,80kg,32
+2018/2019,Angelo Ogbonna,West Ham United,78,CB,Italy,EPL,2,3,M,M,191cm,86kg,31
+2018/2019,Oriol Romeu,Southampton,78,CDM,Spain,EPL,2,3,M,H,183cm,83kg,27
+2018/2019,Mario Lemina,Southampton,78,CM,Gabon,EPL,3,3,M,M,184cm,85kg,25
+2018/2019,Jonny Evans,Leicester City,78,CB,Northern Ireland,EPL,2,4,M,H,188cm,77kg,31
+2018/2019,James Tomkins,Crystal Palace,78,CB,England,EPL,2,3,M,M,192cm,74kg,30
+2018/2019,Andros Townsend,Crystal Palace,78,RM,England,EPL,4,4,H,H,181cm,73kg,27
+2018/2019,Christian Benteke,Crystal Palace,78,ST,Belgium,EPL,2,4,M,L,190cm,83kg,28
+2018/2019,Jonjo Shelvey,Newcastle United,78,CM,England,EPL,3,3,L,M,184cm,80kg,27
+2018/2019,Jamaal Lascelles,Newcastle United,78,CB,England,EPL,2,3,M,H,188cm,89kg,25
+2018/2019,Florian Lejeune,Newcastle United,78,CB,France,EPL,2,3,M,H,189cm,89kg,28
+2018/2019,Joshua King,Bournemouth,78,CF,Norway,EPL,4,3,M,M,184cm,74kg,27
+2018/2019,Callum Wilson,Bournemouth,78,ST,England,EPL,4,3,H,M,180cm,66kg,27
+2018/2019,Joe Hart,Burnley,78,GK,England,EPL,1,3,M,M,196cm,91kg,32
+2018/2019,Matthew Lowton,Burnley,78,RB,England,EPL,2,3,H,H,181cm,78kg,29
+2018/2019,Chris Wood,Burnley,78,ST,New Zealand,EPL,2,3,H,M,189cm,92kg,27
+2018/2019,Pascal Groß,Brighton & Hove Albion,78,CAM,Germany,EPL,4,4,H,H,181cm,78kg,27
+2018/2019,Mathew Ryan,Brighton & Hove Albion,78,GK,Australia,EPL,1,4,M,M,184cm,82kg,27
+2018/2019,Alireza Jahanbakhsh,Brighton & Hove Albion,78,RM,Iran,EPL,4,4,H,H,180cm,78kg,25
+2018/2019,Raúl Jiménez,Wolverhampton Wanderers,78,ST,Mexico,EPL,4,4,H,H,188cm,81kg,28
+2018/2019,Leander Dendoncker,Wolverhampton Wanderers,78,CB,Belgium,EPL,2,4,H,H,189cm,88kg,24
+2018/2019,Diogo Jota,Wolverhampton Wanderers,78,LW,Portugal,EPL,4,4,H,H,178cm,73kg,22
+2018/2019,André Schürrle,Fulham,78,LM,Germany,EPL,3,4,H,H,184cm,73kg,28
+2018/2019,Christopher Schindler,Huddersfield Town,78,CB,Germany,EPL,2,3,M,M,189cm,77kg,29
+2018/2019,Eliaquim Mangala,Manchester City,77,CB,France,EPL,2,4,M,H,187cm,84kg,28
+2018/2019,Ruben Loftus-Cheek,Chelsea,77,CM,England,EPL,4,3,M,L,191cm,83kg,23
+2018/2019,Divock Origi,Liverpool,77,ST,Belgium,EPL,4,3,H,M,185cm,75kg,24
+2018/2019,Alberto Moreno,Liverpool,77,LB,Spain,EPL,3,3,H,M,171cm,65kg,26
+2018/2019,Llorente,Tottenham Hotspur,77,ST,Spain,EPL,3,3,M,M,191cm,92kg,34
+2018/2019,Danny Welbeck,Arsenal,77,LW,England,EPL,3,3,H,H,185cm,73kg,28
+2018/2019,Richarlison,Everton,77,LM,Brazil,EPL,4,5,H,H,181cm,70kg,22
+2018/2019,Gomes,Watford,77,GK,Brazil,EPL,1,2,M,M,191cm,95kg,38
+2018/2019,Jose Holebas,Watford,77,LB,Greece,EPL,3,2,H,M,185cm,81kg,34
+2018/2019,Daryl Janmaat,Watford,77,RB,Holland,EPL,3,3,H,M,185cm,80kg,29
+2018/2019,Troy Deeney,Watford,77,ST,England,EPL,2,3,H,M,183cm,90kg,30
+2018/2019,Ben Foster,Watford,77,GK,England,EPL,1,3,M,M,193cm,90kg,36
+2018/2019,Etienne Capoue,Watford,77,CM,France,EPL,3,3,L,L,190cm,87kg,30
+2018/2019,Winston Reid,West Ham United,77,CB,New Zealand,EPL,2,3,L,H,190cm,87kg,30
+2018/2019,Carlos Sánchez,West Ham United,77,CDM,Colombia,EPL,3,3,M,M,182cm,82kg,33
+2018/2019,Andy Carroll,West Ham United,77,ST,England,EPL,2,3,M,H,193cm,79kg,30
+2018/2019,Pedro Obiang,West Ham United,77,CDM,Spain,EPL,3,3,M,H,185cm,75kg,27
+2018/2019,Charlie Austin,Southampton,77,ST,England,EPL,2,2,H,M,188cm,84kg,29
+2018/2019,Cédric,Southampton,77,RB,Portugal,EPL,3,4,H,M,172cm,67kg,27
+2018/2019,Alex McCarthy,Southampton,77,GK,England,EPL,1,2,M,M,193cm,79kg,29
+2018/2019,Manolo Gabbiadini,Southampton,77,ST,Italy,EPL,3,3,H,L,181cm,72kg,27
+2018/2019,James Ward-Prowse,Southampton,77,RM,England,EPL,3,3,M,M,173cm,66kg,24
+2018/2019,Jordan Ayew,Crystal Palace,77,ST,Ghana,EPL,4,3,M,H,182cm,81kg,27
+2018/2019,Salomón Rondón,Newcastle United,77,ST,Venezuela,EPL,3,4,H,M,186cm,98kg,29
+2018/2019,Matt Ritchie,Newcastle United,77,RM,Scotland,EPL,4,4,H,M,172cm,76kg,29
+2018/2019,Jermain Defoe,Bournemouth,77,ST,England,EPL,3,4,M,L,171cm,65kg,36
+2018/2019,Lewis Cook,Bournemouth,77,CM,England,EPL,3,4,M,M,175cm,71kg,22
+2018/2019,Steve Cook,Bournemouth,77,CB,England,EPL,2,3,M,H,185cm,82kg,28
+2018/2019,Aaron Lennon,Burnley,77,RM,England,EPL,3,3,H,H,165cm,63kg,32
+2018/2019,Ashley Barnes,Burnley,77,ST,Austria,EPL,3,4,H,H,186cm,84kg,29
+2018/2019,Robbie Brady,Burnley,77,LM,Republic of Ireland,EPL,4,3,H,M,179cm,77kg,27
+2018/2019,José Izquierdo,Brighton & Hove Albion,77,LM,Colombia,EPL,4,3,H,H,171cm,75kg,26
+2018/2019,Davy Pröpper,Brighton & Hove Albion,77,CM,Holland,EPL,3,3,M,H,185cm,79kg,27
+2018/2019,Montoya,Brighton & Hove Albion,77,RB,Spain,EPL,3,4,H,M,175cm,73kg,28
+2018/2019,Lewis Dunk,Brighton & Hove Albion,77,CB,England,EPL,2,3,H,H,192cm,88kg,27
+2018/2019,Florin Andone,Brighton & Hove Albion,77,ST,Romania,EPL,3,3,H,H,180cm,78kg,26
+2018/2019,Mathias Jørgensen,Huddersfield Town,77,CB,Denmark,EPL,2,2,M,H,191cm,85kg,29
+2018/2019,Martin Dúbravka,Newcastle United,77,GK,Slovakia,EPL,1,2,M,M,190cm,80kg,30
+2018/2019,Yannick Bolasie,Everton,77,LW,Congo DR,EPL,5,4,H,H,188cm,84kg,30
+2018/2019,Pedro Obiang,West Ham United,77,CDM,Equatorial Guinea,EPL,3,3,M,H,185cm,75kg,27
+2018/2019,James Maddison,Leicester City,77,CAM,England,EPL,4,4,H,M,175cm,73kg,22
+2018/2019,Ryan Fraser,Bournemouth,77,LM,Scotland,EPL,3,4,H,M,163cm,60kg,25
+2018/2019,Matt Doherty,Wolverhampton Wanderers,77,RWB,Republic of Ireland,EPL,3,4,H,M,183cm,89kg,27
+2018/2019,Matteo Darmian,Manchester United,76,LB,Italy,EPL,3,5,L,H,182cm,70kg,29
+2018/2019,Emerson,Chelsea,76,LWB,Italy,EPL,3,3,H,M,176cm,63kg,24
+2018/2019,Willy Caballero,Chelsea,76,GK,Argentina,EPL,1,3,M,M,186cm,80kg,37
+2018/2019,Joe Gomez,Liverpool,76,RB,England,EPL,3,3,M,H,188cm,77kg,22
+2018/2019,Vincent Janssen,Tottenham Hotspur,76,ST,Holland,EPL,3,4,H,L,183cm,88kg,24
+2018/2019,Moussa Sissoko,Tottenham Hotspur,76,CM,France,EPL,3,2,M,M,187cm,91kg,29
+2018/2019,Alex Iwobi,Arsenal,76,LM,Nigeria,EPL,4,3,M,M,180cm,75kg,23
+2018/2019,Sandro,Everton,76,ST,Spain,EPL,3,4,H,M,175cm,71kg,23
+2018/2019,Mason Holgate,Everton,76,CB,England,EPL,3,3,M,M,184cm,75kg,22
+2018/2019,Kiko Femenía,Watford,76,RB,Spain,EPL,3,3,H,M,174cm,61kg,28
+2018/2019,Will Hughes,Watford,76,CM,England,EPL,4,3,M,M,185cm,74kg,24
+2018/2019,Nathaniel Chalobah,Watford,76,CDM,England,EPL,3,3,M,M,185cm,76kg,24
+2018/2019,Tom Cleverley,Watford,76,CM,England,EPL,3,3,H,M,175cm,67kg,29
+2018/2019,Issa Diop,West Ham United,76,CB,France,EPL,2,3,M,M,194cm,92kg,22
+2018/2019,Mark Noble,West Ham United,76,CM,England,EPL,3,3,H,H,180cm,76kg,32
+2018/2019,Pablo Zabaleta,West Ham United,76,RB,Argentina,EPL,3,3,M,H,178cm,74kg,34
+2018/2019,Arthur Masuaku,West Ham United,76,LB,Congo DR,EPL,4,2,H,M,179cm,70kg,25
+2018/2019,Danny Ings,Southampton,76,ST,England,EPL,3,3,H,H,178cm,73kg,26
+2018/2019,Pierre-Emile Højbjerg,Southampton,76,CM,Denmark,EPL,3,4,M,M,185cm,84kg,23
+2018/2019,Wesley Hoedt,Southampton,76,CB,Holland,EPL,2,3,M,H,188cm,77kg,25
+2018/2019,Fraser Forster,Southampton,76,GK,England,EPL,1,5,M,M,201cm,93kg,31
+2018/2019,Ben Chilwell,Leicester City,76,LB,England,EPL,3,3,H,H,178cm,77kg,22
+2018/2019,Marc Albrighton,Leicester City,76,LM,England,EPL,3,3,H,H,175cm,74kg,29
+2018/2019,Shinji Okazaki,Leicester City,76,CF,Japan,EPL,3,4,H,H,173cm,78kg,33
+2018/2019,Demarai Gray,Leicester City,76,LM,England,EPL,4,3,H,M,180cm,74kg,22
+2018/2019,James McArthur,Crystal Palace,76,CM,Scotland,EPL,3,3,H,H,178cm,66kg,31
+2018/2019,Scott Dann,Crystal Palace,76,CB,England,EPL,2,3,L,M,188cm,78kg,32
+2018/2019,Cheikhou Kouyaté,Crystal Palace,76,CDM,Senegal,EPL,3,3,H,M,189cm,83kg,29
+2018/2019,DeAndre Yedlin,Newcastle United,76,RB,United States,EPL,3,3,H,M,172cm,75kg,25
+2018/2019,Ciaran Clark,Newcastle United,76,CB,Republic of Ireland,EPL,2,2,M,M,185cm,88kg,29
+2018/2019,Ayoze Pérez,Newcastle United,76,CF,Spain,EPL,4,4,H,H,178cm,72kg,25
+2018/2019,Federico Fernández,Newcastle United,76,CB,Argentina,EPL,2,2,M,H,190cm,83kg,30
+2018/2019,Kenedy,Newcastle United,76,LM,Brazil,EPL,4,2,H,H,182cm,77kg,23
+2018/2019,Sung Yueng Ki,Newcastle United,76,CM,Korea Republic,EPL,4,4,M,H,189cm,75kg,30
+2018/2019,Yoshinori Muto,Newcastle United,76,ST,Japan,EPL,3,4,H,H,178cm,72kg,26
+2018/2019,Diego Rico,Bournemouth,76,LB,Spain,EPL,3,2,M,M,183cm,76kg,26
+2018/2019,Andrew Surman,Bournemouth,76,CM,England,EPL,3,4,M,M,178cm,73kg,32
+2018/2019,Sam Vokes,Burnley,76,ST,Wales,EPL,2,3,H,M,188cm,90kg,29
+2018/2019,Stephen Ward,Burnley,76,LB,Republic of Ireland,EPL,3,5,H,H,186cm,80kg,33
+2018/2019,Jürgen Locadia,Brighton & Hove Albion,76,ST,Holland,EPL,3,4,H,M,185cm,87kg,25
+2018/2019,Dale Stephens,Brighton & Hove Albion,76,CM,England,EPL,3,3,M,H,185cm,71kg,29
+2018/2019,Glenn Murray,Brighton & Hove Albion,76,ST,England,EPL,2,3,L,M,185cm,84kg,35
+2018/2019,Shane Duffy,Brighton & Hove Albion,76,CB,Republic of Ireland,EPL,2,3,M,H,193cm,76kg,27
+2018/2019,Willy Boly,Wolverhampton Wanderers,76,CB,France,EPL,2,4,M,M,195cm,97kg,28
+2018/2019,Aleksandar Mitrovic,Fulham,76,ST,Serbia,EPL,3,4,M,M,187cm,90kg,24
+2018/2019,Luciano Vietto,Fulham,76,ST,Argentina,EPL,4,3,H,M,173cm,70kg,25
+2018/2019,Jonathan Hogg,Huddersfield Town,76,CDM,England,EPL,3,3,M,H,176cm,73kg,30
+2018/2019,Terence Kongolo,Huddersfield Town,76,LB,Holland,EPL,3,4,M,H,188cm,70kg,25
+2018/2019,Steve Mounié,Huddersfield Town,76,ST,Benin,EPL,3,3,H,M,190cm,80kg,24
+2018/2019,Camarasa,Cardiff City,76,CM,Spain,EPL,3,3,H,M,183cm,76kg,24
+2018/2019,Harry Arter,Cardiff City,76,CM,Republic of Ireland,EPL,3,5,H,H,176cm,70kg,29
+2018/2019,Filip Benković,Leicester City,76,CB,Croatia,EPL,2,3,M,M,194cm,91kg,21
+2018/2019,Håvard Nordtveit,Fulham,76,CB,Norway,EPL,2,3,M,M,188cm,83kg,28
+2018/2019,Aaron Wan-Bissaka,Crystal Palace,76,RB,England,EPL,3,2,H,M,183cm,72kg,21
+2018/2019,Georges-Kévin Nkoudou,Tottenham Hotspur,76,LM,France,EPL,3,4,H,L,175cm,73kg,24
+2018/2019,Charly Musonda,Chelsea,75,RW,Belgium,EPL,4,5,M,M,173cm,66kg,22
+2018/2019,Harry Winks,Tottenham Hotspur,75,CM,England,EPL,3,3,H,M,176cm,74kg,23
+2018/2019,Tom Davies,Everton,75,CM,England,EPL,4,3,H,M,185cm,70kg,20
+2018/2019,Oumar Niasse,Everton,75,ST,Senegal,EPL,3,3,H,M,182cm,82kg,29
+2018/2019,Sebastian Prödl,Watford,75,CB,Austria,EPL,2,2,M,M,196cm,97kg,31
+2018/2019,Marvin Zeegelaar,Watford,75,LB,Holland,EPL,3,3,H,M,186cm,82kg,28
+2018/2019,Andre Gray,Watford,75,ST,England,EPL,3,3,H,M,180cm,78kg,27
+2018/2019,Robert Snodgrass,West Ham United,75,RM,Scotland,EPL,4,3,H,M,182cm,82kg,31
+2018/2019,Maya Yoshida,Southampton,75,CB,Japan,EPL,2,4,M,H,189cm,78kg,30
+2018/2019,Stuart Armstrong,Southampton,75,CAM,Scotland,EPL,3,4,H,H,183cm,75kg,27
+2018/2019,Nathan Redmond,Southampton,75,RM,England,EPL,4,3,H,M,173cm,69kg,25
+2018/2019,Çaglar Söyüncü,Leicester City,75,CB,Turkey,EPL,2,4,M,M,187cm,82kg,23
+2018/2019,Rachid Ghezzal,Leicester City,75,RM,Algeria,EPL,4,3,M,L,182cm,70kg,27
+2018/2019,Kelechi Iheanacho,Leicester City,75,ST,Nigeria,EPL,4,3,M,M,183cm,80kg,22
+2018/2019,Daniel Amartey,Leicester City,75,CDM,Ghana,EPL,3,3,M,H,186cm,79kg,24
+2018/2019,James Maddison,Leicester City,75,CAM,England,EPL,4,4,H,M,175cm,73kg,22
+2018/2019,Christian Fuchs,Leicester City,75,LB,Austria,EPL,3,2,M,M,187cm,89kg,33
+2018/2019,Wes Morgan,Leicester City,75,CB,Jamaica,EPL,2,2,M,H,186cm,101kg,35
+2018/2019,Martin Kelly,Crystal Palace,75,CB,England,EPL,2,3,L,M,191cm,77kg,29
+2018/2019,Patrick van Aanholt,Crystal Palace,75,LB,Holland,EPL,3,4,H,M,176cm,67kg,28
+2018/2019,Wayne Hennessey,Crystal Palace,75,GK,Wales,EPL,1,3,M,M,198cm,90kg,32
+2018/2019,Christian Atsu,Newcastle United,75,LM,Ghana,EPL,3,3,H,L,165cm,65kg,27
+2018/2019,Mohamed Diamé,Newcastle United,75,CM,Senegal,EPL,3,3,M,H,184cm,86kg,31
+2018/2019,Fabian Schär,Newcastle United,75,CB,Switzerland,EPL,2,4,H,M,188cm,84kg,27
+2018/2019,Junior Stanislas,Bournemouth,75,RM,England,EPL,3,3,H,M,183cm,76kg,29
+2018/2019,Simon Francis,Bournemouth,75,CB,England,EPL,2,4,H,M,183cm,90kg,34
+2018/2019,Ryan Fraser,Bournemouth,75,RM,Scotland,EPL,3,4,H,M,163cm,60kg,25
+2018/2019,Artur Boruc,Bournemouth,75,GK,Poland,EPL,1,3,M,M,193cm,87kg,39
+2018/2019,Charlie Daniels,Bournemouth,75,LB,England,EPL,3,3,H,M,178cm,75kg,32
+2018/2019,Adam Smith,Bournemouth,75,RB,England,EPL,3,3,H,M,180cm,78kg,28
+2018/2019,Ashley Westwood,Burnley,75,CM,England,EPL,3,3,M,M,174cm,73kg,29
+2018/2019,Matej Vydra,Burnley,75,CAM,Czech Republic,EPL,3,4,M,M,175cm,71kg,27
+2018/2019,Jeff Hendrick,Burnley,75,CAM,Republic of Ireland,EPL,3,3,M,H,183cm,84kg,27
+2018/2019,Leon Balogun,Brighton & Hove Albion,75,CB,Nigeria,EPL,2,3,M,M,190cm,88kg,30
+2018/2019,Anthony Knockaert,Brighton & Hove Albion,75,RM,France,EPL,4,3,H,H,172cm,69kg,27
+2018/2019,Ezequiel Schelotto,Brighton & Hove Albion,75,RB,Italy,EPL,3,3,H,M,187cm,77kg,30
+2018/2019,Bernardo,Brighton & Hove Albion,75,LB,Brazil,EPL,3,3,M,M,186cm,76kg,24
+2018/2019,Adama,Wolverhampton Wanderers,75,RW,Spain,EPL,4,2,H,L,178cm,76kg,23
+2018/2019,Hélder Costa,Wolverhampton Wanderers,75,RW,Portugal,EPL,4,4,H,M,179cm,77kg,25
+2018/2019,Ivan Cavaleiro,Wolverhampton Wanderers,75,RW,Portugal,EPL,4,4,H,M,175cm,80kg,25
+2018/2019,Joe Bryan,Fulham,75,LB,England,EPL,3,4,H,M,170cm,72kg,25
+2018/2019,Maxime Le Marchand,Fulham,75,LB,France,EPL,2,3,M,H,185cm,77kg,29
+2018/2019,Ryan Sessegnon,Fulham,75,LW,England,EPL,4,3,H,M,178cm,70kg,19
+2018/2019,Alfie Mawson,Fulham,75,CB,England,EPL,2,5,M,H,188cm,87kg,25
+2018/2019,Kevin McDonald,Fulham,75,CDM,Scotland,EPL,3,4,M,M,192cm,95kg,30
+2018/2019,Calum Chambers,Fulham,75,CB,England,EPL,2,3,L,H,183cm,66kg,24
+2018/2019,Stefan Johansen,Fulham,75,CM,Norway,EPL,3,3,H,H,182cm,78kg,28
+2018/2019,Zambo Anguissa,Fulham,75,CDM,Cameroon,EPL,3,2,M,H,184cm,78kg,23
+2018/2019,Laurent Depoitre,Huddersfield Town,75,ST,Belgium,EPL,2,3,H,H,191cm,91kg,30
+2018/2019,Ramadan Sobhi,Huddersfield Town,75,LM,Egypt,EPL,4,4,H,H,183cm,77kg,22
+2018/2019,Erik Durm,Huddersfield Town,75,LB,Germany,EPL,3,3,H,M,183cm,72kg,27
+2018/2019,Jonas Lössl,Huddersfield Town,75,GK,Denmark,EPL,1,2,M,M,195cm,88kg,30
+2018/2019,Junior Hoilett,Cardiff City,75,LW,Canada,EPL,3,3,M,M,173cm,70kg,28
+2018/2019,Souleymane Bamba,Cardiff City,75,CB,Côte d'Ivoire,EPL,2,3,M,M,190cm,86kg,34
+2018/2019,Oumar Niasse,Cardiff City,75,ST,Senegal,EPL,3,3,H,M,182cm,82kg,29
+2018/2019,Antonio Barreca,Newcastle United,75,LB,Italy,EPL,3,2,H,M,180cm,70kg,24
+2018/2019,Lee Grant,Manchester United,74,GK,England,EPL,1,4,M,M,193cm,83kg,36
+2018/2019,Tammy Abraham,Chelsea,74,ST,England,EPL,3,3,M,M,196cm,80kg,21
+2018/2019,Lazar Markovic,Liverpool,74,RM,Serbia,EPL,4,3,M,M,175cm,65kg,25
+2018/2019,Rob Holding,Arsenal,74,CB,England,EPL,2,3,M,M,189cm,75kg,23
+2018/2019,Dominic Calvert-Lewin,Everton,74,ST,England,EPL,3,3,H,M,187cm,71kg,22
+2018/2019,Stefano Okaka,Watford,74,ST,Italy,EPL,2,3,H,H,186cm,90kg,29
+2018/2019,Adrian Mariappa,Watford,74,CB,Jamaica,EPL,2,3,M,M,180cm,78kg,32
+2018/2019,Miguel Angel Britos,Watford,74,CB,Uruguay,EPL,2,3,M,M,190cm,85kg,33
+2018/2019,Adam Masina,Watford,74,LB,Italy,EPL,3,3,M,M,191cm,87kg,25
+2018/2019,Marc Navarro,Watford,74,RB,Spain,EPL,2,2,H,M,188cm,79kg,23
+2018/2019,Younès Kaboul,Watford,74,CB,France,EPL,2,3,H,M,193cm,87kg,33
+2018/2019,Aaron Cresswell,West Ham United,74,CB,England,EPL,3,3,H,M,170cm,66kg,29
+2018/2019,Jack Stephens,Southampton,74,CB,England,EPL,2,3,M,M,185cm,75kg,25
+2018/2019,Shane Long,Southampton,74,ST,Republic of Ireland,EPL,3,2,H,H,178cm,70kg,32
+2018/2019,Steven Davis,Southampton,74,CM,Northern Ireland,EPL,3,3,M,H,173cm,70kg,34
+2018/2019,Danny Simpson,Leicester City,74,RB,England,EPL,3,3,L,H,176cm,80kg,32
+2018/2019,Nampalys Mendy,Leicester City,74,CDM,France,EPL,3,3,L,H,168cm,68kg,26
+2018/2019,Yohan Benalouane,Leicester City,74,CB,Tunisia,EPL,2,3,M,H,185cm,86kg,32
+2018/2019,Jaïro Riedewald,Crystal Palace,74,CB,Holland,EPL,3,3,M,M,182cm,79kg,22
+2018/2019,Joel Ward,Crystal Palace,74,RB,England,EPL,3,3,M,H,188cm,83kg,29
+2018/2019,Paul Dummett,Newcastle United,74,LB,Wales,EPL,3,2,M,M,183cm,82kg,27
+2018/2019,Joselu,Newcastle United,74,ST,Spain,EPL,3,3,M,M,192cm,80kg,29
+2018/2019,Manquillo,Newcastle United,74,LB,Spain,EPL,3,3,H,M,178cm,76kg,25
+2018/2019,Jordon Ibe,Bournemouth,74,RM,England,EPL,3,4,M,M,176cm,81kg,23
+2018/2019,Charlie Taylor,Burnley,74,LB,England,EPL,3,2,H,M,185cm,70kg,25
+2018/2019,Ben Gibson,Burnley,74,CB,England,EPL,2,3,M,M,185cm,78kg,26
+2018/2019,Gaëtan Bong,Brighton & Hove Albion,74,LB,Cameroon,EPL,3,3,H,H,187cm,74kg,31
+2018/2019,Bruno Saltor,Brighton & Hove Albion,74,RB,Spain,EPL,3,3,H,M,181cm,76kg,38
+2018/2019,Matt Doherty,Wolverhampton Wanderers,74,RWB,Republic of Ireland,EPL,3,4,H,M,183cm,89kg,27
+2018/2019,Romain Saïss,Wolverhampton Wanderers,74,CM,Morocco,EPL,3,3,M,M,188cm,84kg,29
+2018/2019,Timothy Fosu-Mensah,Fulham,74,RB,Holland,EPL,3,4,M,M,185cm,78kg,21
+2018/2019,Adama Diakhaby,Huddersfield Town,74,ST,France,EPL,3,2,H,M,188cm,74kg,22
+2018/2019,Florent Hadergjonaj,Huddersfield Town,74,RB,Switzerland,EPL,3,3,H,M,182cm,73kg,24
+2018/2019,Alex Pritchard,Huddersfield Town,74,CAM,England,EPL,3,4,H,M,171cm,62kg,26
+2018/2019,Sean Morrison,Cardiff City,74,CB,England,EPL,2,2,M,H,194cm,84kg,28
+2018/2019,Greg Cunningham,Cardiff City,74,LB,Republic of Ireland,EPL,3,3,M,H,183cm,70kg,28
+2018/2019,Joe Ralls,Cardiff City,74,CM,England,EPL,3,2,M,H,178cm,70kg,25
+2018/2019,Bobby Reid,Cardiff City,74,ST,England,EPL,3,3,H,H,170cm,68kg,26
+2018/2019,Bruno Ecuélé Manga,Cardiff City,74,CB,Gabon,EPL,2,3,L,H,186cm,76kg,30
+2018/2019,Lazar Markovic,Fulham,74,RM,Serbia,EPL,4,3,M,M,175cm,65kg,25
+2018/2019,Douglas Luiz,Manchester City,73,CM,Brazil,EPL,3,2,M,M,178cm,70kg,21
+2018/2019,Phil Foden,Manchester City,73,CAM,England,EPL,4,3,M,M,171cm,59kg,18
+2018/2019,Maarten Stekelenburg,Everton,73,GK,Holland,EPL,1,4,M,M,197cm,92kg,36
+2018/2019,Craig Cathcart,Watford,73,CB,Northern Ireland,EPL,2,3,M,M,190cm,83kg,30
+2018/2019,Adalberto Peñaranda,Watford,73,ST,Venezuela,EPL,3,3,H,M,185cm,83kg,21
+2018/2019,Isaac Success,Watford,73,RM,Nigeria,EPL,3,3,M,M,182cm,90kg,23
+2018/2019,Ryan Fredericks,West Ham United,73,RB,England,EPL,3,3,H,M,181cm,74kg,26
+2018/2019,Eldin Jakupovic,Leicester City,73,GK,Switzerland,EPL,1,2,M,M,191cm,85kg,34
+2018/2019,Matty James,Leicester City,73,CM,England,EPL,3,3,M,M,181cm,86kg,27
+2018/2019,Jason Puncheon,Crystal Palace,73,CM,England,EPL,3,2,M,M,173cm,66kg,32
+2018/2019,Jeffrey Schlupp,Crystal Palace,73,LB,Ghana,EPL,3,2,H,M,178cm,72kg,26
+2018/2019,Karl Darlow,Newcastle United,73,GK,England,EPL,1,2,M,M,190cm,88kg,28
+2018/2019,Dan Gosling,Bournemouth,73,CM,England,EPL,3,3,M,H,183cm,79kg,29
+2018/2019,Kevin Long,Burnley,73,CB,Republic of Ireland,EPL,2,2,L,M,190cm,82kg,28
+2018/2019,Markus Suttner,Brighton & Hove Albion,73,LB,Austria,EPL,3,3,H,M,179cm,73kg,32
+2018/2019,Léo Bonatini,Wolverhampton Wanderers,73,ST,Brazil,EPL,3,4,M,H,184cm,83kg,25
+2018/2019,Conor Coady,Wolverhampton Wanderers,73,CB,England,EPL,2,3,L,H,186cm,80kg,26
+2018/2019,Tim Ream,Fulham,73,CB,United States,EPL,2,3,M,M,186cm,79kg,31
+2018/2019,Chris Löwe,Huddersfield Town,73,LB,Germany,EPL,3,2,M,H,175cm,68kg,30
+2018/2019,Tommy Smith,Huddersfield Town,73,RB,England,EPL,3,3,M,M,186cm,84kg,27
+2018/2019,Alex Smithies,Cardiff City,73,GK,England,EPL,1,2,M,M,188cm,88kg,29
+2018/2019,Aron Gunnarsson,Cardiff City,73,CDM,Iceland,EPL,3,3,M,H,178cm,86kg,30
+2018/2019,Jason Puncheon,Huddersfield Town,73,CM,England,EPL,3,2,M,M,173cm,66kg,32
+2018/2019,Peter Crouch,Burnley,73,ST,England,EPL,2,3,M,M,201cm,75kg,38
+2018/2019,Diogo Dalot,Manchester United,72,RB,Portugal,EPL,3,3,H,M,183cm,71kg,20
+2018/2019,Lucas Piazon,Chelsea,72,RW,Brazil,EPL,3,4,M,M,182cm,73kg,25
+2018/2019,Michael Hector,Chelsea,72,CB,Jamaica,EPL,2,3,M,M,193cm,82kg,26
+2018/2019,Rob Green,Chelsea,72,GK,England,EPL,1,3,M,M,191cm,93kg,39
+2018/2019,Emiliano Martinez,Arsenal,72,GK,Argentina,EPL,1,3,M,M,193cm,85kg,26
+2018/2019,Ademola Lookman,Everton,72,LM,England,EPL,3,4,H,M,174cm,78kg,21
+2018/2019,Danny Ward,Leicester City,72,GK,Wales,EPL,1,3,M,M,191cm,88kg,25
+2018/2019,Rob Elliot,Newcastle United,72,GK,Republic of Ireland,EPL,1,2,M,M,190cm,94kg,33
+2018/2019,Jacob Murphy,Newcastle United,72,RM,England,EPL,3,3,H,L,179cm,74kg,24
+2018/2019,Isaac Hayden,Newcastle United,72,CDM,England,EPL,2,4,M,M,185cm,79kg,24
+2018/2019,Jonathan Walters,Burnley,72,ST,Republic of Ireland,EPL,2,3,H,H,183cm,79kg,35
+2018/2019,Beram Kayal,Brighton & Hove Albion,72,CM,Israel,EPL,3,3,M,H,178cm,74kg,31
+2018/2019,Yves Bissouma,Brighton & Hove Albion,72,CM,Mali,EPL,3,3,H,M,182cm,80kg,22
+2018/2019,Solly March,Brighton & Hove Albion,72,LM,England,EPL,3,2,H,H,180cm,77kg,24
+2018/2019,John Ruddy,Wolverhampton Wanderers,72,GK,England,EPL,1,3,M,M,193cm,97kg,32
+2018/2019,Cyrus Christie,Fulham,72,RB,Republic of Ireland,EPL,3,2,H,M,188cm,78kg,26
+2018/2019,Marcus Bettinelli,Fulham,72,GK,England,EPL,1,3,M,M,194cm,82kg,27
+2018/2019,Neeskens Kebano,Fulham,72,LW,Congo DR,EPL,3,3,H,M,170cm,65kg,27
+2018/2019,Isaac Mbenza,Huddersfield Town,72,ST,Belgium,EPL,3,3,M,M,187cm,77kg,23
+2018/2019,Rajiv van La Parra,Huddersfield Town,72,LM,Holland,EPL,4,3,M,M,181cm,72kg,27
+2018/2019,Neil Etheridge,Cardiff City,72,GK,Philippines,EPL,1,3,M,M,191cm,89kg,29
+2018/2019,Kenneth Zohore,Cardiff City,72,ST,Denmark,EPL,3,3,M,L,194cm,96kg,25
+2018/2019,Scott McTominay,Manchester United,71,CM,Scotland,EPL,3,3,M,M,193cm,88kg,22
+2018/2019,Oleksandr Zinchenko,Manchester City,71,LB,Ukraine,EPL,3,3,H,M,175cm,64kg,22
+2018/2019,Josh Onomah,Tottenham Hotspur,71,CAM,England,EPL,3,3,M,M,185cm,83kg,22
+2018/2019,Ainsley Maitland-Niles,Arsenal,71,CM,England,EPL,3,3,M,M,177cm,71kg,21
+2018/2019,Jonjoe Kenny,Everton,71,RB,England,EPL,3,3,H,M,176cm,67kg,22
+2018/2019,Ken Sema,Watford,71,LM,Sweden,EPL,3,3,M,M,180cm,69kg,25
+2018/2019,Angus Gunn,Southampton,71,GK,England,EPL,1,3,M,M,196cm,77kg,23
+2018/2019,Jan Bednarek,Southampton,71,CB,Poland,EPL,2,3,M,M,189cm,77kg,23
+2018/2019,Bartosz Kapustka,Leicester City,71,LM,Poland,EPL,3,3,M,M,179cm,67kg,22
+2018/2019,Fousseni Diabaté,Leicester City,71,RM,Mali,EPL,3,3,M,M,175cm,60kg,23
+2018/2019,Andy King,Leicester City,71,CM,Wales,EPL,3,3,M,M,184cm,79kg,30
+2018/2019,Connor Wickham,Crystal Palace,71,ST,England,EPL,3,3,H,M,191cm,90kg,26
+2018/2019,Alexander Sørloth,Crystal Palace,71,ST,Norway,EPL,3,4,H,M,194cm,90kg,23
+2018/2019,Julián Speroni,Crystal Palace,71,GK,Argentina,EPL,1,3,M,M,186cm,80kg,40
+2018/2019,Marc Pugh,Bournemouth,71,LM,England,EPL,4,4,H,M,180cm,72kg,32
+2018/2019,Phil Bardsley,Burnley,71,RB,Scotland,EPL,3,3,M,M,180cm,79kg,33
+2018/2019,Ryan Bennett,Wolverhampton Wanderers,71,CB,England,EPL,2,2,L,M,188cm,78kg,29
+2018/2019,Aboubakar Kamara,Fulham,71,ST,France,EPL,3,3,H,M,177cm,81kg,24
+2018/2019,Rui Fonte,Fulham,71,ST,Portugal,EPL,3,3,M,M,179cm,73kg,29
+2018/2019,Elias Kachunga,Huddersfield Town,71,RM,Congo DR,EPL,3,2,H,M,178cm,74kg,27
+2018/2019,Danny Williams,Huddersfield Town,71,CM,United States,EPL,3,3,M,H,182cm,80kg,30
+2018/2019,Joe Bennett,Cardiff City,71,LB,England,EPL,3,3,H,M,178cm,74kg,29
+2018/2019,Nathaniel Mendez-Laing,Cardiff City,71,RW,England,EPL,3,3,H,M,180cm,75kg,27
+2018/2019,Lee Tomlin,Cardiff City,71,CAM,England,EPL,3,3,H,M,180cm,74kg,30
+2018/2019,Callum Paterson,Cardiff City,71,CM,Scotland,EPL,3,3,H,H,187cm,76kg,24
+2018/2019,Dan Burn,Brighton & Hove Albion,71,CB,England,EPL,2,3,L,M,198cm,87kg,27
+2018/2019,Joel Pereira,Manchester United,71,GK,Portugal,EPL,1,2,M,M,188cm,70kg,22
+2018/2019,Sako,Crystal Palace,71,LW,Mali,EPL,3,3,H,L,183cm,90kg,31
+2018/2019,Edimilson Fernandes,West Ham United,71,CAM,Switzerland,EPL,3,4,H,M,190cm,70kg,23
+2018/2019,Isaiah Brown,Chelsea,70,CAM,England,EPL,3,3,M,M,182cm,70kg,22
+2018/2019,Dominic Solanke,Liverpool,70,ST,England,EPL,3,3,H,M,187cm,80kg,21
+2018/2019,Paulo Gazzaniga,Tottenham Hotspur,70,GK,Argentina,EPL,1,3,M,M,196cm,90kg,27
+2018/2019,Kieran Dowell,Everton,70,CAM,England,EPL,3,3,M,L,185cm,80kg,21
+2018/2019,Matt Targett,Southampton,70,LB,England,EPL,3,2,M,M,183cm,70kg,23
+2018/2019,Aaron Wan-Bissaka,Crystal Palace,70,RB,England,EPL,3,2,H,M,183cm,72kg,21
+2018/2019,Pape Souaré,Crystal Palace,70,LB,Senegal,EPL,3,2,H,M,178cm,66kg,28
+2018/2019,Jonathan Williams,Crystal Palace,70,CAM,Wales,EPL,3,3,H,M,168cm,60kg,25
+2018/2019,Rolando Aarons,Newcastle United,70,LM,England,EPL,3,3,M,M,178cm,76kg,23
+2018/2019,Tyrone Mings,Bournemouth,70,LB,England,EPL,3,3,M,M,196cm,77kg,26
+2018/2019,Lys Mousset,Bournemouth,70,ST,France,EPL,3,2,M,M,184cm,80kg,23
+2018/2019,Danny Batth,Wolverhampton Wanderers,70,CB,England,EPL,2,2,L,H,191cm,90kg,28
+2018/2019,Juninho Bacuna,Huddersfield Town,70,CM,Holland,EPL,3,3,M,M,178cm,74kg,21
+2018/2019,Floyd Ayité,Fulham,70,LW,Togo,EPL,3,4,M,H,175cm,73kg,30
+2018/2019,Juan Foyth,Tottenham Hotspur,70,CB,Argentina,EPL,3,3,M,H,187cm,69kg,21
+2018/2019,Dominic Solanke,Bournemouth,70,ST,England,EPL,3,3,H,M,187cm,80kg,21
+2018/2019,Brahim Díaz,Manchester City,69,LW,Spain,EPL,4,5,H,M,170cm,68kg,19
+2018/2019,Philippe Sandler,Manchester City,69,CB,Holland,EPL,2,3,H,M,190cm,82kg,22
+2018/2019,Kyle Walker-Peters,Tottenham Hotspur,69,RB,England,EPL,3,4,H,M,174cm,64kg,22
+2018/2019,Carl Jenkinson,Arsenal,69,RB,England,EPL,3,2,H,H,185cm,77kg,27
+2018/2019,Declan Rice,West Ham United,69,CB,Republic of Ireland,EPL,2,3,M,M,185cm,80kg,20
+2018/2019,Sam Gallagher,Southampton,69,ST,England,EPL,2,3,H,M,193cm,75kg,23
+2018/2019,Hamza Choudhury,Leicester City,69,CDM,England,EPL,2,3,L,H,178cm,64kg,21
+2018/2019,David Brooks,Bournemouth,69,CAM,Wales,EPL,4,3,M,M,183cm,62kg,21
+2018/2019,Mathias Normann,Brighton & Hove Albion,69,CM,Norway,EPL,3,3,M,H,179cm,75kg,22
+2018/2019,Denis Odoi,Fulham,69,CB,Belgium,EPL,3,3,H,M,178cm,71kg,30
+2018/2019,Collin Quaner,Huddersfield Town,69,ST,Germany,EPL,3,4,M,M,191cm,79kg,27
+2018/2019,Gary Madine,Cardiff City,69,ST,England,EPL,2,3,M,M,191cm,75kg,28
+2018/2019,Anthony Pilkington,Cardiff City,69,ST,Republic of Ireland,EPL,3,4,H,L,180cm,81kg,30
+2018/2019,Lee Peltier,Cardiff City,69,RB,England,EPL,2,2,L,H,177cm,73kg,32
+2018/2019,Ashley Richards,Cardiff City,69,RB,Wales,EPL,3,3,M,M,175cm,75kg,28
+2018/2019,Danny Ward,Cardiff City,69,ST,England,EPL,3,4,H,H,180cm,72kg,28
+2018/2019,Josh Murphy,Cardiff City,69,LW,England,EPL,3,4,H,L,173cm,67kg,24
+2018/2019,Loïc Damour,Cardiff City,69,CDM,France,EPL,2,4,H,H,181cm,75kg,28
+2018/2019,Jamal Blackman,Chelsea,69,GK,England,EPL,1,2,M,M,199cm,93kg,25
+2018/2019,Harvey Barnes,Leicester City,69,LW,England,EPL,3,4,H,M,174cm,66kg,21
+2018/2019,Leandro Bacuna,Cardiff City,69,CDM,Curaçao,EPL,3,3,M,M,187cm,77kg,27
+2018/2019,Joe Williams,Everton,69,CDM,England,EPL,3,2,M,M,178cm,66kg,22
+2018/2019,Harrison Reed,Southampton,69,CDM,England,EPL,3,3,M,H,176cm,72kg,24
+2018/2019,Reece Oxford,West Ham United,68,CB,England,EPL,2,3,M,M,191cm,78kg,20
+2018/2019,Achraf Lazaar,Newcastle United,68,LB,Morocco,EPL,3,3,H,H,184cm,80kg,27
+2018/2019,Anders Lindegaard,Burnley,68,GK,Denmark,EPL,1,3,M,M,193cm,85kg,35
+2018/2019,David Button,Brighton & Hove Albion,68,GK,England,EPL,1,3,M,M,191cm,87kg,30
+2018/2019,Michal Zyro,Wolverhampton Wanderers,68,RM,Poland,EPL,3,3,M,M,189cm,88kg,26
+2018/2019,Philip Billing,Huddersfield Town,68,CDM,Denmark,EPL,2,3,M,M,197cm,80kg,22
+2018/2019,Ben Hamer,Huddersfield Town,68,GK,England,EPL,1,3,M,M,192cm,91kg,31
+2018/2019,Callum Hudson-Odoi,Chelsea,68,LW,England,EPL,4,3,H,M,185cm,76kg,18
+2018/2019,Konstantinos Mavropanos,Arsenal,68,CB,Greece,EPL,2,2,M,M,194cm,88kg,21
+2018/2019,Yangel Herrera,Manchester City,68,CDM,Venezuela,EPL,3,3,M,M,182cm,77kg,21
+2018/2019,Chris Mepham,Bournemouth,68,CB,Wales,EPL,2,3,H,H,191cm,75kg,21
+2018/2019,Ben Woodburn,Liverpool,68,CAM,Wales,EPL,3,4,H,M,174cm,72kg,19
+2018/2019,Matt Clarke,Brighton & Hove Albion,68,CB,England,EPL,3,3,M,H,188cm,74kg,22
+2018/2019,Fankaty Dabo,Chelsea,67,RB,England,EPL,2,3,M,M,181cm,76kg,23
+2018/2019,Brendan Galloway,Everton,67,LB,England,EPL,2,3,M,M,186cm,74kg,23
+2018/2019,Matthew Pennington,Everton,67,CB,England,EPL,2,3,M,M,185cm,77kg,24
+2018/2019,Pontus Dahlberg,Watford,67,GK,Sweden,EPL,1,3,M,M,195cm,90kg,20
+2018/2019,Xande Silva,West Ham United,67,ST,Portugal,EPL,3,3,H,M,177cm,68kg,22
+2018/2019,Jake Hesketh,Southampton,67,CAM,England,EPL,3,3,H,L,168cm,63kg,23
+2018/2019,Sullay Kaikai,Crystal Palace,67,LM,England,EPL,3,3,M,L,182cm,70kg,23
+2018/2019,Soufyan Ahannach,Brighton & Hove Albion,67,LM,Holland,EPL,3,3,M,M,173cm,66kg,23
+2018/2019,Jason Steele,Brighton & Hove Albion,67,GK,England,EPL,1,3,M,M,188cm,79kg,28
+2018/2019,Richie Towell,Brighton & Hove Albion,67,CM,Republic of Ireland,EPL,3,4,H,H,173cm,66kg,27
+2018/2019,Dominic Iorfa,Wolverhampton Wanderers,67,RB,England,EPL,2,2,H,M,193cm,78kg,23
+2018/2019,Kortney Hause,Wolverhampton Wanderers,67,CB,England,EPL,2,3,M,M,191cm,93kg,23
+2018/2019,Phil Ofosu-Ayeh,Wolverhampton Wanderers,67,RB,Ghana,EPL,3,3,M,M,181cm,87kg,27
+2018/2019,Ibrahima Cissé,Fulham,67,CDM,Belgium,EPL,2,3,M,M,181cm,84kg,25
+2018/2019,Matthew Connolly,Cardiff City,67,RB,England,EPL,2,3,M,H,188cm,84kg,31
+2018/2019,Mattéo Guendouzi,Arsenal,67,CM,France,EPL,3,3,M,M,180cm,68kg,20
+2018/2019,Anders Dreyer,Brighton & Hove Albion,67,RM,Denmark,EPL,3,3,H,M,172cm,70kg,21
+2018/2019,Beni Baningime,Everton,67,CDM,Congo DR,EPL,2,3,M,M,178cm,70kg,20
+2018/2019,Oviemuno Ejaria,Liverpool,67,CM,England,EPL,3,3,H,M,183cm,75kg,21
+2018/2019,Jake Hesketh,Southampton,67,RM,England,EPL,3,3,H,L,168cm,63kg,23
+2018/2019,Emerson Hyndman,Bournemouth,67,CM,United States,EPL,3,4,H,M,170cm,61kg,23
+2018/2019,Josh Sims,Southampton,67,RW,England,EPL,3,4,H,M,168cm,65kg,22
+2018/2019,Ibrahima Cissé,Fulham,67,CDM,Guinea,EPL,2,3,M,M,181cm,84kg,25
+2018/2019,Luke Brattan,Manchester City,67,CDM,Australia,EPL,3,3,M,M,175cm,65kg,29
+2018/2019,Angel Gomes,Manchester United,66,CAM,England,EPL,4,4,M,M,168cm,61kg,18
+2018/2019,Pedro Chirivella,Liverpool,66,CDM,Spain,EPL,3,3,M,H,178cm,66kg,22
+2018/2019,Marcus Edwards,Tottenham Hotspur,66,RM,England,EPL,4,3,H,M,176cm,61kg,20
+2018/2019,Sam McQueen,Southampton,66,LB,England,EPL,3,3,H,M,181cm,70kg,24
+2018/2019,Ryan Inniss,Crystal Palace,66,CB,England,EPL,2,3,M,H,196cm,84kg,23
+2018/2019,Ethan Ebanks-Landell,Wolverhampton Wanderers,66,CB,England,EPL,2,3,M,M,188cm,88kg,26
+2018/2019,Bright Enobakhare,Wolverhampton Wanderers,66,RW,Nigeria,EPL,4,3,M,M,179cm,77kg,21
+2018/2019,Rúben Vinagre,Wolverhampton Wanderers,66,LWB,Portugal,EPL,4,2,H,M,174cm,64kg,20
+2018/2019,Will Norris,Wolverhampton Wanderers,66,GK,England,EPL,1,3,M,M,191cm,81kg,25
+2018/2019,Joe Mason,Wolverhampton Wanderers,66,ST,Republic of Ireland,EPL,3,3,M,M,178cm,73kg,28
+2018/2019,Paul Gladon,Wolverhampton Wanderers,66,ST,Holland,EPL,2,4,H,M,188cm,83kg,27
+2018/2019,Claudio Gomes,Manchester City,66,CDM,France,EPL,2,3,M,H,180cm,70kg,18
+2018/2019,Joao Rodríguez,Chelsea,66,ST,Colombia,EPL,3,4,M,L,180cm,69kg,23
+2018/2019,Luke Amos,Tottenham Hotspur,65,CM,England,EPL,3,4,M,M,179cm,72kg,22
+2018/2019,Reiss Nelson,Arsenal,65,RW,England,EPL,4,4,H,M,175cm,70kg,19
+2018/2019,Gedion Zelalem,Arsenal,65,CM,United States,EPL,3,3,M,M,180cm,70kg,22
+2018/2019,Callum Elder,Leicester City,65,LB,Australia,EPL,2,2,H,H,180cm,67kg,24
+2018/2019,Adam Legzdins,Burnley,65,GK,England,EPL,1,3,M,M,190cm,90kg,32
+2018/2019,Connor Ronan,Wolverhampton Wanderers,65,CM,Republic of Ireland,EPL,3,3,M,M,170cm,67kg,21
+2018/2019,Kadeem Harris,Cardiff City,65,LM,England,EPL,3,3,H,M,175cm,68kg,25
+2018/2019,Callum Gribbin,Manchester United,65,CAM,England,EPL,3,3,M,M,182cm,72kg,20
+2018/2019,Tahith Chong,Manchester United,65,LW,Holland,EPL,4,4,M,M,185cm,70kg,19
+2018/2019,Sam Hughes,Leicester City,65,CB,England,EPL,2,3,M,H,187cm,80kg,22
+2018/2019,Anthony Caceres,Manchester City,65,CM,Australia,EPL,3,4,M,M,173cm,67kg,26
+2018/2019,Charlie Colkett,Chelsea,65,CM,England,EPL,3,3,M,M,176cm,74kg,22
+2018/2019,Stuart O'Keefe,Cardiff City,65,CM,England,EPL,2,3,M,H,173cm,64kg,28
+2018/2019,Marcelo Djaló,Fulham,65,CB,Spain,EPL,2,2,M,M,193cm,86kg,25
+2018/2019,Uriel Antuna,Manchester City,65,RM,Mexico,EPL,3,3,M,M,174cm,59kg,21
+2018/2019,Chidiebere Nwakali,Manchester City,64,CM,Nigeria,EPL,3,3,H,H,173cm,68kg,22
+2018/2019,Edward Nketiah,Arsenal,64,ST,England,EPL,3,3,M,M,178cm,70kg,19
+2018/2019,Freddie Woodman,Newcastle United,64,GK,England,EPL,1,2,M,M,188cm,83kg,22
+2018/2019,Morgan Gibbs-White,Wolverhampton Wanderers,64,CM,England,EPL,4,2,M,M,178cm,70kg,19
+2018/2019,Ben Stevenson,Wolverhampton Wanderers,64,CM,England,EPL,3,4,M,M,182cm,67kg,22
+2018/2019,Abdelhamid Sabiri,Huddersfield Town,64,LM,Morocco,EPL,3,4,M,M,186cm,80kg,22
+2018/2019,Brian Murphy,Cardiff City,64,GK,Republic of Ireland,EPL,1,3,M,M,183cm,83kg,36
+2018/2019,Ro-Shaun Williams,Manchester United,64,CB,England,EPL,2,3,M,M,184cm,75kg,20
+2018/2019,Joshua Bohui,Manchester United,64,ST,England,EPL,3,3,M,M,175cm,75kg,20
+2018/2019,Ethan Hamilton,Manchester United,64,CM,Scotland,EPL,3,3,M,H,183cm,75kg,20
+2018/2019,Jimmy Dunne,Burnley,64,CB,Republic of Ireland,EPL,2,3,M,H,183cm,75kg,21
+2018/2019,Karlan Ahearne-Grant,Huddersfield Town,64,ST,England,EPL,3,3,H,M,183cm,70kg,21
+2018/2019,Abdelhamid Sabiri,Huddersfield Town,64,LM,Germany,EPL,3,4,M,M,186cm,80kg,22
+2018/2019,Lloyd Kelly,Bournemouth,64,LB,England,EPL,3,3,M,H,191cm,70kg,20
+2018/2019,Regan Poole,Manchester United,63,CDM,Wales,EPL,2,3,M,M,180cm,74kg,20
+2018/2019,Cohen Bramall,Arsenal,63,LB,England,EPL,2,2,H,M,178cm,72kg,23
+2018/2019,Jack Rose,Southampton,63,GK,England,EPL,1,3,M,M,183cm,75kg,24
+2018/2019,Ben Whitfield,Bournemouth,63,CAM,England,EPL,3,3,H,M,165cm,62kg,23
+2018/2019,Luca de la Torre,Fulham,63,CAM,United States,EPL,3,2,M,L,177cm,68kg,21
+2018/2019,Ethan Ampadu,Chelsea,63,CB,Wales,EPL,2,3,M,M,183cm,68kg,18
+2018/2019,Sean Longstaff,Newcastle United,63,CM,England,EPL,2,4,H,M,180cm,65kg,21
+2018/2019,Víctor Fernández,Newcastle United,63,LM,Spain,EPL,3,3,H,M,175cm,70kg,21
+2018/2019,Harry Burgoyne,Wolverhampton Wanderers,63,GK,England,EPL,1,2,M,M,193cm,80kg,22
+2018/2019,Stephen Humphrys,Fulham,63,ST,England,EPL,2,3,M,M,185cm,91kg,21
+2018/2019,Joel Coleman,Huddersfield Town,63,GK,England,EPL,1,3,M,M,198cm,82kg,23
+2018/2019,Aiden O'Neill,Burnley,63,CM,Australia,EPL,3,2,M,M,178cm,70kg,20
+2018/2019,Cameron Humphreys-Grant,Manchester City,62,CB,England,EPL,2,2,M,M,187cm,80kg,20
+2018/2019,Rhian Brewster,Liverpool,62,ST,England,EPL,3,3,H,M,176cm,75kg,19
+2018/2019,Anthony Georgiou,Tottenham Hotspur,62,LM,Cyprus,EPL,3,2,M,M,179cm,73kg,22
+2018/2019,Nathan Holland,West Ham United,62,LM,England,EPL,3,4,H,M,178cm,70kg,20
+2018/2019,Aaron Ramsdale,Bournemouth,62,GK,England,EPL,1,2,M,M,188cm,77kg,21
+2018/2019,Dan Agyei,Burnley,62,ST,England,EPL,2,3,H,M,183cm,77kg,21
+2018/2019,John Kitolano,Wolverhampton Wanderers,62,LWB,Norway,EPL,2,3,H,M,174cm,65kg,19
+2018/2019,Jon Gorenc-Stankovic,Huddersfield Town,62,CB,Slovenia,EPL,2,3,M,M,190cm,78kg,23
+2018/2019,Moses Makasi,West Ham United,62,CM,England,EPL,2,3,M,M,180cm,72kg,23
+2018/2019,Morgan Feeney,Everton,62,CB,England,EPL,2,2,L,H,190cm,77kg,20
+2018/2019,Michael Obafemi,Southampton,62,ST,Republic of Ireland,EPL,2,3,M,L,169cm,71kg,18
+2018/2019,Fraser Hornby,Everton,62,ST,Scotland,EPL,2,2,M,M,188cm,77kg,19
+2018/2019,Dwight McNeil,Burnley,62,LM,England,EPL,3,2,H,M,183cm,68kg,19
+2018/2019,Eric García,Manchester City,62,CB,Spain,EPL,2,3,M,H,182cm,79kg,18
+2018/2019,Matty Willock,Manchester United,62,CM,England,EPL,2,3,M,M,185cm,72kg,22
+2018/2019,Randell Williams,Watford,62,LW,England,EPL,2,3,H,M,173cm,76kg,22
+2018/2019,Alfie Jones,Southampton,62,CB,England,EPL,2,3,M,M,182cm,70kg,21
+2018/2019,Arijanet Muric,Manchester City,61,GK,Montenegro,EPL,1,2,M,M,197cm,81kg,20
+2018/2019,Shayon Harrison,Tottenham Hotspur,61,ST,England,EPL,3,3,H,M,183cm,68kg,21
+2018/2019,Yan Valery,Southampton,61,RB,France,EPL,2,3,M,M,180cm,70kg,20
+2018/2019,Jake Flannigan,Southampton,61,CM,England,EPL,3,3,M,M,180cm,71kg,23
+2018/2019,Matt Butcher,Bournemouth,61,CM,England,EPL,2,3,M,H,188cm,83kg,22
+2018/2019,Ben White,Brighton & Hove Albion,61,CB,England,EPL,2,4,M,H,182cm,72kg,21
+2018/2019,Callum Roberts,Newcastle United,61,RM,England,EPL,3,3,M,M,173cm,65kg,22
+2018/2019,Jack Simpson,Bournemouth,61,CB,England,EPL,2,2,M,M,184cm,83kg,22
+2018/2019,Luke Bolton,Manchester City,61,RM,England,EPL,3,3,H,H,174cm,72kg,19
+2018/2019,Joseph Willock,Arsenal,61,CM,England,EPL,3,3,M,M,184cm,71kg,19
+2018/2019,Mihai Dobre,Bournemouth,61,RM,Romania,EPL,3,3,H,M,178cm,71kg,20
+2018/2019,Leo Østigård,Brighton & Hove Albion,61,CB,Norway,EPL,2,3,M,H,182cm,80kg,19
+2018/2019,Nathaniel Phillips,Liverpool,61,CB,England,EPL,2,3,M,H,188cm,70kg,22
+2018/2019,Oliver Skipp,Tottenham Hotspur,61,CDM,England,EPL,2,3,M,H,175cm,70kg,18
+2018/2019,Curtis Jones,Liverpool,61,CM,England,EPL,3,3,H,M,182cm,68kg,18
+2018/2019,Rafael Camacho,Liverpool,61,CAM,Portugal,EPL,3,3,M,M,175cm,65kg,19
+2018/2019,Connor Randall,Liverpool,61,RB,England,EPL,2,4,M,M,180cm,76kg,23
+2018/2019,Adetayo Edun,Fulham,61,CM,England,EPL,2,3,M,M,171cm,74kg,21
+2018/2019,Jerome Sinclair,Watford,61,ST,England,EPL,2,4,M,M,181cm,79kg,22
+2018/2019,Arijanet Muric,Manchester City,61,GK,Kosovo,EPL,1,2,M,M,197cm,81kg,20
+2018/2019,Darnell Johnson,Leicester City,60,RB,England,EPL,2,2,M,H,185cm,80kg,20
+2018/2019,Jamie Sterry,Newcastle United,60,RB,England,EPL,2,3,H,M,180cm,76kg,23
+2018/2019,Daniel Barlaser,Newcastle United,60,CM,England,EPL,3,3,M,M,184cm,62kg,22
+2018/2019,Callum Slattery,Southampton,60,CAM,England,EPL,2,3,M,M,190cm,70kg,20
+2018/2019,Emile Smith Rowe,Arsenal,60,LW,England,EPL,4,3,M,M,182cm,64kg,18
+2018/2019,Bobby Adekanye,Liverpool,60,RW,Holland,EPL,3,2,M,M,170cm,62kg,20
+2018/2019,Luke Charman,Newcastle United,60,ST,England,EPL,2,3,H,M,186cm,83kg,21
+2018/2019,Viktor Gyökeres,Brighton & Hove Albion,60,ST,Sweden,EPL,3,3,M,M,187cm,76kg,20
+2018/2019,Iké Ugbo,Chelsea,60,ST,England,EPL,2,3,H,M,185cm,73kg,20
+2018/2019,Josef Yarney,Newcastle United,60,CB,England,EPL,2,2,M,H,183cm,70kg,21
+2018/2019,Sam Surridge,Bournemouth,60,ST,England,EPL,2,3,H,M,191cm,77kg,20
+2018/2019,Ben Wilmot,Watford,59,CB,England,EPL,2,3,M,M,188cm,80kg,19
+2018/2019,Michael Folivi,Watford,59,ST,England,EPL,2,3,H,L,175cm,79kg,21
+2018/2019,Nathan Trott,West Ham United,59,GK,England,EPL,1,3,M,M,184cm,70kg,20
+2018/2019,Nya Kirby,Crystal Palace,59,CAM,England,EPL,3,3,M,M,173cm,66kg,19
+2018/2019,Aron Davies,Fulham,59,CB,Wales,EPL,2,3,M,M,186cm,80kg,21
+2018/2019,Jayson Molumby,Brighton & Hove Albion,59,CM,Republic of Ireland,EPL,2,3,M,M,177cm,64kg,19
+2018/2019,Kyle Taylor,Bournemouth,59,CAM,England,EPL,3,3,M,M,178cm,70kg,19
+2018/2019,Matthew Virtue-Thick,Liverpool,59,CDM,England,EPL,2,3,M,M,175cm,66kg,22
+2018/2019,Nnamdi Ofoborh,Bournemouth,59,CDM,Nigeria,EPL,2,3,M,M,183cm,77kg,19
+2018/2019,Matty Daly,Huddersfield Town,59,CM,England,EPL,2,3,M,M,176cm,75kg,18
+2018/2019,Aaron Collins,Wolverhampton Wanderers,59,ST,Wales,EPL,2,3,H,M,185cm,74kg,21
+2018/2019,Kamil Grabara,Liverpool,59,GK,Poland,EPL,1,3,M,M,190cm,75kg,20
+2018/2019,Jonathan Flatt,Wolverhampton Wanderers,59,GK,England,EPL,1,3,M,M,191cm,88kg,24
+2018/2019,Daniel James,Manchester United,59,LM,Wales,EPL,3,3,H,M,170cm,76kg,21
+2018/2019,Domingos Quina,Watford,58,CM,Portugal,EPL,3,3,M,M,177cm,66kg,19
+2018/2019,Dan Kemp,West Ham United,58,RM,England,EPL,2,3,H,M,168cm,63kg,20
+2018/2019,Matt Worthington,Bournemouth,58,CM,England,EPL,2,3,M,H,179cm,72kg,21
+2018/2019,Ibrahim Meite,Cardiff City,58,ST,England,EPL,2,2,H,L,188cm,72kg,22
+2018/2019,James Tilley,Brighton & Hove Albion,58,CAM,England,EPL,3,2,M,M,170cm,66kg,20
+2018/2019,Caoimhin Kelleher,Liverpool,58,GK,Republic of Ireland,EPL,1,2,M,M,188cm,69kg,20
+2018/2019,Ryan Giles,Wolverhampton Wanderers,58,LM,England,EPL,3,3,H,M,179cm,72kg,19
+2018/2019,Robert Sanchez,Brighton & Hove Albion,58,GK,Spain,EPL,1,3,M,M,197cm,85kg,21
+2018/2019,Josh Pask,West Ham United,57,CB,England,EPL,2,2,M,M,187cm,76kg,21
+2018/2019,Steven Sessegnon,Fulham,57,RB,England,EPL,2,3,M,M,174cm,68kg,19
+2018/2019,Stefan O'Connor,Newcastle United,57,CB,England,EPL,2,2,M,M,186cm,81kg,22
+2018/2019,Ben Hall,Brighton & Hove Albion,57,CB,Northern Ireland,EPL,2,3,M,M,185cm,78kg,22
+2018/2019,Sherwin Seedorf,Wolverhampton Wanderers,57,RM,Holland,EPL,3,4,H,M,173cm,68kg,21
+2018/2019,Aaron Bolger,Cardiff City,57,CM,Republic of Ireland,EPL,2,3,M,M,170cm,65kg,19
+2018/2019,Vashon Neufville,West Ham United,56,LB,England,EPL,2,3,H,M,172cm,67kg,19
+2018/2019,Ryan Schofield,Huddersfield Town,56,GK,England,EPL,1,2,M,M,190cm,70kg,19
+2018/2019,Tyrone Duffus,Cardiff City,56,CM,England,EPL,3,2,M,M,185cm,68kg,22
+2018/2019,Ntumba Massanka,Burnley,56,ST,England,EPL,2,2,M,L,191cm,78kg,22
+2018/2019,Jordi Osei-Tutu,Arsenal,56,RB,England,EPL,2,3,M,M,178cm,72kg,20
+2018/2019,João Virgínia,Everton,56,GK,Portugal,EPL,1,3,M,M,191cm,80kg,19
+2018/2019,Mark Harris,Cardiff City,56,ST,Wales,EPL,2,4,M,L,182cm,75kg,20
+2018/2019,Rarmani Edmonds-Green,Huddersfield Town,55,CB,England,EPL,2,3,M,M,181cm,73kg,20
+2018/2019,Levi Lumeka,Crystal Palace,55,LM,England,EPL,2,3,M,L,171cm,71kg,20
+2018/2019,Luca Ashby-Hammond,Fulham,55,GK,England,EPL,1,2,M,M,184cm,75kg,18
+2018/2019,Jamie Veale,Cardiff City,54,CM,Wales,EPL,2,3,H,M,173cm,70kg,22
+2018/2019,Daniel Grimshaw,Manchester City,54,GK,England,EPL,1,2,M,M,185cm,77kg,21
+2018/2019,Lewis O'Brien,Huddersfield Town,54,RM,England,EPL,2,3,M,M,173cm,63kg,20
+2018/2019,Shamal George,Liverpool,54,GK,England,EPL,1,3,M,M,191cm,75kg,21
+2018/2019,Elijah Adebayo,Fulham,54,ST,England,EPL,2,3,M,L,193cm,89kg,21
+2018/2019,Andrew Eleftheriou,Watford,51,RM,England,EPL,2,2,M,M,172cm,64kg,21

@@ -1,0 +1,889 @@
+season,player_name,team,player_rating,position,nation,league,skill_moves,weak_foot_quality,work_rate_a,work_rate_d,player_height,player_weight,age
+2019/2020,Kevin De Bruyne,Manchester City,91,CAM,Belgium,EPL,4,5,H,H,181cm,70kg,28
+2019/2020,Mohamed Salah,Liverpool,90,RW,Egypt,EPL,4,3,H,M,175cm,71kg,27
+2019/2020,Virgil van Dijk,Liverpool,90,CB,Netherlands,EPL,2,3,M,M,193cm,92kg,28
+2019/2020,De Gea,Manchester United,89,GK,Spain,EPL,1,3,M,M,192cm,82kg,29
+2019/2020,Sergio Agüero,Manchester City,89,ST,Argentina,EPL,4,4,H,M,173cm,70kg,31
+2019/2020,N'Golo Kanté,Chelsea,89,CDM,France,EPL,2,3,M,H,168cm,72kg,29
+2019/2020,Alisson,Liverpool,89,GK,Brazil,EPL,1,3,M,M,191cm,91kg,27
+2019/2020,Harry Kane,Tottenham Hotspur,89,ST,England,EPL,3,4,H,H,188cm,89kg,26
+2019/2020,Paul Pogba,Manchester United,88,CM,France,EPL,5,4,H,M,191cm,84kg,27
+2019/2020,David Silva,Manchester City,88,CAM,Spain,EPL,4,2,H,M,173cm,67kg,34
+2019/2020,Ederson,Manchester City,88,GK,Brazil,EPL,1,3,M,M,188cm,86kg,26
+2019/2020,Raheem Sterling,Manchester City,88,RW,England,EPL,4,3,H,M,170cm,69kg,25
+2019/2020,Sadio Mané,Liverpool,88,LW,Senegal,EPL,4,4,H,M,175cm,69kg,28
+2019/2020,Christian Eriksen,Tottenham Hotspur,88,CAM,Denmark,EPL,4,5,H,H,181cm,76kg,28
+2019/2020,Hugo Lloris,Tottenham Hotspur,88,GK,France,EPL,1,1,M,M,188cm,82kg,33
+2019/2020,Aubameyang,Arsenal,88,ST,Gabon,EPL,4,4,M,L,187cm,80kg,30
+2019/2020,Fernandinho,Manchester City,87,CDM,Brazil,EPL,3,4,M,H,179cm,67kg,35
+2019/2020,Bernardo Silva,Manchester City,87,RW,Portugal,EPL,4,3,H,H,173cm,64kg,25
+2019/2020,Aymeric Laporte,Manchester City,87,CB,France,EPL,2,3,M,M,189cm,85kg,25
+2019/2020,Jan Vertonghen,Tottenham Hotspur,87,CB,Belgium,EPL,3,3,H,H,189cm,86kg,33
+2019/2020,Toby Alderweireld,Tottenham Hotspur,87,CB,Belgium,EPL,2,3,M,M,186cm,81kg,31
+2019/2020,Heung Min Son,Tottenham Hotspur,87,CF,Korea Republic,EPL,4,5,H,H,183cm,78kg,27
+2019/2020,Leroy Sané,Manchester City,86,LW,Germany,EPL,4,3,H,M,183cm,75kg,24
+2019/2020,Roberto Firmino,Liverpool,86,CF,Brazil,EPL,5,4,H,H,181cm,76kg,28
+2019/2020,Alexandre Lacazette,Arsenal,86,ST,France,EPL,4,4,H,H,175cm,73kg,28
+2019/2020,Timo Werner,Chelsea,86,ST,Germany,EPL,3,4,H,M,180cm,75kg,24
+2019/2020,Fabinho,Liverpool,85,CDM,Brazil,EPL,3,2,M,H,188cm,78kg,26
+2019/2020,Andrew Robertson,Liverpool,85,LB,Scotland,EPL,3,2,H,H,178cm,64kg,26
+2019/2020,Rodrigo,Manchester City,85,CDM,Spain,EPL,3,4,M,H,191cm,82kg,23
+2019/2020,Jamie Vardy,Leicester City,85,ST,England,EPL,3,3,H,H,179cm,74kg,33
+2019/2020,Bruno Fernandes,Manchester United,85,CAM,Portugal,EPL,4,4,H,H,179cm,69kg,25
+2019/2020,Hakim Ziyech,Chelsea,85,CAM,Morocco,EPL,5,2,H,M,181cm,65kg,27
+2019/2020,João Cancelo,Manchester City,84,RB,Portugal,EPL,4,3,H,M,182cm,74kg,25
+2019/2020,Riyad Mahrez,Manchester City,84,RW,Algeria,EPL,5,4,M,M,179cm,67kg,29
+2019/2020,Kyle Walker,Manchester City,84,RB,England,EPL,2,2,H,H,183cm,70kg,29
+2019/2020,João Moutinho,Wolverhampton Wanderers,84,CM,Portugal,EPL,3,4,H,H,170cm,61kg,33
+2019/2020,Sokratis,Arsenal,84,CB,Greece,EPL,2,2,M,H,186cm,85kg,31
+2019/2020,Mesut Özil,Arsenal,84,CAM,Germany,EPL,4,2,M,L,180cm,76kg,31
+2019/2020,Ilkay Gündogan,Manchester City,84,CM,Germany,EPL,4,4,H,M,180cm,80kg,29
+2019/2020,Kepa Arrizabalaga,Chelsea,84,GK,Spain,EPL,1,4,M,M,186cm,85kg,25
+2019/2020,Georginio Wijnaldum,Liverpool,84,CM,Netherlands,EPL,4,3,H,H,175cm,69kg,29
+2019/2020,Azpilicueta,Chelsea,84,RB,Spain,EPL,2,3,M,M,178cm,76kg,30
+2019/2020,Dele Alli,Tottenham Hotspur,84,CAM,England,EPL,4,3,H,H,188cm,80kg,24
+2019/2020,Bernd Leno,Arsenal,84,GK,Germany,EPL,1,3,M,M,190cm,83kg,28
+2019/2020,Felipe Anderson,West Ham United,84,LM,Brazil,EPL,4,4,H,M,175cm,70kg,27
+2019/2020,Wilfred Ndidi,Leicester City,84,CDM,Nigeria,EPL,3,4,M,H,183cm,74kg,23
+2019/2020,Luiz Frello Filho Jorge,Chelsea,83,CM,Italy,EPL,3,3,M,M,180cm,67kg,28
+2019/2020,Davinson Sánchez,Tottenham Hotspur,83,CB,Colombia,EPL,2,3,M,H,187cm,79kg,23
+2019/2020,Nicolas Pépé,Arsenal,83,RM,Côte d'Ivoire,EPL,4,3,H,L,183cm,73kg,24
+2019/2020,Jordan Henderson,Liverpool,83,CDM,England,EPL,3,3,H,H,182cm,80kg,29
+2019/2020,Lucas,Tottenham Hotspur,83,CF,Brazil,EPL,4,4,H,M,174cm,70kg,27
+2019/2020,John Stones,Manchester City,83,CB,England,EPL,3,4,H,M,188cm,70kg,25
+2019/2020,Sébastien Haller,West Ham United,83,ST,France,EPL,3,2,H,M,190cm,82kg,25
+2019/2020,Anthony Martial,Manchester United,83,LW,France,EPL,4,3,M,L,184cm,76kg,24
+2019/2020,David Luiz,Arsenal,83,CB,Brazil,EPL,3,3,M,M,189cm,86kg,33
+2019/2020,Kasper Schmeichel,Leicester City,83,GK,Denmark,EPL,1,3,M,M,189cm,89kg,33
+2019/2020,Rui Patrício,Wolverhampton Wanderers,83,GK,Portugal,EPL,1,2,M,M,190cm,84kg,32
+2019/2020,Gylfi Sigurðsson,Everton,83,CAM,Iceland,EPL,3,4,H,H,186cm,77kg,30
+2019/2020,Nicolás Otamendi,Manchester City,83,CB,Argentina,EPL,2,3,M,H,183cm,81kg,32
+2019/2020,Wilfried Zaha,Crystal Palace,83,CF,Côte d'Ivoire,EPL,5,3,H,L,180cm,66kg,27
+2019/2020,Lucas Digne,Everton,83,LB,France,EPL,3,3,H,M,178cm,74kg,26
+2019/2020,Jordan Pickford,Everton,83,GK,England,EPL,1,4,M,M,185cm,77kg,26
+2019/2020,Giovani Lo Celso,Tottenham Hotspur,83,CM,Argentina,EPL,4,3,H,M,177cm,68kg,24
+2019/2020,Trent Alexander-Arnold,Liverpool,83,RB,England,EPL,3,4,H,M,180cm,69kg,21
+2019/2020,Marcus Rashford,Manchester United,83,ST,England,EPL,5,3,H,H,186cm,70kg,22
+2019/2020,Gabriel Jesus,Manchester City,82,ST,Brazil,EPL,4,3,H,H,175cm,73kg,23
+2019/2020,Olivier Giroud,Chelsea,82,ST,France,EPL,3,3,M,M,193cm,92kg,33
+2019/2020,Juan Mata,Manchester United,82,CAM,Spain,EPL,4,3,M,M,170cm,63kg,32
+2019/2020,Pedro,Chelsea,82,RW,Spain,EPL,4,5,H,H,169cm,65kg,32
+2019/2020,Antonio Rüdiger,Chelsea,82,CB,Germany,EPL,2,3,M,H,190cm,85kg,27
+2019/2020,Ricardo Pereira,Leicester City,82,RB,Portugal,EPL,3,4,H,H,175cm,70kg,26
+2019/2020,Naby Keïta,Liverpool,82,CM,Guinea,EPL,4,4,H,M,172cm,64kg,25
+2019/2020,Łukasz Fabiański,West Ham United,82,GK,Poland,EPL,1,2,M,M,190cm,83kg,35
+2019/2020,Willian,Chelsea,82,RW,Brazil,EPL,4,4,H,H,175cm,78kg,31
+2019/2020,Xherdan Shaqiri,Liverpool,82,RW,Switzerland,EPL,5,4,M,M,169cm,72kg,28
+2019/2020,Joel Matip,Liverpool,82,CB,Cameroon,EPL,2,2,M,M,194cm,90kg,28
+2019/2020,Harry Maguire,Manchester United,82,CB,England,EPL,2,3,H,H,194cm,100kg,27
+2019/2020,Mateo Kovacic,Chelsea,82,CM,Croatia,EPL,4,4,H,H,176cm,78kg,26
+2019/2020,Jesse Lingard,Manchester United,82,CAM,England,EPL,4,3,H,H,175cm,62kg,27
+2019/2020,Jamie Vardy,Leicester City,82,ST,England,EPL,3,3,H,H,179cm,74kg,33
+2019/2020,Lucas Torreira,Arsenal,82,CDM,Uruguay,EPL,3,3,M,H,168cm,64kg,24
+2019/2020,Rúben Neves,Wolverhampton Wanderers,82,CM,Portugal,EPL,3,4,M,H,180cm,80kg,23
+2019/2020,José Reina,Aston Villa,82,GK,Spain,EPL,1,3,M,M,188cm,92kg,37
+2019/2020,James Maddison,Leicester City,82,CAM,England,EPL,4,4,H,M,175cm,73kg,23
+2019/2020,Steven Bergwijn,Tottenham Hotspur,82,LW,Netherlands,EPL,4,2,M,M,178cm,78kg,22
+2019/2020,Willian,Arsenal,82,RW,Brazil,EPL,4,4,H,H,175cm,78kg,31
+2019/2020,Marcos Alonso,Chelsea,81,LB,Spain,EPL,3,3,H,L,188cm,87kg,29
+2019/2020,Luke Shaw,Manchester United,81,LB,England,EPL,3,2,H,M,181cm,75kg,24
+2019/2020,James Milner,Liverpool,81,CM,England,EPL,3,4,H,H,175cm,70kg,34
+2019/2020,Moussa Sissoko,Tottenham Hotspur,81,CM,France,EPL,3,3,H,H,187cm,91kg,30
+2019/2020,Granit Xhaka,Arsenal,81,CM,Switzerland,EPL,3,3,M,M,185cm,82kg,27
+2019/2020,Ryan Fraser,Bournemouth,81,LM,Scotland,EPL,3,4,H,M,163cm,70kg,26
+2019/2020,Dani Ceballos,Arsenal,81,CM,Spain,EPL,4,3,H,M,179cm,70kg,23
+2019/2020,Pablo Fornals,West Ham United,81,CAM,Spain,EPL,4,3,H,M,178cm,67kg,24
+2019/2020,Tanguy Ndombele,Tottenham Hotspur,81,CM,France,EPL,4,3,M,M,181cm,76kg,23
+2019/2020,Nemanja Matic,Manchester United,81,CDM,Serbia,EPL,3,3,M,M,194cm,85kg,31
+2019/2020,Henrikh Mkhitaryan,Arsenal,81,RM,Armenia,EPL,4,5,H,H,177cm,75kg,31
+2019/2020,Luka Milivojevic,Crystal Palace,81,CDM,Serbia,EPL,2,2,M,H,186cm,80kg,29
+2019/2020,Abdoulaye Doucouré,Watford,81,CDM,France,EPL,3,3,H,M,184cm,76kg,27
+2019/2020,Victor Lindelöf,Manchester United,81,CB,Sweden,EPL,3,4,M,H,187cm,80kg,25
+2019/2020,Wilfred Ndidi,Leicester City,81,CDM,Nigeria,EPL,3,4,M,H,183cm,74kg,23
+2019/2020,Benjamin Mendy,Manchester City,80,LB,France,EPL,3,3,H,L,185cm,85kg,25
+2019/2020,Danny Rose,Tottenham Hotspur,80,LB,England,EPL,3,3,M,H,174cm,76kg,29
+2019/2020,Erik Lamela,Tottenham Hotspur,80,RM,Argentina,EPL,4,2,H,H,184cm,80kg,28
+2019/2020,Dejan Lovren,Liverpool,80,CB,Croatia,EPL,2,4,M,H,188cm,84kg,30
+2019/2020,Mathew Ryan,Brighton & Hove Albion,80,GK,Australia,EPL,1,4,M,M,184cm,82kg,28
+2019/2020,Deulofeu,Watford,80,RF,Spain,EPL,4,4,H,L,177cm,73kg,26
+2019/2020,Héctor Bellerín,Arsenal,80,RB,Spain,EPL,3,3,H,L,178cm,74kg,25
+2019/2020,Raúl Jiménez,Wolverhampton Wanderers,80,ST,Mexico,EPL,3,4,H,H,188cm,81kg,29
+2019/2020,Bernard,Everton,80,LM,Brazil,EPL,4,4,H,M,164cm,60kg,27
+2019/2020,Andreas Christensen,Chelsea,80,CB,Denmark,EPL,2,3,L,M,187cm,81kg,24
+2019/2020,Youri Tielemans,Leicester City,80,CM,Belgium,EPL,4,5,M,M,176cm,72kg,23
+2019/2020,Tiémoué Bakayoko,Chelsea,80,CDM,France,EPL,3,3,M,M,189cm,85kg,25
+2019/2020,Harry Winks,Tottenham Hotspur,80,CM,England,EPL,3,3,M,H,176cm,74kg,24
+2019/2020,Tom Heaton,Aston Villa,80,GK,England,EPL,1,3,M,M,187cm,92kg,34
+2019/2020,Ben Foster,Watford,80,GK,England,EPL,1,3,M,M,193cm,90kg,37
+2019/2020,Sergio Romero,Manchester United,80,GK,Argentina,EPL,1,3,M,M,192cm,86kg,33
+2019/2020,Etienne Capoue,Watford,80,CDM,France,EPL,3,3,M,M,190cm,87kg,31
+2019/2020,Ralf Fährmann,Norwich City,80,GK,Germany,EPL,1,1,M,M,197cm,98kg,31
+2019/2020,Manuel Lanzini,West Ham United,80,CAM,Argentina,EPL,4,3,M,M,167cm,59kg,27
+2019/2020,Roberto Pereyra,Watford,80,LM,Argentina,EPL,4,4,H,M,182cm,77kg,29
+2019/2020,Callum Wilson,Bournemouth,80,ST,England,EPL,4,3,H,M,180cm,66kg,28
+2019/2020,Alex Oxlade-Chamberlain,Liverpool,80,CM,England,EPL,4,4,H,H,175cm,70kg,26
+2019/2020,Kurt Zouma,Chelsea,80,CB,France,EPL,2,3,M,M,190cm,96kg,25
+2019/2020,Michael Keane,Everton,80,CB,England,EPL,2,3,M,H,191cm,82kg,27
+2019/2020,Nathan Aké,Bournemouth,80,CB,Netherlands,EPL,2,3,M,H,180cm,75kg,25
+2019/2020,André Gomes,Everton,80,CDM,Portugal,EPL,4,4,M,M,188cm,84kg,26
+2019/2020,Martin Dúbravka,Newcastle United,80,GK,Slovakia,EPL,1,2,M,M,190cm,80kg,31
+2019/2020,Diogo Jota,Wolverhampton Wanderers,80,LF,Portugal,EPL,4,5,H,H,178cm,73kg,23
+2019/2020,Joe Gomez,Liverpool,80,CB,England,EPL,3,3,M,M,188cm,77kg,23
+2019/2020,Eric Bailly,Manchester United,80,CB,Côte d'Ivoire,EPL,3,3,M,H,186cm,77kg,26
+2019/2020,Miguel Almirón,Newcastle United,80,LW,Paraguay,EPL,4,2,H,H,174cm,63kg,26
+2019/2020,Jack Grealish,Aston Villa,80,CAM,England,EPL,4,3,M,M,175cm,68kg,24
+2019/2020,Danny Rose,Newcastle United,80,LB,England,EPL,3,3,M,H,174cm,76kg,29
+2019/2020,Nathan Aké,Manchester City,80,CB,Netherlands,EPL,2,3,M,H,180cm,75kg,25
+2019/2020,Danny Rose,Tottenham Hotspur,80,LB,England,EPL,3,3,M,H,174cm,76kg,29
+2019/2020,Tiémoué Bakayoko,Chelsea,80,CDM,France,EPL,3,3,M,M,189cm,85kg,25
+2019/2020,Chris Smalling,Manchester United,80,CB,England,EPL,2,3,M,H,194cm,81kg,30
+2019/2020,Eric Dier,Tottenham Hotspur,79,CDM,England,EPL,2,3,M,H,190cm,90kg,26
+2019/2020,Aaron Wan-Bissaka,Manchester United,79,RB,England,EPL,4,2,M,H,183cm,72kg,22
+2019/2020,Nacho Monreal,Arsenal,79,LB,Spain,EPL,3,3,H,M,180cm,77kg,34
+2019/2020,Sead Kolašinac,Arsenal,79,LB,Bosnia and Herzegovina,EPL,3,2,H,M,183cm,85kg,26
+2019/2020,Angeliño,Manchester City,79,LB,Spain,EPL,4,3,H,M,175cm,69kg,23
+2019/2020,Ben Davies,Tottenham Hotspur,79,LB,Wales,EPL,3,3,M,H,182cm,76kg,27
+2019/2020,Ben Chilwell,Leicester City,79,LB,England,EPL,3,3,H,H,178cm,77kg,23
+2019/2020,Jonny Evans,Leicester City,79,CB,Northern Ireland,EPL,2,4,M,H,188cm,77kg,32
+2019/2020,Mamadou Sakho,Crystal Palace,79,CB,France,EPL,2,2,M,H,187cm,83kg,30
+2019/2020,Joshua King,Bournemouth,79,CF,Norway,EPL,4,3,M,M,184cm,82kg,28
+2019/2020,Jack Wilshere,West Ham United,79,CM,England,EPL,3,2,M,M,172cm,68kg,28
+2019/2020,Guaita,Crystal Palace,79,GK,Spain,EPL,1,3,M,M,190cm,80kg,33
+2019/2020,Phil Jones,Manchester United,79,CB,England,EPL,2,3,M,H,185cm,71kg,28
+2019/2020,Serge Aurier,Tottenham Hotspur,79,RB,Côte d'Ivoire,EPL,3,3,H,M,176cm,76kg,27
+2019/2020,Ross Barkley,Chelsea,79,CAM,England,EPL,4,5,M,M,185cm,87kg,26
+2019/2020,James Tarkowski,Burnley,79,CB,England,EPL,2,4,M,M,192cm,81kg,27
+2019/2020,Leandro Trossard,Brighton & Hove Albion,79,LW,Belgium,EPL,4,4,H,M,172cm,67kg,25
+2019/2020,Fred,Manchester United,79,CM,Brazil,EPL,4,4,H,H,169cm,64kg,27
+2019/2020,Fabian Schär,Newcastle United,79,CB,Switzerland,EPL,2,4,H,H,188cm,84kg,28
+2019/2020,Jefferson Lerma,Bournemouth,79,CDM,Colombia,EPL,3,4,M,H,179cm,70kg,25
+2019/2020,James Maddison,Leicester City,79,CAM,England,EPL,4,4,H,M,175cm,73kg,23
+2019/2020,Richarlison,Everton,79,RM,Brazil,EPL,4,5,H,M,181cm,71kg,23
+2019/2020,Allan Saint-Maximin,Newcastle United,79,RW,France,EPL,5,4,H,L,173cm,67kg,23
+2019/2020,Ruben Loftus-Cheek,Chelsea,79,CM,England,EPL,4,3,H,M,191cm,88kg,24
+2019/2020,Séamus Coleman,Everton,79,RB,Republic of Ireland,EPL,3,3,H,H,177cm,77kg,31
+2019/2020,Adam Lallana,Liverpool,79,CM,England,EPL,4,5,H,H,178cm,73kg,32
+2019/2020,Andriy Yarmolenko,West Ham United,79,RM,Ukraine,EPL,4,2,H,M,190cm,83kg,30
+2019/2020,Willy Boly,Wolverhampton Wanderers,79,CB,France,EPL,2,4,M,M,195cm,97kg,29
+2019/2020,Nick Pope,Burnley,79,GK,England,EPL,1,3,M,M,200cm,76kg,28
+2019/2020,James Ward-Prowse,Southampton,79,CM,England,EPL,3,3,M,M,173cm,66kg,25
+2019/2020,Jonny,Wolverhampton Wanderers,79,LWB,Spain,EPL,4,3,H,H,170cm,70kg,26
+2019/2020,Alex Iwobi,Everton,79,LM,Nigeria,EPL,4,3,H,M,185cm,75kg,24
+2019/2020,Jean-Philippe Gbamin,Everton,79,CDM,Côte d'Ivoire,EPL,3,3,M,H,186cm,83kg,24
+2019/2020,Christian Pulisic,Chelsea,79,LW,United States,EPL,4,4,M,M,177cm,69kg,21
+2019/2020,Fabián Balbuena,West Ham United,79,CB,Paraguay,EPL,2,3,M,M,188cm,85kg,28
+2019/2020,Wesley,Aston Villa,79,ST,Brazil,EPL,3,3,H,H,191cm,94kg,23
+2019/2020,Shkodran Mustafi,Arsenal,79,CB,Germany,EPL,2,3,M,H,184cm,82kg,28
+2019/2020,Michy Batshuayi,Chelsea,79,ST,Belgium,EPL,4,5,M,L,185cm,88kg,26
+2019/2020,Mbwana Ally Samatta,Aston Villa,79,ST,Tanzania,EPL,3,4,H,H,183cm,80kg,27
+2019/2020,Mason Mount,Chelsea,79,CAM,England,EPL,3,4,H,M,178cm,64kg,21
+2019/2020,Çaglar Söyüncü,Leicester City,79,CB,Turkey,EPL,2,4,M,M,185cm,82kg,24
+2019/2020,Tomáš Soucek,West Ham United,79,CDM,Czech Republic,EPL,3,3,H,H,192cm,86kg,25
+2019/2020,Sander Berge,Sheffield United,79,CDM,Norway,EPL,3,3,M,H,195cm,94kg,22
+2019/2020,Loris Karius,Liverpool,79,GK,Germany,EPL,1,3,M,M,189cm,87kg,26
+2019/2020,Joël Veltman,Brighton & Hove Albion,79,CB,Netherlands,EPL,2,4,M,M,184cm,75kg,28
+2019/2020,Ryan Bertrand,Southampton,78,LB,England,EPL,3,3,H,M,179cm,80kg,30
+2019/2020,Ben Mee,Burnley,78,CB,England,EPL,2,3,M,H,183cm,82kg,30
+2019/2020,Christian Kabasele,Watford,78,CB,Belgium,EPL,2,3,M,H,188cm,84kg,29
+2019/2020,Jóhann Berg Guðmundsson,Burnley,78,RM,Iceland,EPL,4,4,H,H,179cm,77kg,29
+2019/2020,Shane Duffy,Brighton & Hove Albion,78,CB,Republic of Ireland,EPL,2,3,M,H,193cm,76kg,28
+2019/2020,Steve Cook,Bournemouth,78,CB,England,EPL,2,3,M,H,185cm,82kg,29
+2019/2020,Florian Lejeune,Newcastle United,78,CB,France,EPL,2,3,M,H,189cm,89kg,29
+2019/2020,Jamaal Lascelles,Newcastle United,78,CB,England,EPL,2,3,M,H,188cm,89kg,26
+2019/2020,Leander Dendoncker,Wolverhampton Wanderers,78,CM,Belgium,EPL,2,4,H,H,189cm,88kg,25
+2019/2020,Divock Origi,Liverpool,78,ST,Belgium,EPL,4,4,H,M,188cm,75kg,25
+2019/2020,Joelinton,Newcastle United,78,ST,Brazil,EPL,3,4,H,M,186cm,81kg,23
+2019/2020,Oleksandr Zinchenko,Manchester City,78,LB,Ukraine,EPL,3,3,M,M,175cm,64kg,23
+2019/2020,Declan Rice,West Ham United,78,CDM,England,EPL,2,3,M,H,185cm,80kg,21
+2019/2020,Nathaniel Clyne,Liverpool,78,RB,England,EPL,3,2,H,M,175cm,67kg,29
+2019/2020,Michail Antonio,West Ham United,78,RM,England,EPL,4,3,M,M,178cm,82kg,30
+2019/2020,Pascal Groß,Brighton & Hove Albion,78,CM,Germany,EPL,4,4,H,H,181cm,78kg,28
+2019/2020,Andros Townsend,Crystal Palace,78,RM,England,EPL,4,4,H,H,178cm,73kg,28
+2019/2020,Lewis Dunk,Brighton & Hove Albion,78,CB,England,EPL,2,3,M,H,192cm,88kg,28
+2019/2020,Matt Doherty,Wolverhampton Wanderers,78,RWB,Republic of Ireland,EPL,3,4,H,M,182cm,87kg,28
+2019/2020,Marcos Rojo,Manchester United,78,CB,Argentina,EPL,3,2,M,M,187cm,85kg,30
+2019/2020,Jannik Vestergaard,Southampton,78,CB,Denmark,EPL,2,4,M,M,199cm,98kg,27
+2019/2020,Ibrahim Amadou,Norwich City,78,CDM,France,EPL,3,3,M,H,184cm,81kg,27
+2019/2020,Max Meyer,Crystal Palace,78,CM,Germany,EPL,4,4,M,M,173cm,68kg,24
+2019/2020,Mario Lemina,Southampton,78,CM,Gabon,EPL,3,3,M,M,184cm,85kg,26
+2019/2020,Ayoze Pérez,Leicester City,78,CF,Spain,EPL,4,4,H,H,178cm,72kg,26
+2019/2020,Yerry Mina,Everton,78,CB,Colombia,EPL,2,3,M,M,195cm,94kg,25
+2019/2020,Issa Diop,West Ham United,78,CB,France,EPL,2,3,M,M,194cm,92kg,23
+2019/2020,Ismaïla Sarr,Watford,78,RM,Senegal,EPL,4,2,H,M,185cm,76kg,22
+2019/2020,Steven Defour,Burnley,78,CM,Belgium,EPL,3,3,M,M,175cm,72kg,32
+2019/2020,Kevin Mirallas,Everton,78,LM,Belgium,EPL,4,4,H,M,182cm,72kg,32
+2019/2020,James Tomkins,Crystal Palace,78,CB,England,EPL,2,3,M,M,192cm,74kg,31
+2019/2020,Javier Hernández,West Ham United,78,ST,Mexico,EPL,3,3,M,L,175cm,73kg,31
+2019/2020,Jose Holebas,Watford,78,LB,Greece,EPL,3,2,H,M,185cm,81kg,35
+2019/2020,Troy Deeney,Watford,78,ST,England,EPL,2,3,H,M,183cm,90kg,31
+2019/2020,Ashley Barnes,Burnley,78,ST,England,EPL,3,4,H,H,186cm,84kg,30
+2019/2020,Victor Wanyama,Tottenham Hotspur,78,CDM,Kenya,EPL,2,3,L,H,184cm,87kg,28
+2019/2020,Danny Welbeck,Watford,78,ST,England,EPL,3,3,H,H,185cm,73kg,29
+2019/2020,Daniel Podence,Wolverhampton Wanderers,78,LM,Portugal,EPL,4,4,H,M,163cm,65kg,24
+2019/2020,Adrien Silva,Leicester City,78,CM,Portugal,EPL,3,4,M,H,175cm,69kg,31
+2019/2020,Marcos Rojo,Manchester United,78,CB,Argentina,EPL,3,2,M,M,187cm,85kg,30
+2019/2020,Mario Lemina,Southampton,78,CM,Gabon,EPL,3,3,M,M,184cm,85kg,26
+2019/2020,Emerson,Chelsea,77,LB,Italy,EPL,3,3,H,M,175cm,77kg,25
+2019/2020,Teemu Pukki,Norwich City,77,ST,Finland,EPL,3,3,H,M,180cm,80kg,30
+2019/2020,Theo Walcott,Everton,77,RM,England,EPL,3,3,M,M,176cm,68kg,31
+2019/2020,Glenn Murray,Brighton & Hove Albion,77,ST,England,EPL,2,3,L,M,183cm,80kg,36
+2019/2020,Jonjo Shelvey,Newcastle United,77,CM,England,EPL,3,3,L,M,184cm,80kg,28
+2019/2020,Chris Wood,Burnley,77,ST,New Zealand,EPL,2,3,H,M,189cm,92kg,28
+2019/2020,Davy Pröpper,Brighton & Hove Albion,77,CM,Netherlands,EPL,4,3,M,H,185cm,79kg,28
+2019/2020,Conor Coady,Wolverhampton Wanderers,77,CB,England,EPL,2,3,L,H,186cm,80kg,27
+2019/2020,Will Hughes,Watford,77,RM,England,EPL,4,3,M,M,185cm,74kg,25
+2019/2020,Romain Saïss,Wolverhampton Wanderers,77,CDM,Morocco,EPL,3,3,M,H,190cm,84kg,30
+2019/2020,Mohamed Elneny,Arsenal,77,CDM,Egypt,EPL,3,3,M,H,181cm,74kg,27
+2019/2020,Pierre-Emile Højbjerg,Southampton,77,CM,Denmark,EPL,3,4,H,H,185cm,84kg,24
+2019/2020,David Brooks,Bournemouth,77,RM,Wales,EPL,4,4,M,M,183cm,62kg,22
+2019/2020,Lewis Cook,Bournemouth,77,CM,England,EPL,3,4,M,M,175cm,71kg,23
+2019/2020,Vallejo,Wolverhampton Wanderers,77,CB,Spain,EPL,2,3,L,H,184cm,79kg,23
+2019/2020,Djibril Sidibé,Everton,77,RB,France,EPL,3,4,H,M,182cm,71kg,27
+2019/2020,Patrick Cutrone,Wolverhampton Wanderers,77,ST,Italy,EPL,3,3,M,M,183cm,78kg,22
+2019/2020,Scott McTominay,Manchester United,77,CDM,Scotland,EPL,3,3,H,H,193cm,88kg,23
+2019/2020,Joe Hart,Burnley,77,GK,England,EPL,1,3,M,M,196cm,91kg,33
+2019/2020,Ashley Young,Manchester United,77,RB,England,EPL,4,3,H,M,175cm,65kg,34
+2019/2020,Claudio Bravo,Manchester City,77,GK,Chile,EPL,1,3,M,M,184cm,80kg,37
+2019/2020,Morgan Schneiderlin,Everton,77,CDM,France,EPL,3,3,L,H,185cm,75kg,30
+2019/2020,Fabian Delph,Everton,77,LB,England,EPL,3,3,M,H,174cm,78kg,30
+2019/2020,Roberto,West Ham United,77,GK,Spain,EPL,1,2,M,M,192cm,94kg,34
+2019/2020,Angelo Ogbonna,West Ham United,77,CB,Italy,EPL,2,3,M,M,191cm,86kg,32
+2019/2020,Daryl Janmaat,Watford,77,RB,Netherlands,EPL,3,3,H,M,185cm,80kg,30
+2019/2020,Ashley Westwood,Burnley,77,CM,England,EPL,3,3,M,M,174cm,73kg,30
+2019/2020,Cenk Tosun,Everton,77,ST,Turkey,EPL,3,4,H,M,183cm,78kg,28
+2019/2020,Nathan Redmond,Southampton,77,LM,England,EPL,4,3,H,M,173cm,69kg,26
+2019/2020,Marco van Ginkel,Chelsea,77,CM,Netherlands,EPL,3,4,H,H,186cm,82kg,27
+2019/2020,Jack Grealish,Aston Villa,77,CAM,England,EPL,4,3,M,M,175cm,68kg,24
+2019/2020,Andreas Pereira,Manchester United,77,CM,Brazil,EPL,4,4,M,M,178cm,71kg,24
+2019/2020,Sofiane Boufal,Southampton,77,LM,Morocco,EPL,4,4,H,L,175cm,67kg,26
+2019/2020,Jan Bednarek,Southampton,77,CB,Poland,EPL,2,3,M,H,189cm,77kg,24
+2019/2020,Dominic Calvert-Lewin,Everton,77,ST,England,EPL,3,3,H,M,187cm,71kg,23
+2019/2020,Danny Drinkwater,Burnley,77,CM,England,EPL,3,4,M,M,177cm,81kg,30
+2019/2020,Mahmoud Hassan,Aston Villa,77,LW,Egypt,EPL,4,5,H,M,179cm,78kg,25
+2019/2020,Gary Cahill,Crystal Palace,77,CB,England,EPL,2,3,M,M,193cm,88kg,34
+2019/2020,Danny Drinkwater,Aston Villa,77,CM,England,EPL,3,4,M,M,177cm,81kg,30
+2019/2020,Nabil Bentaleb,Newcastle United,77,CM,Algeria,EPL,4,2,M,M,187cm,78kg,25
+2019/2020,Cenk Tosun,Crystal Palace,77,ST,Turkey,EPL,3,4,H,M,183cm,78kg,28
+2019/2020,Ondrej Duda,Norwich City,77,CAM,Slovakia,EPL,4,4,M,H,181cm,75kg,25
+2019/2020,Fikayo Tomori,Chelsea,77,CB,England,EPL,2,3,M,M,185cm,75kg,22
+2019/2020,Daniel James,Manchester United,77,RM,Wales,EPL,3,4,H,M,170cm,76kg,22
+2019/2020,Enda Stevens,Sheffield United,77,LWB,Republic of Ireland,EPL,3,2,M,M,183cm,78kg,29
+2019/2020,John Egan,Sheffield United,77,CB,Republic of Ireland,EPL,2,3,M,M,188cm,75kg,27
+2019/2020,Adama,Wolverhampton Wanderers,77,RW,Spain,EPL,4,2,H,M,178cm,72kg,24
+2019/2020,Emiliano Buendía,Norwich City,77,RM,Argentina,EPL,4,4,H,H,170cm,65kg,23
+2019/2020,Odion Ighalo,Manchester United,77,ST,Nigeria,EPL,4,3,M,M,183cm,70kg,30
+2019/2020,Marko Grujic,Liverpool,77,CDM,Serbia,EPL,3,3,M,M,191cm,86kg,24
+2019/2020,Danny Drinkwater,Chelsea,77,CM,England,EPL,3,4,M,M,177cm,81kg,30
+2019/2020,Islam Slimani,Leicester City,77,ST,Algeria,EPL,2,3,H,H,188cm,83kg,31
+2019/2020,Pierre-Emile Højbjerg,Tottenham Hotspur,77,CM,Denmark,EPL,3,4,H,H,185cm,84kg,24
+2019/2020,Joe Hart,Tottenham Hotspur,77,GK,England,EPL,1,3,M,M,196cm,91kg,33
+2019/2020,Mohamed Elneny,Arsenal,77,CDM,Egypt,EPL,3,3,M,H,181cm,74kg,27
+2019/2020,Robert Snodgrass,West Ham United,76,RM,Scotland,EPL,3,3,H,M,182cm,82kg,32
+2019/2020,Sung Yueng Ki,Newcastle United,76,CM,Korea Republic,EPL,4,4,M,H,189cm,75kg,31
+2019/2020,Dale Stephens,Brighton & Hove Albion,76,CM,England,EPL,3,3,M,H,185cm,78kg,30
+2019/2020,Cheikhou Kouyaté,Crystal Palace,76,CDM,Senegal,EPL,3,3,H,M,189cm,83kg,30
+2019/2020,Tom Cleverley,Watford,76,CM,England,EPL,3,3,H,M,175cm,67kg,30
+2019/2020,Cédric,Southampton,76,RB,Portugal,EPL,3,4,H,M,172cm,67kg,28
+2019/2020,Ravel Morrison,Sheffield United,76,CAM,England,EPL,3,4,M,L,175cm,71kg,27
+2019/2020,Mohamed Elyounoussi,Southampton,76,LM,Norway,EPL,4,4,M,M,178cm,70kg,25
+2019/2020,Björn Engels,Aston Villa,76,CB,Belgium,EPL,2,3,M,M,194cm,83kg,25
+2019/2020,Arthur Masuaku,West Ham United,76,LB,Congo DR,EPL,4,2,H,M,179cm,70kg,26
+2019/2020,DeAndre Yedlin,Newcastle United,76,RWB,United States,EPL,3,3,H,M,172cm,75kg,26
+2019/2020,Angus Gunn,Southampton,76,GK,England,EPL,1,3,M,M,196cm,77kg,24
+2019/2020,Frédéric Guilbert,Aston Villa,76,RB,France,EPL,3,2,H,M,178cm,70kg,25
+2019/2020,Rob Holding,Arsenal,76,CB,England,EPL,2,3,M,H,189cm,75kg,24
+2019/2020,Phil Foden,Manchester City,76,CAM,England,EPL,4,3,M,M,171cm,69kg,19
+2019/2020,Filip Benković,Leicester City,76,CB,Croatia,EPL,2,3,M,M,194cm,91kg,22
+2019/2020,Dennis Praet,Leicester City,76,CM,Belgium,EPL,4,4,H,M,181cm,78kg,26
+2019/2020,Jay Rodriguez,Burnley,76,ST,England,EPL,3,4,H,M,185cm,84kg,30
+2019/2020,José Izquierdo,Brighton & Hove Albion,76,LW,Colombia,EPL,4,3,H,H,171cm,75kg,27
+2019/2020,Phil Jagielka,Sheffield United,76,CB,England,EPL,2,3,M,H,180cm,87kg,37
+2019/2020,Gomes,Watford,76,GK,Brazil,EPL,1,2,M,M,191cm,95kg,39
+2019/2020,Mark Noble,West Ham United,76,CM,England,EPL,3,3,H,H,177cm,76kg,33
+2019/2020,Jack Cork,Burnley,76,CM,England,EPL,3,4,M,H,184cm,75kg,30
+2019/2020,James McArthur,Crystal Palace,76,CM,Scotland,EPL,3,3,H,H,178cm,66kg,32
+2019/2020,Winston Reid,West Ham United,76,CB,New Zealand,EPL,2,3,L,H,190cm,87kg,31
+2019/2020,Craig Cathcart,Watford,76,CB,Northern Ireland,EPL,2,3,M,H,190cm,83kg,31
+2019/2020,Marc Albrighton,Leicester City,76,RM,England,EPL,3,3,H,H,175cm,74kg,30
+2019/2020,Patrick van Aanholt,Crystal Palace,76,LB,Netherlands,EPL,3,4,H,L,176cm,67kg,29
+2019/2020,Alex McCarthy,Southampton,76,GK,England,EPL,1,2,M,M,193cm,79kg,30
+2019/2020,Aaron Cresswell,West Ham United,76,LB,England,EPL,3,3,H,M,175cm,66kg,30
+2019/2020,Kiko Femenía,Watford,76,RB,Spain,EPL,3,3,H,M,174cm,61kg,29
+2019/2020,Adam Smith,Bournemouth,76,RB,England,EPL,3,3,H,M,180cm,78kg,29
+2019/2020,Andre Gray,Watford,76,ST,England,EPL,3,3,H,M,180cm,78kg,28
+2019/2020,Montoya,Brighton & Hove Albion,76,RB,Spain,EPL,3,4,H,M,175cm,73kg,29
+2019/2020,Danny Ings,Southampton,76,ST,England,EPL,3,3,H,H,178cm,73kg,27
+2019/2020,Oriol Romeu,Southampton,76,CDM,Spain,EPL,2,3,L,H,183cm,83kg,28
+2019/2020,Robbie Brady,Burnley,76,LM,Republic of Ireland,EPL,4,3,H,M,179cm,77kg,28
+2019/2020,Federico Fernández,Newcastle United,76,CB,Argentina,EPL,2,2,M,H,190cm,83kg,31
+2019/2020,Jürgen Locadia,Brighton & Hove Albion,76,ST,Netherlands,EPL,3,4,H,M,185cm,87kg,26
+2019/2020,Charlie Taylor,Burnley,76,LB,England,EPL,3,2,H,M,185cm,70kg,26
+2019/2020,Dwight Gayle,Newcastle United,76,ST,England,EPL,3,4,M,M,174cm,78kg,29
+2019/2020,Isaac Hayden,Newcastle United,76,CDM,England,EPL,2,4,M,H,185cm,79kg,25
+2019/2020,Camarasa,Crystal Palace,76,CM,Spain,EPL,3,3,H,M,183cm,76kg,25
+2019/2020,Florin Andone,Brighton & Hove Albion,76,ST,Romania,EPL,3,3,H,H,180cm,78kg,27
+2019/2020,Kieran Tierney,Arsenal,76,LB,Scotland,EPL,3,3,H,H,178cm,78kg,22
+2019/2020,Tammy Abraham,Chelsea,76,ST,England,EPL,3,3,M,M,196cm,80kg,22
+2019/2020,Moise Kean,Everton,76,ST,Italy,EPL,3,3,M,M,182cm,79kg,20
+2019/2020,Aaron Mooy,Brighton & Hove Albion,76,CM,Australia,EPL,3,3,M,M,173cm,72kg,29
+2019/2020,Adrián San Miguel Castillo,Liverpool,76,GK,Spain,EPL,1,2,M,M,190cm,80kg,33
+2019/2020,Marvelous Nakamba,Aston Villa,76,CDM,Zimbabwe,EPL,3,2,M,H,176cm,76kg,26
+2019/2020,Arnaut Danjuma Groeneveld,Bournemouth,76,LM,Netherlands,EPL,4,4,H,M,178cm,80kg,23
+2019/2020,Gedson Fernandes,Tottenham Hotspur,76,CM,Portugal,EPL,3,3,H,H,181cm,71kg,21
+2019/2020,Ignacio Pussetto,Watford,76,ST,Argentina,EPL,3,4,H,M,180cm,74kg,24
+2019/2020,Tim Krul,Norwich City,76,GK,Netherlands,EPL,1,2,M,M,188cm,74kg,32
+2019/2020,Cédric,Arsenal,76,RB,Portugal,EPL,3,4,H,M,172cm,67kg,28
+2019/2020,Alexis Mac Allister,Brighton & Hove Albion,76,CAM,Argentina,EPL,3,3,M,M,176cm,70kg,21
+2019/2020,Zack Steffen,Manchester City,76,GK,United States,EPL,1,4,M,M,191cm,86kg,25
+2019/2020,Florin Andone,Brighton & Hove Albion,76,ST,Romania,EPL,3,3,H,H,180cm,78kg,27
+2019/2020,Simon Francis,Bournemouth,75,CB,England,EPL,2,4,M,M,187cm,90kg,35
+2019/2020,Pablo Zabaleta,West Ham United,75,RB,Argentina,EPL,3,3,M,H,178cm,74kg,35
+2019/2020,Leighton Baines,Everton,75,LB,England,EPL,3,3,H,M,170cm,70kg,35
+2019/2020,Wayne Hennessey,Crystal Palace,75,GK,Wales,EPL,1,3,M,M,198cm,90kg,33
+2019/2020,Stefano Okaka,Watford,75,ST,Italy,EPL,2,3,H,H,186cm,90kg,30
+2019/2020,Ciaran Clark,Newcastle United,75,CB,Republic of Ireland,EPL,2,2,M,M,185cm,88kg,30
+2019/2020,Martin Kelly,Crystal Palace,75,CB,England,EPL,2,3,L,M,191cm,77kg,30
+2019/2020,Dan Gosling,Bournemouth,75,CM,England,EPL,3,3,M,H,183cm,79kg,30
+2019/2020,Oliver Norwood,Sheffield United,75,CM,Northern Ireland,EPL,2,3,M,M,175cm,69kg,29
+2019/2020,Craig Dawson,Watford,75,CB,England,EPL,2,2,M,M,188cm,82kg,30
+2019/2020,Jordan Ayew,Crystal Palace,75,ST,Ghana,EPL,4,3,M,M,182cm,81kg,28
+2019/2020,Josip Drmic,Norwich City,75,ST,Switzerland,EPL,3,4,M,M,183cm,81kg,27
+2019/2020,Calum Chambers,Arsenal,75,CDM,England,EPL,2,3,L,H,183cm,73kg,25
+2019/2020,Guido Carrillo,Southampton,75,ST,Argentina,EPL,3,3,M,M,191cm,87kg,29
+2019/2020,Wesley Hoedt,Southampton,75,CB,Netherlands,EPL,2,3,M,H,188cm,77kg,26
+2019/2020,Yoshinori Muto,Newcastle United,75,ST,Japan,EPL,3,4,H,H,178cm,72kg,27
+2019/2020,Harry Wilson,Bournemouth,75,RW,Wales,EPL,3,3,H,M,173cm,70kg,23
+2019/2020,Ryan Sessegnon,Tottenham Hotspur,75,LM,England,EPL,4,3,H,M,178cm,71kg,20
+2019/2020,Ainsley Maitland-Niles,Arsenal,75,RWB,England,EPL,4,3,M,M,177cm,71kg,22
+2019/2020,Mason Mount,Chelsea,75,CAM,England,EPL,3,4,H,M,178cm,64kg,21
+2019/2020,Artur Boruc,Bournemouth,75,GK,Poland,EPL,1,3,M,M,193cm,87kg,40
+2019/2020,Wes Morgan,Leicester City,75,CB,Jamaica,EPL,2,2,M,H,186cm,101kg,36
+2019/2020,Willy Caballero,Chelsea,75,GK,Argentina,EPL,1,3,M,M,186cm,81kg,38
+2019/2020,Scott Dann,Crystal Palace,75,CB,England,EPL,2,3,L,M,188cm,78kg,33
+2019/2020,Jonas Lössl,Everton,75,GK,Denmark,EPL,1,2,M,M,195cm,88kg,31
+2019/2020,Andrew Surman,Bournemouth,75,CM,England,EPL,3,4,L,M,178cm,73kg,33
+2019/2020,Adrian Mariappa,Watford,75,CB,Jamaica,EPL,2,3,M,M,180cm,79kg,33
+2019/2020,Carlos Sánchez,West Ham United,75,CDM,Colombia,EPL,3,3,M,M,182cm,82kg,34
+2019/2020,Christian Benteke,Crystal Palace,75,ST,Belgium,EPL,2,3,M,L,190cm,83kg,29
+2019/2020,Matteo Darmian,Manchester United,75,LB,Italy,EPL,3,5,L,H,182cm,70kg,30
+2019/2020,Matt Ritchie,Newcastle United,75,LWB,Scotland,EPL,4,4,H,M,172cm,76kg,30
+2019/2020,James McCarthy,Crystal Palace,75,CDM,Republic of Ireland,EPL,3,4,M,H,180cm,72kg,29
+2019/2020,Yannick Bolasie,Everton,75,LM,Congo DR,EPL,5,4,M,L,188cm,84kg,31
+2019/2020,Junior Stanislas,Bournemouth,75,LM,England,EPL,3,3,H,M,183cm,76kg,30
+2019/2020,Maya Yoshida,Southampton,75,CB,Japan,EPL,2,4,M,H,189cm,78kg,31
+2019/2020,Matthew Lowton,Burnley,75,RB,England,EPL,2,3,H,H,181cm,78kg,30
+2019/2020,Jeff Hendrick,Burnley,75,RM,Republic of Ireland,EPL,3,3,M,H,183cm,84kg,28
+2019/2020,Stuart Armstrong,Southampton,75,CAM,Scotland,EPL,3,4,H,H,183cm,75kg,28
+2019/2020,Emiliano Martinez,Arsenal,75,GK,Argentina,EPL,1,3,M,M,193cm,85kg,27
+2019/2020,Paul Dummett,Newcastle United,75,CB,Wales,EPL,2,2,M,M,183cm,82kg,28
+2019/2020,Paulo Gazzaniga,Tottenham Hotspur,75,GK,Argentina,EPL,1,3,M,M,196cm,90kg,28
+2019/2020,Nathaniel Chalobah,Watford,75,CDM,England,EPL,3,3,M,M,185cm,76kg,25
+2019/2020,Jetro Willems,Newcastle United,75,LWB,Netherlands,EPL,3,4,H,L,177cm,82kg,26
+2019/2020,Solly March,Brighton & Hove Albion,75,LM,England,EPL,3,2,H,H,180cm,77kg,25
+2019/2020,John McGinn,Aston Villa,75,CM,Scotland,EPL,3,4,H,H,178cm,68kg,25
+2019/2020,Neal Maupay,Brighton & Hove Albion,75,ST,France,EPL,3,3,M,M,171cm,69kg,23
+2019/2020,Kenedy,Chelsea,75,LM,Brazil,EPL,4,2,H,H,182cm,77kg,24
+2019/2020,Demarai Gray,Leicester City,75,LW,England,EPL,4,3,H,M,180cm,74kg,23
+2019/2020,Lovre Kalinic,Aston Villa,75,GK,Croatia,EPL,1,2,M,M,201cm,99kg,30
+2019/2020,Mason Holgate,Everton,75,RB,England,EPL,3,3,M,M,184cm,75kg,23
+2019/2020,Tom Davies,Everton,75,CM,England,EPL,3,3,H,M,185cm,70kg,21
+2019/2020,Bernardo,Brighton & Hove Albion,75,LB,Brazil,EPL,3,3,M,M,186cm,76kg,25
+2019/2020,Dean Henderson,Sheffield United,75,GK,England,EPL,1,2,M,M,190cm,85kg,23
+2019/2020,Diogo Dalot,Manchester United,75,RB,Portugal,EPL,3,3,H,M,183cm,76kg,21
+2019/2020,Harvey Barnes,Leicester City,75,LW,England,EPL,3,4,H,M,174cm,66kg,22
+2019/2020,Mattéo Guendouzi,Arsenal,75,CM,France,EPL,3,3,M,H,185cm,68kg,21
+2019/2020,Nampalys Mendy,Leicester City,75,CDM,France,EPL,3,3,L,H,167cm,73kg,27
+2019/2020,Alireza Jahanbakhsh,Brighton & Hove Albion,75,RW,Iran,EPL,4,4,M,M,180cm,78kg,26
+2019/2020,Yves Bissouma,Brighton & Hove Albion,75,CM,Mali,EPL,4,3,H,M,182cm,80kg,23
+2019/2020,Andy Carroll,Newcastle United,75,ST,England,EPL,2,3,M,H,193cm,79kg,31
+2019/2020,Takumi Minamino,Liverpool,75,RM,Japan,EPL,3,4,M,M,174cm,67kg,25
+2019/2020,Darren Randolph,West Ham United,75,GK,Republic of Ireland,EPL,1,3,M,M,188cm,78kg,33
+2019/2020,Lukas Rupp,Norwich City,75,CM,Germany,EPL,3,3,M,M,178cm,73kg,29
+2019/2020,Jarrod Bowen,West Ham United,75,RM,England,EPL,4,3,M,M,175cm,70kg,23
+2019/2020,Valentino Lazaro,Newcastle United,75,RWB,Austria,EPL,4,3,H,M,180cm,76kg,24
+2019/2020,Borja Bastón,Aston Villa,75,ST,Spain,EPL,3,4,M,L,186cm,83kg,27
+2019/2020,Panagiotis Retsos,Sheffield United,75,CB,Greece,EPL,2,3,M,H,186cm,81kg,21
+2019/2020,Kenedy,Chelsea,75,LM,Brazil,EPL,4,2,H,H,182cm,77kg,24
+2019/2020,Percy Tau,Brighton & Hove Albion,75,RW,South Africa,EPL,4,4,M,L,168cm,65kg,26
+2019/2020,Wesley Hoedt,Southampton,75,CB,Netherlands,EPL,2,3,M,H,188cm,77kg,26
+2019/2020,Harry Wilson,Liverpool,75,RM,Wales,EPL,3,3,H,M,173cm,70kg,23
+2019/2020,Dean Henderson,Manchester United,75,GK,England,EPL,1,2,M,M,190cm,85kg,23
+2019/2020,Sandro,Everton,75,ST,Spain,EPL,3,4,H,M,175cm,71kg,24
+2019/2020,Juan Camilo Hernández,Watford,75,ST,Colombia,EPL,3,4,H,M,176cm,73kg,21
+2019/2020,Ferrán Torres,Manchester City,75,RM,Spain,EPL,3,4,H,M,180cm,72kg,20
+2019/2020,Yannick Bolasie,Everton,75,LW,Congo DR,EPL,5,4,M,L,188cm,84kg,31
+2019/2020,Lovre Kalinic,Aston Villa,75,GK,Croatia,EPL,1,2,M,M,201cm,99kg,30
+2019/2020,Mohammed Salisu,Southampton,75,CB,Ghana,EPL,2,3,M,H,191cm,85kg,21
+2019/2020,Gaëtan Bong,Brighton & Hove Albion,74,LB,Cameroon,EPL,3,3,H,H,183cm,74kg,32
+2019/2020,Henri Saivet,Newcastle United,74,CAM,Senegal,EPL,3,4,H,H,174cm,76kg,29
+2019/2020,Leon Balogun,Brighton & Hove Albion,74,CB,Nigeria,EPL,2,3,M,M,190cm,88kg,31
+2019/2020,John Egan,Sheffield United,74,CB,Republic of Ireland,EPL,2,3,M,M,188cm,75kg,27
+2019/2020,Tyrone Mings,Aston Villa,74,CB,England,EPL,3,3,M,M,196cm,77kg,27
+2019/2020,Patrick Roberts,Norwich City,74,RM,England,EPL,4,3,M,M,170cm,66kg,23
+2019/2020,Adam Masina,Watford,74,LB,Italy,EPL,3,3,M,H,191cm,87kg,26
+2019/2020,Che Adams,Southampton,74,ST,England,EPL,3,4,H,M,178cm,66kg,23
+2019/2020,Aaron Lennon,Burnley,74,RM,England,EPL,3,3,H,H,165cm,63kg,33
+2019/2020,Billy Sharp,Sheffield United,74,ST,England,EPL,2,3,M,H,175cm,70kg,34
+2019/2020,Shane Long,Southampton,74,ST,Republic of Ireland,EPL,3,2,H,H,178cm,70kg,33
+2019/2020,James Chester,Aston Villa,74,CB,Wales,EPL,2,3,M,M,180cm,79kg,31
+2019/2020,Enda Stevens,Sheffield United,74,LWB,Republic of Ireland,EPL,3,2,M,M,183cm,78kg,29
+2019/2020,Marvin Zeegelaar,Watford,74,LB,Netherlands,EPL,3,3,H,M,186cm,82kg,29
+2019/2020,Conor Hourihane,Aston Villa,74,CM,Republic of Ireland,EPL,3,4,H,M,181cm,70kg,29
+2019/2020,Timm Klose,Norwich City,74,CB,Switzerland,EPL,2,3,M,M,193cm,87kg,32
+2019/2020,Ben Gibson,Burnley,74,CB,England,EPL,2,3,M,M,185cm,78kg,27
+2019/2020,Jeffrey Schlupp,Crystal Palace,74,LM,Ghana,EPL,3,2,H,M,178cm,72kg,27
+2019/2020,Jack Stephens,Southampton,74,CB,England,EPL,2,3,M,M,185cm,75kg,26
+2019/2020,Dimitri Foulquier,Watford,74,RM,France,EPL,3,3,M,M,183cm,78kg,27
+2019/2020,Ryan Fredericks,West Ham United,74,RB,England,EPL,3,3,H,M,181cm,74kg,27
+2019/2020,Christian Atsu,Newcastle United,74,LM,Ghana,EPL,3,3,M,L,165cm,65kg,28
+2019/2020,Adam Webster,Brighton & Hove Albion,74,CB,England,EPL,2,4,M,M,191cm,75kg,25
+2019/2020,Abdul Rahman Baba,Chelsea,74,LB,Ghana,EPL,3,2,H,M,179cm,70kg,25
+2019/2020,Rachid Ghezzal,Leicester City,74,RW,Algeria,EPL,4,3,M,L,182cm,70kg,28
+2019/2020,Manquillo,Newcastle United,74,RWB,Spain,EPL,3,3,H,M,178cm,76kg,26
+2019/2020,Jack O'Connell,Sheffield United,74,CB,England,EPL,2,2,H,M,191cm,85kg,26
+2019/2020,Adama,Wolverhampton Wanderers,74,RW,Spain,EPL,4,2,H,M,178cm,72kg,24
+2019/2020,Anwar El Ghazi,Aston Villa,74,LW,Netherlands,EPL,4,4,M,L,189cm,90kg,25
+2019/2020,Oliver McBurnie,Sheffield United,74,ST,Scotland,EPL,3,3,M,L,191cm,77kg,23
+2019/2020,Diego Rico,Bournemouth,74,LB,Spain,EPL,3,2,M,M,183cm,76kg,27
+2019/2020,Philip Billing,Bournemouth,74,CM,Denmark,EPL,3,3,M,M,197cm,80kg,23
+2019/2020,Albian Ajeti,West Ham United,74,ST,Switzerland,EPL,3,4,H,M,183cm,78kg,23
+2019/2020,Emiliano Buendía,Norwich City,74,RM,Argentina,EPL,4,4,H,H,170cm,65kg,23
+2019/2020,Aleix García,Manchester City,74,CM,Spain,EPL,3,3,M,M,173cm,68kg,22
+2019/2020,Çaglar Söyüncü,Leicester City,74,CB,Turkey,EPL,2,4,M,M,185cm,82kg,24
+2019/2020,Juan Foyth,Tottenham Hotspur,74,CB,Argentina,EPL,3,3,M,H,187cm,69kg,22
+2019/2020,Moussa Djenepo,Southampton,74,LM,Mali,EPL,3,3,M,M,177cm,65kg,21
+2019/2020,Emil Krafth,Newcastle United,74,RB,Sweden,EPL,3,3,H,M,181cm,72kg,25
+2019/2020,Kyle Walker-Peters,Tottenham Hotspur,74,RB,England,EPL,3,4,H,M,174cm,64kg,23
+2019/2020,Hamza Choudhury,Leicester City,74,CDM,England,EPL,2,3,M,H,178cm,64kg,22
+2019/2020,Callum Hudson-Odoi,Chelsea,74,RW,England,EPL,4,3,H,M,177cm,75kg,19
+2019/2020,Dwight McNeil,Burnley,74,LM,England,EPL,3,3,H,H,183cm,68kg,20
+2019/2020,Douglas Luiz Soares de Paulo,Aston Villa,74,CM,Brazil,EPL,3,2,M,M,178cm,70kg,22
+2019/2020,Kyle Walker-Peters,Southampton,74,RB,England,EPL,3,4,H,M,174cm,64kg,23
+2019/2020,Vorm,Tottenham Hotspur,74,GK,Netherlands,EPL,1,3,M,M,184cm,84kg,36
+2019/2020,Aleix García,Manchester City,74,CM,Spain,EPL,3,3,M,M,173cm,68kg,22
+2019/2020,Charly Musonda,Chelsea,74,RM,Belgium,EPL,4,5,M,M,173cm,66kg,23
+2019/2020,Patrick Roberts,Manchester City,74,RM,England,EPL,4,3,M,M,170cm,66kg,23
+2019/2020,Rachid Ghezzal,Leicester City,74,RW,Algeria,EPL,4,3,M,L,182cm,70kg,28
+2019/2020,Harry Arter,Bournemouth,74,CM,Republic of Ireland,EPL,3,5,H,H,176cm,70kg,30
+2019/2020,Mario Vrancic,Norwich City,73,CM,Bosnia and Herzegovina,EPL,3,3,M,M,187cm,78kg,31
+2019/2020,Joel Ward,Crystal Palace,73,RB,England,EPL,3,3,M,H,188cm,83kg,30
+2019/2020,John Fleck,Sheffield United,73,CM,Scotland,EPL,3,2,M,M,169cm,72kg,28
+2019/2020,Moritz Leitner,Norwich City,73,CM,Germany,EPL,3,4,M,M,176cm,68kg,27
+2019/2020,Callum Robinson,Sheffield United,73,ST,Republic of Ireland,EPL,3,3,H,M,178cm,75kg,25
+2019/2020,Matej Vydra,Burnley,73,CAM,Czech Republic,EPL,3,4,M,M,175cm,71kg,28
+2019/2020,Tom Trybull,Norwich City,73,CDM,Germany,EPL,3,3,M,H,181cm,72kg,27
+2019/2020,Maarten Stekelenburg,Everton,73,GK,Netherlands,EPL,1,4,M,M,197cm,92kg,37
+2019/2020,Christian Fuchs,Leicester City,73,LB,Austria,EPL,3,2,M,M,187cm,89kg,34
+2019/2020,Luke Freeman,Sheffield United,73,CAM,England,EPL,3,3,M,M,172cm,73kg,28
+2019/2020,Charlie Daniels,Bournemouth,73,LB,England,EPL,3,3,H,M,178cm,75kg,33
+2019/2020,Tim Krul,Norwich City,73,GK,Netherlands,EPL,1,2,M,M,188cm,74kg,32
+2019/2020,Sebastian Prödl,Watford,73,CB,Austria,EPL,2,2,M,M,196cm,97kg,32
+2019/2020,Erik Pieters,Burnley,73,LB,Netherlands,EPL,3,3,M,H,186cm,87kg,31
+2019/2020,Ryan Bennett,Wolverhampton Wanderers,73,CB,England,EPL,2,2,L,M,188cm,78kg,30
+2019/2020,Chris Basham,Sheffield United,73,CB,England,EPL,2,2,H,M,190cm,80kg,31
+2019/2020,Jonathan Kodjia,Aston Villa,73,ST,Côte d'Ivoire,EPL,3,3,H,M,189cm,77kg,30
+2019/2020,Marco Stiepermann,Norwich City,73,CAM,Germany,EPL,3,2,M,M,190cm,86kg,29
+2019/2020,Ezequiel Schelotto,Brighton & Hove Albion,73,RB,Italy,EPL,3,3,H,M,187cm,77kg,31
+2019/2020,Karl Darlow,Newcastle United,73,GK,England,EPL,1,2,M,M,190cm,78kg,29
+2019/2020,Kevin Long,Burnley,73,CB,Republic of Ireland,EPL,2,2,L,M,190cm,82kg,29
+2019/2020,Onel Hernandez,Norwich City,73,LM,Germany,EPL,4,3,H,M,172cm,76kg,27
+2019/2020,Jota,Aston Villa,73,RW,Spain,EPL,3,2,H,L,180cm,70kg,28
+2019/2020,Jordon Ibe,Bournemouth,73,RM,England,EPL,3,4,M,M,176cm,81kg,24
+2019/2020,Danny Ward,Leicester City,73,GK,Wales,EPL,1,3,M,M,191cm,88kg,26
+2019/2020,Oumar Niasse,Everton,73,ST,Senegal,EPL,3,3,H,M,182cm,82kg,30
+2019/2020,Daniel Amartey,Leicester City,73,RB,Ghana,EPL,3,3,M,H,186cm,79kg,25
+2019/2020,Isaac Success,Watford,73,ST,Nigeria,EPL,3,3,M,M,182cm,90kg,24
+2019/2020,Ryan Kent,Liverpool,73,LW,England,EPL,4,5,H,M,172cm,65kg,23
+2019/2020,Kelechi Iheanacho,Leicester City,73,ST,Nigeria,EPL,4,3,M,M,183cm,80kg,23
+2019/2020,Axel Tuanzebe,Manchester United,73,CB,England,EPL,3,3,M,M,185cm,72kg,22
+2019/2020,Timothy Fosu-Mensah,Manchester United,73,RB,Netherlands,EPL,3,4,M,M,185cm,78kg,22
+2019/2020,Chris Mepham,Bournemouth,73,CB,Wales,EPL,2,3,H,H,191cm,75kg,22
+2019/2020,Reece James,Chelsea,73,RB,England,EPL,3,3,M,M,182cm,82kg,20
+2019/2020,Ryan Bennett,Leicester City,73,CB,England,EPL,2,2,L,M,188cm,78kg,30
+2019/2020,Jonjoe Kenny,Everton,73,RB,England,EPL,3,3,H,M,176cm,67kg,23
+2019/2020,Fraser Forster,Southampton,73,GK,England,EPL,1,5,M,M,201cm,93kg,32
+2019/2020,Pedro Porro,Manchester City,73,RB,Spain,EPL,3,3,H,M,176cm,70kg,20
+2019/2020,Matt Miazga,Chelsea,73,CB,United States,EPL,2,3,L,M,193cm,84kg,24
+2019/2020,Marc Navarro,Watford,73,RB,Spain,EPL,2,2,H,M,188cm,79kg,24
+2019/2020,Callum Robinson,Sheffield United,73,ST,Republic of Ireland,EPL,3,3,H,M,178cm,75kg,25
+2019/2020,Lee Grant,Manchester United,72,GK,England,EPL,1,4,M,M,193cm,83kg,37
+2019/2020,Scott Carson,Manchester City,72,GK,England,EPL,1,3,M,M,190cm,86kg,34
+2019/2020,Phil Bardsley,Burnley,72,RB,Scotland,EPL,3,3,M,M,180cm,79kg,34
+2019/2020,David McGoldrick,Sheffield United,72,ST,Republic of Ireland,EPL,3,3,M,M,183cm,74kg,32
+2019/2020,Ørjan Nyland,Aston Villa,72,GK,Norway,EPL,1,4,M,M,192cm,90kg,29
+2019/2020,Muhamed Bešic,Sheffield United,72,CM,Bosnia and Herzegovina,EPL,3,3,M,H,180cm,80kg,27
+2019/2020,Kenny McLean,Norwich City,72,CM,Scotland,EPL,3,3,H,H,183cm,70kg,28
+2019/2020,Sam Byram,Norwich City,72,RB,England,EPL,3,3,H,M,183cm,72kg,26
+2019/2020,Ben Osborn,Sheffield United,72,LWB,England,EPL,3,3,H,M,176cm,75kg,25
+2019/2020,Matt Targett,Aston Villa,72,LB,England,EPL,3,2,H,M,183cm,70kg,24
+2019/2020,Léo Bonatini,Wolverhampton Wanderers,72,ST,Brazil,EPL,3,4,M,H,184cm,83kg,26
+2019/2020,Jaïro Riedewald,Crystal Palace,72,CB,Netherlands,EPL,3,3,M,M,182cm,79kg,23
+2019/2020,Jamal Lewis,Norwich City,72,LB,Northern Ireland,EPL,3,3,H,M,177cm,70kg,22
+2019/2020,Reiss Nelson,Arsenal,72,RW,England,EPL,4,4,H,M,175cm,71kg,20
+2019/2020,Adalberto Peñaranda,Watford,72,ST,Venezuela,EPL,3,3,H,M,185cm,83kg,22
+2019/2020,Daniel James,Manchester United,72,LM,Wales,EPL,3,4,H,M,170cm,76kg,22
+2019/2020,Sean Longstaff,Newcastle United,72,CM,England,EPL,2,4,H,M,180cm,65kg,22
+2019/2020,Christoph Zimmermann,Norwich City,72,CB,Germany,EPL,2,3,M,H,194cm,92kg,27
+2019/2020,Max Aarons,Norwich City,72,RB,England,EPL,3,3,H,M,178cm,73kg,20
+2019/2020,Tudor Baluta,Brighton & Hove Albion,72,CDM,Romania,EPL,2,2,M,H,191cm,80kg,21
+2019/2020,Michael Hector,Chelsea,72,CB,Jamaica,EPL,2,3,M,M,193cm,82kg,27
+2019/2020,Lucas Domingues Piazon,Chelsea,72,RW,Brazil,EPL,3,4,M,M,182cm,73kg,26
+2019/2020,Fikayo Tomori,Chelsea,72,CB,England,EPL,2,3,M,M,185cm,75kg,22
+2019/2020,Mix Diskerud,Manchester City,72,CM,United States,EPL,3,4,H,M,184cm,73kg,29
+2019/2020,Beram Kayal,Brighton & Hove Albion,72,CM,Israel,EPL,3,3,H,H,178cm,74kg,32
+2019/2020,Adalberto Peñaranda,Watford,72,LW,Venezuela,EPL,3,3,H,M,185cm,83kg,22
+2019/2020,Josh Brownhill,Burnley,72,CM,England,EPL,3,3,H,M,178cm,69kg,24
+2019/2020,Muhamed Bešic,Everton,72,CM,Bosnia and Herzegovina,EPL,3,3,M,H,180cm,80kg,27
+2019/2020,Tudor Baluta,Brighton & Hove Albion,72,CDM,Romania,EPL,2,2,M,H,191cm,80kg,21
+2019/2020,Ovie Ejaria,Liverpool,72,CM,England,EPL,4,3,H,M,183cm,75kg,22
+2019/2020,Konstantinos Tsimikas,Liverpool,72,LB,Greece,EPL,3,3,H,M,175cm,68kg,24
+2019/2020,Marlos Moreno,Manchester City,72,LW,Colombia,EPL,3,3,H,H,171cm,67kg,23
+2019/2020,Léo Bonatini,Wolverhampton Wanderers,72,ST,Brazil,EPL,3,4,M,H,184cm,83kg,26
+2019/2020,Wes Foderingham,Sheffield United,72,GK,England,EPL,1,3,M,M,185cm,75kg,29
+2019/2020,Alexander Tettey,Norwich City,71,CDM,Norway,EPL,2,2,M,H,180cm,68kg,34
+2019/2020,Jack Colback,Newcastle United,71,CDM,England,EPL,3,2,H,H,177cm,77kg,30
+2019/2020,Dan Burn,Brighton & Hove Albion,71,CB,England,EPL,2,3,L,M,198cm,87kg,28
+2019/2020,Bartosz Kapustka,Leicester City,71,LM,Poland,EPL,3,3,M,M,179cm,67kg,23
+2019/2020,Lys Mousset,Sheffield United,71,ST,France,EPL,3,3,M,M,184cm,80kg,24
+2019/2020,Ben Godfrey,Norwich City,71,CB,England,EPL,2,3,M,H,183cm,74kg,22
+2019/2020,Kevin Danso,Southampton,71,CB,Austria,EPL,2,3,M,M,190cm,89kg,21
+2019/2020,Lewis Baker,Chelsea,71,CM,England,EPL,3,5,M,L,182cm,72kg,25
+2019/2020,Ante Palaversa,Manchester City,71,CM,Croatia,EPL,3,3,M,M,187cm,79kg,20
+2019/2020,Taiwo Awoniyi,Liverpool,71,ST,Nigeria,EPL,3,2,M,M,185cm,84kg,22
+2019/2020,William Saliba,Arsenal,71,CB,France,EPL,2,3,H,M,192cm,85kg,19
+2019/2020,Jacob Murphy,Newcastle United,71,RW,England,EPL,3,3,H,L,179cm,74kg,25
+2019/2020,Jordan Hugill,West Ham United,71,ST,England,EPL,3,2,H,H,183cm,85kg,27
+2019/2020,Matt Clarke,Brighton & Hove Albion,71,CB,England,EPL,3,3,H,M,188cm,74kg,23
+2019/2020,Harrison Reed,Southampton,71,CDM,England,EPL,3,3,M,H,176cm,72kg,25
+2019/2020,Leon Clarke,Sheffield United,70,ST,England,EPL,2,4,M,M,188cm,89kg,35
+2019/2020,John Ruddy,Wolverhampton Wanderers,70,GK,England,EPL,1,3,M,M,193cm,97kg,33
+2019/2020,Rob Elliot,Newcastle United,70,GK,Republic of Ireland,EPL,1,2,M,M,190cm,94kg,34
+2019/2020,Neil Taylor,Aston Villa,70,LB,Wales,EPL,3,3,M,H,175cm,75kg,31
+2019/2020,Henri Lansbury,Aston Villa,70,CM,England,EPL,3,3,M,M,183cm,85kg,29
+2019/2020,Ahmed Elmohamady,Aston Villa,70,RB,Egypt,EPL,3,3,H,M,183cm,78kg,32
+2019/2020,Connor Wickham,Crystal Palace,70,ST,England,EPL,3,3,H,M,191cm,90kg,27
+2019/2020,Jed Steer,Aston Villa,70,GK,England,EPL,1,2,M,M,188cm,80kg,27
+2019/2020,Roderick Miranda,Wolverhampton Wanderers,70,CB,Portugal,EPL,2,2,M,M,192cm,89kg,29
+2019/2020,Grant Hanley,Norwich City,70,CB,Scotland,EPL,2,3,L,M,187cm,81kg,28
+2019/2020,Cuco Martina,Everton,70,RB,Curaçao,EPL,2,3,M,M,185cm,77kg,30
+2019/2020,Philip Heise,Norwich City,70,LB,Germany,EPL,3,3,M,M,184cm,78kg,28
+2019/2020,Jack Stacey,Bournemouth,70,RB,England,EPL,2,3,H,M,178cm,62kg,24
+2019/2020,Rolando Aarons,Newcastle United,70,LM,England,EPL,3,3,M,M,178cm,76kg,24
+2019/2020,Dominic Solanke,Bournemouth,70,ST,England,EPL,3,3,H,M,187cm,80kg,22
+2019/2020,Ezri Konsa,Aston Villa,70,CB,England,EPL,2,3,M,H,183cm,77kg,22
+2019/2020,Michael Verrips,Sheffield United,70,GK,Netherlands,EPL,1,3,M,M,195cm,90kg,23
+2019/2020,Rúben Vinagre,Wolverhampton Wanderers,70,LWB,Portugal,EPL,4,2,H,M,174cm,64kg,21
+2019/2020,Morgan Gibbs-White,Wolverhampton Wanderers,70,CM,England,EPL,4,2,M,M,178cm,70kg,20
+2019/2020,Fousseni Diabaté,Leicester City,70,RW,Mali,EPL,3,3,M,L,175cm,60kg,24
+2019/2020,Konstantinos Mavropanos,Arsenal,70,CB,Greece,EPL,2,2,M,H,194cm,88kg,22
+2019/2020,Jack Robinson,Sheffield United,70,LB,England,EPL,2,3,H,H,180cm,67kg,26
+2019/2020,Joel Pereira,Manchester United,70,GK,Portugal,EPL,1,2,M,M,188cm,70kg,23
+2019/2020,Rolando Aarons,Newcastle United,70,LW,England,EPL,3,3,M,M,178cm,76kg,24
+2019/2020,Philippe Sandler,Manchester City,70,CB,Netherlands,EPL,2,3,H,M,190cm,82kg,23
+2019/2020,Isaiah Brown,Chelsea,70,CAM,England,EPL,3,3,M,M,182cm,70kg,23
+2019/2020,Jake Clarke-Salter,Chelsea,70,CB,England,EPL,2,3,M,H,188cm,70kg,22
+2019/2020,Kieran Dowell,Everton,70,CAM,England,EPL,3,3,M,L,185cm,80kg,22
+2019/2020,Fousseni Diabaté,Leicester City,70,LM,Mali,EPL,3,3,M,L,175cm,60kg,24
+2019/2020,Scott Hogan,Aston Villa,70,ST,Republic of Ireland,EPL,3,3,M,M,180cm,64kg,28
+2019/2020,Roderick Miranda,Wolverhampton Wanderers,70,CB,Portugal,EPL,2,2,M,M,192cm,89kg,29
+2019/2020,Kieran Dowell,Norwich City,70,CAM,England,EPL,3,3,M,L,185cm,80kg,22
+2019/2020,Richard Stearman,Sheffield United,69,CB,England,EPL,2,3,M,M,191cm,76kg,32
+2019/2020,George Baldock,Sheffield United,69,RWB,England,EPL,3,2,M,M,175cm,67kg,27
+2019/2020,Daniel Bachmann,Watford,69,GK,Austria,EPL,1,3,M,M,191cm,81kg,25
+2019/2020,Bailey Peacock-Farrell,Burnley,69,GK,Northern Ireland,EPL,1,2,M,M,192cm,73kg,23
+2019/2020,Callum Connolly,Everton,69,CDM,England,EPL,3,3,H,H,183cm,70kg,22
+2019/2020,James Justin,Leicester City,69,RB,England,EPL,3,4,H,M,183cm,71kg,22
+2019/2020,Domingos Quina,Watford,69,CAM,Portugal,EPL,3,3,M,M,175cm,66kg,20
+2019/2020,Marcus Edwards,Tottenham Hotspur,69,RM,England,EPL,4,3,M,L,167cm,78kg,21
+2019/2020,Yan Valery,Southampton,69,RWB,France,EPL,3,3,H,H,180cm,70kg,21
+2019/2020,Jamal Blackman,Chelsea,69,GK,England,EPL,1,2,M,M,199cm,93kg,26
+2019/2020,Cameron Carter-Vickers,Tottenham Hotspur,69,CB,United States,EPL,2,3,M,M,183cm,92kg,22
+2019/2020,Daniel Arzani,Manchester City,69,RM,Australia,EPL,4,3,H,L,171cm,73kg,21
+2019/2020,Matthew Smith,Manchester City,69,CM,Wales,EPL,3,2,H,H,177cm,68kg,20
+2019/2020,Jamal Blackman,Chelsea,69,GK,England,EPL,1,2,M,M,199cm,93kg,26
+2019/2020,Callum Connolly,Everton,69,CB,England,EPL,3,3,H,H,183cm,70kg,22
+2019/2020,Christian Walton,Brighton & Hove Albion,69,GK,England,EPL,1,2,M,M,195cm,75kg,24
+2019/2020,Eldin Jakupovic,Leicester City,68,GK,Switzerland,EPL,1,2,M,M,191cm,85kg,35
+2019/2020,Michael McGovern,Norwich City,68,GK,Northern Ireland,EPL,1,3,M,M,191cm,89kg,35
+2019/2020,Jake Wright,Sheffield United,68,CB,England,EPL,2,2,M,M,185cm,70kg,34
+2019/2020,David Button,Brighton & Hove Albion,68,GK,England,EPL,1,3,M,M,191cm,87kg,31
+2019/2020,Matty James,Leicester City,68,CM,England,EPL,3,3,M,M,181cm,86kg,28
+2019/2020,Jason Steele,Brighton & Hove Albion,68,GK,England,EPL,1,3,M,M,188cm,79kg,29
+2019/2020,Kieron Freeman,Sheffield United,68,RWB,Wales,EPL,3,3,M,M,178cm,79kg,28
+2019/2020,Kortney Hause,Aston Villa,68,CB,England,EPL,2,3,M,M,191cm,93kg,24
+2019/2020,Todd Cantwell,Norwich City,68,LM,England,EPL,3,2,H,M,184cm,70kg,22
+2019/2020,Lloyd Kelly,Bournemouth,68,LB,England,EPL,3,3,M,M,191cm,70kg,21
+2019/2020,Pontus Dahlberg,Watford,68,GK,Sweden,EPL,1,3,M,M,195cm,90kg,21
+2019/2020,Aaron Ramsdale,Bournemouth,68,GK,England,EPL,1,2,M,M,188cm,77kg,22
+2019/2020,Jimmy Dunne,Burnley,68,CB,Republic of Ireland,EPL,2,3,M,H,183cm,75kg,22
+2019/2020,Dennis Srbeny,Norwich City,68,ST,Germany,EPL,3,3,H,M,190cm,83kg,26
+2019/2020,Angel Gomes,Manchester United,68,CAM,England,EPL,4,4,M,M,169cm,61kg,19
+2019/2020,Gabriel Teodoro Martinelli Silva,Arsenal,68,LW,Brazil,EPL,3,3,M,M,180cm,75kg,18
+2019/2020,Eddie Nketiah,Arsenal,68,ST,England,EPL,3,3,H,M,175cm,70kg,20
+2019/2020,Pontus Dahlberg,Watford,68,GK,Sweden,EPL,1,3,M,M,195cm,90kg,21
+2019/2020,Yangel Herrera,Manchester City,68,CM,Venezuela,EPL,3,3,M,M,184cm,77kg,22
+2019/2020,Matthew Pennington,Everton,68,CB,England,EPL,2,3,M,M,185cm,77kg,25
+2019/2020,Ben Woodburn,Liverpool,68,CAM,Wales,EPL,3,4,H,M,174cm,72kg,20
+2019/2020,Grady Diangana,West Ham United,68,RM,England,EPL,4,3,H,M,180cm,73kg,22
+2019/2020,Pervis Estupiñán,Watford,68,LB,Ecuador,EPL,2,3,H,M,175cm,73kg,22
+2019/2020,Ben White,Brighton & Hove Albion,68,CB,England,EPL,2,4,M,M,185cm,72kg,22
+2019/2020,Simon Moore,Sheffield United,67,GK,England,EPL,1,3,M,M,191cm,83kg,30
+2019/2020,Ricky Holmes,Sheffield United,67,LM,England,EPL,3,3,M,M,172cm,75kg,32
+2019/2020,John Lundstram,Sheffield United,67,CM,England,EPL,2,5,M,H,181cm,74kg,26
+2019/2020,Achraf Lazaar,Newcastle United,67,LB,Morocco,EPL,3,3,H,H,184cm,80kg,28
+2019/2020,Jake Hesketh,Southampton,67,RM,England,EPL,3,3,H,L,168cm,63kg,24
+2019/2020,Xande Silva,West Ham United,67,RM,Portugal,EPL,3,3,H,M,177cm,68kg,23
+2019/2020,Jack Simpson,Bournemouth,67,CB,England,EPL,2,2,M,M,191cm,83kg,23
+2019/2020,Joseph Willock,Arsenal,67,CM,England,EPL,3,3,H,M,184cm,71kg,20
+2019/2020,Beni Baningime,Everton,67,CDM,Congo DR,EPL,2,3,M,M,178cm,70kg,21
+2019/2020,Oliver Skipp,Tottenham Hotspur,67,CDM,England,EPL,2,3,M,H,175cm,70kg,19
+2019/2020,Gonçalo Bento Soares Cardoso,West Ham United,67,CB,Portugal,EPL,2,3,L,M,189cm,83kg,19
+2019/2020,Mason Greenwood,Manchester United,67,CF,England,EPL,3,5,M,M,187cm,65kg,18
+2019/2020,Cameron Borthwick-Jackson,Manchester United,67,LB,England,EPL,3,3,M,M,189cm,73kg,23
+2019/2020,Herbie Kane,Liverpool,67,CM,England,EPL,3,3,M,M,177cm,67kg,21
+2019/2020,Jack Clarke,Tottenham Hotspur,67,RM,England,EPL,3,4,M,M,181cm,74kg,19
+2019/2020,Josh Sims,Southampton,67,RM,England,EPL,3,4,H,M,168cm,67kg,23
+2019/2020,Sheyi Ojo,Liverpool,67,RW,England,EPL,3,3,M,L,179cm,81kg,22
+2019/2020,Paolo Fernandes,Manchester City,67,RM,Spain,EPL,4,3,H,M,171cm,61kg,21
+2019/2020,Ko Itakura,Manchester City,67,CB,Japan,EPL,2,2,M,M,186cm,75kg,23
+2019/2020,Ethan Ampadu,Chelsea,67,CB,Wales,EPL,2,3,M,M,182cm,72kg,19
+2019/2020,Jake Hesketh,Southampton,67,RM,England,EPL,3,3,H,L,168cm,63kg,24
+2019/2020,Sean Raggett,Norwich City,67,CB,England,EPL,2,4,L,M,196cm,89kg,26
+2019/2020,Arijanet Muric,Manchester City,67,GK,Kosovo,EPL,1,2,M,M,197cm,81kg,21
+2019/2020,Trevoh Chalobah,Chelsea,67,CDM,England,EPL,3,3,M,M,190cm,75kg,20
+2019/2020,Mark Gillespie,Newcastle United,67,GK,England,EPL,1,3,M,M,192cm,88kg,28
+2019/2020,Josh Cullen,West Ham United,67,CM,Republic of Ireland,EPL,3,3,H,H,175cm,70kg,24
+2019/2020,Tosin Adarabioyo,Manchester City,67,CB,England,EPL,2,3,M,M,196cm,80kg,22
+2019/2020,Lukas Nmecha,Manchester City,67,ST,Germany,EPL,3,4,H,M,185cm,80kg,21
+2019/2020,Luis Javier Suárez,Watford,67,ST,Colombia,EPL,3,4,H,M,185cm,74kg,22
+2019/2020,Oliver Skipp,Norwich City,67,CDM,England,EPL,2,3,M,H,175cm,70kg,19
+2019/2020,Jacob Lungi Sørensen,Norwich City,67,CM,Denmark,EPL,3,3,H,H,184cm,77kg,22
+2019/2020,David Martin,West Ham United,66,GK,England,EPL,1,3,M,M,188cm,86kg,34
+2019/2020,Stephen Henderson,Crystal Palace,66,GK,Republic of Ireland,EPL,1,3,M,M,188cm,87kg,32
+2019/2020,Samir Carruthers,Sheffield United,66,CAM,Republic of Ireland,EPL,3,3,M,M,173cm,70kg,27
+2019/2020,Matt Macey,Arsenal,66,GK,England,EPL,1,2,M,M,198cm,81kg,25
+2019/2020,Sam McQueen,Southampton,66,LB,England,EPL,3,3,M,M,181cm,70kg,25
+2019/2020,Aaron Tshibola,Aston Villa,66,CM,Congo DR,EPL,3,3,M,M,183cm,81kg,25
+2019/2020,Jarosław Jach,Crystal Palace,66,CB,Poland,EPL,2,2,H,M,192cm,81kg,26
+2019/2020,Pedro Chirivella,Liverpool,66,CM,Spain,EPL,3,3,M,M,178cm,66kg,23
+2019/2020,Sepp van den Berg,Liverpool,66,CB,Netherlands,EPL,2,3,M,M,194cm,78kg,18
+2019/2020,Claudio Gomes,Manchester City,66,CDM,France,EPL,2,3,L,H,180cm,70kg,19
+2019/2020,Eric García,Manchester City,66,CB,Spain,EPL,2,3,L,H,182cm,79kg,19
+2019/2020,Demetri Mitchell,Manchester United,66,LB,England,EPL,3,2,H,H,181cm,71kg,23
+2019/2020,Pedro Lomba Neto,Wolverhampton Wanderers,66,RF,Portugal,EPL,3,3,H,M,172cm,63kg,20
+2019/2020,Louis Thompson,Norwich City,66,CM,Wales,EPL,3,3,H,H,180cm,75kg,25
+2019/2020,Jorge Segura,Watford,66,CB,Colombia,EPL,2,3,M,M,187cm,80kg,23
+2019/2020,Bright Enobakhare,Wolverhampton Wanderers,66,CAM,Nigeria,EPL,4,3,M,M,179cm,77kg,22
+2019/2020,Williams,Manchester United,66,LB,England,EPL,3,4,H,M,183cm,70kg,19
+2019/2020,Claudio Gomes,Manchester City,66,CDM,France,EPL,2,3,L,H,180cm,70kg,19
+2019/2020,Will Norris,Wolverhampton Wanderers,66,GK,England,EPL,1,3,M,M,191cm,81kg,26
+2019/2020,Carlton Morris,Norwich City,66,ST,England,EPL,2,3,M,M,185cm,85kg,24
+2019/2020,Louis Thompson,Norwich City,66,CM,Wales,EPL,3,3,H,H,180cm,75kg,25
+2019/2020,Aiden O'Neill,Burnley,66,CM,Australia,EPL,3,3,H,H,178cm,70kg,21
+2019/2020,Erik Palmer-Brown,Manchester City,66,CB,United States,EPL,2,2,L,H,186cm,79kg,23
+2019/2020,Will Norris,Burnley,66,GK,England,EPL,1,3,M,M,191cm,81kg,26
+2019/2020,Jordan Graham,Wolverhampton Wanderers,65,LM,England,EPL,4,5,M,L,182cm,73kg,25
+2019/2020,Phil Ofosu-Ayeh,Wolverhampton Wanderers,65,RB,Ghana,EPL,3,3,M,M,181cm,81kg,28
+2019/2020,Keinan Davis,Aston Villa,65,ST,England,EPL,3,2,M,M,188cm,75kg,22
+2019/2020,Tahith Chong,Manchester United,65,RW,Netherlands,EPL,4,3,H,H,185cm,75kg,20
+2019/2020,Japhet Tanganga,Tottenham Hotspur,65,CB,England,EPL,2,3,M,M,184cm,73kg,21
+2019/2020,Kelechi Nwakali,Arsenal,65,CAM,Nigeria,EPL,3,3,H,M,181cm,76kg,21
+2019/2020,Sam Hughes,Leicester City,65,CB,England,EPL,2,3,M,H,187cm,80kg,23
+2019/2020,Emile Smith Rowe,Arsenal,65,LW,England,EPL,4,3,H,M,182cm,64kg,19
+2019/2020,Bukayo Saka,Arsenal,65,LM,England,EPL,3,4,H,H,178cm,70kg,18
+2019/2020,Andy Lonergan,Liverpool,65,GK,England,EPL,1,1,M,M,192cm,87kg,36
+2019/2020,George Thomas,Leicester City,65,CAM,Wales,EPL,3,3,H,M,173cm,76kg,23
+2019/2020,Martin Samuelsen,West Ham United,65,ST,Norway,EPL,4,4,M,M,189cm,72kg,23
+2019/2020,Brad Smith,Bournemouth,65,LB,Australia,EPL,2,3,H,M,177cm,70kg,26
+2019/2020,Sam Surridge,Bournemouth,65,ST,England,EPL,2,3,H,M,191cm,77kg,21
+2019/2020,Daniel Iversen,Leicester City,65,GK,Denmark,EPL,1,2,M,M,191cm,85kg,22
+2019/2020,Ryan Inniss,Crystal Palace,65,CB,England,EPL,2,3,M,H,196cm,84kg,24
+2019/2020,Luke Amos,Tottenham Hotspur,65,CDM,England,EPL,3,4,M,M,179cm,72kg,23
+2019/2020,Dujon Sterling,Chelsea,65,RB,England,EPL,2,3,M,M,180cm,72kg,20
+2019/2020,Emile Smith Rowe,Arsenal,65,CAM,England,EPL,4,3,H,M,182cm,64kg,19
+2019/2020,James Bree,Aston Villa,65,RB,England,EPL,2,2,M,M,178cm,74kg,22
+2019/2020,Thomas Agyepong,Manchester City,65,LM,Ghana,EPL,4,3,M,L,170cm,73kg,24
+2019/2020,Adam Legzdins,Burnley,64,GK,England,EPL,1,3,M,M,190cm,90kg,33
+2019/2020,Kean Bryan,Sheffield United,64,CB,England,EPL,2,2,M,M,185cm,72kg,23
+2019/2020,Mark Travers,Bournemouth,64,GK,Republic of Ireland,EPL,1,2,M,M,191cm,82kg,21
+2019/2020,Morgan Feeney,Everton,64,CB,England,EPL,2,2,L,H,190cm,77kg,21
+2019/2020,Aaron Connolly,Brighton & Hove Albion,64,ST,Republic of Ireland,EPL,2,3,M,L,177cm,77kg,20
+2019/2020,Rhian Brewster,Liverpool,64,ST,England,EPL,3,4,H,M,180cm,75kg,20
+2019/2020,Troy Parrott,Tottenham Hotspur,64,ST,Republic of Ireland,EPL,3,4,H,M,175cm,72kg,18
+2019/2020,Ellis Simms,Everton,64,ST,England,EPL,3,4,H,M,183cm,73kg,19
+2019/2020,Renat Dadashov,Wolverhampton Wanderers,64,ST,Azerbaijan,EPL,3,3,M,M,186cm,81kg,21
+2019/2020,Enzo Loiodice,Wolverhampton Wanderers,64,CM,France,EPL,3,3,M,M,176cm,60kg,19
+2019/2020,Josh Knight,Leicester City,64,CB,England,EPL,2,2,M,H,185cm,78kg,22
+2019/2020,Daniel Barlaser,Newcastle United,64,CM,England,EPL,3,3,M,M,184cm,62kg,23
+2019/2020,Kean Bryan,Sheffield United,64,CB,England,EPL,2,2,M,M,185cm,72kg,23
+2019/2020,Nathan Thomas,Sheffield United,64,LM,England,EPL,3,2,M,M,178cm,80kg,25
+2019/2020,Rhian Brewster,Liverpool,64,ST,England,EPL,3,4,H,M,180cm,75kg,20
+2019/2020,Przemyslaw Placheta,Norwich City,64,LM,Poland,EPL,3,3,H,M,177cm,71kg,22
+2019/2020,Alfie Whiteman,Tottenham Hotspur,63,GK,England,EPL,1,2,M,M,190cm,76kg,21
+2019/2020,Víctor Fernández,Newcastle United,63,LM,Spain,EPL,3,3,H,M,175cm,70kg,22
+2019/2020,Michael Obafemi,Southampton,63,ST,Republic of Ireland,EPL,2,3,H,L,169cm,71kg,19
+2019/2020,James Garner,Manchester United,63,CDM,England,EPL,2,3,M,H,183cm,75kg,19
+2019/2020,Adam Idah,Norwich City,63,ST,Republic of Ireland,EPL,2,3,H,M,190cm,83kg,19
+2019/2020,Harry Burgoyne,Wolverhampton Wanderers,63,GK,England,EPL,1,2,M,M,193cm,80kg,23
+2019/2020,Zech Medley,Arsenal,63,CB,England,EPL,2,3,M,H,195cm,75kg,19
+2019/2020,Meritan Shabani,Wolverhampton Wanderers,63,CAM,Germany,EPL,3,3,M,M,185cm,78kg,21
+2019/2020,Manasse Mampala,Everton,63,ST,England,EPL,3,3,M,M,183cm,75kg,19
+2019/2020,João Virgínia,Everton,63,GK,Portugal,EPL,1,3,M,M,188cm,83kg,20
+2019/2020,Kazaiah Sterling,Tottenham Hotspur,63,ST,England,EPL,3,2,M,M,175cm,71kg,21
+2019/2020,Nathan Bishop,Manchester United,63,GK,England,EPL,1,3,M,M,185cm,72kg,20
+2019/2020,Hirst,Leicester City,63,ST,England,EPL,2,3,M,M,191cm,70kg,21
+2019/2020,Kazaiah Sterling,Tottenham Hotspur,63,ST,England,EPL,3,2,M,M,175cm,71kg,21
+2019/2020,Jack Roles,Tottenham Hotspur,63,CAM,Cyprus,EPL,3,4,H,M,183cm,67kg,21
+2019/2020,George Marsh,Tottenham Hotspur,63,CDM,England,EPL,2,3,M,H,178cm,68kg,21
+2019/2020,Nathan Baxter,Chelsea,63,GK,England,EPL,1,2,M,M,187cm,76kg,21
+2019/2020,Alfie Jones,Southampton,63,CB,England,EPL,2,3,M,M,182cm,70kg,22
+2019/2020,Ben Heneghan,Sheffield United,63,CB,England,EPL,2,3,M,M,191cm,79kg,26
+2019/2020,Benny Ashley-Seal,Wolverhampton Wanderers,62,ST,England,EPL,3,3,H,M,187cm,80kg,21
+2019/2020,Callum Slattery,Southampton,62,CAM,England,EPL,2,3,M,M,190cm,70kg,21
+2019/2020,Alex Dobre,Bournemouth,62,LM,Romania,EPL,3,3,H,M,178cm,71kg,21
+2019/2020,Nnamdi Ofoborh,Bournemouth,62,CM,Nigeria,EPL,2,3,M,H,175cm,77kg,20
+2019/2020,Matthew Longstaff,Newcastle United,62,CM,England,EPL,2,3,H,M,180cm,72kg,20
+2019/2020,Billy Gilmour,Chelsea,62,CM,Scotland,EPL,3,3,M,M,170cm,67kg,18
+2019/2020,Ki-Jana Hoever,Liverpool,62,RB,Netherlands,EPL,2,3,M,M,183cm,67kg,18
+2019/2020,Josh Benson,Burnley,62,CM,England,EPL,2,3,M,M,175cm,74kg,20
+2019/2020,Harry Lewis,Southampton,62,GK,England,EPL,1,3,M,M,186cm,77kg,22
+2019/2020,Adam Phillips,Burnley,62,CM,England,EPL,3,3,M,M,180cm,76kg,22
+2019/2020,Connor Johnson,Wolverhampton Wanderers,62,CB,England,EPL,2,3,M,M,188cm,78kg,22
+2019/2020,Felix Nmecha,Manchester City,62,CAM,England,EPL,4,3,H,M,186cm,70kg,19
+2019/2020,Aidan Barlow,Manchester United,62,LM,England,EPL,3,3,M,M,176cm,59kg,20
+2019/2020,Liam Millar,Liverpool,62,LW,Canada,EPL,3,3,H,M,178cm,72kg,20
+2019/2020,Ryotaro Meshino,Manchester City,62,ST,Japan,EPL,3,3,M,M,171cm,68kg,21
+2019/2020,Fraser Hornby,Everton,62,ST,Scotland,EPL,2,2,M,M,188cm,77kg,20
+2019/2020,Jerome Sinclair,Watford,62,ST,England,EPL,2,4,M,M,181cm,78kg,23
+2019/2020,Benny Ashley-Seal,Wolverhampton Wanderers,62,ST,England,EPL,3,3,H,M,187cm,80kg,21
+2019/2020,Viktor Gyökeres,Brighton & Hove Albion,62,ST,Sweden,EPL,3,3,M,M,187cm,86kg,21
+2019/2020,Josh Benson,Burnley,62,CM,England,EPL,2,3,M,M,175cm,74kg,20
+2019/2020,Adam Phillips,Burnley,62,CM,England,EPL,3,3,M,M,180cm,76kg,22
+2019/2020,Jan Mlakar,Brighton & Hove Albion,62,ST,Slovenia,EPL,2,3,H,M,183cm,78kg,21
+2019/2020,Nnamdi Ofoborh,Bournemouth,62,CDM,Nigeria,EPL,2,3,M,H,175cm,77kg,20
+2019/2020,Melvin Sitti,Norwich City,62,CDM,France,EPL,2,2,M,M,182cm,67kg,20
+2019/2020,Jamie Sterry,Newcastle United,61,RB,England,EPL,2,3,H,M,180cm,76kg,24
+2019/2020,Nathan Holland,West Ham United,61,LM,England,EPL,3,4,H,M,178cm,70kg,21
+2019/2020,Kyle Taylor,Bournemouth,61,CAM,England,EPL,3,3,M,M,178cm,70kg,20
+2019/2020,Curtis Jones,Liverpool,61,CM,England,EPL,3,3,H,M,182cm,68kg,19
+2019/2020,Kayne Ramsay,Southampton,61,RB,England,EPL,2,2,M,M,179cm,66kg,19
+2019/2020,Aidan Fitzpatrick,Norwich City,61,RM,Scotland,EPL,2,4,H,M,177cm,72kg,19
+2019/2020,Alexandru Paşcanu,Leicester City,61,CB,Romania,EPL,2,4,M,H,185cm,73kg,21
+2019/2020,Lorenzo Gonzalez,Manchester City,61,ST,Switzerland,EPL,3,3,M,M,167cm,67kg,20
+2019/2020,Jacob Maddox,Chelsea,61,CAM,England,EPL,3,3,H,M,178cm,72kg,21
+2019/2020,Nathaniel Phillips,Liverpool,61,CB,England,EPL,2,3,L,H,188cm,70kg,23
+2019/2020,Michael Folivi,Watford,61,ST,England,EPL,2,3,H,L,175cm,79kg,22
+2019/2020,Kyle Taylor,Bournemouth,61,CM,England,EPL,3,3,M,M,178cm,70kg,20
+2019/2020,Layton Ndukwu,Leicester City,61,RM,England,EPL,3,5,M,M,176cm,72kg,21
+2019/2020,Jacob Maddox,Southampton,61,CAM,England,EPL,3,3,H,M,178cm,72kg,21
+2019/2020,Ben Sheaf,Arsenal,61,CDM,England,EPL,2,2,M,H,185cm,64kg,22
+2019/2020,Nathan Broadhead,Everton,61,LW,Wales,EPL,3,4,H,M,178cm,73kg,22
+2019/2020,Nathan Trott,West Ham United,61,GK,England,EPL,1,3,M,M,184cm,70kg,21
+2019/2020,Robert Sanchez,Brighton & Hove Albion,61,GK,Spain,EPL,1,3,M,M,197cm,85kg,22
+2019/2020,Rushian Hepburn-Murphy,Aston Villa,61,ST,England,EPL,3,3,H,M,173cm,81kg,21
+2019/2020,Kayne Ramsay,Southampton,61,RB,England,EPL,2,2,M,M,179cm,66kg,19
+2019/2020,Diallang Jaiyesimi,Norwich City,61,LM,England,EPL,2,3,H,M,181cm,72kg,22
+2019/2020,Niall Ennis,Wolverhampton Wanderers,61,ST,England,EPL,3,3,H,M,180cm,80kg,21
+2019/2020,Nathan Holland,West Ham United,61,LM,England,EPL,3,4,H,M,178cm,70kg,21
+2019/2020,Jayson Molumby,Brighton & Hove Albion,61,CM,Republic of Ireland,EPL,2,3,M,M,177cm,64kg,20
+2019/2020,Jacob Maddox,Chelsea,61,CM,England,EPL,3,3,H,M,178cm,72kg,21
+2019/2020,Conor Gallagher,Chelsea,61,CM,England,EPL,2,2,M,M,182cm,74kg,20
+2019/2020,Matt Butcher,Bournemouth,60,CM,England,EPL,2,3,M,H,188cm,83kg,23
+2019/2020,John Kitolano,Wolverhampton Wanderers,60,LWB,Norway,EPL,2,3,H,M,174cm,68kg,20
+2019/2020,Max Kilman,Wolverhampton Wanderers,60,CB,England,EPL,2,4,M,M,195cm,80kg,23
+2019/2020,Marcus Barnes,Southampton,60,ST,England,EPL,3,3,M,M,185cm,72kg,23
+2019/2020,Joel Latibeaudiere,Manchester City,60,CB,England,EPL,2,3,L,M,180cm,72kg,20
+2019/2020,Bruno André Cavaco Jordão,Wolverhampton Wanderers,60,CM,Portugal,EPL,3,3,M,M,180cm,71kg,21
+2019/2020,Ali Koiki,Burnley,60,LB,England,EPL,3,2,M,M,180cm,70kg,20
+2019/2020,Benjamín Garré,Manchester City,60,LW,Argentina,EPL,4,3,M,M,171cm,63kg,19
+2019/2020,Adam Lewis,Liverpool,60,LB,England,EPL,2,2,M,M,175cm,63kg,20
+2019/2020,Paul Glatzel,Liverpool,60,ST,Germany,EPL,3,3,M,M,174cm,67kg,19
+2019/2020,Elias Sørensen,Newcastle United,60,ST,Denmark,EPL,2,3,H,M,189cm,77kg,20
+2019/2020,Jake Eastwood,Sheffield United,60,GK,England,EPL,1,2,M,M,190cm,70kg,23
+2019/2020,Callum O'Hare,Aston Villa,60,CM,England,EPL,3,3,H,M,173cm,65kg,22
+2019/2020,Matt Butcher,Bournemouth,60,CM,England,EPL,2,3,M,H,188cm,83kg,23
+2019/2020,Mikael Ndjoli,Bournemouth,60,ST,England,EPL,2,4,H,L,183cm,64kg,21
+2019/2020,Joel Latibeaudiere,Manchester City,60,CB,England,EPL,2,3,L,M,180cm,72kg,20
+2019/2020,Ben Wilmot,Watford,60,CB,England,EPL,2,3,M,M,188cm,80kg,20
+2019/2020,Sebastian Soto,Norwich City,60,ST,United States,EPL,2,3,M,M,183cm,78kg,19
+2019/2020,Nya Kirby,Crystal Palace,59,CAM,England,EPL,3,2,M,M,173cm,66kg,20
+2019/2020,Caoimhin Kelleher,Liverpool,59,GK,Republic of Ireland,EPL,1,2,M,M,188cm,69kg,21
+2019/2020,Gavin Bazunu,Manchester City,59,GK,Republic of Ireland,EPL,1,2,M,M,188cm,73kg,18
+2019/2020,James Daly,Crystal Palace,59,ST,England,EPL,2,2,M,M,178cm,70kg,20
+2019/2020,Luke Dreher,Crystal Palace,59,CM,England,EPL,2,3,M,M,184cm,77kg,21
+2019/2020,Daniel Adshead,Norwich City,59,CM,England,EPL,2,2,H,M,185cm,70kg,18
+2019/2020,Jamie Bowden,Tottenham Hotspur,59,CDM,England,EPL,2,3,M,H,183cm,78kg,18
+2019/2020,Yasser Larouci,Liverpool,59,LB,Algeria,EPL,2,2,H,M,175cm,69kg,19
+2019/2020,David Parkhouse,Sheffield United,59,ST,Northern Ireland,EPL,2,2,M,M,185cm,81kg,20
+2019/2020,Kelland Watts,Newcastle United,59,CB,England,EPL,2,4,H,M,190cm,75kg,20
+2019/2020,Ryan Giles,Wolverhampton Wanderers,59,LWB,England,EPL,3,3,H,M,179cm,72kg,20
+2019/2020,Matija Šarkic,Aston Villa,59,GK,Montenegro,EPL,1,2,M,M,192cm,73kg,22
+2019/2020,Jamie Bowden,Tottenham Hotspur,59,CDM,Republic of Ireland,EPL,2,3,M,H,183cm,78kg,18
+2019/2020,Ryan Loft,Leicester City,59,ST,England,EPL,2,3,M,L,190cm,73kg,22
+2019/2020,Kelland Watts,Newcastle United,59,CB,England,EPL,2,4,H,M,190cm,75kg,20
+2019/2020,Simon Power,Norwich City,59,RM,Republic of Ireland,EPL,3,2,H,L,178cm,67kg,22
+2019/2020,Regan Slater,Sheffield United,59,CM,England,EPL,2,3,M,M,173cm,65kg,20
+2019/2020,David Parkhouse,Sheffield United,59,ST,Northern Ireland,EPL,2,2,M,M,185cm,81kg,20
+2019/2020,Daniel Ballard,Arsenal,59,CB,Northern Ireland,EPL,2,3,M,M,185cm,85kg,20
+2019/2020,Cameron John,Wolverhampton Wanderers,59,CB,England,EPL,2,2,M,M,181cm,78kg,20
+2019/2020,Ryan Giles,Wolverhampton Wanderers,59,LWB,England,EPL,3,3,H,M,179cm,72kg,20
+2019/2020,Jordi Osei-Tutu,Arsenal,59,RM,England,EPL,2,3,M,M,178cm,72kg,21
+2019/2020,Joe Powell,West Ham United,58,LM,England,EPL,3,3,H,M,178cm,68kg,21
+2019/2020,Oskar Buur Rasmussen,Wolverhampton Wanderers,58,RWB,Denmark,EPL,3,3,H,M,176cm,70kg,22
+2019/2020,Jason Lokilo,Crystal Palace,58,RM,Congo DR,EPL,2,3,M,M,175cm,65kg,21
+2019/2020,Timi Odusina,Norwich City,58,CB,England,EPL,2,2,M,M,186cm,74kg,20
+2019/2020,Kian Flanagan,Crystal Palace,58,CAM,Republic of Ireland,EPL,3,3,M,M,179cm,72kg,20
+2019/2020,Conor Coventry,West Ham United,58,CM,Republic of Ireland,EPL,2,3,M,M,175cm,65kg,20
+2019/2020,Giovanni McGregor,Crystal Palace,58,CM,England,EPL,2,3,M,M,176cm,71kg,21
+2019/2020,Max Sanders,Brighton & Hove Albion,58,CM,England,EPL,2,3,M,M,176cm,80kg,21
+2019/2020,Mésaque Geremias Djú,West Ham United,58,RM,Portugal,EPL,2,2,M,M,178cm,63kg,21
+2019/2020,Luke McCormick,Chelsea,58,CM,Scotland,EPL,2,3,M,M,180cm,74kg,21
+2019/2020,Alex Jakubiak,Watford,58,ST,Scotland,EPL,3,3,M,M,177cm,66kg,23
+2019/2020,Jason Lokilo,Crystal Palace,58,RM,Congo DR,EPL,2,3,M,M,175cm,65kg,21
+2019/2020,Giovanni McGregor,Crystal Palace,58,CM,England,EPL,2,3,M,M,176cm,71kg,21
+2019/2020,Max Sanders,Brighton & Hove Albion,58,CM,England,EPL,2,3,M,M,176cm,80kg,21
+2019/2020,Tyler Smith,Sheffield United,58,ST,England,EPL,2,3,M,M,178cm,67kg,21
+2019/2020,Conor Coventry,West Ham United,58,CM,Republic of Ireland,EPL,2,3,M,M,175cm,65kg,20
+2019/2020,Timi Odusina,Norwich City,58,CB,England,EPL,2,2,M,M,186cm,74kg,20
+2019/2020,Tom Dele-Bashiru,Watford,57,CM,Nigeria,EPL,2,2,M,M,179cm,68kg,20
+2019/2020,Jake Vokins,Southampton,57,LB,England,EPL,2,3,H,M,180cm,70kg,20
+2019/2020,Dan Kemp,West Ham United,57,RM,England,EPL,3,3,H,M,168cm,63kg,21
+2019/2020,Sam Woods,Crystal Palace,57,CB,England,EPL,2,2,M,M,186cm,77kg,21
+2019/2020,Ryan Cooney,Burnley,57,RB,England,EPL,2,3,M,M,176cm,68kg,20
+2019/2020,Oladapo Afolayan,West Ham United,57,ST,England,EPL,2,3,M,M,180cm,70kg,22
+2019/2020,Robbie Burton,Arsenal,57,CAM,Wales,EPL,3,3,M,M,170cm,65kg,20
+2019/2020,Rob Nizet,Norwich City,57,LB,Belgium,EPL,2,2,H,M,183cm,66kg,18
+2019/2020,Josh Grant,Chelsea,57,RB,England,EPL,2,3,M,H,183cm,78kg,21
+2019/2020,Sam Woods,Crystal Palace,57,CB,England,EPL,2,2,M,M,186cm,77kg,21
+2019/2020,Ryan Cooney,Burnley,57,RB,England,EPL,2,3,M,M,176cm,68kg,20
+2019/2020,Dan Kemp,West Ham United,57,RM,England,EPL,3,3,H,M,168cm,63kg,21
+2019/2020,Josh Bowler,Everton,57,RM,England,EPL,3,2,M,M,175cm,70kg,21
+2019/2020,Steven Alzate,Brighton & Hove Albion,56,CM,England,EPL,3,3,M,M,180cm,65kg,21
+2019/2020,Dion Sanderson,Wolverhampton Wanderers,56,CB,England,EPL,2,3,M,M,186cm,78kg,20
+2019/2020,Owen Bailey,Newcastle United,56,CDM,England,EPL,2,3,M,H,183cm,77kg,21
+2019/2020,Tyreke Wilson,Manchester City,56,LB,Republic of Ireland,EPL,2,2,M,M,172cm,66kg,20
+2019/2020,Tyreece John-Jules,Arsenal,56,ST,England,EPL,3,3,M,M,175cm,75kg,19
+2019/2020,Liam Gibson,Newcastle United,56,LB,England,EPL,2,3,H,M,185cm,71kg,23
+2019/2020,Steven Alzate,Brighton & Hove Albion,56,CM,Colombia,EPL,3,3,M,M,180cm,65kg,21
+2019/2020,Rhys Norrington-Davies,Sheffield United,56,LWB,Wales,EPL,2,2,M,M,186cm,75kg,21
+2019/2020,Tyreece John-Jules,Arsenal,56,ST,England,EPL,3,3,M,M,175cm,75kg,19
+2019/2020,Dion Sanderson,Wolverhampton Wanderers,56,CB,England,EPL,2,3,M,M,186cm,78kg,20
+2019/2020,Daniel Grimshaw,Manchester City,55,GK,England,EPL,1,2,M,M,185cm,77kg,22
+2019/2020,Nikola Tavares,Crystal Palace,55,CB,Croatia,EPL,2,3,M,M,185cm,76kg,21
+2019/2020,Ben Johnson,West Ham United,55,RB,England,EPL,2,3,H,M,175cm,67kg,20
+2019/2020,Taylor Perry,Wolverhampton Wanderers,55,CM,England,EPL,2,3,H,M,180cm,73kg,18
+2019/2020,Easah Suliman,Aston Villa,55,CB,England,EPL,2,3,M,H,185cm,78kg,22
+2019/2020,Akin Famewo,Norwich City,55,CB,England,EPL,2,3,L,M,187cm,66kg,21
+2019/2020,Jake Doyle-Hayes,Aston Villa,55,CM,Republic of Ireland,EPL,2,3,M,M,175cm,68kg,21
+2019/2020,Sam McCallum,Norwich City,55,LB,England,EPL,2,3,M,M,172cm,66kg,19
+2019/2020,Akin Famewo,Norwich City,55,CB,England,EPL,2,3,L,M,187cm,66kg,21
+2019/2020,Jamie Cumming,Chelsea,54,GK,England,EPL,1,2,M,M,186cm,78kg,20
+2019/2020,Jack Clarke,Aston Villa,54,CDM,Republic of Ireland,EPL,2,3,M,M,175cm,65kg,21
+2019/2020,Marcus Dewhurst,Sheffield United,53,GK,England,EPL,1,2,M,M,189cm,70kg,19
+2019/2020,Jacob Ramsey,Aston Villa,53,CAM,England,EPL,2,3,H,L,180cm,70kg,19
+2019/2020,George McMahon,Burnley,53,GK,England,EPL,1,2,M,M,191cm,86kg,19
+2019/2020,Jacob Ramsey,Aston Villa,53,CAM,England,EPL,2,3,H,L,180cm,70kg,19
+2019/2020,Marcus Dewhurst,Sheffield United,53,GK,England,EPL,1,2,M,M,189cm,70kg,19
+2019/2020,Mason Bloomfield,Norwich City,53,ST,England,EPL,2,2,M,M,191cm,75kg,23
+2019/2020,Callum Rowe,Aston Villa,52,CM,England,EPL,2,3,M,M,180cm,70kg,20
+2019/2020,Jarrad Branthwaite,Everton,49,CB,England,EPL,2,2,L,H,193cm,70kg,17

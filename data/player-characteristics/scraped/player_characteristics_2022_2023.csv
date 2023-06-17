@@ -1,0 +1,649 @@
+season,player_name,team,player_rating,position,nation,league,skill_moves,weak_foot_quality,work_rate_a,work_rate_d,player_height,player_weight,age
+2022/2023,Kevin De Bruyne,Manchester City,91,CM,Belgium,EPL,4,5,H,H,181cm,70kg,31
+2022/2023,Mohamed Salah,Liverpool,90,RW,Egypt,EPL,4,3,H,M,175cm,71kg,30
+2022/2023,Virgil van Dijk,Liverpool,90,CB,Netherlands,EPL,2,3,M,H,193cm,92kg,31
+2022/2023,Cristiano Ronaldo,Manchester Utd,90,ST,Portugal,EPL,5,4,H,L,187cm,83kg,38
+2022/2023,Heung Min Son,Spurs,89,LW,Korea Republic,EPL,4,5,H,M,183cm,78kg,30
+2022/2023,Casemiro,Manchester Utd,89,CDM,Brazil,EPL,2,3,M,H,185cm,84kg,31
+2022/2023,Alisson,Liverpool,89,GK,Brazil,EPL,1,3,M,M,191cm,91kg,30
+2022/2023,Harry Kane,Spurs,89,ST,England,EPL,3,5,H,H,188cm,89kg,29
+2022/2023,Ederson,Manchester City,89,GK,Brazil,EPL,1,3,M,M,188cm,86kg,29
+2022/2023,N'Golo Kanté,Chelsea,89,CDM,France,EPL,2,3,M,H,168cm,70kg,32
+2022/2023,Erling Haaland,Manchester City,88,ST,Norway,EPL,3,3,H,M,195cm,94kg,22
+2022/2023,Bernardo Silva,Manchester City,88,CAM,Portugal,EPL,4,3,H,H,173cm,64kg,28
+2022/2023,Rúben Dias,Manchester City,88,CB,Portugal,EPL,2,4,M,H,187cm,82kg,26
+2022/2023,João Cancelo,Manchester City,88,LB,Portugal,EPL,4,4,H,M,182cm,74kg,28
+2022/2023,Keylor Navas,Nott'm Forest,88,GK,Costa Rica,EPL,1,3,M,M,185cm,80kg,36
+2022/2023,David De Gea,Manchester Utd,87,GK,Spain,EPL,1,3,M,M,192cm,76kg,32
+2022/2023,Hugo Lloris,Spurs,87,GK,France,EPL,1,1,M,M,188cm,82kg,36
+2022/2023,Trent Alexander-Arnold,Liverpool,87,RB,England,EPL,3,4,H,M,180cm,69kg,24
+2022/2023,Kalidou Koulibaly,Chelsea,87,CB,Senegal,EPL,2,4,M,H,187cm,89kg,31
+2022/2023,Rodri,Manchester City,87,CDM,Spain,EPL,3,4,M,H,191cm,82kg,26
+2022/2023,Andrew Robertson,Liverpool,87,LB,Scotland,EPL,3,2,H,H,178cm,64kg,29
+2022/2023,Fabinho,Liverpool,87,CDM,Brazil,EPL,3,2,M,H,188cm,78kg,29
+2022/2023,Aymeric Laporte,Manchester City,86,CB,Spain,EPL,2,3,M,M,191cm,85kg,28
+2022/2023,Édouard Mendy,Chelsea,86,GK,Senegal,EPL,1,2,M,M,197cm,86kg,31
+2022/2023,Thiago Silva,Chelsea,86,CB,Brazil,EPL,2,3,M,H,183cm,79kg,38
+2022/2023,Raheem Sterling,Chelsea,86,LW,England,EPL,4,3,H,M,170cm,69kg,28
+2022/2023,Thiago,Liverpool,86,CM,Spain,EPL,5,3,M,M,174cm,70kg,32
+2022/2023,Riyad Mahrez,Manchester City,86,RW,Algeria,EPL,5,4,M,M,179cm,67kg,32
+2022/2023,Bruno Fernandes,Manchester Utd,86,CAM,Portugal,EPL,4,3,H,H,179cm,69kg,28
+2022/2023,Jorginho,Chelsea,85,CM,Italy,EPL,3,3,M,M,180cm,68kg,31
+2022/2023,Diogo Jota,Liverpool,85,CF,Portugal,EPL,4,5,H,H,178cm,73kg,26
+2022/2023,Phil Foden,Manchester City,85,LW,England,EPL,4,3,H,H,171cm,69kg,22
+2022/2023,Ilkay Gündogan,Manchester City,85,CM,Germany,EPL,4,4,H,M,180cm,80kg,32
+2022/2023,Kyle Walker,Manchester City,85,RB,England,EPL,3,2,H,H,183cm,83kg,32
+2022/2023,Jamie Vardy,Leicester City,85,ST,England,EPL,3,4,H,M,179cm,74kg,36
+2022/2023,Aubameyang,Chelsea,85,ST,Gabon,EPL,4,4,H,L,187cm,80kg,33
+2022/2023,Jorginho,Arsenal,85,CM,Italy,EPL,3,3,M,M,180cm,68kg,31
+2022/2023,Jack Grealish,Manchester City,84,LW,England,EPL,4,3,H,M,180cm,81kg,27
+2022/2023,Kai Havertz,Chelsea,84,CAM,Germany,EPL,4,4,M,M,189cm,82kg,23
+2022/2023,Mason Mount,Chelsea,84,CAM,England,EPL,3,4,H,H,180cm,74kg,24
+2022/2023,Mateo Kovacic,Chelsea,84,CM,Croatia,EPL,4,4,H,H,176cm,80kg,29
+2022/2023,Reece James,Chelsea,84,RWB,England,EPL,3,3,H,M,178cm,87kg,23
+2022/2023,Joel Matip,Liverpool,84,CB,Cameroon,EPL,2,2,M,M,194cm,90kg,31
+2022/2023,Luis Díaz,Liverpool,84,LW,Colombia,EPL,4,4,H,M,180cm,73kg,26
+2022/2023,Jadon Sancho,Manchester Utd,84,LW,England,EPL,5,3,H,M,180cm,76kg,23
+2022/2023,Martin Ødegaard,Arsenal,84,CAM,Norway,EPL,5,2,H,M,178cm,68kg,24
+2022/2023,Youri Tielemans,Leicester City,84,CM,Belgium,EPL,4,5,M,M,176cm,72kg,26
+2022/2023,Declan Rice,West Ham,84,CDM,England,EPL,2,3,M,H,185cm,80kg,24
+2022/2023,Ivan Perišić,Spurs,84,LM,Croatia,EPL,4,5,H,M,186cm,80kg,34
+2022/2023,Thomas Partey,Arsenal,84,CDM,Ghana,EPL,3,3,M,H,185cm,77kg,29
+2022/2023,Emiliano Martínez,Aston Villa,84,GK,Argentina,EPL,1,4,M,M,195cm,88kg,30
+2022/2023,Raphaël Varane,Manchester Utd,84,CB,France,EPL,2,4,M,H,191cm,81kg,30
+2022/2023,Wilfred Ndidi,Leicester City,84,CDM,Nigeria,EPL,3,4,M,H,183cm,74kg,26
+2022/2023,Kieran Trippier,Newcastle Utd,84,RB,England,EPL,3,4,M,M,173cm,71kg,32
+2022/2023,João Félix,Chelsea,84,CF,Portugal,EPL,5,4,M,M,181cm,70kg,23
+2022/2023,Hakim Ziyech,Chelsea,83,RW,Morocco,EPL,5,2,H,H,181cm,65kg,30
+2022/2023,Jordan Henderson,Liverpool,83,CM,England,EPL,3,3,H,H,182cm,80kg,32
+2022/2023,Roberto Firmino,Liverpool,83,CF,Brazil,EPL,5,4,H,H,181cm,76kg,31
+2022/2023,Rúben Neves,Wolves,83,CM,Portugal,EPL,3,4,L,H,180cm,80kg,26
+2022/2023,John Stones,Manchester City,83,CB,England,EPL,3,4,H,M,188cm,76kg,28
+2022/2023,Gabriel Jesus,Arsenal,83,ST,Brazil,EPL,4,3,H,H,175cm,73kg,26
+2022/2023,Pierre-Emile Højbjerg,Spurs,83,CDM,Denmark,EPL,3,4,H,H,187cm,84kg,27
+2022/2023,Ricardo Pereira,Leicester City,83,RB,Portugal,EPL,3,4,H,H,175cm,70kg,29
+2022/2023,Diego Carlos,Aston Villa,83,CB,Brazil,EPL,3,4,M,H,185cm,86kg,30
+2022/2023,Cristian Romero,Spurs,83,CB,Argentina,EPL,3,2,M,H,185cm,79kg,25
+2022/2023,Cody Gakpo,Liverpool,83,LW,Netherlands,EPL,4,4,M,M,189cm,76kg,24
+2022/2023,Christian Pulisic,Chelsea,82,LW,United States,EPL,4,4,M,M,177cm,69kg,24
+2022/2023,Aaron Ramsdale,Arsenal,82,GK,England,EPL,1,3,M,M,191cm,77kg,25
+2022/2023,Ben Chilwell,Chelsea,82,LWB,England,EPL,3,3,H,M,180cm,77kg,26
+2022/2023,Azpilicueta,Chelsea,82,CB,Spain,EPL,2,3,M,M,178cm,77kg,33
+2022/2023,Darwin Núñez,Liverpool,82,ST,Uruguay,EPL,3,3,H,H,186cm,80kg,23
+2022/2023,Bukayo Saka,Arsenal,82,RM,England,EPL,3,3,H,M,178cm,65kg,21
+2022/2023,Antony,Manchester Utd,82,RW,Brazil,EPL,5,3,H,M,174cm,63kg,23
+2022/2023,Lucas Paquetá,West Ham,82,CAM,Brazil,EPL,5,4,H,H,180cm,72kg,25
+2022/2023,Wilfried Zaha,Crystal Palace,82,LW,Côte d'Ivoire,EPL,5,3,H,H,180cm,66kg,30
+2022/2023,Coutinho,Aston Villa,82,CAM,Brazil,EPL,5,4,H,M,172cm,68kg,30
+2022/2023,Raúl Jiménez,Wolves,82,ST,Mexico,EPL,3,4,M,H,188cm,81kg,32
+2022/2023,Gonçalo Guedes,Wolves,82,ST,Portugal,EPL,4,4,H,L,179cm,68kg,26
+2022/2023,Christian Eriksen,Manchester Utd,82,CM,Denmark,EPL,4,5,M,L,181cm,76kg,31
+2022/2023,Jordan Pickford,Everton,82,GK,England,EPL,1,4,M,M,185cm,77kg,29
+2022/2023,Lucas Digne,Aston Villa,82,LB,France,EPL,3,2,H,M,178cm,74kg,29
+2022/2023,Idrissa Gueye,Everton,82,CDM,Senegal,EPL,3,3,M,H,174cm,66kg,33
+2022/2023,James Maddison,Leicester City,82,CAM,England,EPL,4,4,H,M,175cm,73kg,26
+2022/2023,Łukasz Fabiański,West Ham,82,GK,Poland,EPL,1,2,M,M,190cm,83kg,38
+2022/2023,Arnaut Danjuma,Spurs,82,LM,Netherlands,EPL,4,4,H,M,178cm,74kg,26
+2022/2023,Cucurella,Chelsea,81,LB,Spain,EPL,3,3,H,H,172cm,66kg,24
+2022/2023,Naby Keïta,Liverpool,81,CM,Guinea,EPL,4,4,M,M,172cm,64kg,28
+2022/2023,Joe Gomez,Liverpool,81,CB,England,EPL,3,3,M,M,188cm,77kg,26
+2022/2023,José Sá,Wolves,81,GK,Portugal,EPL,1,2,M,M,192cm,84kg,30
+2022/2023,Marcus Rashford,Manchester Utd,81,LW,England,EPL,5,3,M,L,186cm,70kg,25
+2022/2023,Allan Saint-Maximin,Newcastle Utd,81,LM,France,EPL,5,4,H,L,173cm,67kg,26
+2022/2023,João Moutinho,Wolves,81,CM,Portugal,EPL,3,4,M,M,170cm,61kg,36
+2022/2023,Lisandro Martínez,Manchester Utd,81,CB,Argentina,EPL,3,3,M,H,178cm,77kg,25
+2022/2023,Denis Zakaria,Chelsea,81,CDM,Switzerland,EPL,3,3,H,H,191cm,81kg,26
+2022/2023,Dejan Kulusevski,Spurs,81,RW,Sweden,EPL,4,3,H,M,186cm,75kg,23
+2022/2023,Richarlison,Spurs,81,ST,Brazil,EPL,4,5,H,M,181cm,71kg,26
+2022/2023,Manuel Akanji,Manchester City,81,CB,Switzerland,EPL,2,4,M,M,187cm,91kg,27
+2022/2023,Yves Bissouma,Spurs,81,CDM,Mali,EPL,4,3,H,M,182cm,80kg,26
+2022/2023,Bruno Guimarães,Newcastle Utd,81,CM,Brazil,EPL,3,2,H,H,182cm,74kg,25
+2022/2023,Kalvin Phillips,Manchester City,81,CDM,England,EPL,3,3,M,H,178cm,72kg,27
+2022/2023,Palhinha,Fulham,81,CDM,Portugal,EPL,2,4,M,H,190cm,85kg,27
+2022/2023,Tomáš Souček,West Ham,81,CDM,Czech Republic,EPL,3,3,H,H,192cm,86kg,28
+2022/2023,Alphonse Areola,West Ham,81,GK,France,EPL,1,3,M,M,195cm,94kg,30
+2022/2023,James Ward-Prowse,Southampton,81,CM,England,EPL,3,3,H,H,173cm,66kg,28
+2022/2023,Kieran Tierney,Arsenal,81,LB,Scotland,EPL,3,3,H,H,178cm,70kg,25
+2022/2023,Neto,AFC Bournemouth,81,GK,Brazil,EPL,1,2,M,M,190cm,84kg,33
+2022/2023,Nick Pope,Newcastle Utd,81,GK,England,EPL,1,3,M,M,199cm,76kg,31
+2022/2023,Harry Maguire,Manchester Utd,81,CB,England,EPL,2,3,H,M,194cm,100kg,30
+2022/2023,Ibrahima Konaté,Liverpool,81,CB,France,EPL,3,2,M,H,194cm,95kg,24
+2022/2023,Gabriel,Arsenal,81,CB,Brazil,EPL,2,2,M,H,190cm,87kg,25
+2022/2023,Matheus Cunha,Wolves,81,ST,Brazil,EPL,4,4,M,M,184cm,76kg,23
+2022/2023,Pablo Sarabia,Wolves,81,RW,Spain,EPL,4,4,H,M,174cm,70kg,31
+2022/2023,Pedro Porro,Spurs,81,RWB,Spain,EPL,3,3,H,M,173cm,69kg,23
+2022/2023,Felipe,Nott'm Forest,81,CB,Brazil,EPL,2,3,L,H,190cm,83kg,34
+2022/2023,William Saliba,Arsenal,80,CB,France,EPL,2,3,M,H,192cm,85kg,22
+2022/2023,Nélson Semedo,Wolves,80,RWB,Portugal,EPL,4,3,H,M,177cm,69kg,29
+2022/2023,Fred,Manchester Utd,80,CM,Brazil,EPL,4,3,H,H,169cm,62kg,30
+2022/2023,Scott McTominay,Manchester Utd,80,CDM,Scotland,EPL,3,3,M,H,193cm,88kg,26
+2022/2023,Luis Sinisterra,Leeds United,80,LW,Colombia,EPL,4,4,H,H,172cm,60kg,23
+2022/2023,Lucas Moura,Spurs,80,RW,Brazil,EPL,4,4,M,M,174cm,70kg,30
+2022/2023,Allan Marques Loureiro,Everton,80,CDM,Brazil,EPL,4,3,M,H,175cm,74kg,32
+2022/2023,Emiliano Buendía,Aston Villa,80,RM,Argentina,EPL,4,4,H,H,172cm,65kg,26
+2022/2023,Arthur,Liverpool,80,CM,Brazil,EPL,4,3,M,M,171cm,73kg,26
+2022/2023,Eric Dier,Spurs,80,CB,England,EPL,2,2,M,H,190cm,90kg,29
+2022/2023,Remo Freuler,Nott'm Forest,80,CM,Switzerland,EPL,4,3,M,M,181cm,80kg,31
+2022/2023,Renan Lodi,Nott'm Forest,80,LB,Brazil,EPL,4,3,H,M,173cm,68kg,25
+2022/2023,Victor Lindelöf,Manchester Utd,80,CB,Sweden,EPL,3,4,M,M,187cm,80kg,28
+2022/2023,Stefan Ortega,Manchester City,80,GK,Germany,EPL,1,4,M,M,185cm,88kg,30
+2022/2023,Nayef Aguerd,West Ham,80,CB,Morocco,EPL,2,3,M,M,188cm,76kg,27
+2022/2023,Bernd Leno,Fulham,80,GK,Germany,EPL,1,3,M,M,190cm,83kg,31
+2022/2023,Anthony Martial,Manchester Utd,80,ST,France,EPL,4,4,L,L,184cm,76kg,27
+2022/2023,Dominic Calvert-Lewin,Everton,80,ST,England,EPL,3,2,H,M,187cm,71kg,26
+2022/2023,Harvey Barnes,Leicester City,80,LM,England,EPL,3,4,H,M,180cm,66kg,25
+2022/2023,Boubacar Kamara,Aston Villa,80,CDM,France,EPL,3,3,M,H,184cm,68kg,23
+2022/2023,Luke Shaw,Manchester Utd,80,LB,England,EPL,3,2,M,M,181cm,75kg,27
+2022/2023,Alexander Isak,Newcastle Utd,80,ST,Sweden,EPL,4,5,H,L,192cm,77kg,23
+2022/2023,Leon Bailey,Aston Villa,80,RM,Jamaica,EPL,4,3,H,L,178cm,77kg,25
+2022/2023,Jarrod Bowen,West Ham,80,RM,England,EPL,4,3,H,M,175cm,70kg,26
+2022/2023,Kurt Zouma,West Ham,80,CB,France,EPL,2,3,M,M,190cm,95kg,28
+2022/2023,Martin Dúbravka,Manchester Utd,80,GK,Slovakia,EPL,1,2,M,M,190cm,80kg,34
+2022/2023,Vladimír Coufal,West Ham,80,RB,Czech Republic,EPL,3,3,H,H,175cm,76kg,30
+2022/2023,Kepa Arrizabalaga,Chelsea,80,GK,Spain,EPL,1,4,M,M,186cm,88kg,28
+2022/2023,Gianluca Scamacca,West Ham,80,ST,Italy,EPL,4,3,M,M,195cm,85kg,24
+2022/2023,Aaron Wan-Bissaka,Manchester Utd,80,RB,England,EPL,3,2,M,M,183cm,72kg,25
+2022/2023,Sven Botman,Newcastle Utd,80,CB,Netherlands,EPL,2,3,M,H,193cm,81kg,23
+2022/2023,Smith Rowe,Arsenal,80,LM,England,EPL,4,4,H,H,182cm,72kg,22
+2022/2023,Martin Dúbravka,Newcastle Utd,80,GK,Slovakia,EPL,1,2,M,M,190cm,80kg,34
+2022/2023,Álex Moreno,Aston Villa,80,LB,Spain,EPL,3,3,H,M,179cm,68kg,29
+2022/2023,Marcel Sabitzer,Manchester Utd,80,CM,Austria,EPL,3,4,H,H,178cm,76kg,29
+2022/2023,Weston McKennie,Leeds United,80,CM,United States,EPL,3,3,H,H,183cm,84kg,24
+2022/2023,Wesley Fofana,Chelsea,79,CB,France,EPL,2,3,M,H,190cm,76kg,22
+2022/2023,Jonny,Wolves,79,LWB,Spain,EPL,3,3,H,H,170cm,70kg,29
+2022/2023,Matheus Nunes,Wolves,79,CM,Portugal,EPL,3,3,H,M,183cm,76kg,24
+2022/2023,Adama Traoré,Wolves,79,RW,Spain,EPL,4,2,H,L,178cm,86kg,27
+2022/2023,Michail Antonio,West Ham,79,ST,Jamaica,EPL,4,3,H,M,178cm,82kg,33
+2022/2023,Abdoulaye Doucouré,Everton,79,CM,Mali,EPL,3,3,H,H,184cm,76kg,30
+2022/2023,John McGinn,Aston Villa,79,CM,Scotland,EPL,3,2,H,H,178cm,68kg,28
+2022/2023,Ben Davies,Spurs,79,CB,Wales,EPL,3,3,M,M,181cm,76kg,30
+2022/2023,Donny van de Beek,Manchester Utd,79,CM,Netherlands,EPL,3,3,H,M,184cm,74kg,26
+2022/2023,Conor Gallagher,Chelsea,79,CM,England,EPL,3,2,H,H,182cm,77kg,23
+2022/2023,Rodrigo Bentancur,Spurs,79,CM,Uruguay,EPL,4,4,M,M,187cm,73kg,25
+2022/2023,Pablo Fornals,West Ham,79,CAM,Spain,EPL,4,3,H,H,178cm,67kg,27
+2022/2023,Callum Wilson,Newcastle Utd,79,ST,England,EPL,4,3,H,M,180cm,66kg,31
+2022/2023,Ezri Konsa,Aston Villa,79,CB,England,EPL,2,3,M,M,183cm,77kg,25
+2022/2023,Dean Henderson,Nott'm Forest,79,GK,England,EPL,1,3,M,M,188cm,85kg,26
+2022/2023,Danny Ings,Aston Villa,79,ST,England,EPL,3,3,H,M,178cm,73kg,30
+2022/2023,Guaita,Crystal Palace,79,GK,Spain,EPL,1,3,M,M,190cm,80kg,36
+2022/2023,Matty Cash,Aston Villa,79,RB,Poland,EPL,3,2,H,M,179cm,74kg,25
+2022/2023,Davinson Sánchez,Spurs,79,CB,Colombia,EPL,2,2,M,H,187cm,81kg,26
+2022/2023,Oleksandr Zinchenko,Arsenal,79,LB,Ukraine,EPL,3,3,H,M,175cm,64kg,26
+2022/2023,Conor Coady,Everton,79,CB,England,EPL,2,3,L,H,186cm,80kg,30
+2022/2023,Ben White,Arsenal,79,CB,England,EPL,2,4,H,M,185cm,77kg,25
+2022/2023,Tyrell Malacia,Manchester Utd,79,LB,Netherlands,EPL,3,3,H,M,169cm,67kg,23
+2022/2023,James Tarkowski,Everton,79,CB,England,EPL,2,4,L,H,188cm,81kg,30
+2022/2023,Michael Keane,Everton,79,CB,England,EPL,2,2,M,M,191cm,82kg,30
+2022/2023,Granit Xhaka,Arsenal,79,CDM,Switzerland,EPL,3,2,L,M,185cm,82kg,30
+2022/2023,Leandro Trossard,Brighton,79,LM,Belgium,EPL,4,4,H,M,171cm,67kg,28
+2022/2023,Lewis Dunk,Brighton,79,CB,England,EPL,2,3,M,H,192cm,88kg,31
+2022/2023,Pervis Estupiñán,Brighton,79,LB,Ecuador,EPL,3,3,H,M,175cm,78kg,25
+2022/2023,Manuel Lanzini,West Ham,79,CAM,Argentina,EPL,4,3,M,M,167cm,59kg,30
+2022/2023,Takehiro Tomiyasu,Arsenal,79,RB,Japan,EPL,2,5,M,H,188cm,84kg,24
+2022/2023,Angelo Ogbonna,West Ham,79,CB,Italy,EPL,2,3,M,M,191cm,86kg,35
+2022/2023,Jonny Evans,Leicester City,79,CB,Northern Ireland,EPL,2,4,M,H,188cm,77kg,35
+2022/2023,Wout Weghorst,Manchester Utd,79,ST,Netherlands,EPL,2,3,H,H,197cm,84kg,30
+2022/2023,Leandro Trossard,Arsenal,79,LM,Belgium,EPL,4,4,H,M,171cm,67kg,28
+2022/2023,Danny Ings,West Ham,79,ST,England,EPL,3,3,H,M,178cm,73kg,30
+2022/2023,Onuachu,Southampton,79,ST,Nigeria,EPL,3,2,H,M,201cm,98kg,28
+2022/2023,Gabriel Martinelli,Arsenal,78,LM,Brazil,EPL,4,3,H,H,178cm,75kg,21
+2022/2023,Saša Kalajdžić,Wolves,78,ST,Austria,EPL,3,3,M,M,200cm,93kg,25
+2022/2023,Daniel Podence,Wolves,78,LW,Portugal,EPL,4,4,H,M,165cm,58kg,27
+2022/2023,Pedro Neto,Wolves,78,LW,Portugal,EPL,4,4,H,M,172cm,62kg,23
+2022/2023,Julián Álvarez,Manchester City,78,ST,Argentina,EPL,4,4,H,H,173cm,71kg,23
+2022/2023,Maxwel Cornet,West Ham,78,LM,Côte d'Ivoire,EPL,3,4,H,M,179cm,69kg,26
+2022/2023,Nathan Aké,Manchester City,78,CB,Netherlands,EPL,2,3,M,H,180cm,75kg,28
+2022/2023,Ollie Watkins,Aston Villa,78,ST,England,EPL,3,4,H,H,180cm,78kg,27
+2022/2023,Moussa Niakhaté,Nott'm Forest,78,CB,France,EPL,2,3,M,H,190cm,85kg,27
+2022/2023,Patrick Bamford,Leeds United,78,ST,England,EPL,3,3,H,H,185cm,71kg,29
+2022/2023,Douglas Luiz,Aston Villa,78,CDM,Brazil,EPL,3,2,H,M,175cm,66kg,25
+2022/2023,Tyrone Mings,Aston Villa,78,CB,England,EPL,3,2,H,M,196cm,77kg,30
+2022/2023,Joël Veltman,Brighton,78,CB,Netherlands,EPL,2,4,M,M,184cm,75kg,31
+2022/2023,James Milner,Liverpool,78,CM,England,EPL,3,4,M,H,175cm,70kg,37
+2022/2023,Marcos Senesi,AFC Bournemouth,78,CB,Argentina,EPL,3,3,M,M,183cm,78kg,26
+2022/2023,Jesse Lingard,Nott'm Forest,78,CAM,England,EPL,4,3,H,M,175cm,60kg,30
+2022/2023,Çağlar Söyüncü,Leicester City,78,CB,Turkey,EPL,2,4,M,M,185cm,82kg,27
+2022/2023,Clément Lenglet,Spurs,78,CB,France,EPL,2,4,M,M,186cm,81kg,27
+2022/2023,Dennis Praet,Leicester City,78,CAM,Belgium,EPL,4,4,M,M,181cm,78kg,29
+2022/2023,Miguel Almirón,Newcastle Utd,78,RM,Paraguay,EPL,4,2,H,H,174cm,70kg,29
+2022/2023,Diogo Dalot,Manchester Utd,78,RB,Portugal,EPL,3,4,H,M,184cm,76kg,24
+2022/2023,Marc Guehi,Crystal Palace,78,CB,England,EPL,2,4,M,M,182cm,82kg,22
+2022/2023,Emerson,Spurs,78,RWB,Brazil,EPL,3,3,H,M,181cm,79kg,24
+2022/2023,Timothy Castagne,Leicester City,78,RB,Belgium,EPL,3,3,H,M,185cm,80kg,27
+2022/2023,Thomas Strakosha,Brentford,78,GK,Albania,EPL,1,2,M,M,193cm,78kg,28
+2022/2023,Ben Mee,Brentford,78,CB,England,EPL,2,3,L,H,180cm,82kg,33
+2022/2023,Duje Ćaleta-Car,Southampton,78,CB,Croatia,EPL,2,3,M,H,192cm,89kg,26
+2022/2023,Aaron Cresswell,West Ham,78,LB,England,EPL,3,3,H,M,175cm,66kg,33
+2022/2023,Willy Boly,Nott'm Forest,78,CB,Côte d'Ivoire,EPL,2,4,M,M,195cm,97kg,32
+2022/2023,Saïd Benrahma,West Ham,78,LM,Algeria,EPL,4,4,H,M,172cm,67kg,27
+2022/2023,Frédéric Guilbert,Aston Villa,78,RWB,France,EPL,3,3,H,M,178cm,78kg,28
+2022/2023,Aleksandar Mitrović,Fulham,78,ST,Serbia,EPL,3,4,H,M,189cm,90kg,28
+2022/2023,Kyle Walker-Peters,Southampton,78,RB,England,EPL,3,4,H,M,174cm,64kg,26
+2022/2023,Craig Dawson,West Ham,78,CB,England,EPL,2,2,M,M,188cm,77kg,33
+2022/2023,Moussa Niakhaté,Nott'm Forest,78,CB,Senegal,EPL,2,3,M,H,190cm,85kg,27
+2022/2023,Craig Dawson,Wolves,78,CB,England,EPL,2,2,M,M,188cm,77kg,33
+2022/2023,Enzo Fernández,Chelsea,78,CM,Argentina,EPL,3,4,H,H,180cm,77kg,22
+2022/2023,Traorè,AFC Bournemouth,78,LM,Côte d'Ivoire,EPL,3,3,H,L,177cm,77kg,23
+2022/2023,Deniz Undav,Brighton,77,ST,Germany,EPL,3,5,M,L,178cm,86kg,26
+2022/2023,Max Kilman,Wolves,77,CB,England,EPL,2,4,M,H,194cm,89kg,26
+2022/2023,Hee Chan Hwang,Wolves,77,LW,Korea Republic,EPL,3,4,H,M,177cm,77kg,27
+2022/2023,Daniel James,Fulham,77,RM,Wales,EPL,3,4,H,H,171cm,76kg,25
+2022/2023,Oxlade-Chamberlain,Liverpool,77,CM,England,EPL,4,4,H,H,175cm,70kg,29
+2022/2023,Ben Godfrey,Everton,77,CB,England,EPL,2,3,M,H,183cm,79kg,25
+2022/2023,Ivan Toney,Brentford,77,ST,England,EPL,3,3,H,H,187cm,76kg,27
+2022/2023,Fabian Schär,Newcastle Utd,77,CB,Switzerland,EPL,2,3,H,M,188cm,84kg,31
+2022/2023,Rasmus Kristensen,Leeds United,77,RB,Denmark,EPL,3,4,H,H,187cm,70kg,25
+2022/2023,Rodrigo,Leeds United,77,CAM,Spain,EPL,4,3,H,M,182cm,77kg,32
+2022/2023,Jack Harrison,Leeds United,77,LM,England,EPL,4,3,H,H,175cm,70kg,26
+2022/2023,Kelechi Iheanacho,Leicester City,77,ST,Nigeria,EPL,4,3,M,M,185cm,82kg,26
+2022/2023,Joachim Andersen,Crystal Palace,77,CB,Denmark,EPL,2,3,M,M,192cm,90kg,26
+2022/2023,Konstantinos Tsimikas,Liverpool,77,LB,Greece,EPL,3,3,H,H,179cm,68kg,27
+2022/2023,Taiwo Awoniyi,Nott'm Forest,77,ST,Nigeria,EPL,3,2,H,M,183cm,85kg,25
+2022/2023,Matt Doherty,Spurs,77,RWB,Republic of Ireland,EPL,3,4,H,M,182cm,87kg,31
+2022/2023,Pascal Groß,Brighton,77,CM,Germany,EPL,4,4,M,M,181cm,78kg,31
+2022/2023,Patson Daka,Leicester City,77,ST,Zambia,EPL,3,3,M,M,183cm,71kg,24
+2022/2023,Emerson,West Ham,77,LB,Italy,EPL,3,2,M,M,176cm,79kg,28
+2022/2023,Kevin Mbabu,Fulham,77,RB,Switzerland,EPL,3,3,H,M,184cm,83kg,28
+2022/2023,Robert Sanchéz,Brighton,77,GK,Spain,EPL,1,4,M,M,197cm,85kg,25
+2022/2023,Demarai Gray,Everton,77,LM,England,EPL,4,4,H,M,183cm,75kg,26
+2022/2023,Ludwig Augustinsson,Aston Villa,77,LB,Sweden,EPL,3,2,H,M,181cm,72kg,29
+2022/2023,Illan Meslier,Leeds United,77,GK,France,EPL,1,3,M,M,196cm,74kg,23
+2022/2023,Jonjo Shelvey,Newcastle Utd,77,CM,England,EPL,3,3,M,M,184cm,80kg,31
+2022/2023,Oliver Skipp,Spurs,77,CDM,England,EPL,2,3,M,H,175cm,70kg,22
+2022/2023,Mohammed Salisu,Southampton,77,CB,Ghana,EPL,2,3,M,H,191cm,85kg,24
+2022/2023,Matt Turner,Arsenal,77,GK,United States,EPL,1,2,M,M,191cm,79kg,28
+2022/2023,Fábio Vieira,Arsenal,77,CAM,Portugal,EPL,3,3,H,M,176cm,61kg,22
+2022/2023,Rob Holding,Arsenal,77,CB,England,EPL,2,3,L,H,189cm,75kg,27
+2022/2023,Wout Faes,Leicester City,77,CB,Belgium,EPL,2,3,M,M,187cm,82kg,25
+2022/2023,Dan Burn,Newcastle Utd,77,CB,England,EPL,2,3,M,H,198cm,87kg,31
+2022/2023,Yerry Mina,Everton,77,CB,Colombia,EPL,2,3,M,H,195cm,94kg,28
+2022/2023,Issa Diop,Fulham,77,CB,France,EPL,2,3,M,M,194cm,92kg,26
+2022/2023,Matt Targett,Newcastle Utd,77,LB,England,EPL,3,2,H,M,183cm,70kg,27
+2022/2023,Bryan Gil Salvatierra,Spurs,77,LM,Spain,EPL,3,3,H,M,175cm,65kg,22
+2022/2023,Benoît Badiashile,Chelsea,77,CB,France,EPL,2,3,M,H,194cm,75kg,22
+2022/2023,Mislav Oršic,Southampton,77,LW,Croatia,EPL,3,4,H,H,179cm,69kg,30
+2022/2023,Noni Madueke,Chelsea,77,RW,England,EPL,4,4,M,L,182cm,70kg,21
+2022/2023,Kouyaté,Nott'm Forest,77,CDM,Senegal,EPL,3,3,H,H,189cm,83kg,33
+2022/2023,Saša Lukic,Fulham,77,CM,Serbia,EPL,3,3,M,M,183cm,77kg,26
+2022/2023,Jonjo Shelvey,Nott'm Forest,77,CM,England,EPL,3,3,M,M,184cm,80kg,31
+2022/2023,Rayan Aït Nouri,Wolves,76,LWB,France,EPL,3,3,H,M,180cm,70kg,21
+2022/2023,Fraser Forster,Spurs,76,GK,England,EPL,1,5,M,M,201cm,93kg,35
+2022/2023,Séamus Coleman,Everton,76,RB,Republic of Ireland,EPL,3,3,H,H,177cm,77kg,34
+2022/2023,Liam Cooper,Leeds United,76,CB,Scotland,EPL,2,2,L,H,187cm,73kg,31
+2022/2023,Chris Wood,Newcastle Utd,76,ST,New Zealand,EPL,2,3,H,M,191cm,92kg,31
+2022/2023,Andros Townsend,Everton,76,RM,England,EPL,4,4,H,H,175cm,73kg,31
+2022/2023,Jeffrey Schlupp,Crystal Palace,76,LM,Ghana,EPL,3,2,M,M,178cm,72kg,30
+2022/2023,Stuart Armstrong,Southampton,76,RM,Scotland,EPL,3,4,H,H,183cm,75kg,31
+2022/2023,Mohamed Elyounoussi,Southampton,76,LM,Norway,EPL,4,4,M,M,178cm,70kg,28
+2022/2023,Adam Webster,Brighton,76,CB,England,EPL,2,4,M,M,191cm,75kg,28
+2022/2023,Ryan Fraser,Newcastle Utd,76,RM,Scotland,EPL,3,4,M,M,163cm,70kg,29
+2022/2023,Christian Nørgaard,Brentford,76,CDM,Denmark,EPL,3,3,M,H,187cm,77kg,29
+2022/2023,Morgan Sanson,Aston Villa,76,CM,France,EPL,4,4,M,M,180cm,73kg,28
+2022/2023,Diego Llorente,Leeds United,76,CB,Spain,EPL,2,3,M,H,186cm,76kg,29
+2022/2023,Daniel Amartey,Leicester City,76,CB,Ghana,EPL,3,3,M,H,186cm,79kg,28
+2022/2023,Mohamed Elneny,Arsenal,76,CDM,Egypt,EPL,3,3,M,H,179cm,72kg,30
+2022/2023,Ruben Loftus-Cheek,Chelsea,76,CM,England,EPL,4,3,M,M,191cm,88kg,27
+2022/2023,Ayoze Pérez Gutiérrez,Leicester City,76,RW,Spain,EPL,4,4,H,H,178cm,72kg,29
+2022/2023,David Brooks,AFC Bournemouth,76,RW,Wales,EPL,4,3,H,M,180cm,62kg,25
+2022/2023,Harry Wilson,Fulham,76,RM,Wales,EPL,3,2,H,L,173cm,70kg,26
+2022/2023,David Raya Martin,Brentford,76,GK,Spain,EPL,1,3,M,M,183cm,75kg,27
+2022/2023,Ché Adams,Southampton,76,ST,Scotland,EPL,3,3,H,M,178cm,70kg,26
+2022/2023,Thilo Kehrer,West Ham,76,CB,Germany,EPL,2,5,M,M,186cm,76kg,26
+2022/2023,Chalobah,Chelsea,76,CB,England,EPL,3,3,M,H,191cm,84kg,23
+2022/2023,Romain Perraud,Southampton,76,LB,France,EPL,3,2,H,M,173cm,68kg,25
+2022/2023,James Justin,Leicester City,76,LB,England,EPL,3,4,H,H,183cm,80kg,25
+2022/2023,Tyler Adams,Leeds United,76,CDM,United States,EPL,3,3,H,H,175cm,72kg,24
+2022/2023,Odsonne Edouard,Crystal Palace,76,ST,France,EPL,4,4,H,M,187cm,83kg,25
+2022/2023,Eberechi Eze,Crystal Palace,76,CAM,England,EPL,4,3,M,M,178cm,67kg,24
+2022/2023,Marc Roca Junqué,Leeds United,76,CDM,Spain,EPL,3,3,M,M,184cm,77kg,26
+2022/2023,Jean-Philippe Mateta,Crystal Palace,76,ST,France,EPL,3,4,M,M,192cm,88kg,25
+2022/2023,Robin Koch,Leeds United,76,CB,Germany,EPL,2,4,M,H,191cm,83kg,26
+2022/2023,Emmanuel Dennis,Nott'm Forest,76,ST,Nigeria,EPL,4,3,M,L,175cm,66kg,25
+2022/2023,Pascal Struijk,Leeds United,76,CB,Netherlands,EPL,2,4,M,H,190cm,79kg,23
+2022/2023,Boubakary Soumaré,Leicester City,76,CDM,France,EPL,3,3,M,M,188cm,82kg,24
+2022/2023,Alexis Mac Allister,Brighton,76,CAM,Argentina,EPL,3,3,M,M,176cm,72kg,24
+2022/2023,Tyrick Mitchell,Crystal Palace,76,LB,England,EPL,2,3,H,H,180cm,70kg,23
+2022/2023,Mikkel Damsgaard,Brentford,76,LM,Denmark,EPL,4,3,H,L,180cm,71kg,22
+2022/2023,Curtis Jones,Liverpool,76,CM,England,EPL,4,4,H,M,185cm,75kg,22
+2022/2023,Cheick Doucouré,Crystal Palace,76,CM,Mali,EPL,3,3,M,H,180cm,73kg,23
+2022/2023,Enock Mwepu,Brighton,76,CM,Zambia,EPL,3,3,H,H,184cm,76kg,25
+2022/2023,Dwight McNeil,Everton,76,LM,England,EPL,3,2,M,H,183cm,70kg,23
+2022/2023,Vitaliy Mykolenko,Everton,76,LB,Ukraine,EPL,2,2,H,M,180cm,71kg,23
+2022/2023,Manor Solomon,Fulham,76,LM,Israel,EPL,4,4,H,H,170cm,67kg,23
+2022/2023,Michael Olise,Crystal Palace,76,RW,France,EPL,4,2,M,M,178cm,68kg,21
+2022/2023,Neal Maupay,Everton,76,ST,France,EPL,3,4,M,M,173cm,69kg,26
+2022/2023,Leander Dendoncker,Aston Villa,76,CM,Belgium,EPL,2,4,H,H,189cm,88kg,28
+2022/2023,Jan Bednarek,Aston Villa,76,CB,Poland,EPL,2,2,M,H,189cm,77kg,27
+2022/2023,Carlos Vinícius Alves Morais,Fulham,76,ST,Brazil,EPL,3,3,H,M,190cm,83kg,28
+2022/2023,Andreas Hugo Hoelgebaum Pereira,Fulham,76,CAM,Brazil,EPL,4,4,M,M,177cm,70kg,27
+2022/2023,Chris Wood,Nott'm Forest,76,ST,New Zealand,EPL,2,3,H,M,191cm,92kg,31
+2022/2023,Bertrand Traoré,Aston Villa,76,RM,Burkina Faso,EPL,4,1,M,L,181cm,73kg,27
+2022/2023,Mateus Tetê,Leicester City,76,RW,Brazil,EPL,4,3,H,M,175cm,72kg,23
+2022/2023,Jan Bednarek,Southampton,76,CB,Poland,EPL,2,2,M,H,189cm,77kg,27
+2022/2023,Jacob Ramsey,Aston Villa,75,CM,England,EPL,3,4,H,M,180cm,72kg,22
+2022/2023,Anthony Gordon,Everton,75,LM,England,EPL,3,3,H,M,183cm,74kg,22
+2022/2023,Tino Livramento,Southampton,75,RB,England,EPL,2,4,H,M,181cm,71kg,20
+2022/2023,Djed Spence,Spurs,75,RWB,England,EPL,3,3,H,H,184cm,71kg,22
+2022/2023,Nathan Collins,Wolves,75,CB,Republic of Ireland,EPL,2,3,M,H,193cm,81kg,22
+2022/2023,James McArthur,Crystal Palace,75,CDM,Scotland,EPL,3,3,H,H,178cm,66kg,35
+2022/2023,Asmir Begović,Everton,75,GK,Bosnia and Herzegovina,EPL,1,2,M,M,199cm,101kg,35
+2022/2023,Adam Lallana,Brighton,75,CM,England,EPL,4,5,H,M,178cm,73kg,35
+2022/2023,Marc Albrighton,Leicester City,75,RM,England,EPL,3,3,H,H,175cm,74kg,33
+2022/2023,Danny Welbeck,Brighton,75,ST,England,EPL,3,3,H,H,185cm,73kg,32
+2022/2023,Luke Ayling,Leeds United,75,RB,England,EPL,3,3,H,H,185cm,72kg,31
+2022/2023,Alex McCarthy,Southampton,75,GK,England,EPL,1,2,M,M,193cm,79kg,33
+2022/2023,Karl Darlow,Newcastle Utd,75,GK,England,EPL,1,2,M,M,190cm,88kg,32
+2022/2023,Pontus Jansson,Brentford,75,CB,Sweden,EPL,2,3,M,M,194cm,86kg,32
+2022/2023,Tom Cairney,Fulham,75,CM,Scotland,EPL,3,2,M,L,186cm,84kg,32
+2022/2023,Joel Robles Blázquez,Leeds United,75,GK,Spain,EPL,1,2,M,M,195cm,90kg,32
+2022/2023,Jordan Ayew,Crystal Palace,75,RW,Ghana,EPL,4,3,M,H,182cm,81kg,31
+2022/2023,Cédric,Arsenal,75,RB,Portugal,EPL,3,4,H,M,172cm,67kg,31
+2022/2023,Jannik Vestergaard,Leicester City,75,CB,Denmark,EPL,2,4,M,M,199cm,96kg,30
+2022/2023,Jamaal Lascelles,Newcastle Utd,75,CB,England,EPL,2,3,L,M,188cm,83kg,29
+2022/2023,Stuart Dallas,Leeds United,75,CM,Northern Ireland,EPL,3,4,H,H,180cm,79kg,32
+2022/2023,Ryan Fredericks,AFC Bournemouth,75,RB,England,EPL,3,3,H,M,181cm,74kg,30
+2022/2023,Calum Chambers,Aston Villa,75,CB,England,EPL,2,3,L,H,182cm,77kg,28
+2022/2023,Harrison Reed,Fulham,75,CDM,England,EPL,3,3,M,H,175cm,72kg,28
+2022/2023,Sam Johnstone,Crystal Palace,75,GK,England,EPL,1,3,M,M,193cm,85kg,30
+2022/2023,Will Hughes,Crystal Palace,75,CM,England,EPL,4,3,M,M,185cm,74kg,28
+2022/2023,Solly March,Brighton,75,LWB,England,EPL,3,2,H,H,180cm,77kg,28
+2022/2023,Robin Olsen,Aston Villa,75,GK,Sweden,EPL,1,2,M,M,196cm,86kg,33
+2022/2023,Danny Ward,Leicester City,75,GK,Wales,EPL,1,3,M,M,191cm,88kg,29
+2022/2023,Alex Iwobi,Everton,75,RM,Nigeria,EPL,4,3,H,M,185cm,75kg,27
+2022/2023,Jefferson Lerma,AFC Bournemouth,75,CDM,Colombia,EPL,3,4,M,M,179cm,70kg,28
+2022/2023,Philip Billing,AFC Bournemouth,75,CM,Denmark,EPL,3,3,M,M,197cm,80kg,26
+2022/2023,Tosin Adarabioyo,Fulham,75,CB,England,EPL,2,3,L,M,196cm,80kg,25
+2022/2023,Marek Rodák,Fulham,75,GK,Slovakia,EPL,1,3,M,M,194cm,81kg,26
+2022/2023,Marvelous Nakamba,Aston Villa,75,CDM,Zimbabwe,EPL,3,2,L,H,178cm,71kg,29
+2022/2023,Joelinton,Newcastle Utd,75,CM,Brazil,EPL,3,3,H,H,186cm,81kg,26
+2022/2023,Kristoffer Ajer,Brentford,75,CB,Norway,EPL,3,3,H,H,196cm,94kg,25
+2022/2023,Rico Henry,Brentford,75,LWB,England,EPL,3,2,H,H,170cm,66kg,25
+2022/2023,Mason Holgate,Everton,75,CB,England,EPL,3,3,M,M,184cm,75kg,26
+2022/2023,Dominic Solanke,AFC Bournemouth,75,ST,England,EPL,3,3,H,M,187cm,80kg,25
+2022/2023,Tom Davies,Everton,75,CM,England,EPL,3,3,M,M,180cm,70kg,24
+2022/2023,Joe Aribo,Southampton,75,CM,Nigeria,EPL,4,3,H,H,183cm,76kg,26
+2022/2023,Orel Mangala,Nott'm Forest,75,CM,Belgium,EPL,3,3,M,M,178cm,80kg,25
+2022/2023,Yoane Wissa,Brentford,75,LW,Congo DR,EPL,3,3,M,M,176cm,74kg,26
+2022/2023,Ryan Sessegnon,Spurs,75,LWB,England,EPL,4,3,H,M,178cm,70kg,23
+2022/2023,Morgan Gibbs-White,Nott'm Forest,75,CAM,England,EPL,4,2,M,M,178cm,70kg,23
+2022/2023,Joseph Willock,Newcastle Utd,75,CM,England,EPL,3,3,H,H,179cm,71kg,23
+2022/2023,Ethan Pinnock,Brentford,75,CB,Jamaica,EPL,2,3,M,H,194cm,79kg,29
+2022/2023,Junior Firpo,Leeds United,75,LB,Spain,EPL,3,3,M,M,184cm,78kg,26
+2022/2023,Albert Sambi Lokonga,Arsenal,75,CM,Belgium,EPL,3,3,M,M,183cm,73kg,23
+2022/2023,Tariq Lamptey,Brighton,75,RWB,Ghana,EPL,2,3,H,M,163cm,62kg,22
+2022/2023,Bryan Mbeumo,Brentford,75,RW,Cameroon,EPL,4,2,H,H,171cm,75kg,23
+2022/2023,Aaron Hickey,Brentford,75,LWB,Scotland,EPL,2,5,H,H,175cm,72kg,20
+2022/2023,Brennan Johnson,Nott'm Forest,75,RW,Wales,EPL,3,4,H,L,181cm,71kg,22
+2022/2023,Luke Thomas,Leicester City,75,LB,England,EPL,2,2,H,H,177cm,68kg,21
+2022/2023,Armando Broja,Chelsea,75,ST,Albania,EPL,3,3,M,L,191cm,75kg,21
+2022/2023,Layvin Kurzawa,Fulham,75,LB,France,EPL,3,3,H,L,182cm,74kg,30
+2022/2023,Ainsley Maitland-Niles,Southampton,75,RWB,England,EPL,4,3,M,M,177cm,71kg,25
+2022/2023,Maximilian Wöber,Leeds United,75,CB,Austria,EPL,2,3,M,H,189cm,82kg,25
+2022/2023,Georginio Rutter,Leeds United,75,ST,France,EPL,3,5,M,M,182cm,83kg,21
+2022/2023,Mario Lemina,Wolves,75,CM,Gabon,EPL,3,4,M,M,184cm,85kg,29
+2022/2023,Ayew,Nott'm Forest,75,ST,Ghana,EPL,4,3,H,M,176cm,72kg,33
+2022/2023,Anthony Gordon,Newcastle Utd,75,LM,England,EPL,3,3,H,M,183cm,74kg,22
+2022/2023,Cédric,Fulham,75,RB,Portugal,EPL,3,4,H,M,172cm,67kg,31
+2022/2023,Albert Sambi Lokonga,Crystal Palace,75,CM,Belgium,EPL,3,3,M,M,183cm,73kg,23
+2022/2023,Kamaldeen Sulemana,Southampton,75,LW,Ghana,EPL,4,4,H,M,174cm,69kg,21
+2022/2023,Matias Viña,AFC Bournemouth,75,LWB,Uruguay,EPL,2,3,H,M,181cm,70kg,25
+2022/2023,Ashley Young,Aston Villa,74,LM,England,EPL,4,3,H,M,175cm,65kg,37
+2022/2023,Ryan Bertrand,Leicester City,74,LB,England,EPL,3,3,M,M,179cm,85kg,33
+2022/2023,Wayne Hennessey,Nott'm Forest,74,GK,Wales,EPL,1,3,M,M,198cm,90kg,36
+2022/2023,Joel Ward,Crystal Palace,74,RB,England,EPL,3,3,M,H,188cm,83kg,33
+2022/2023,Salomón Rondón,Everton,74,ST,Venezuela,EPL,3,4,M,L,186cm,86kg,33
+2022/2023,Nathaniel Clyne,Crystal Palace,74,RB,England,EPL,3,2,M,H,175cm,67kg,32
+2022/2023,Adam Smith,AFC Bournemouth,74,RB,England,EPL,3,3,M,H,180cm,78kg,32
+2022/2023,Shane Duffy,Fulham,74,CB,Republic of Ireland,EPL,2,3,L,H,193cm,76kg,31
+2022/2023,Mateusz Klich,Leeds United,74,CM,Poland,EPL,3,3,H,H,183cm,82kg,32
+2022/2023,Nampalys Mendy,Leicester City,74,CDM,Senegal,EPL,3,3,L,H,167cm,73kg,30
+2022/2023,Bobby Decordova-Reid,Fulham,74,RM,Jamaica,EPL,3,3,H,M,170cm,68kg,30
+2022/2023,Luka Milivojević,Crystal Palace,74,CDM,Serbia,EPL,2,2,M,H,186cm,80kg,32
+2022/2023,Emil Krafth,Newcastle Utd,74,RB,Sweden,EPL,3,3,M,M,184cm,83kg,28
+2022/2023,Javier Manquillo Gaitán,Newcastle Utd,74,RB,Spain,EPL,3,3,M,M,178cm,76kg,29
+2022/2023,Ryan Christie,AFC Bournemouth,74,RW,Scotland,EPL,3,4,H,H,178cm,71kg,28
+2022/2023,Kenny Tete,Fulham,74,RB,Netherlands,EPL,2,2,M,M,180cm,71kg,27
+2022/2023,Jaïro Riedewald,Crystal Palace,74,CDM,Netherlands,EPL,3,2,M,M,182cm,79kg,26
+2022/2023,Adam Armstrong,Southampton,74,ST,England,EPL,3,4,H,L,172cm,69kg,26
+2022/2023,Lewis Cook,AFC Bournemouth,74,CM,England,EPL,3,4,M,M,175cm,71kg,26
+2022/2023,Antonee Robinson,Fulham,74,LB,United States,EPL,3,3,H,M,183cm,70kg,25
+2022/2023,Mathias Jensen,Brentford,74,CM,Denmark,EPL,3,4,M,H,180cm,68kg,27
+2022/2023,Joe Worrall,Nott'm Forest,74,CB,England,EPL,2,2,M,H,190cm,90kg,26
+2022/2023,Axel Tuanzebe,Manchester Utd,74,CB,England,EPL,3,3,M,M,185cm,75kg,25
+2022/2023,Vitaly Janelt,Brentford,74,CM,Germany,EPL,3,3,H,H,184cm,79kg,25
+2022/2023,Japhet Tanganga,Spurs,74,RWB,England,EPL,2,3,M,H,180cm,73kg,24
+2022/2023,Sean Longstaff,Newcastle Utd,74,CM,England,EPL,2,3,M,M,180cm,65kg,25
+2022/2023,Kiernan Dewsbury-Hall,Leicester City,74,CM,England,EPL,3,3,H,M,177cm,70kg,24
+2022/2023,Moussa Djenepo,Southampton,74,LM,Mali,EPL,3,3,H,M,177cm,65kg,24
+2022/2023,Ibrahima Diallo,Southampton,74,CDM,France,EPL,3,3,M,H,179cm,68kg,24
+2022/2023,Jakub Moder,Brighton,74,CDM,Poland,EPL,3,5,M,M,188cm,78kg,24
+2022/2023,Sergio Gómez Martín,Manchester City,74,LB,Spain,EPL,4,3,H,M,171cm,68kg,22
+2022/2023,Ben Johnson,West Ham,74,RB,England,EPL,2,4,H,M,180cm,69kg,23
+2022/2023,Brenden Aaronson,Leeds United,74,CAM,United States,EPL,3,3,H,H,176cm,66kg,22
+2022/2023,Chris Richards,Crystal Palace,74,CB,United States,EPL,2,4,M,M,188cm,87kg,23
+2022/2023,Kaoru Mitoma,Brighton,74,LM,Japan,EPL,4,3,M,L,178cm,71kg,26
+2022/2023,Amadou Onana,Everton,74,CDM,Belgium,EPL,3,4,M,H,195cm,76kg,21
+2022/2023,Anthony Elanga,Manchester Utd,74,RW,Sweden,EPL,3,3,H,H,178cm,75kg,21
+2022/2023,Jack Stephens,AFC Bournemouth,74,CB,England,EPL,2,2,M,M,185cm,75kg,29
+2022/2023,Mykhailo Mudryk,Chelsea,74,LM,Ukraine,EPL,4,4,H,M,175cm,61kg,22
+2022/2023,Tom Heaton,Manchester Utd,73,GK,England,EPL,1,3,M,M,188cm,85kg,37
+2022/2023,Darren Randolph,West Ham,73,GK,Republic of Ireland,EPL,1,3,M,M,188cm,78kg,36
+2022/2023,Matt Ritchie,Newcastle Utd,73,RM,Scotland,EPL,4,4,H,H,172cm,76kg,33
+2022/2023,Adam Forshaw,Leeds United,73,CDM,England,EPL,3,3,M,H,174cm,71kg,31
+2022/2023,Phil Jones,Manchester Utd,73,CB,England,EPL,2,3,L,H,185cm,71kg,31
+2022/2023,Neeskens Kebano,Fulham,73,LM,Congo DR,EPL,3,3,M,M,170cm,65kg,31
+2022/2023,Jack Butland,Crystal Palace,73,GK,England,EPL,1,4,M,M,196cm,95kg,30
+2022/2023,Paul Dummett,Newcastle Utd,73,LB,Wales,EPL,2,2,M,M,183cm,82kg,31
+2022/2023,Nathaniel Chalobah,Fulham,73,CDM,England,EPL,3,3,M,M,187cm,80kg,28
+2022/2023,Jacob Murphy,Newcastle Utd,73,RM,England,EPL,3,4,H,M,179cm,74kg,28
+2022/2023,Ben Pearson,AFC Bournemouth,73,CDM,England,EPL,3,3,M,H,176cm,71kg,28
+2022/2023,Kieffer Moore,AFC Bournemouth,73,ST,Wales,EPL,3,3,M,M,196cm,83kg,30
+2022/2023,Jack Stacey,AFC Bournemouth,73,RB,England,EPL,3,3,H,M,178cm,62kg,27
+2022/2023,Scott McKenna,Nott'm Forest,73,CB,Scotland,EPL,2,3,M,H,189cm,80kg,26
+2022/2023,Daniel Iversen,Leicester City,73,GK,Denmark,EPL,1,2,M,M,193cm,80kg,25
+2022/2023,Josh Dasilva,Brentford,73,CM,England,EPL,3,3,H,M,184cm,75kg,24
+2022/2023,Reiss Nelson,Arsenal,73,RW,England,EPL,4,3,H,M,175cm,71kg,23
+2022/2023,Lloyd Kelly,AFC Bournemouth,73,CB,England,EPL,3,3,M,M,190cm,76kg,24
+2022/2023,Mark Travers,AFC Bournemouth,73,GK,Republic of Ireland,EPL,1,2,M,M,191cm,82kg,24
+2022/2023,Omar Richards,Nott'm Forest,73,LB,England,EPL,3,2,M,M,174cm,70kg,25
+2022/2023,Rúben Vinagre,Everton,73,LWB,Portugal,EPL,4,2,H,M,174cm,71kg,24
+2022/2023,Ryan Yates,Nott'm Forest,73,CDM,England,EPL,2,3,H,H,190cm,77kg,25
+2022/2023,Lewis O'Brien,Nott'm Forest,73,CM,England,EPL,3,2,H,H,173cm,63kg,24
+2022/2023,Eddie Nketiah,Arsenal,73,ST,England,EPL,3,3,H,M,180cm,73kg,23
+2022/2023,Frank Onyeka,Brentford,73,CDM,Nigeria,EPL,3,3,H,H,183cm,70kg,25
+2022/2023,Caoimhin Kelleher,Liverpool,73,GK,Republic of Ireland,EPL,1,3,M,M,188cm,74kg,24
+2022/2023,Nathaniel Phillips,Liverpool,73,CB,England,EPL,2,2,L,M,190cm,84kg,26
+2022/2023,Brandon Williams,Manchester Utd,73,LB,England,EPL,3,2,H,M,182cm,63kg,22
+2022/2023,Harvey Elliott,Liverpool,73,CAM,England,EPL,4,4,M,M,170cm,67kg,20
+2022/2023,Armel Bella Kotchap,Southampton,73,CB,Germany,EPL,2,5,M,M,190cm,87kg,21
+2022/2023,Fabio Carvalho,Liverpool,73,CAM,Portugal,EPL,3,4,H,M,175cm,66kg,20
+2022/2023,Loïc Badé,Nott'm Forest,73,CB,France,EPL,2,3,M,H,191cm,89kg,23
+2022/2023,Marcus Vincius Oliveira Alencar,Arsenal,73,RM,Brazil,EPL,3,3,H,H,183cm,77kg,20
+2022/2023,Jack Butland,Manchester Utd,73,GK,England,EPL,1,4,M,M,196cm,95kg,30
+2022/2023,Daniel Bentley,Wolves,73,GK,England,EPL,1,3,M,M,188cm,72kg,29
+2022/2023,Darren Randolph,AFC Bournemouth,73,GK,Republic of Ireland,EPL,1,3,M,M,188cm,78kg,36
+2022/2023,Illia Zabarnyi,AFC Bournemouth,73,CB,Ukraine,EPL,2,2,M,M,186cm,81kg,20
+2022/2023,Theo Walcott,Southampton,72,RM,England,EPL,3,2,M,M,176cm,68kg,34
+2022/2023,James Tomkins,Crystal Palace,72,CB,England,EPL,2,3,L,M,192cm,74kg,34
+2022/2023,Junior Stanislas,AFC Bournemouth,72,LW,England,EPL,3,4,M,M,183cm,76kg,33
+2022/2023,Steve Cook,Nott'm Forest,72,CB,England,EPL,2,3,M,H,185cm,82kg,32
+2022/2023,Adrián,Liverpool,72,GK,Spain,EPL,1,2,M,M,190cm,80kg,36
+2022/2023,Harry Toffolo,Nott'm Forest,72,LWB,England,EPL,3,2,H,M,183cm,71kg,27
+2022/2023,Joe Rothwell,AFC Bournemouth,72,CM,England,EPL,3,4,H,M,183cm,77kg,28
+2022/2023,Sergi Canós Tenés,Brentford,72,LW,Spain,EPL,3,3,H,M,175cm,66kg,26
+2022/2023,Lyanco Neves Vojnovic,Southampton,72,CB,Brazil,EPL,2,3,M,H,187cm,83kg,26
+2022/2023,Jamal Lewis,Newcastle Utd,72,LB,Northern Ireland,EPL,3,3,H,H,178cm,70kg,25
+2022/2023,Marcus Tavernier,AFC Bournemouth,72,CAM,England,EPL,3,3,H,M,177cm,70kg,24
+2022/2023,Jaidon Anthony,AFC Bournemouth,72,LW,England,EPL,3,3,H,H,183cm,68kg,23
+2022/2023,Joe Gelhardt,Leeds United,72,ST,England,EPL,3,3,H,H,179cm,76kg,21
+2022/2023,James Garner,Everton,72,CDM,England,EPL,3,3,H,H,182cm,80kg,22
+2022/2023,Billy Gilmour,Brighton,72,CM,Scotland,EPL,3,3,M,M,170cm,66kg,21
+2022/2023,Harry Souttar,Leicester City,72,CB,Australia,EPL,2,3,M,H,200cm,79kg,24
+2022/2023,Jed Steer,Aston Villa,71,GK,England,EPL,1,2,M,M,188cm,80kg,30
+2022/2023,Jamal Lowe,AFC Bournemouth,71,ST,Jamaica,EPL,4,4,H,H,183cm,79kg,28
+2022/2023,Chris Mepham,AFC Bournemouth,71,CB,Wales,EPL,2,3,M,M,191cm,75kg,25
+2022/2023,Sam Surridge,Nott'm Forest,71,ST,England,EPL,2,3,H,H,191cm,77kg,24
+2022/2023,Neco Williams,Nott'm Forest,71,RB,Wales,EPL,2,3,H,H,183cm,72kg,22
+2022/2023,Keane Lewis-Potter,Brentford,71,LW,England,EPL,3,4,H,M,170cm,67kg,22
+2022/2023,Jan Paul van Hecke,Brighton,71,CB,Netherlands,EPL,2,3,M,M,185cm,78kg,22
+2022/2023,Pape Matar Sarr,Spurs,71,CM,Senegal,EPL,2,3,M,M,184cm,70kg,20
+2022/2023,Jakub Kiwior,Arsenal,71,CDM,Poland,EPL,2,3,M,M,189cm,75kg,23
+2022/2023,Carlos Alcaraz,Southampton,71,CAM,Argentina,EPL,4,3,H,L,176cm,70kg,20
+2022/2023,James Bree,Southampton,71,RWB,England,EPL,2,3,H,M,178cm,74kg,25
+2022/2023,Tim Ream,Fulham,70,CB,United States,EPL,2,3,M,M,186cm,80kg,35
+2022/2023,Marcus Bettinelli,Chelsea,70,GK,England,EPL,1,3,M,M,194cm,82kg,31
+2022/2023,Emiliano Marcondes,AFC Bournemouth,70,CAM,Denmark,EPL,3,3,H,M,182cm,75kg,28
+2022/2023,Flynn Downes,West Ham,70,CDM,England,EPL,2,3,M,H,173cm,70kg,24
+2022/2023,Gavin Bazunu,Southampton,70,GK,Republic of Ireland,EPL,1,2,M,M,189cm,78kg,21
+2022/2023,Giulian Biancone,Nott'm Forest,70,CB,France,EPL,3,4,H,M,187cm,79kg,23
+2022/2023,Facundo Pellistri,Manchester Utd,70,RM,Uruguay,EPL,3,3,H,M,175cm,65kg,21
+2022/2023,Moisés Caicedo,Brighton,70,CM,Ecuador,EPL,3,3,H,H,178cm,71kg,21
+2022/2023,Jordan Zemura,AFC Bournemouth,70,LB,Zimbabwe,EPL,2,3,H,M,173cm,75kg,23
+2022/2023,Levi Colwill,Brighton,70,CB,England,EPL,2,3,H,M,191cm,83kg,20
+2022/2023,Willy Caballero,Southampton,70,GK,Argentina,EPL,1,3,M,M,186cm,83kg,41
+2022/2023,Cameron Archer,Aston Villa,70,ST,England,EPL,2,4,H,L,179cm,74kg,21
+2022/2023,Kevin Schade,Brentford,70,RM,Germany,EPL,3,3,H,M,183cm,74kg,21
+2022/2023,Nathan Baxter,Chelsea,70,GK,England,EPL,1,2,M,M,188cm,76kg,24
+2022/2023,Máximo Perrone,Manchester City,70,CM,Argentina,EPL,2,3,M,M,178cm,64kg,20
+2022/2023,Antoine Semenyo,AFC Bournemouth,70,ST,Ghana,EPL,3,4,H,M,180cm,70kg,23
+2022/2023,Toti,Wolves,69,CB,Portugal,EPL,2,3,M,M,187cm,83kg,24
+2022/2023,Lyle Taylor,Nott'm Forest,69,ST,Montserrat,EPL,3,3,M,L,188cm,79kg,33
+2022/2023,Jack Colback,Nott'm Forest,69,CDM,England,EPL,3,2,M,H,177cm,77kg,33
+2022/2023,Cafú,Nott'm Forest,69,CDM,Portugal,EPL,3,3,M,H,185cm,82kg,30
+2022/2023,Josh Onomah,Fulham,69,CM,England,EPL,3,3,M,M,185cm,70kg,26
+2022/2023,Mads Roerslev,Brentford,69,RWB,Denmark,EPL,3,3,M,M,184cm,67kg,23
+2022/2023,Siriki Dembélé,AFC Bournemouth,69,ST,Scotland,EPL,4,5,H,M,173cm,67kg,26
+2022/2023,Shandon Baptiste,Brentford,69,CM,Grenada,EPL,3,4,M,M,175cm,67kg,25
+2022/2023,Crysencio Summerville,Leeds United,69,RM,Netherlands,EPL,3,3,H,L,174cm,64kg,21
+2022/2023,Di'Shon Bernard,Manchester Utd,69,CB,England,EPL,2,3,H,M,189cm,81kg,22
+2022/2023,Sékou Mara,Southampton,69,ST,France,EPL,3,3,M,M,183cm,80kg,20
+2022/2023,Wilfried Gnonto,Leeds United,69,ST,Italy,EPL,3,3,M,M,170cm,71kg,19
+2022/2023,Francisco Jorge Tavares Oliveira,Wolves,69,RW,Portugal,EPL,3,3,H,M,179cm,72kg,23
+2022/2023,Mads Bech Sørensen,Brentford,69,CB,Denmark,EPL,2,3,L,M,193cm,92kg,24
+2022/2023,Victor Kristiansen,Leicester City,69,LB,Denmark,EPL,3,3,H,M,183cm,77kg,20
+2022/2023,Matija Šarkic,Wolves,68,GK,Montenegro,EPL,1,2,M,M,195cm,76kg,25
+2022/2023,Saman Ghoddos,Brentford,68,CAM,Iran,EPL,4,3,M,M,177cm,79kg,29
+2022/2023,Nathan Ferguson,Crystal Palace,68,LB,England,EPL,2,3,M,H,178cm,70kg,22
+2022/2023,Cody Drameh,Leeds United,68,RWB,England,EPL,2,3,H,M,184cm,73kg,21
+2022/2023,Ellis Simms,Everton,68,ST,England,EPL,3,4,M,L,183cm,73kg,22
+2022/2023,Connor Ronan,Wolves,67,CM,Republic of Ireland,EPL,3,3,H,M,170cm,70kg,25
+2022/2023,Mark Gillespie,Newcastle Utd,67,GK,England,EPL,1,3,M,M,192cm,83kg,31
+2022/2023,Leonardo B. Lohner Maia,Wolves,67,ST,Brazil,EPL,3,4,M,H,185cm,82kg,29
+2022/2023,Jordan Smith,Nott'm Forest,67,GK,England,EPL,1,4,M,M,183cm,75kg,28
+2022/2023,Charlie Goode,Brentford,67,CB,England,EPL,2,2,M,M,196cm,75kg,27
+2022/2023,Sam Greenwood,Leeds United,67,CAM,England,EPL,3,5,H,M,180cm,75kg,21
+2022/2023,Teden Mengi,Manchester Utd,67,CB,England,EPL,2,3,H,H,183cm,78kg,21
+2022/2023,Darío Sarmiento,Manchester City,67,RM,Argentina,EPL,3,3,H,M,170cm,60kg,20
+2022/2023,Elliot Anderson,Newcastle Utd,67,LW,Scotland,EPL,3,4,H,M,179cm,63kg,20
+2022/2023,Cole Palmer,Manchester City,67,RW,England,EPL,4,3,M,M,189cm,74kg,21
+2022/2023,Matthew Longstaff,Newcastle Utd,67,CM,England,EPL,2,3,M,M,171cm,65kg,23
+2022/2023,Kaine Kesler Hayden,Aston Villa,67,RWB,England,EPL,3,3,H,M,175cm,62kg,20
+2022/2023,Alex Mighten,Nott'm Forest,67,LW,England,EPL,4,2,H,M,172cm,70kg,21
+2022/2023,Conor Coventry,West Ham,66,CM,Republic of Ireland,EPL,2,3,M,M,177cm,65kg,23
+2022/2023,Loïc Mbe Soh,Nott'm Forest,66,CB,France,EPL,2,2,L,H,187cm,86kg,21
+2022/2023,Nathan Patterson,Everton,66,RB,Scotland,EPL,2,3,H,H,183cm,66kg,21
+2022/2023,Santiago Muñoz,Newcastle Utd,66,ST,Mexico,EPL,3,3,M,M,179cm,67kg,20
+2022/2023,Morgan Rogers,Manchester City,66,LW,England,EPL,3,4,H,M,187cm,80kg,20
+2022/2023,Jeremy Sarmiento,Brighton,66,RM,Ecuador,EPL,3,3,M,M,183cm,73kg,20
+2022/2023,David Datro Fofana,Chelsea,66,ST,Côte d'Ivoire,EPL,3,3,M,L,181cm,82kg,20
+2022/2023,Gabriel Slonina,Chelsea,66,GK,United States,EPL,1,2,M,M,193cm,89kg,19
+2022/2023,Scott Carson,Manchester City,65,GK,England,EPL,1,3,M,M,190cm,86kg,37
+2022/2023,Harry Arter,Nott'm Forest,65,CDM,Republic of Ireland,EPL,3,5,M,H,176cm,70kg,33
+2022/2023,Jason Steele,Brighton,65,GK,England,EPL,1,3,M,M,188cm,79kg,32
+2022/2023,Kristoffer Klaesson,Leeds United,65,GK,Norway,EPL,1,2,M,M,189cm,76kg,22
+2022/2023,Leo Hjelde,Leeds United,65,CB,Norway,EPL,2,3,M,M,188cm,75kg,19
+2022/2023,Malcolm Ebiowei,Crystal Palace,65,RM,England,EPL,3,3,H,M,185cm,80kg,19
+2022/2023,Theo Corbeanu,Wolves,65,RW,Canada,EPL,3,5,H,M,188cm,77kg,21
+2022/2023,Sylvester Jasper,Fulham,65,RM,Bulgaria,EPL,4,4,H,M,172cm,71kg,22
+2022/2023,Rhys Williams,Liverpool,65,CB,England,EPL,2,2,L,M,195cm,76kg,22
+2022/2023,Yerson Mosquera,Wolves,64,CB,Colombia,EPL,2,3,M,H,187cm,76kg,22
+2022/2023,Brandon Austin,Spurs,64,GK,England,EPL,1,2,M,M,188cm,75kg,24
+2022/2023,Harvey White,Spurs,64,CDM,England,EPL,3,3,M,M,178cm,70kg,21
+2022/2023,Matthew Smith,Arsenal,64,CM,England,EPL,2,3,M,M,176cm,70kg,22
+2022/2023,Kyle John,Everton,64,RB,England,EPL,2,2,H,M,176cm,68kg,22
+2022/2023,James Hill,AFC Bournemouth,64,CB,England,EPL,2,3,M,M,184cm,73kg,21
+2022/2023,Karl Hein,Arsenal,64,GK,Estonia,EPL,1,3,M,M,193cm,77kg,21
+2022/2023,Calvin Ramsay,Liverpool,64,RB,Scotland,EPL,2,3,H,M,177cm,68kg,19
+2022/2023,Shola Shoretire,Manchester Utd,64,RM,England,EPL,3,4,M,M,175cm,70kg,19
+2022/2023,Boubacar Traoré,Wolves,64,CM,Mali,EPL,2,2,M,M,183cm,67kg,21
+2022/2023,Carney Chukwuemeka,Chelsea,64,CM,England,EPL,4,4,L,L,185cm,70kg,19
+2022/2023,Joseph Anang,West Ham,64,GK,England,EPL,1,2,M,M,183cm,78kg,22
+2022/2023,Naouirou Ahamada,Crystal Palace,64,CM,France,EPL,2,3,H,M,183cm,73kg,21
+2022/2023,Jamie Bowden,Spurs,63,CM,Republic of Ireland,EPL,2,3,M,M,183cm,78kg,21
+2022/2023,Julio César Enciso,Brighton,63,RM,Paraguay,EPL,3,3,H,M,168cm,64kg,19
+2022/2023,Alfie Whiteman,Spurs,63,GK,England,EPL,1,2,M,M,189cm,84kg,24
+2022/2023,Billy Koumetio,Liverpool,63,CB,France,EPL,2,3,M,M,195cm,81kg,20
+2022/2023,Miguel Azeez,Arsenal,63,CM,England,EPL,3,3,H,M,180cm,65kg,20
+2022/2023,Dango Ouattara,AFC Bournemouth,63,ST,Burkina Faso,EPL,2,3,M,M,177cm,71kg,21
+2022/2023,Harvey Vale,Chelsea,63,LW,England,EPL,3,4,H,M,180cm,68kg,19
+2022/2023,Jake Cain,Liverpool,62,CM,England,EPL,3,3,M,H,176cm,62kg,21
+2022/2023,Harrison Ashby,West Ham,62,RB,Scotland,EPL,2,3,H,M,180cm,75kg,21
+2022/2023,Andy Lonergan,Everton,62,GK,England,EPL,1,1,M,M,192cm,87kg,39
+2022/2023,Kaide Gordon,Liverpool,62,RW,England,EPL,3,3,H,M,173cm,65kg,18
+2022/2023,Romeo Lavia,Southampton,62,CDM,Belgium,EPL,2,3,M,H,181cm,75kg,19
+2022/2023,Indiana Vassilev,Aston Villa,62,RM,United States,EPL,3,3,H,L,175cm,65kg,22
+2022/2023,Aaron Ramsey,Aston Villa,62,CM,England,EPL,4,3,H,M,181cm,73kg,20
+2022/2023,Khanya Leshabela,Leicester City,62,CAM,South Africa,EPL,3,3,M,M,175cm,72kg,23
+2022/2023,Fin Stevens,Brentford,62,RWB,Wales,EPL,2,3,H,M,173cm,73kg,20
+2022/2023,Harrison Ashby,Newcastle Utd,62,RB,Scotland,EPL,2,3,H,M,180cm,75kg,21
+2022/2023,Ateef Konaté,Nott'm Forest,61,CAM,France,EPL,3,3,M,M,179cm,66kg,22
+2022/2023,Aaron Pressley,Brentford,61,ST,Scotland,EPL,2,3,M,L,189cm,75kg,21
+2022/2023,Sammy Braybrooke,Leicester City,61,CM,England,EPL,2,3,M,M,184cm,66kg,19
+2022/2023,Luke Harris,Fulham,61,CAM,Wales,EPL,2,3,M,M,168cm,63kg,18
+2022/2023,Paris Maghoma,Brentford,61,CM,England,EPL,3,3,M,M,178cm,75kg,22
+2022/2023,Sonny Hilton,Fulham,61,CAM,England,EPL,2,3,H,M,165cm,57kg,22
+2022/2023,Owen Beck,Liverpool,61,LB,Wales,EPL,2,2,H,M,181cm,74kg,20
+2022/2023,Yasin Ayari,Brighton,61,CM,Sweden,EPL,2,2,M,M,172cm,69kg,19
+2022/2023,Salah-Eddine Oulad M'Hand,Arsenal,61,CM,Netherlands,EPL,3,4,H,M,177cm,69kg,19
+2022/2023,Hugo Bueno,Wolves,60,LWB,Spain,EPL,3,3,H,M,180cm,73kg,20
+2022/2023,Chem Campbell,Wolves,60,CAM,Wales,EPL,4,4,H,M,180cm,72kg,20
+2022/2023,Luke Matheson,Wolves,60,RB,England,EPL,3,2,M,M,168cm,62kg,20
+2022/2023,Thanawat Suengchitthawon,Leicester City,60,CAM,Thailand,EPL,2,3,M,M,167cm,62kg,23
+2022/2023,Alfie Devine,Spurs,60,CAM,England,EPL,2,3,H,M,180cm,70kg,18
+2022/2023,James Norris,Liverpool,60,LB,England,EPL,2,3,H,M,178cm,73kg,20
+2022/2023,Tyreik Wright,Aston Villa,60,RM,Republic of Ireland,EPL,3,3,M,M,179cm,72kg,21
+2022/2023,Tyler Onyango,Everton,60,CM,England,EPL,2,3,H,M,196cm,75kg,20
+2022/2023,Armstrong Okoflex,West Ham,60,LM,Republic of Ireland,EPL,3,3,H,M,186cm,72kg,21
+2022/2023,Matthew Cox,Brentford,59,GK,England,EPL,1,3,M,M,182cm,74kg,20
+2022/2023,Evan Ferguson,Brighton,59,ST,Republic of Ireland,EPL,3,3,M,M,177cm,74kg,18
+2022/2023,Alex Gilbert,Brentford,59,LW,Republic of Ireland,EPL,2,4,M,M,183cm,64kg,21
+2022/2023,Odel Offiah,Brighton,59,CB,England,EPL,2,2,M,M,181cm,81kg,20
+2022/2023,Garang Kuol,Newcastle Utd,59,LM,Australia,EPL,2,3,H,M,175cm,68kg,18
+2022/2023,Daniel Oyegoke,Brentford,59,RWB,England,EPL,2,3,M,M,178cm,63kg,20
+2022/2023,James Balagizi,Liverpool,59,CM,England,EPL,3,4,H,M,189cm,78kg,19
+2022/2023,Stephenson,Newcastle Utd,59,ST,England,EPL,2,3,H,L,,0kg,123
+2022/2023,Nathan Young-Coombes,Brentford,59,ST,England,EPL,2,3,M,L,175cm,64kg,20
+2022/2023,Jhon Durán,Aston Villa,59,ST,Colombia,EPL,2,2,M,M,187cm,70kg,19
+2022/2023,Bryan Fiabema,Chelsea,59,ST,Norway,EPL,3,4,M,M,182cm,82kg,20
+2022/2023,Will Dennis,AFC Bournemouth,58,GK,England,EPL,1,3,M,M,188cm,79kg,22
+2022/2023,Brooklyn Lyons-Foster,Spurs,58,CB,England,EPL,2,3,M,M,185cm,74kg,22
+2022/2023,Pierre Ekwah Elimby,West Ham,58,CDM,France,EPL,2,3,M,M,187cm,76kg,21
+2022/2023,Alex Robertson,Manchester City,58,CM,England,EPL,2,3,M,M,180cm,66kg,20
+2022/2023,Killian Phillips,Crystal Palace,58,CM,Republic of Ireland,EPL,2,3,L,H,190cm,85kg,21
+2022/2023,Sonny Perkins,Leeds United,58,ST,England,EPL,3,3,M,L,180cm,73kg,19
+2022/2023,Tristan Crama,Brentford,58,CB,France,EPL,2,3,M,M,192cm,78kg,21
+2022/2023,Lamare Bogarde,Aston Villa,58,CB,Netherlands,EPL,2,3,L,H,183cm,70kg,19
+2022/2023,White,Newcastle Utd,58,CM,England,EPL,2,3,H,M,,0kg,123
+2022/2023,Christian Marques,Wolves,58,CB,Portugal,EPL,2,3,L,M,187cm,75kg,20
+2022/2023,Ryan Trevitt,Brentford,57,CAM,England,EPL,2,3,H,M,170cm,65kg,20
+2022/2023,Jack Wells-Morrison,Crystal Palace,57,CM,England,EPL,3,3,M,M,180cm,73kg,19
+2022/2023,Darko Gyabi,Leeds United,57,CM,England,EPL,2,3,H,H,196cm,80kg,19
+2022/2023,Lewis Richards,Wolves,57,CB,Republic of Ireland,EPL,2,3,M,M,182cm,72kg,21
+2022/2023,Thierry Small,Southampton,57,LWB,England,EPL,2,2,H,M,175cm,68kg,18
+2022/2023,Dale Taylor,Nott'm Forest,56,ST,Northern Ireland,EPL,2,2,H,L,180cm,74kg,19
+2022/2023,Lucas Bergström,Chelsea,56,GK,Finland,EPL,1,2,M,M,200cm,84kg,20
+2022/2023,Max Woltman,Liverpool,56,ST,England,EPL,2,3,M,L,178cm,67kg,19
+2022/2023,George Shelvey,Nott'm Forest,55,GK,England,EPL,1,3,M,M,188cm,77kg,22
+2022/2023,Harry Birtwistle,Wolves,55,RWB,Singapore,EPL,2,3,H,M,180cm,77kg,19
+2022/2023,Dexter Lembikisa,Wolves,55,RWB,Jamaica,EPL,2,5,H,M,177cm,68kg,19
+2022/2023,Joshua Feeney,Aston Villa,55,CB,England,EPL,2,3,M,M,194cm,82kg,18
+2022/2023,Tyler Roberts,Wolves,55,RW,Jamaica,EPL,3,4,H,M,177cm,70kg,19
+2022/2023,Viljami Sinisalo,Aston Villa,55,GK,Finland,EPL,1,2,M,M,196cm,76kg,21
+2022/2023,Oliver Hammond,Nott'm Forest,54,CM,England,EPL,2,2,M,M,179cm,64kg,20
+2022/2023,Jackson Smith,Wolves,54,GK,England,EPL,1,2,M,M,187cm,76kg,21
+2022/2023,Jamie Mullins,Brighton,54,CAM,Republic of Ireland,EPL,2,3,M,L,162cm,60kg,18
+2022/2023,Diogo Pinheiro Monteiro,Leeds United,54,CB,Portugal,EPL,2,3,M,M,184cm,73kg,18
+2022/2023,Dylan Reid,Crystal Palace,54,CDM,Scotland,EPL,2,3,M,M,181cm,68kg,18
+2022/2023,Reece Welch,Everton,53,CB,England,EPL,2,3,M,M,196cm,94kg,19
+2022/2023,Cieran Slicker,Manchester City,52,GK,Scotland,EPL,1,2,M,M,191cm,82kg,20
+2022/2023,Isaac Price,Everton,50,CM,Northern Ireland,EPL,2,2,M,M,178cm,74kg,19

@@ -1,0 +1,21 @@
+﻿team_name,location,stadium_name,stadium_capacity,average_attendance,manager_name,promoted,captain
+Arsenal,London (Holloway),Emirates Stadium,60260,59898,Unai Emery,FALSE,Laurent Koscielny
+Bournemouth,Bournemouth,Dean Court,11329,10531,Eddie Howe,FALSE,Simon Francis
+Brighton & Hove Albion,Falmer,Falmer Stadium,30666,30425,Chris Hughton,FALSE,Bruno
+Burnley,Burnley,Turf Moor,21944,20534,Sean Dyche,FALSE,Tom Heaton
+Cardiff City,Cardiff,Cardiff City Stadium,33316,31407,Neil Warnock,TRUE,Sean Morrison
+Chelsea,London (Fulham),Stamford Bridge,40853,40436,Maurizio Sarri,FALSE,Gary Cahill
+Crystal Palace,London (Selhurst),Selhurst Park,26074,25440,Roy Hodgson,FALSE,Luka Milivojević
+Everton,Liverpool (Walton),Goodison Park,39221,39042,Marco Silva,FALSE,Phil Jagielka
+Fulham,London (Fulham),Craven Cottage,25700,24336,Scott Parker,TRUE,Tom Cairney
+Huddersfield Town,Huddersfield,Kirklees Stadium,24121,23340,Jan Siewert,FALSE,Tommy Smith
+Leicester City,Leicester,King Power Stadium,32273,31832,Brendan Rodgers,FALSE,Wes Morgan
+Liverpool,Liverpool (Anfield),Anfield,54074,53050,Jürgen Klopp,FALSE,Jordan Henderson
+Manchester City,Manchester (Bradford),City of Manchester Stadium,55017,54128,Pep Guardiola,FALSE,Vincent Kompany
+Manchester United,Manchester (Old Trafford),Old Trafford,74879,74498,Ole Gunnar Solskjær,FALSE,Antonio Valencia
+Newcastle United,Newcastle upon Tyne,St James' Park,52354,51120,Rafael Benítez,FALSE,Jamaal Lascelles
+Southampton,Southampton,St Mary's Stadium,32384,30212,Ralph Hasenhüttl,FALSE,Pierre-Emile Højbjerg
+Tottenham Hotspur,London (Wembley),Wembley Stadium[a],90000,54216,Mauricio Pochettino,FALSE,Hugo Lloris
+Watford,Watford,Vicarage Road,20400,20015,Javi Gracia,FALSE,Troy Deeney
+West Ham United,London (Stratford),London Stadium,60000,58335,Manuel Pellegrini,FALSE,Mark Noble
+Wolverhampton Wanderers,Wolverhampton,Molineux Stadium,32050,31030,Nuno Espírito Santo,TRUE,Conor Coady

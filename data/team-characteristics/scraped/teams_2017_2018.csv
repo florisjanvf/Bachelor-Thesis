@@ -1,0 +1,21 @@
+﻿team_name,location,stadium_name,stadium_capacity,average_attendance,manager_name,promoted,captain
+Arsenal,London (Holloway),Emirates Stadium,59867,59322,Arsène Wenger,FALSE,Per Mertesacker
+Bournemouth,Bournemouth,Vitality Stadium,11360,10620,Eddie Howe,FALSE,Simon Francis
+Brighton & Hove Albion,Falmer,Falmer Stadium,30666,30402,Chris Hughton,TRUE,Bruno
+Burnley,Burnley,Turf Moor,21944,20688,Sean Dyche,FALSE,Tom Heaton
+Chelsea,London (Fulham),Stamford Bridge,41631,41281,Antonio Conte,FALSE,Gary Cahill
+Crystal Palace,London (Selhurst),Selhurst Park,25456,25062,Roy Hodgson,FALSE,Jason Puncheon
+Everton,Liverpool (Walton),Goodison Park,39595,38797,Sam Allardyce,FALSE,Phil Jagielka
+Huddersfield Town,Huddersfield,Kirklees Stadium,24169,24039,David Wagner,TRUE,Tommy Smith
+Leicester City,Leicester,King Power Stadium,32273,31583,Claude Puel,FALSE,Wes Morgan
+Liverpool,Liverpool (Anfield),Anfield,53394,53049,Jürgen Klopp,FALSE,Jordan Henderson
+Manchester City,Manchester (Bradford),City of Manchester Stadium,55017,54054,Pep Guardiola,FALSE,Vincent Kompany
+Manchester United,Manchester (Old Trafford),Old Trafford,74994,74975,José Mourinho,FALSE,Michael Carrick
+Newcastle United,Newcastle upon Tyne,St James' Park,52354,51991,Rafael Benítez,TRUE,Jamaal Lascelles
+Southampton,Southampton,St Mary's Stadium,32384,30793,Mark Hughes,FALSE,Steven Davis
+Stoke City,Stoke-on-Trent,Bet365 Stadium,30089,29279,Paul Lambert,FALSE,Ryan Shawcross
+Swansea City,Swansea,Liberty Stadium,21088,20622,Carlos Carvalhal,FALSE,Àngel Rangel
+Tottenham Hotspur,London (Wembley),Wembley Stadium[a],90000,67952,Mauricio Pochettino,FALSE,Hugo Lloris
+Watford,Watford,Vicarage Road,21577,20230,Javi Gracia,FALSE,Troy Deeney
+West Bromwich Albion,West Bromwich,The Hawthorns,26688,24519,Alan Pardew,FALSE,Jonny Evans
+West Ham United,London (Stratford),London Stadium,60000,56884,David Moyes,FALSE,Mark Noble

@@ -1,0 +1,21 @@
+﻿team_name,location,stadium_name,stadium_capacity,average_attendance,manager_name,promoted,captain
+Arsenal,London (Holloway),Emirates Stadium,60272,59993,Arsène Wenger,FALSE,Mikel Arteta
+Aston Villa,Birmingham,Villa Park,42682,34132,Tim Sherwood,FALSE,Fabian Delph
+Burnley,Burnley,Turf Moor,21401,19042,Sean Dyche,TRUE,Jason Shackell
+Chelsea,London (Fulham),Stamford Bridge,41798,41546,José Mourinho,FALSE,John Terry
+Crystal Palace,London (Selhurst),Selhurst Park,25747,24413,Alan Pardew,FALSE,Mile Jedinak
+Everton,Liverpool (Walton),Goodison Park,39571,38405,Roberto Martínez,FALSE,Phil Jagielka
+Hull City,Kingston upon Hull,KC Stadium,25400,23508,Steve Bruce,FALSE,Curtis Davies
+Leicester City,Leicester,King Power Stadium,32312,31692,Nigel Pearson,TRUE,Wes Morgan
+Liverpool,Liverpool (Anfield),Anfield,45276,44658,Brendan Rodgers,FALSE,Steven Gerrard
+Manchester City,Manchester (Bradford),City of Manchester Stadium,46708,45411,Manuel Pellegrini,FALSE,Vincent Kompany
+Manchester United,Manchester (Old Trafford),Old Trafford,75635,75335,Louis van Gaal,FALSE,Wayne Rooney
+Newcastle United,Newcastle upon Tyne,St James' Park,52405,50250,John Carver,FALSE,Fabricio Coloccini
+Queens Park Rangers,London (Shepherd's Bush),Loftus Road,18000,17808,Chris Ramsey,TRUE,Clint Hill
+Southampton,Southampton,St Mary's Stadium,32505,30652,Ronald Koeman,FALSE,José Fonte
+Stoke City,Stoke-on-Trent,Britannia Stadium,27740,27081,Mark Hughes,FALSE,Ryan Shawcross
+Sunderland,Sunderland,Stadium of Light,48707,43157,Dick Advocaat,FALSE,John O'Shea
+Swansea City,Swansea,Liberty Stadium,20827,20548,Garry Monk,FALSE,Ashley Williams
+Tottenham Hotspur,London (Tottenham),White Hart Lane,36284,35727,Mauricio Pochettino,FALSE,Younès Kaboul
+West Bromwich Albion,West Bromwich,The Hawthorns,26445,25063,Tony Pulis,FALSE,Darren Fletcher
+West Ham United,London (Upton Park),Boleyn Ground,35245,34871,Sam Allardyce,FALSE,Kevin Nolan

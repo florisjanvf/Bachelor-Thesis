@@ -1,0 +1,620 @@
+season,player_name,team,player_rating,position,nation,league,skill_moves,weak_foot_quality,work_rate_a,work_rate_d,player_height,player_weight,age
+2010/2011,Didier Drogba,Chelsea,88,ST,Ivory Coast,EPL,4,4,,,189cm,91kg,33
+2010/2011,Wayne Rooney,Manchester United,88,ST,England,EPL,3,4,,,177cm,79kg,25
+2010/2011,Frank Lampard,Chelsea,87,CAM,England,EPL,3,4,,,184cm,88kg,32
+2010/2011,Nemanja Vidić,Manchester United,87,CB,Serbia,EPL,2,3,,,189cm,84kg,29
+2010/2011,John Terry,Chelsea,86,CB,England,EPL,2,3,,,187cm,90kg,30
+2010/2011,Steven Gerrard,Liverpool,86,CAM,England,EPL,3,4,,,183cm,83kg,30
+2010/2011,Fernando Torres,Liverpool,86,ST,Spain,EPL,4,4,,,185cm,78kg,27
+2010/2011,Carlos Tévez,Manchester City,86,CF,Argentina,EPL,4,3,,,172cm,76kg,27
+2010/2011,Cesc Fàbregas,Arsenal,86,CM,Spain,EPL,3,3,,,175cm,70kg,24
+2010/2011,Nicolas Anelka,Chelsea,85,ST,France,EPL,3,3,,,183cm,83kg,32
+2010/2011,Rio Ferdinand,Manchester United,85,CB,England,EPL,2,3,,,192cm,82kg,32
+2010/2011,Robin van Persie,Arsenal,85,CF,Netherlands,EPL,4,3,,,186cm,73kg,27
+2010/2011,José Reina,Liverpool,85,GK,Spain,EPL,1,4,,,188cm,92kg,28
+2010/2011,Michaël Essien,Chelsea,85,CM,Ghana,EPL,3,4,,,177cm,85kg,28
+2010/2011,Andrey Arshavin,Arsenal,85,LW,Russia,EPL,4,5,,,172cm,69kg,29
+2010/2011,David Silva,Manchester City,85,CAM,Spain,EPL,4,3,,,171cm,67kg,25
+2010/2011,Shay Given,Manchester City,84,GK,Republic of Ireland,EPL,1,3,,,185cm,83kg,35
+2010/2011,Ashley Cole,Chelsea,84,LWB,England,EPL,3,3,,,176cm,67kg,30
+2010/2011,Rafael van der Vaart,Tottenham Hotspur,84,CAM,Netherlands,EPL,4,4,,,176cm,74kg,28
+2010/2011,Florent Malouda,Chelsea,84,LM,France,EPL,3,4,,,181cm,73kg,30
+2010/2011,Petr Cech,Chelsea,84,GK,Czech Republic,EPL,1,3,,,196cm,91kg,29
+2010/2011,Patrice Evra,Manchester United,84,LWB,France,EPL,4,2,,,175cm,76kg,30
+2010/2011,Kolo Touré,Manchester City,84,CB,Ivory Coast,EPL,2,3,,,183cm,76kg,30
+2010/2011,Samir Nasri,Arsenal,84,CAM,France,EPL,4,4,,,178cm,72kg,23
+2010/2011,Yaya Touré,Manchester City,83,CDM,Ivory Coast,EPL,3,4,,,187cm,78kg,28
+2010/2011,Edwin van der Sar,Manchester United,83,GK,Netherlands,EPL,1,3,,,197cm,89kg,40
+2010/2011,Emmanuel Adebayor,Manchester City,83,ST,Togo,EPL,3,3,,,191cm,75kg,27
+2010/2011,Gomes,Tottenham Hotspur,83,GK,Brazil,EPL,1,2,,,191cm,87kg,30
+2010/2011,Alex Rodrigo Dias da Costa,Chelsea,83,CB,Brazil,EPL,2,3,,,189cm,92kg,28
+2010/2011,Nani,Manchester United,83,LW,Portugal,EPL,5,4,,,175cm,66kg,24
+2010/2011,Ashley Young,Aston Villa,83,LW,England,EPL,4,3,,,175cm,65kg,25
+2010/2011,Thomas Vermaelen,Arsenal,83,CB,Belgium,EPL,2,3,,,182cm,82kg,25
+2010/2011,Antonio Valencia,Manchester United,83,RW,Ecuador,EPL,3,3,,,181cm,73kg,25
+2010/2011,Ryan Giggs,Manchester United,82,LM,Wales,EPL,3,3,,,180cm,70kg,37
+2010/2011,Paul Scholes,Manchester United,82,CM,England,EPL,3,3,,,170cm,74kg,36
+2010/2011,Jamie Carragher,Liverpool,82,CB,England,EPL,2,3,,,185cm,76kg,33
+2010/2011,Gareth Barry,Manchester City,82,CDM,England,EPL,3,4,,,183cm,79kg,30
+2010/2011,Tomáš Rosický,Arsenal,82,CAM,Czech Republic,EPL,4,4,,,178cm,68kg,30
+2010/2011,Brad Friedel,Aston Villa,82,GK,United States,EPL,1,3,,,188cm,91kg,40
+2010/2011,Tim Howard,Everton,82,GK,United States,EPL,1,3,,,191cm,88kg,32
+2010/2011,Dimitar Berbatov,Manchester United,82,ST,Bulgaria,EPL,4,3,,,189cm,80kg,30
+2010/2011,Mikel Arteta Amatriain,Everton,82,CM,Spain,EPL,4,4,,,175cm,64kg,29
+2010/2011,Aliaksandr Hleb,Birmingham City,82,RM,Belarus,EPL,4,4,,,185cm,73kg,30
+2010/2011,Brede Hangeland,Fulham,82,CB,Norway,EPL,2,3,,,195cm,92kg,29
+2010/2011,Jermain Defoe,Tottenham Hotspur,82,ST,England,EPL,2,3,,,171cm,65kg,28
+2010/2011,Darren Bent,Sunderland,82,ST,England,EPL,3,3,,,180cm,73kg,27
+2010/2011,Marouane Chamakh,Arsenal,82,ST,Morocco,EPL,3,3,,,185cm,70kg,27
+2010/2011,Darren Fletcher,Manchester United,82,CM,Scotland,EPL,2,3,,,184cm,83kg,27
+2010/2011,Joe Hart,Manchester City,82,GK,England,EPL,1,3,,,191cm,84kg,24
+2010/2011,Daniel Agger,Liverpool,82,CB,Denmark,EPL,2,3,,,191cm,79kg,26
+2010/2011,Aaron Lennon,Tottenham Hotspur,82,RW,England,EPL,3,3,,,165cm,72kg,24
+2010/2011,Alexandre Song,Arsenal,82,CDM,Cameroon,EPL,2,3,,,182cm,75kg,23
+2010/2011,Bacary Sagna,Arsenal,82,RB,France,EPL,3,3,,,176cm,72kg,28
+2010/2011,John Obi Mikel,Chelsea,82,CDM,Nigeria,EPL,2,3,,,188cm,86kg,24
+2010/2011,Luka Modric,Tottenham Hotspur,82,CAM,Croatia,EPL,4,5,,,173cm,65kg,25
+2010/2011,Branislav Ivanović,Chelsea,82,CB,Serbia,EPL,2,4,,,188cm,86kg,27
+2010/2011,José Bosingwa da Silva,Chelsea,81,RWB,Portugal,EPL,4,4,,,183cm,75kg,28
+2010/2011,William Gallas,Tottenham Hotspur,81,CB,France,EPL,2,3,,,183cm,82kg,33
+2010/2011,Owen Hargreaves,Manchester United,81,CDM,England,EPL,2,4,,,180cm,73kg,30
+2010/2011,Dirk Kuyt,Liverpool,81,ST,Netherlands,EPL,3,3,,,184cm,77kg,30
+2010/2011,Michael Carrick,Manchester United,81,CM,England,EPL,2,4,,,185cm,74kg,29
+2010/2011,Sébastien Squillaci,Arsenal,81,CB,France,EPL,2,3,,,185cm,76kg,30
+2010/2011,James Milner,Manchester City,81,CM,England,EPL,3,4,,,176cm,70kg,25
+2010/2011,Joleon Lescott,Manchester City,81,CB,England,EPL,2,3,,,188cm,83kg,28
+2010/2011,Gaël Clichy,Arsenal,81,LWB,France,EPL,3,4,,,175cm,72kg,25
+2010/2011,Yuriy Zhirkov,Chelsea,81,LM,Russia,EPL,3,3,,,185cm,75kg,27
+2010/2011,Gabriel Agbonlahor,Aston Villa,81,RM,England,EPL,3,4,,,181cm,79kg,24
+2010/2011,Theo Walcott,Arsenal,81,RW,England,EPL,3,3,,,176cm,67kg,22
+2010/2011,Adam Johnson,Manchester City,81,LW,England,EPL,3,4,,,175cm,66kg,23
+2010/2011,Gareth Bale,Tottenham Hotspur,81,LM,Wales,EPL,4,4,,,183cm,74kg,21
+2010/2011,Marouane Fellaini,Everton,81,CDM,Belgium,EPL,3,4,,,194cm,85kg,23
+2010/2011,Mario Balotelli,Manchester City,81,ST,Italy,EPL,4,3,,,189cm,88kg,20
+2010/2011,Joe Cole,Liverpool,80,CAM,England,EPL,4,4,,,176cm,73kg,29
+2010/2011,Mark Schwarzer,Fulham,80,GK,Australia,EPL,1,3,,,194cm,85kg,38
+2010/2011,Stiliyan Petrov,Aston Villa,80,CM,Bulgaria,EPL,4,4,,,180cm,77kg,31
+2010/2011,Shaun Wright-Phillips,Manchester City,80,RW,England,EPL,3,3,,,166cm,64kg,29
+2010/2011,John O'Shea,Manchester United,80,RB,Republic of Ireland,EPL,2,3,,,190cm,75kg,30
+2010/2011,Louis Saha,Everton,80,ST,France,EPL,3,4,,,185cm,86kg,32
+2010/2011,Richard Dunne,Aston Villa,80,CB,Republic of Ireland,EPL,2,3,,,188cm,96kg,31
+2010/2011,Roque Santa Cruz,Manchester City,80,ST,Paraguay,EPL,3,4,,,189cm,82kg,29
+2010/2011,John Carew,Aston Villa,80,ST,Norway,EPL,2,3,,,193cm,88kg,31
+2010/2011,John Heitinga,Everton,80,CB,Netherlands,EPL,2,3,,,180cm,72kg,27
+2010/2011,Matthew Upson,West Ham United,80,CB,England,EPL,2,3,,,185cm,72kg,32
+2010/2011,Ledley King,Tottenham Hotspur,80,CB,England,EPL,2,4,,,188cm,91kg,30
+2010/2011,Tim Cahill,Everton,80,CAM,Australia,EPL,3,4,,,178cm,64kg,31
+2010/2011,Nigel de Jong,Manchester City,80,CDM,Netherlands,EPL,2,4,,,173cm,71kg,26
+2010/2011,Phil Jagielka,Everton,80,CB,England,EPL,2,3,,,180cm,87kg,28
+2010/2011,Stewart Downing,Aston Villa,80,LW,England,EPL,3,3,,,180cm,64kg,26
+2010/2011,Tom Huddlestone,Tottenham Hotspur,80,CM,England,EPL,3,4,,,190cm,94kg,24
+2010/2011,Michael Dawson,Tottenham Hotspur,80,CB,England,EPL,2,3,,,187cm,79kg,27
+2010/2011,Glen Johnson,Liverpool,80,RWB,England,EPL,3,4,,,182cm,76kg,26
+2010/2011,Vincent Kompany,Manchester City,80,CB,Belgium,EPL,2,4,,,192cm,85kg,25
+2010/2011,Milan Jovanović,Liverpool,80,LF,Serbia,EPL,3,3,,,183cm,73kg,30
+2010/2011,Raúl José Trindade Meireles,Liverpool,80,CM,Portugal,EPL,3,4,,,179cm,70kg,28
+2010/2011,Clint Dempsey,Fulham,80,RM,United States,EPL,4,3,,,185cm,84kg,28
+2010/2011,Niko Kranjčar,Tottenham Hotspur,80,CAM,Croatia,EPL,3,4,,,185cm,83kg,26
+2010/2011,Salomon Kalou,Chelsea,80,LW,Ivory Coast,EPL,4,3,,,186cm,78kg,25
+2010/2011,Martin Škrtel,Liverpool,80,CB,Slovakia,EPL,2,3,,,191cm,81kg,26
+2010/2011,Stephen Ireland,Aston Villa,80,CAM,Republic of Ireland,EPL,3,4,,,173cm,66kg,24
+2010/2011,Jussi Jääskeläinen,Bolton Wanderers,79,GK,Finland,EPL,1,2,,,193cm,80kg,36
+2010/2011,Yossi Benayoun,Chelsea,79,CAM,Israel,EPL,3,4,,,178cm,70kg,31
+2010/2011,Steven Pienaar,Everton,79,LM,South Africa,EPL,4,4,,,170cm,71kg,29
+2010/2011,Bobby Zamora,Fulham,79,ST,England,EPL,3,4,,,183cm,74kg,30
+2010/2011,Sotirios Kyrgiakos,Liverpool,79,CB,Greece,EPL,2,3,,,193cm,88kg,31
+2010/2011,Maxi Rodríguez,Liverpool,79,RM,Argentina,EPL,4,3,,,180cm,73kg,30
+2010/2011,Carlos Javier Cuéllar Jiménez,Aston Villa,79,CB,Spain,EPL,2,3,,,190cm,84kg,29
+2010/2011,Abou Diaby,Arsenal,79,CM,France,EPL,3,3,,,191cm,76kg,25
+2010/2011,Sebastian Larsson,Birmingham City,79,RM,Sweden,EPL,3,3,,,178cm,70kg,25
+2010/2011,Gary Cahill,Bolton Wanderers,79,CB,England,EPL,2,4,,,188cm,71kg,25
+2010/2011,Charles N'Zogbia,Wigan Athletic,79,LM,France,EPL,4,3,,,170cm,70kg,24
+2010/2011,Nicklas Bendtner,Arsenal,79,ST,Denmark,EPL,3,3,,,194cm,84kg,23
+2010/2011,Micah Richards,Manchester City,79,RB,England,EPL,3,3,,,181cm,83kg,22
+2010/2011,Denilson Pereira Neves,Arsenal,79,CM,Brazil,EPL,3,3,,,180cm,68kg,23
+2010/2011,Javier Hernández,Manchester United,79,ST,Mexico,EPL,3,4,,,175cm,62kg,22
+2010/2011,Ramires Santos do Nascimen.,Chelsea,79,CM,Brazil,EPL,3,3,,,180cm,73kg,24
+2010/2011,Aleksandar Kolarov,Manchester City,79,LWB,Serbia,EPL,2,3,,,187cm,83kg,25
+2010/2011,Phil Neville,Everton,78,CDM,England,EPL,2,4,,,180cm,76kg,34
+2010/2011,Robbie Keane,Tottenham Hotspur,78,CF,Republic of Ireland,EPL,3,3,,,175cm,73kg,30
+2010/2011,Ryan Nelsen,Blackburn Rovers,78,CB,New Zealand,EPL,2,3,,,183cm,90kg,33
+2010/2011,Patrick Vieira,Manchester City,78,CDM,France,EPL,2,3,,,192cm,82kg,34
+2010/2011,Scott Parker,West Ham United,78,CM,England,EPL,3,3,,,175cm,69kg,30
+2010/2011,Wes Brown,Manchester United,78,CB,England,EPL,2,3,,,185cm,75kg,31
+2010/2011,Andrew Johnson,Fulham,78,ST,England,EPL,3,3,,,170cm,64kg,30
+2010/2011,Martin Petrov,Bolton Wanderers,78,LM,Bulgaria,EPL,3,2,,,180cm,77kg,32
+2010/2011,James Collins,Aston Villa,78,CB,Wales,EPL,2,3,,,193cm,90kg,27
+2010/2011,Barry Ferguson,Birmingham City,78,CM,Scotland,EPL,3,2,,,178cm,73kg,33
+2010/2011,Morten Gamst Pedersen,Blackburn Rovers,78,LM,Norway,EPL,4,4,,,183cm,74kg,29
+2010/2011,Carlton Cole,West Ham United,78,ST,England,EPL,3,3,,,191cm,78kg,27
+2010/2011,Jonathan Woodgate,Tottenham Hotspur,78,CB,England,EPL,2,3,,,189cm,80kg,31
+2010/2011,Peter Crouch,Tottenham Hotspur,78,ST,England,EPL,3,3,,,201cm,79kg,30
+2010/2011,Damien Duff,Fulham,78,LW,Republic of Ireland,EPL,3,3,,,175cm,76kg,32
+2010/2011,Craig Gordon,Sunderland,78,GK,Scotland,EPL,1,2,,,193cm,83kg,28
+2010/2011,Roger Johnson,Birmingham City,78,CB,England,EPL,2,3,,,191cm,70kg,28
+2010/2011,Stephen Warnock,Aston Villa,78,LB,England,EPL,2,3,,,178cm,75kg,29
+2010/2011,Rob Green,West Ham United,78,GK,England,EPL,1,3,,,188cm,93kg,31
+2010/2011,John Mensah,Sunderland,78,CB,Ghana,EPL,2,4,,,178cm,79kg,28
+2010/2011,Pablo Zabaleta,Manchester City,78,RB,Argentina,EPL,3,3,,,177cm,76kg,26
+2010/2011,Jonás Gutiérrez,Newcastle United,78,RM,Argentina,EPL,3,3,,,183cm,73kg,27
+2010/2011,Roman Pavlyuchenko,Tottenham Hotspur,78,ST,Russia,EPL,3,4,,,188cm,78kg,29
+2010/2011,David Bentley,Tottenham Hotspur,78,RM,England,EPL,4,3,,,175cm,68kg,26
+2010/2011,Chung-Yong Lee,Bolton Wanderers,78,RW,Korea Republic,EPL,3,3,,,178cm,60kg,22
+2010/2011,Benoît Assou-Ekotto,Tottenham Hotspur,78,LB,Cameroon,EPL,2,4,,,178cm,69kg,27
+2010/2011,Kenwyne Jones,Stoke City,78,ST,Trinidad & Tobago,EPL,3,3,,,187cm,85kg,26
+2010/2011,Ben Arfa,Newcastle United,78,RW,France,EPL,5,4,,,178cm,65kg,24
+2010/2011,Johan Djourou,Arsenal,78,CB,Switzerland,EPL,2,3,,,192cm,89kg,24
+2010/2011,Leighton Baines,Everton,78,LB,England,EPL,3,3,,,170cm,70kg,26
+2010/2011,Onuoha,Sunderland,78,CB,England,EPL,2,3,,,183cm,95kg,24
+2010/2011,Cameron Jerome,Birmingham City,78,ST,England,EPL,3,3,,,185cm,86kg,24
+2010/2011,Anderson Luis de Abreu Oliveira,Manchester United,78,CM,Brazil,EPL,3,3,,,176cm,69kg,23
+2010/2011,Asamoah Gyan,Sunderland,78,ST,Ghana,EPL,4,3,,,180cm,80kg,25
+2010/2011,Ryan Shawcross,Stoke City,78,CB,England,EPL,2,3,,,191cm,76kg,23
+2010/2011,Giovani dos Santos,Tottenham Hotspur,78,RW,Mexico,EPL,4,4,,,171cm,60kg,22
+2010/2011,Sébastien Bassong,Tottenham Hotspur,78,CB,Cameroon,EPL,2,3,,,187cm,75kg,24
+2010/2011,Wilson Palacios,Tottenham Hotspur,78,CM,Honduras,EPL,2,4,,,178cm,71kg,26
+2010/2011,Lucas Leiva,Liverpool,78,CM,Brazil,EPL,3,3,,,179cm,73kg,24
+2010/2011,Vedran Corluka,Tottenham Hotspur,78,RB,Croatia,EPL,3,3,,,193cm,88kg,25
+2010/2011,Lee Bowyer,Birmingham City,77,CM,England,EPL,3,3,,,175cm,62kg,34
+2010/2011,Wayne Bridge,Manchester City,77,LB,England,EPL,3,2,,,178cm,75kg,30
+2010/2011,Michael Owen,Manchester United,77,ST,England,EPL,3,4,,,173cm,70kg,31
+2010/2011,Kevin Davies,Bolton Wanderers,77,ST,England,EPL,3,3,,,183cm,81kg,34
+2010/2011,Paul Robinson,Blackburn Rovers,77,GK,England,EPL,1,2,,,190cm,90kg,31
+2010/2011,Danny Murphy,Fulham,77,CM,England,EPL,3,3,,,175cm,69kg,34
+2010/2011,Ji Sung Park,Manchester United,77,RM,Korea Republic,EPL,3,3,,,175cm,70kg,30
+2010/2011,James McFadden,Birmingham City,77,CF,Scotland,EPL,3,3,,,178cm,75kg,28
+2010/2011,Paul Scharner,West Bromwich Albion,77,CB,Austria,EPL,2,3,,,191cm,80kg,31
+2010/2011,Christian Poulsen,Liverpool,77,CDM,Denmark,EPL,2,3,,,182cm,76kg,31
+2010/2011,Christopher Samba,Blackburn Rovers,77,CB,Congo,EPL,2,2,,,196cm,91kg,27
+2010/2011,Matthew Etherington,Stoke City,77,LM,England,EPL,3,2,,,178cm,64kg,29
+2010/2011,David Dunn,Blackburn Rovers,77,CAM,England,EPL,3,3,,,175cm,77kg,31
+2010/2011,Kevin Nolan,Newcastle United,77,CM,England,EPL,3,3,,,183cm,86kg,28
+2010/2011,Luke Young,Aston Villa,77,RB,England,EPL,2,3,,,183cm,78kg,31
+2010/2011,Yakubu Ayegbeni,Everton,77,ST,Nigeria,EPL,3,4,,,183cm,83kg,28
+2010/2011,Manuel Almunia Rivero,Arsenal,77,GK,Spain,EPL,1,3,,,191cm,93kg,34
+2010/2011,Emmanuel Eboué,Arsenal,77,RM,Ivory Coast,EPL,3,3,,,178cm,73kg,27
+2010/2011,Thomas Sørensen,Stoke City,77,GK,Denmark,EPL,1,3,,,196cm,89kg,34
+2010/2011,Stipe Pletikosa,Tottenham Hotspur,77,GK,Croatia,EPL,1,5,,,193cm,88kg,32
+2010/2011,John Paintsil,Fulham,77,RB,Ghana,EPL,3,4,,,178cm,68kg,29
+2010/2011,Kevin Doyle,Wolverhampton Wanderers,77,ST,Republic of Ireland,EPL,3,3,,,181cm,84kg,27
+2010/2011,Ryan Babel,Liverpool,77,LF,Netherlands,EPL,4,3,,,185cm,73kg,24
+2010/2011,Scott Dann,Birmingham City,77,CB,England,EPL,2,3,,,188cm,76kg,24
+2010/2011,Moussa Dembélé,Fulham,77,CF,Belgium,EPL,4,4,,,183cm,83kg,23
+2010/2011,Younès Kaboul,Tottenham Hotspur,77,CB,France,EPL,2,3,,,188cm,87kg,25
+2010/2011,Curtis Davies,Aston Villa,77,CB,England,EPL,2,3,,,188cm,76kg,26
+2010/2011,Fabrice Muamba,Bolton Wanderers,77,CDM,England,EPL,2,3,,,188cm,78kg,23
+2010/2011,Hugo Rodallega,Wigan Athletic,77,ST,Colombia,EPL,3,3,,,181cm,72kg,25
+2010/2011,Carlos Vela,Arsenal,77,ST,Mexico,EPL,4,3,,,178cm,72kg,22
+2010/2011,Matt Derbyshire,Birmingham City,77,ST,England,EPL,3,3,,,177cm,77kg,25
+2010/2011,Jonny Evans,Manchester United,77,CB,Northern Ireland,EPL,2,3,,,188cm,77kg,23
+2010/2011,Pablo Barrera,West Ham United,77,RM,Mexico,EPL,4,5,,,175cm,65kg,23
+2010/2011,Jack Rodwell,Everton,77,CDM,England,EPL,3,5,,,188cm,81kg,20
+2010/2011,Jérôme Boateng,Manchester City,77,CB,Germany,EPL,3,4,,,191cm,90kg,22
+2010/2011,Mame Diouf,Blackburn Rovers,77,ST,Senegal,EPL,3,3,,,184cm,77kg,23
+2010/2011,Rafael,Manchester United,77,RWB,Brazil,EPL,3,4,,,172cm,69kg,20
+2010/2011,Gary Neville,Manchester United,76,RB,England,EPL,2,3,,,179cm,79kg,36
+2010/2011,Sol Campbell,Newcastle United,76,CB,England,EPL,2,3,,,188cm,86kg,36
+2010/2011,Johan Elmander,Bolton Wanderers,76,ST,Sweden,EPL,2,4,,,188cm,84kg,29
+2010/2011,Emile Heskey,Aston Villa,76,ST,England,EPL,3,4,,,188cm,88kg,33
+2010/2011,Stephen Carr,Birmingham City,76,RB,Republic of Ireland,EPL,3,3,,,175cm,78kg,34
+2010/2011,El-Hadji Diouf,Blackburn Rovers,76,RW,Senegal,EPL,4,4,,,182cm,75kg,30
+2010/2011,Chris Kirkland,Wigan Athletic,76,GK,England,EPL,1,3,,,191cm,74kg,30
+2010/2011,Sylvain Distin,Everton,76,CB,France,EPL,2,3,,,192cm,88kg,33
+2010/2011,Fabricio Coloccini,Newcastle United,76,CB,Argentina,EPL,2,3,,,183cm,78kg,29
+2010/2011,Jermaine Jenas,Tottenham Hotspur,76,CM,England,EPL,3,3,,,181cm,75kg,28
+2010/2011,Thomas Hitzlsperger,West Ham United,76,CDM,Germany,EPL,2,3,,,184cm,82kg,29
+2010/2011,Zat Knight,Bolton Wanderers,76,CB,England,EPL,2,1,,,198cm,87kg,31
+2010/2011,Abdoulaye Faye,Stoke City,76,CB,Senegal,EPL,2,3,,,187cm,87kg,33
+2010/2011,Paulo Renato Rebocho Ferreira,Chelsea,76,RB,Portugal,EPL,2,4,,,183cm,76kg,32
+2010/2011,Zoltán Gera,Fulham,76,RM,Hungary,EPL,4,4,,,183cm,75kg,32
+2010/2011,Benjani Mwaruwari,Blackburn Rovers,76,ST,Zimbabwe,EPL,3,3,,,188cm,78kg,32
+2010/2011,Nigel Reo-Coker,Aston Villa,76,CM,England,EPL,2,3,,,175cm,76kg,27
+2010/2011,Alan Hutton,Tottenham Hotspur,76,RB,Scotland,EPL,2,3,,,185cm,72kg,26
+2010/2011,Diniyar Bilyaletdinov,Everton,76,LM,Russia,EPL,3,4,,,185cm,79kg,26
+2010/2011,Leon Osman,Everton,76,CM,England,EPL,3,3,,,173cm,64kg,30
+2010/2011,Valon Behrami,West Ham United,76,RM,Switzerland,EPL,3,4,,,185cm,78kg,26
+2010/2011,Liam Ridgewell,Birmingham City,76,CB,England,EPL,2,3,,,188cm,79kg,26
+2010/2011,Brad Guzan,Aston Villa,76,GK,United States,EPL,1,3,,,193cm,95kg,26
+2010/2011,Steven Fletcher,Wolverhampton Wanderers,76,ST,Scotland,EPL,2,4,,,185cm,76kg,24
+2010/2011,Laurent Koscielny,Arsenal,76,CB,France,EPL,2,4,,,186cm,75kg,25
+2010/2011,Lee Cattermole,Sunderland,76,CM,England,EPL,3,4,,,178cm,76kg,23
+2010/2011,Daniel Sturridge,Chelsea,76,ST,England,EPL,3,4,,,188cm,76kg,21
+2010/2011,Miguel Marcos Madera,Birmingham City,76,CDM,Spain,EPL,3,4,,,183cm,72kg,25
+2010/2011,Gabriel Obertan,Manchester United,76,RW,France,EPL,5,4,,,186cm,80kg,22
+2010/2011,Michael Johnson,Manchester City,76,CM,England,EPL,3,3,,,183cm,76kg,23
+2010/2011,Marc Albrighton,Aston Villa,76,RM,England,EPL,3,2,,,175cm,67kg,21
+2010/2011,Fabian Delph,Aston Villa,76,CM,England,EPL,3,4,,,176cm,60kg,21
+2010/2011,Nathan Delfouneso,Aston Villa,76,ST,England,EPL,4,4,,,186cm,78kg,20
+2010/2011,Kieran Gibbs,Arsenal,76,LWB,England,EPL,3,1,,,178cm,64kg,21
+2010/2011,Aaron Ramsey,Arsenal,76,CM,Wales,EPL,3,4,,,178cm,76kg,20
+2010/2011,Chris Smalling,Manchester United,76,CB,England,EPL,2,3,,,192cm,81kg,21
+2010/2011,Carlo Cudicini,Tottenham Hotspur,75,GK,Italy,EPL,1,2,,,185cm,80kg,37
+2010/2011,Brett Emerton,Blackburn Rovers,75,RM,Australia,EPL,3,2,,,185cm,85kg,32
+2010/2011,Eidur Gudjohnsen,Stoke City,75,CF,Iceland,EPL,3,4,,,185cm,83kg,32
+2010/2011,Aaron Hughes,Fulham,75,CB,Northern Ireland,EPL,2,3,,,183cm,72kg,31
+2010/2011,Fábio Aurélio Rodrígues,Liverpool,75,LWB,Brazil,EPL,3,2,,,173cm,74kg,31
+2010/2011,Gary Caldwell,Wigan Athletic,75,CB,Scotland,EPL,2,3,,,180cm,74kg,29
+2010/2011,Frédéric Piquionne,West Ham United,75,ST,France,EPL,3,4,,,188cm,84kg,32
+2010/2011,Paul Konchesky,Liverpool,75,LB,England,EPL,2,2,,,178cm,69kg,30
+2010/2011,Marcus Hahnemann,Wolverhampton Wanderers,75,GK,United States,EPL,1,3,,,191cm,99kg,38
+2010/2011,Matt Taylor,Bolton Wanderers,75,LM,England,EPL,3,4,,,178cm,74kg,29
+2010/2011,Dickson Etuhu,Fulham,75,CDM,Nigeria,EPL,3,3,,,188cm,83kg,28
+2010/2011,Tomasz Kuszczak,Manchester United,75,GK,Poland,EPL,1,2,,,190cm,84kg,29
+2010/2011,Peter Løvenkrands,Newcastle United,75,LF,Denmark,EPL,3,3,,,180cm,76kg,31
+2010/2011,Steve Sidwell,Aston Villa,75,CM,England,EPL,3,3,,,178cm,69kg,28
+2010/2011,Gabriel Tamaş,West Bromwich Albion,75,CB,Romania,EPL,2,3,,,188cm,79kg,27
+2010/2011,Robert Huth,Stoke City,75,CB,Germany,EPL,2,3,,,191cm,88kg,26
+2010/2011,Michael Turner,Sunderland,75,CB,England,EPL,2,3,,,193cm,85kg,27
+2010/2011,Carlos Salcido,Fulham,75,LWB,Mexico,EPL,3,4,,,176cm,75kg,31
+2010/2011,Jô,Manchester City,75,ST,Brazil,EPL,4,3,,,189cm,70kg,24
+2010/2011,Tuncay Şanli,Stoke City,75,CF,Turkey,EPL,4,3,,,182cm,70kg,29
+2010/2011,Mark Noble,West Ham United,75,CM,England,EPL,3,3,,,180cm,76kg,24
+2010/2011,Scott Carson,West Bromwich Albion,75,GK,England,EPL,1,3,,,189cm,88kg,25
+2010/2011,Steven Taylor,Newcastle United,75,CB,England,EPL,2,3,,,188cm,81kg,25
+2010/2011,Nikola Žigić,Birmingham City,75,ST,Serbia,EPL,3,3,,,202cm,96kg,30
+2010/2011,Darron Gibson,Manchester United,75,CM,Republic of Ireland,EPL,2,4,,,183cm,80kg,23
+2010/2011,Jamie O'Hara,Tottenham Hotspur,75,CM,England,EPL,3,2,,,180cm,78kg,24
+2010/2011,Graham Dorrans,West Bromwich Albion,75,CM,Scotland,EPL,3,3,,,175cm,73kg,24
+2010/2011,David N'Gog,Liverpool,75,ST,France,EPL,4,3,,,190cm,76kg,22
+2010/2011,Nikola Kalinic,Blackburn Rovers,75,ST,Croatia,EPL,3,4,,,187cm,84kg,23
+2010/2011,Jack Wilshere,Arsenal,75,CAM,England,EPL,4,3,,,170cm,65kg,19
+2010/2011,Fábio,Manchester United,75,LWB,Brazil,EPL,3,4,,,172cm,69kg,20
+2010/2011,Kevin Phillips,Birmingham City,74,ST,England,EPL,3,3,,,170cm,70kg,37
+2010/2011,Luís Boa Morte,West Ham United,74,LW,Portugal,EPL,4,2,,,180cm,73kg,33
+2010/2011,Habib Beye,Aston Villa,74,RB,Senegal,EPL,3,4,,,182cm,79kg,33
+2010/2011,Titus Bramble,Sunderland,74,CB,England,EPL,2,3,,,185cm,87kg,29
+2010/2011,Steed Malbranque,Sunderland,74,RM,France,EPL,3,3,,,168cm,73kg,31
+2010/2011,Gaël Givet,Blackburn Rovers,74,CB,France,EPL,2,4,,,181cm,75kg,29
+2010/2011,Pascal Chimbonda,Blackburn Rovers,74,RB,France,EPL,3,4,,,180cm,70kg,32
+2010/2011,Philippe Senderos,Fulham,74,CB,Switzerland,EPL,2,2,,,190cm,87kg,26
+2010/2011,Simon Davies,Fulham,74,RM,Wales,EPL,3,4,,,178cm,76kg,31
+2010/2011,Boaz Myhill,West Bromwich Albion,74,GK,Wales,EPL,1,3,,,191cm,92kg,28
+2010/2011,Andy Reid,Sunderland,74,LM,Republic of Ireland,EPL,3,3,,,170cm,75kg,28
+2010/2011,Nicky Shorey,West Bromwich Albion,74,LB,England,EPL,2,3,,,175cm,67kg,30
+2010/2011,Robbie Blake,Bolton Wanderers,74,CF,England,EPL,3,4,,,175cm,76kg,35
+2010/2011,Steve Caldwell,Wigan Athletic,74,CB,Scotland,EPL,2,2,,,180cm,72kg,30
+2010/2011,Grétar Rafn Steinsson,Bolton Wanderers,74,RB,Iceland,EPL,2,3,,,189cm,78kg,29
+2010/2011,Ricardo Fuller,Stoke City,74,ST,Jamaica,EPL,4,3,,,191cm,78kg,31
+2010/2011,Jermaine Pennant,Stoke City,74,RM,England,EPL,3,3,,,175cm,68kg,28
+2010/2011,Pablo Ibáñez Tebar,West Bromwich Albion,74,CB,Spain,EPL,2,3,,,192cm,86kg,29
+2010/2011,Peter Osaze Odemwingie,West Bromwich Albion,74,ST,Nigeria,EPL,3,3,,,182cm,74kg,29
+2010/2011,Chris Baird,Fulham,74,CB,Northern Ireland,EPL,2,4,,,179cm,71kg,29
+2010/2011,Paulo Da Silva,Sunderland,74,CB,Paraguay,EPL,2,3,,,180cm,76kg,31
+2010/2011,Michael Kightly,Wolverhampton Wanderers,74,RW,England,EPL,3,3,,,175cm,70kg,25
+2010/2011,Hérita Ilunga,West Ham United,74,LWB,DR Congo,EPL,3,3,,,180cm,74kg,29
+2010/2011,Charlie Adam,Blackpool,74,CM,Scotland,EPL,3,3,,,185cm,83kg,25
+2010/2011,Stephen Hunt,Wolverhampton Wanderers,74,LM,Republic of Ireland,EPL,3,3,,,173cm,72kg,29
+2010/2011,Henri. Hilário Meireles Alves S.,Chelsea,74,GK,Portugal,EPL,1,2,,,189cm,88kg,35
+2010/2011,Ben Foster,Birmingham City,74,GK,England,EPL,1,2,,,188cm,80kg,28
+2010/2011,Somen Tchoyi,West Bromwich Albion,74,RW,Cameroon,EPL,4,4,,,190cm,88kg,28
+2010/2011,Ján Mucha,Everton,74,GK,Slovakia,EPL,1,3,,,189cm,87kg,28
+2010/2011,Michael Mancienne,Wolverhampton Wanderers,74,CB,England,EPL,2,3,,,184cm,74kg,23
+2010/2011,Cristian Riveros,Sunderland,74,CM,Paraguay,EPL,3,3,,,178cm,74kg,28
+2010/2011,Craig Gardner,Birmingham City,74,CM,England,EPL,2,3,,,178cm,71kg,24
+2010/2011,Jermaine Beckford,Everton,74,ST,England,EPL,3,5,,,188cm,83kg,27
+2010/2011,Séamus Coleman,Everton,74,RB,Republic of Ireland,EPL,2,2,,,178cm,74kg,22
+2010/2011,Andy Carroll,Newcastle United,74,ST,England,EPL,2,4,,,191cm,70kg,22
+2010/2011,Jack Collison,West Ham United,74,CM,Wales,EPL,2,3,,,182cm,87kg,22
+2010/2011,Federico Macheda,Manchester United,74,ST,Italy,EPL,3,3,,,184cm,77kg,19
+2010/2011,Gaël Kakuta,Chelsea,74,LW,France,EPL,4,3,,,175cm,73kg,19
+2010/2011,Franco Di Santo,Wigan Athletic,74,ST,Argentina,EPL,3,3,,,194cm,75kg,22
+2010/2011,Steven N'Zonzi,Blackburn Rovers,74,CDM,France,EPL,3,3,,,190cm,75kg,22
+2010/2011,Junior Hoilett,Blackburn Rovers,74,ST,Canada,EPL,3,4,,,172cm,71kg,20
+2010/2011,Nenad Milijaš,Wolverhampton Wanderers,74,CM,Serbia,EPL,3,2,,,188cm,85kg,28
+2010/2011,Phil Jones,Blackburn Rovers,74,CB,England,EPL,2,3,,,180cm,71kg,19
+2010/2011,Jody Craddock,Wolverhampton Wanderers,73,CB,England,EPL,2,3,,,185cm,78kg,35
+2010/2011,Miguel Ángel Salgado Fernández,Blackburn Rovers,73,RB,Spain,EPL,3,3,,,174cm,75kg,35
+2010/2011,Kieron Dyer,West Ham United,73,CAM,England,EPL,3,3,,,173cm,64kg,32
+2010/2011,Vincenzo Grella,Blackburn Rovers,73,CDM,Australia,EPL,3,3,,,182cm,75kg,31
+2010/2011,Steven Reid,West Bromwich Albion,73,CM,Republic of Ireland,EPL,3,3,,,180cm,74kg,30
+2010/2011,Martin Jiránek,Birmingham City,73,CB,Czech Republic,EPL,2,3,,,190cm,91kg,32
+2010/2011,Jonathan Greening,Fulham,73,CDM,England,EPL,3,4,,,180cm,70kg,32
+2010/2011,Steve Harper,Newcastle United,73,GK,England,EPL,1,3,,,188cm,83kg,36
+2010/2011,Keith Andrews,Blackburn Rovers,73,CDM,Republic of Ireland,EPL,2,3,,,183cm,78kg,30
+2010/2011,Maik Taylor,Birmingham City,73,GK,Northern Ireland,EPL,1,3,,,193cm,90kg,39
+2010/2011,David Murphy,Birmingham City,73,LB,England,EPL,2,3,,,183cm,84kg,27
+2010/2011,Jason Roberts,Blackburn Rovers,73,ST,Grenada,EPL,3,3,,,185cm,92kg,33
+2010/2011,Jelle Van Damme,Wolverhampton Wanderers,73,LB,Belgium,EPL,2,3,,,191cm,87kg,27
+2010/2011,Benni McCarthy,West Ham United,73,ST,South Africa,EPL,3,4,,,183cm,87kg,33
+2010/2011,Joey Barton,Newcastle United,73,CM,England,EPL,3,3,,,180cm,70kg,28
+2010/2011,Tal Ben-Haim,West Ham United,73,CB,Israel,EPL,2,3,,,185cm,78kg,29
+2010/2011,Diomansy Kamara,Fulham,73,ST,Senegal,EPL,4,4,,,181cm,77kg,30
+2010/2011,Keith Fahey,Birmingham City,73,CM,Republic of Ireland,EPL,3,3,,,178cm,80kg,28
+2010/2011,Tamir Cohen,Bolton Wanderers,73,CM,Israel,EPL,2,3,,,181cm,77kg,27
+2010/2011,Ronald Zubar,Wolverhampton Wanderers,73,CB,France,EPL,2,3,,,186cm,80kg,25
+2010/2011,Christophe Berra,Wolverhampton Wanderers,73,CB,Scotland,EPL,2,3,,,185cm,80kg,26
+2010/2011,Jean Beausejour,Birmingham City,73,LW,Chile,EPL,4,3,,,177cm,84kg,26
+2010/2011,Ross Turnbull,Chelsea,73,GK,England,EPL,1,2,,,193cm,85kg,26
+2010/2011,Matt Jarvis,Wolverhampton Wanderers,73,LM,England,EPL,3,5,,,170cm,72kg,25
+2010/2011,Stuart Holden,Bolton Wanderers,73,CAM,United States,EPL,3,5,,,175cm,75kg,25
+2010/2011,Lukasz Fabianski,Arsenal,73,GK,Poland,EPL,1,2,,,190cm,84kg,26
+2010/2011,Sylvan Ebanks-Blake,Wolverhampton Wanderers,73,ST,England,EPL,3,3,,,173cm,83kg,25
+2010/2011,Danny Simpson,Newcastle United,73,RB,England,EPL,3,3,,,174cm,72kg,24
+2010/2011,Wayne Hennessey,Wolverhampton Wanderers,73,GK,Wales,EPL,1,2,,,196cm,85kg,24
+2010/2011,José Enrique Sánchez Díaz,Newcastle United,73,LB,Spain,EPL,3,3,,,184cm,76kg,25
+2010/2011,Cheik Ismael Tioté,Newcastle United,73,CM,Ivory Coast,EPL,3,2,,,180cm,76kg,24
+2010/2011,Maynor Figueroa,Wigan Athletic,73,LB,Honduras,EPL,3,2,,,180cm,85kg,28
+2010/2011,Ritchie De Laet,Manchester United,73,CB,Belgium,EPL,2,4,,,188cm,76kg,22
+2010/2011,Vito Mannone,Arsenal,73,GK,Italy,EPL,1,2,,,194cm,80kg,23
+2010/2011,Dan Gosling,Newcastle United,73,RM,England,EPL,2,3,,,178cm,73kg,21
+2010/2011,James McCarthy,Wigan Athletic,73,CAM,Republic of Ireland,EPL,4,4,,,185cm,67kg,20
+2010/2011,Junior Stanislas,West Ham United,73,RM,England,EPL,2,3,,,181cm,74kg,21
+2010/2011,Ricardo Gardner,Bolton Wanderers,72,LW,Jamaica,EPL,3,3,,,175cm,70kg,32
+2010/2011,Rory Delap,Stoke City,72,RM,Republic of Ireland,EPL,3,3,,,183cm,74kg,34
+2010/2011,Andrew O'Brien,Bolton Wanderers,72,CB,Republic of Ireland,EPL,2,3,,,191cm,74kg,31
+2010/2011,Boudewijn Zenden,Sunderland,72,LM,Netherlands,EPL,3,4,,,174cm,70kg,34
+2010/2011,Ivan Klasnić,Bolton Wanderers,72,ST,Croatia,EPL,3,3,,,186cm,79kg,31
+2010/2011,Dean Whitehead,Stoke City,72,CM,England,EPL,3,3,,,183cm,76kg,29
+2010/2011,Ryan Taylor,Newcastle United,72,RWB,England,EPL,2,3,,,173cm,72kg,26
+2010/2011,Lars Jacobsen,West Ham United,72,RB,Denmark,EPL,2,4,,,181cm,78kg,31
+2010/2011,Sean Davis,Bolton Wanderers,72,CDM,England,EPL,2,3,,,178cm,77kg,31
+2010/2011,Jonas Olsson,West Bromwich Albion,72,CB,Sweden,EPL,2,3,,,193cm,84kg,28
+2010/2011,Garry O'Connor,Birmingham City,72,ST,Scotland,EPL,3,3,,,186cm,75kg,28
+2010/2011,Tony Hibbert,Everton,72,RB,England,EPL,2,2,,,173cm,71kg,30
+2010/2011,Stuart Taylor,Manchester City,72,GK,England,EPL,1,2,,,196cm,85kg,30
+2010/2011,Bjørn Helge Riise,Fulham,72,RM,Norway,EPL,3,3,,,175cm,72kg,27
+2010/2011,Anton Ferdinand,Sunderland,72,CB,England,EPL,2,3,,,183cm,71kg,26
+2010/2011,Wayne Routledge,Newcastle United,72,RW,England,EPL,4,4,,,170cm,65kg,26
+2010/2011,Jonathan Walters,Stoke City,72,ST,Republic of Ireland,EPL,3,3,,,183cm,79kg,27
+2010/2011,Kieran Richardson,Sunderland,72,LB,England,EPL,3,3,,,175cm,69kg,26
+2010/2011,Ian Evatt,Blackpool,72,CB,England,EPL,2,2,,,191cm,88kg,29
+2010/2011,Alex Baptiste,Blackpool,72,CB,England,EPL,2,3,,,180cm,74kg,25
+2010/2011,Ali Al-Habsi,Wigan Athletic,72,GK,Oman,EPL,1,2,,,194cm,79kg,29
+2010/2011,Daniel de Ridder,Wigan Athletic,72,RM,Netherlands,EPL,3,3,,,180cm,70kg,27
+2010/2011,Marc-Antoine Fortuné,West Bromwich Albion,72,ST,France,EPL,3,3,,,183cm,80kg,29
+2010/2011,Paul Robinson,Bolton Wanderers,72,LB,England,EPL,2,3,,,175cm,65kg,32
+2010/2011,Jonathan Spector,West Ham United,72,RB,United States,EPL,2,4,,,181cm,80kg,25
+2010/2011,Phil Bardsley,Sunderland,72,RB,England,EPL,2,2,,,180cm,74kg,25
+2010/2011,Xisco,Newcastle United,72,ST,Spain,EPL,3,3,,,188cm,76kg,24
+2010/2011,Victor Anichebe,Everton,72,ST,Nigeria,EPL,3,3,,,191cm,85kg,23
+2010/2011,Fraizer Campbell,Sunderland,72,ST,England,EPL,3,4,,,178cm,74kg,23
+2010/2011,James McArthur,Wigan Athletic,72,CM,Scotland,EPL,3,3,,,177cm,69kg,23
+2010/2011,Asmir Begovic,Stoke City,72,GK,Bosnia Herzegovina,EPL,1,2,,,196cm,83kg,23
+2010/2011,Victor Obinna,West Ham United,72,RW,Nigeria,EPL,3,2,,,182cm,80kg,24
+2010/2011,Jordan Henderson,Sunderland,72,RM,England,EPL,3,3,,,182cm,67kg,20
+2010/2011,Martin Olsson,Blackburn Rovers,72,LWB,Sweden,EPL,3,2,,,179cm,79kg,23
+2010/2011,Rafik Halliche,Fulham,72,CB,Algeria,EPL,2,3,,,187cm,77kg,24
+2010/2011,Kagisho Dikgacoi,Fulham,72,CDM,South Africa,EPL,2,3,,,180cm,80kg,26
+2010/2011,Tom Cleverley,Wigan Athletic,72,CM,England,EPL,3,4,,,175cm,67kg,21
+2010/2011,Hendry Thomas,Wigan Athletic,72,CDM,Honduras,EPL,2,3,,,180cm,73kg,26
+2010/2011,Ahmed Elmohamady,Sunderland,72,RM,Egypt,EPL,3,3,,,180cm,73kg,23
+2010/2011,Magaye Gueye,Everton,72,CF,France,EPL,3,3,,,179cm,73kg,20
+2010/2011,Dedryck Boyata,Manchester City,72,CB,Belgium,EPL,2,3,,,187cm,81kg,20
+2010/2011,Danny Higginbotham,Stoke City,71,LB,England,EPL,2,2,,,185cm,77kg,32
+2010/2011,Emmerson Boyce,Wigan Athletic,71,CB,Barbados,EPL,2,3,,,184cm,75kg,31
+2010/2011,Alan Smith,Newcastle United,71,CDM,England,EPL,3,3,,,178cm,72kg,30
+2010/2011,Gavin McCann,Bolton Wanderers,71,CM,England,EPL,3,3,,,180cm,70kg,33
+2010/2011,Danny Gabbidon,West Ham United,71,CB,Wales,EPL,2,3,,,178cm,71kg,31
+2010/2011,George McCartney,Sunderland,71,LB,Northern Ireland,EPL,2,2,,,183cm,79kg,30
+2010/2011,Marcus Bent,Wolverhampton Wanderers,71,ST,England,EPL,3,2,,,188cm,77kg,33
+2010/2011,Karl Henry,Wolverhampton Wanderers,71,CM,England,EPL,3,3,,,183cm,76kg,28
+2010/2011,Marlon Harewood,Blackpool,71,ST,England,EPL,3,3,,,185cm,84kg,31
+2010/2011,Ron Stam,Wigan Athletic,71,RWB,Netherlands,EPL,3,4,,,175cm,70kg,26
+2010/2011,Antolín Alcaraz,Wigan Athletic,71,CB,Paraguay,EPL,2,4,,,187cm,80kg,28
+2010/2011,Rahamat Riga Mustapha,Bolton Wanderers,71,RW,Netherlands,EPL,4,4,,,179cm,75kg,29
+2010/2011,Sam Ricketts,Bolton Wanderers,71,RB,Wales,EPL,2,4,,,185cm,76kg,29
+2010/2011,Danny Collins,Stoke City,71,CB,Wales,EPL,2,3,,,183cm,76kg,30
+2010/2011,Stephen Kelly,Fulham,71,RB,Republic of Ireland,EPL,2,3,,,184cm,79kg,27
+2010/2011,Richard Stearman,Wolverhampton Wanderers,71,CB,England,EPL,2,3,,,191cm,73kg,23
+2010/2011,Jerome Thomas,West Bromwich Albion,71,LW,England,EPL,4,3,,,178cm,79kg,28
+2010/2011,Julien Faubert,West Ham United,71,RB,France,EPL,3,3,,,180cm,75kg,27
+2010/2011,Mauro Boselli,Wigan Athletic,71,CF,Argentina,EPL,3,4,,,181cm,72kg,26
+2010/2011,Glenn Whelan,Stoke City,71,CM,Republic of Ireland,EPL,3,4,,,180cm,79kg,27
+2010/2011,Simon Cox,West Bromwich Albion,71,ST,England,EPL,2,3,,,180cm,70kg,24
+2010/2011,Luke Varney,Blackpool,71,ST,England,EPL,3,4,,,180cm,70kg,28
+2010/2011,Brad Jones,Liverpool,71,GK,Australia,EPL,1,2,,,191cm,78kg,29
+2010/2011,Marc Wilson,Stoke City,71,CB,Republic of Ireland,EPL,2,3,,,188cm,69kg,23
+2010/2011,Danny Guthrie,Newcastle United,71,CM,England,EPL,4,3,,,175cm,73kg,24
+2010/2011,Ishmael Miller,West Bromwich Albion,71,ST,England,EPL,3,2,,,190cm,88kg,24
+2010/2011,Jordi Gómez García-Penche,Wigan Athletic,71,CAM,Spain,EPL,3,3,,,178cm,74kg,26
+2010/2011,Victor Moses,Wigan Athletic,71,RW,England,EPL,4,4,,,178cm,75kg,20
+2010/2011,David Elm,Fulham,71,ST,Sweden,EPL,3,3,,,191cm,95kg,28
+2010/2011,David Stockdale,Fulham,71,GK,England,EPL,1,3,,,191cm,84kg,25
+2010/2011,Ciaran Clark,Aston Villa,71,CB,England,EPL,2,3,,,186cm,75kg,21
+2010/2011,Barry Bannan,Aston Villa,71,LM,Scotland,EPL,3,3,,,180cm,75kg,21
+2010/2011,Zavon Hines,West Ham United,71,ST,England,EPL,3,2,,,178cm,77kg,22
+2010/2011,Fabio Borini,Chelsea,71,ST,Italy,EPL,3,3,,,180cm,75kg,20
+2010/2011,Kyle Naughton,Tottenham Hotspur,71,RB,England,EPL,3,4,,,180cm,76kg,22
+2010/2011,Dani Pacheco,Liverpool,71,CF,Spain,EPL,3,3,,,168cm,65kg,20
+2010/2011,Mohamed Diamé,Wigan Athletic,71,CDM,France,EPL,2,3,,,185cm,72kg,23
+2010/2011,Danny Wilson,Liverpool,71,CB,Scotland,EPL,2,2,,,187cm,79kg,19
+2010/2011,Jeffrey Bruma,Chelsea,71,CB,Netherlands,EPL,2,3,,,186cm,80kg,19
+2010/2011,Salif Diao,Stoke City,70,CDM,Senegal,EPL,2,3,,,183cm,73kg,34
+2010/2011,David Vaughan,Blackpool,70,LM,Wales,EPL,3,3,,,170cm,66kg,28
+2010/2011,Dean Kiely,West Bromwich Albion,70,GK,Republic of Ireland,EPL,1,2,,,185cm,78kg,40
+2010/2011,Shola Ameobi,Newcastle United,70,ST,England,EPL,3,2,,,191cm,78kg,29
+2010/2011,Abdoulaye Méité,West Bromwich Albion,70,CB,Ivory Coast,EPL,2,3,,,185cm,82kg,30
+2010/2011,Eddie Johnson,Fulham,70,ST,United States,EPL,3,4,,,183cm,81kg,27
+2010/2011,Jlloyd Samuel,Bolton Wanderers,70,LB,Trinidad & Tobago,EPL,3,3,,,180cm,72kg,30
+2010/2011,Chris Brunt,West Bromwich Albion,70,LW,Northern Ireland,EPL,3,1,,,185cm,73kg,26
+2010/2011,Mamady Sidibe,Stoke City,70,ST,Mali,EPL,3,3,,,193cm,77kg,31
+2010/2011,Rob Edwards,Blackpool,70,CB,Wales,EPL,2,3,,,185cm,74kg,28
+2010/2011,Mike Williamson,Newcastle United,70,CB,England,EPL,2,3,,,192cm,83kg,27
+2010/2011,Ben Watson,Wigan Athletic,70,CM,England,EPL,3,3,,,178cm,69kg,25
+2010/2011,David Jones,Wolverhampton Wanderers,70,CM,England,EPL,3,4,,,185cm,80kg,26
+2010/2011,Elliot Grandin,Blackpool,70,RW,France,EPL,3,3,,,178cm,66kg,23
+2010/2011,James Tomkins,West Ham United,70,CB,England,EPL,2,2,,,191cm,74kg,22
+2010/2011,Håvard Nordtveit,Arsenal,70,CB,Norway,EPL,2,3,,,186cm,80kg,20
+2010/2011,Adlène Guédioura,Wolverhampton Wanderers,70,CM,Algeria,EPL,3,4,,,186cm,79kg,25
+2010/2011,Martin Kelly,Liverpool,70,RB,England,EPL,3,4,,,191cm,77kg,21
+2010/2011,Kyle Walker,Tottenham Hotspur,70,RB,England,EPL,3,3,,,178cm,74kg,20
+2010/2011,Amine Linganzi,Blackburn Rovers,70,CDM,Algeria,EPL,2,3,,,186cm,81kg,21
+2010/2011,Emmanuel Frimpong,Arsenal,70,CDM,Ghana,EPL,2,3,,,178cm,73kg,19
+2010/2011,Daniel Ayala,Liverpool,70,CB,Spain,EPL,2,3,,,191cm,84kg,20
+2010/2011,Greg Cunningham,Manchester City,70,LB,Republic of Ireland,EPL,3,3,,,183cm,72kg,20
+2010/2011,Brett Ormerod,Blackpool,69,ST,England,EPL,3,2,,,177cm,78kg,34
+2010/2011,Jason Brown,Blackburn Rovers,69,GK,Wales,EPL,1,3,,,180cm,98kg,29
+2010/2011,Radoslav Kováč,West Ham United,69,CDM,Czech Republic,EPL,2,3,,,189cm,78kg,31
+2010/2011,Kevin Foley,Wolverhampton Wanderers,69,RB,Republic of Ireland,EPL,2,3,,,175cm,70kg,26
+2010/2011,Magnus Wolff Eikrem,Manchester United,69,CM,Norway,EPL,3,3,,,178cm,69kg,20
+2010/2011,Leon Best,Newcastle United,69,ST,Republic of Ireland,EPL,2,3,,,185cm,76kg,24
+2010/2011,Richard Kingson,Blackpool,69,GK,Ghana,EPL,,2,,,182cm,83kg,32
+2010/2011,Steve Gohouri,Wigan Athletic,69,CB,Ivory Coast,EPL,2,3,,,189cm,88kg,30
+2010/2011,Gianni Zuiverloon,West Bromwich Albion,69,RB,Netherlands,EPL,2,3,,,179cm,70kg,24
+2010/2011,Roman Bednář,West Bromwich Albion,69,ST,Czech Republic,EPL,3,3,,,190cm,84kg,28
+2010/2011,Manuel da Costa,West Ham United,69,CB,Portugal,EPL,2,3,,,190cm,85kg,25
+2010/2011,Mulumbu,West Bromwich Albion,69,CDM,DR Congo,EPL,2,4,,,177cm,70kg,24
+2010/2011,Jay Spearing,Liverpool,69,CM,England,EPL,2,3,,,168cm,70kg,22
+2010/2011,Bia,Wolverhampton Wanderers,69,CAM,Belgium,EPL,3,4,,,176cm,71kg,21
+2010/2011,Danny Welbeck,Sunderland,69,CF,England,EPL,3,3,,,185cm,73kg,20
+2010/2011,Wojciech Szczesny,Arsenal,69,GK,Poland,EPL,1,3,,,195cm,84kg,21
+2010/2011,José Baxter,Everton,69,CF,England,EPL,3,3,,,179cm,74kg,19
+2010/2011,Nile Ranger,Newcastle United,69,ST,England,EPL,3,3,,,188cm,84kg,20
+2010/2011,Matt Gilks,Blackpool,68,GK,Scotland,EPL,1,3,,,185cm,81kg,28
+2010/2011,Gary Taylor-Fletcher,Blackpool,68,RM,England,EPL,3,2,,,183cm,70kg,29
+2010/2011,Stephen Crainey,Blackpool,68,LB,Scotland,EPL,2,2,,,176cm,60kg,29
+2010/2011,David Healy,Sunderland,68,ST,Northern Ireland,EPL,2,3,,,176cm,67kg,31
+2010/2011,Charles Itandje,Liverpool,68,GK,France,EPL,1,3,,,193cm,90kg,28
+2010/2011,Dudley Campbell,Blackpool,68,ST,England,EPL,3,3,,,178cm,72kg,29
+2010/2011,George Elokobi,Wolverhampton Wanderers,68,LB,Cameroon,EPL,2,3,,,176cm,90kg,25
+2010/2011,Iain Turner,Everton,68,GK,Scotland,EPL,1,2,,,193cm,86kg,27
+2010/2011,Andy Wilkinson,Stoke City,68,RB,England,EPL,2,3,,,180cm,69kg,26
+2010/2011,Marek Čech,West Bromwich Albion,68,LWB,Slovakia,EPL,2,4,,,183cm,75kg,28
+2010/2011,Luke Moore,West Bromwich Albion,68,ST,England,EPL,3,4,,,180cm,76kg,25
+2010/2011,James Perch,Newcastle United,68,RB,England,EPL,2,3,,,180cm,72kg,25
+2010/2011,Ben Alnwick,Tottenham Hotspur,68,GK,England,EPL,1,3,,,188cm,87kg,24
+2010/2011,Mark Davies,Bolton Wanderers,68,CAM,England,EPL,3,3,,,180cm,73kg,23
+2010/2011,Winston Reid,West Ham United,68,CB,New Zealand,EPL,2,2,,,190cm,87kg,22
+2010/2011,Ludovic Sylvestre,Blackpool,68,CM,France,EPL,3,3,,,182cm,75kg,27
+2010/2011,Stephen Darby,Liverpool,68,RB,England,EPL,2,3,,,174cm,64kg,22
+2010/2011,Jay Emmanuel-Thomas,Arsenal,68,CF,England,EPL,3,2,,,191cm,80kg,20
+2010/2011,Freddie Sears,West Ham United,68,ST,England,EPL,3,4,,,170cm,73kg,21
+2010/2011,Jake Livermore,Tottenham Hotspur,68,CM,England,EPL,3,3,,,180cm,76kg,21
+2010/2011,Jonjo Shelvey,Liverpool,68,CM,England,EPL,2,3,,,183cm,71kg,19
+2010/2011,Temitope Obadeyi,Bolton Wanderers,68,ST,England,EPL,3,3,,,186cm,78kg,21
+2010/2011,Gonzalo Jara,West Bromwich Albion,68,CDM,Chile,EPL,2,3,,,178cm,75kg,25
+2010/2011,Oliver Gill,Manchester United,68,CB,England,EPL,2,3,,,187cm,81kg,20
+2010/2011,John Guidetti,Manchester City,68,ST,Sweden,EPL,3,3,,,181cm,79kg,19
+2010/2011,Jason Euell,Blackpool,67,CF,Jamaica,EPL,3,3,,,180cm,79kg,34
+2010/2011,Fredrik Stoor,Fulham,67,RB,Sweden,EPL,2,4,,,184cm,78kg,27
+2010/2011,Michael Tonge,Stoke City,67,CM,England,EPL,3,5,,,183cm,74kg,28
+2010/2011,Mike Pollitt,Wigan Athletic,67,GK,England,EPL,1,3,,,193cm,88kg,39
+2010/2011,Paul Rachubka,Blackpool,67,GK,United States,EPL,1,3,,,185cm,85kg,30
+2010/2011,Greg Halford,Wolverhampton Wanderers,67,RB,England,EPL,2,4,,,194cm,81kg,26
+2010/2011,Danny Pugh,Stoke City,67,LM,England,EPL,3,2,,,183cm,76kg,28
+2010/2011,Tom Soares,Stoke City,67,CM,England,EPL,3,4,,,183cm,72kg,24
+2010/2011,Andrew Davies,Stoke City,67,CB,England,EPL,2,3,,,188cm,82kg,26
+2010/2011,James Morrison,West Bromwich Albion,67,RM,Scotland,EPL,3,3,,,178cm,66kg,25
+2010/2011,Joey O'Brien,Bolton Wanderers,67,CM,Republic of Ireland,EPL,2,3,,,180cm,70kg,25
+2010/2011,Tim Krul,Newcastle United,67,GK,Netherlands,EPL,1,2,,,188cm,74kg,23
+2010/2011,Giles Barnes,West Bromwich Albion,67,LW,England,EPL,3,4,,,182cm,83kg,22
+2010/2011,David Carney,Blackpool,67,LWB,Australia,EPL,3,3,,,181cm,70kg,27
+2010/2011,Kelvin Etuhu,Manchester City,67,RW,Nigeria,EPL,3,3,,,185cm,71kg,22
+2010/2011,Chris Basham,Blackpool,67,CDM,England,EPL,2,3,,,180cm,79kg,22
+2010/2011,Henri Lansbury,Arsenal,67,CM,England,EPL,2,3,,,183cm,76kg,20
+2010/2011,Aaron Doran,Blackburn Rovers,67,RM,Republic of Ireland,EPL,3,4,,,170cm,74kg,20
+2010/2011,Gavin Gunning,Blackburn Rovers,67,CB,Republic of Ireland,EPL,2,3,,,183cm,80kg,20
+2010/2011,James Wallace,Everton,67,CAM,England,EPL,3,3,,,180cm,76kg,19
+2010/2011,Lauri Dalla Valle,Fulham,67,ST,Finland,EPL,3,4,,,183cm,73kg,19
+2010/2011,Shane Duffy,Everton,67,CB,Republic of Ireland,EPL,2,3,,,194cm,82kg,19
+2010/2011,Frank Nouble,West Ham United,67,ST,England,EPL,3,3,,,187cm,82kg,19
+2010/2011,David Amoo,Liverpool,67,RW,England,EPL,3,3,,,179cm,77kg,20
+2010/2011,Josh McEachran,Chelsea,67,LM,England,EPL,3,3,,,178cm,73kg,18
+2010/2011,Sam Walker,Chelsea,67,GK,England,EPL,1,3,,,197cm,88kg,19
+2010/2011,Carlo Nash,Stoke City,66,GK,England,EPL,1,3,,,182cm,77kg,37
+2010/2011,Stuart Parnaby,Birmingham City,66,RB,England,EPL,2,3,,,178cm,70kg,28
+2010/2011,Moustapha Salifou,Aston Villa,66,CAM,Togo,EPL,3,3,,,180cm,69kg,27
+2010/2011,Dekel Keinan,Blackpool,66,CB,Israel,EPL,2,3,,,186cm,79kg,26
+2010/2011,Mark Bunn,Blackburn Rovers,66,GK,England,EPL,1,3,,,183cm,77kg,26
+2010/2011,Isaiah Osbourne,Aston Villa,66,CM,England,EPL,3,3,,,188cm,79kg,23
+2010/2011,Mark Randall,Arsenal,66,CM,England,EPL,3,3,,,182cm,81kg,21
+2010/2011,Neal Eardley,Blackpool,66,RB,Wales,EPL,2,3,,,180cm,74kg,22
+2010/2011,Malaury Martin,Blackpool,66,CDM,France,EPL,2,4,,,178cm,75kg,22
+2010/2011,Craig Cathcart,Blackpool,66,CB,Northern Ireland,EPL,2,2,,,188cm,73kg,22
+2010/2011,Marek Štech,West Ham United,66,GK,Czech Republic,EPL,1,3,,,186cm,82kg,21
+2010/2011,Jordan Spence,West Ham United,66,CB,England,EPL,2,3,,,177cm,66kg,21
+2010/2011,Craig Eastmond,Arsenal,66,CDM,England,EPL,2,3,,,180cm,75kg,20
+2010/2011,Patrick van Aanholt,Chelsea,66,LB,Netherlands,EPL,3,3,,,175cm,75kg,20
+2010/2011,Tamás Kádár,Newcastle United,66,CB,Hungary,EPL,2,2,,,188cm,74kg,21
+2010/2011,Javan Vidal,Manchester City,66,RB,England,EPL,2,3,,,183cm,76kg,22
+2010/2011,Nathan Eccleston,Liverpool,66,ST,England,EPL,3,3,,,178cm,66kg,20
+2010/2011,Gökhan Töre,Chelsea,66,CAM,Turkey,EPL,3,4,,,176cm,74kg,19
+2010/2011,Andreas Weimann,Aston Villa,66,CF,Austria,EPL,2,3,,,179cm,72kg,19
+2010/2011,Gerardo Bruna,Liverpool,66,CAM,Argentina,EPL,3,2,,,175cm,70kg,20
+2010/2011,Jan Šebek,Chelsea,66,GK,Czech Republic,EPL,1,3,,,198cm,83kg,20
+2010/2011,Keith Southern,Blackpool,65,CM,England,EPL,2,2,,,178cm,78kg,30
+2010/2011,David Edwards,Wolverhampton Wanderers,65,CAM,Wales,EPL,3,3,,,185cm,79kg,25
+2010/2011,Colin Doyle,Birmingham City,65,GK,Republic of Ireland,EPL,1,3,,,196cm,92kg,25
+2010/2011,Kieran Agard,Everton,65,ST,England,EPL,2,4,,,180cm,76kg,21
+2010/2011,Steven Mouyokolo,Wolverhampton Wanderers,65,CB,France,EPL,2,3,,,190cm,85kg,24
+2010/2011,Ádám Bogdán,Bolton Wanderers,65,GK,Hungary,EPL,1,3,,,194cm,89kg,23
+2010/2011,David Meyler,Sunderland,65,CM,Republic of Ireland,EPL,2,3,,,190cm,75kg,21
+2010/2011,Steven Irwin,Liverpool,65,CM,England,EPL,3,4,,,173cm,66kg,20
+2010/2011,Péter Kurucz,West Ham United,65,GK,Hungary,EPL,1,3,,,185cm,76kg,22
+2010/2011,Shkodran Mustafi,Everton,65,CB,Germany,EPL,2,3,,,184cm,74kg,19
+2010/2011,João Pedro Pereira Silva,Everton,65,ST,Portugal,EPL,3,3,,,189cm,80kg,21
+2010/2011,Grant Hanley,Blackburn Rovers,65,CB,Scotland,EPL,2,3,,,188cm,80kg,19
+2010/2011,Stephen Ward,Wolverhampton Wanderers,64,LB,Republic of Ireland,EPL,3,4,,,185cm,76kg,25
+2010/2011,Bebé,Manchester United,64,ST,Portugal,EPL,2,3,,,190cm,75kg,20
+2010/2011,Gavin Hoyte,Arsenal,64,RB,England,EPL,2,3,,,177cm,73kg,20
+2010/2011,Shane Lowry,Aston Villa,64,CB,Australia,EPL,2,2,,,187cm,84kg,21
+2010/2011,Eric Lichaj,Aston Villa,64,RB,United States,EPL,2,3,,,180cm,80kg,22
+2010/2011,Péter Gulácsi,Liverpool,64,GK,Hungary,EPL,1,3,,,191cm,83kg,21
+2010/2011,Ben Mee,Manchester City,64,CB,England,EPL,2,3,,,180cm,76kg,21
+2010/2011,Haris Vučkić,Newcastle United,64,CF,Slovenia,EPL,3,3,,,188cm,80kg,18
+2010/2011,Jack Colback,Sunderland,64,CM,England,EPL,3,3,,,176cm,72kg,21
+2010/2011,Jacopo Sala,Chelsea,64,RM,Italy,EPL,2,3,,,183cm,73kg,19
+2010/2011,Jérémy Hélan,Manchester City,64,LM,France,EPL,2,3,,,183cm,73kg,19
+2010/2011,Pascal Zuberbühler,Fulham,63,GK,Switzerland,EPL,1,2,,,197cm,98kg,40
+2010/2011,Matt Hill,Wolverhampton Wanderers,63,LB,England,EPL,2,2,,,173cm,76kg,30
+2010/2011,Billy Clarke,Blackpool,63,CF,Republic of Ireland,EPL,3,2,,,170cm,64kg,23
+2010/2011,Joe Mattock,West Bromwich Albion,63,LB,England,EPL,3,3,,,181cm,78kg,21
+2010/2011,Christopher Herd,Aston Villa,63,CM,Australia,EPL,3,2,,,173cm,76kg,22
+2010/2011,Thomas Cruise,Arsenal,63,CB,England,EPL,2,3,,,186cm,80kg,20
+2010/2011,Matt Phillips,Blackpool,63,RW,England,EPL,2,3,,,183cm,75kg,20
+2010/2011,Hope Akpan,Everton,63,CDM,Nigeria,EPL,2,3,,,185cm,76kg,19
+2010/2011,Ashley Sammons,Birmingham City,63,CM,England,EPL,3,3,,,174cm,71kg,19
+2010/2011,Chris Wood,West Bromwich Albion,63,ST,New Zealand,EPL,3,3,,,191cm,86kg,19
+2010/2011,Adam Forshaw,Everton,63,RM,England,EPL,2,3,,,178cm,73kg,19
+2010/2011,Marko Mitrovic,Chelsea,63,ST,Sweden,EPL,2,3,,,186cm,78kg,18
+2010/2011,Carl Ikeme,Wolverhampton Wanderers,62,GK,England,EPL,1,3,,,188cm,87kg,24
+2010/2011,Frank Fielding,Blackburn Rovers,62,GK,England,EPL,1,2,,,185cm,75kg,23
+2010/2011,Ryan Shotton,Stoke City,62,CB,England,EPL,2,3,,,191cm,84kg,22
+2010/2011,Ben Amos,Manchester United,62,GK,England,EPL,1,2,,,187cm,76kg,21
+2010/2011,Jay O'Shea,Birmingham City,62,RW,Republic of Ireland,EPL,3,3,,,174cm,70kg,22
+2010/2011,Ryan Donaldson,Newcastle United,62,ST,England,EPL,3,3,,,181cm,70kg,20
+2010/2011,Gary Gardner,Aston Villa,62,CM,England,EPL,3,3,,,188cm,78kg,18
+2010/2011,Keanu Marsh-Brown,Fulham,62,RM,England,EPL,3,3,,,178cm,72kg,18
+2010/2011,Robert Milsom,Fulham,61,LW,England,EPL,2,2,,,179cm,76kg,24
+2010/2011,Rhys Murphy,Arsenal,61,ST,England,EPL,2,3,,,177cm,73kg,20
+2010/2011,Hólmar Örn Eyjólfsson,West Ham United,61,CB,Iceland,EPL,2,3,,,188cm,76kg,20
+2010/2011,Victor Pálsson,Liverpool,61,CM,Iceland,EPL,2,4,,,185cm,77kg,20
+2010/2011,James Collins,Aston Villa,61,ST,Republic of Ireland,EPL,2,3,,,183cm,77kg,20
+2010/2011,James Spray,Wolverhampton Wanderers,61,ST,England,EPL,3,3,,,183cm,76kg,18
+2010/2011,Ashley Eastham,Blackpool,61,CB,England,EPL,2,2,,,191cm,79kg,20
+2010/2011,Daniel Coid,Blackpool,60,RB,England,EPL,2,4,,,180cm,73kg,29
+2010/2011,Jonathan Hogg,Aston Villa,60,CM,England,EPL,3,3,,,170cm,67kg,22
+2010/2011,Jacob Mellis,Chelsea,60,CAM,England,EPL,3,4,,,175cm,75kg,20
+2010/2011,Aristote Nsiala,Everton,60,CB,Congo,EPL,2,3,,,188cm,78kg,19
+2010/2011,Jason Lowe,Blackburn Rovers,60,CM,England,EPL,2,3,,,180cm,80kg,19
+2010/2011,Milan Lalkovič,Chelsea,60,CF,Slovakia,EPL,2,4,,,171cm,64kg,18
+2010/2011,Joe Holt,Wigan Athletic,59,CM,England,EPL,2,3,,,178cm,73kg,21
+2010/2011,Matthew Briggs,Fulham,59,CB,England,EPL,2,3,,,188cm,84kg,20
+2010/2011,Julio Santa Cruz,Blackburn Rovers,59,ST,Paraguay,EPL,2,3,,,185cm,80kg,21
+2010/2011,Danzelle St. Louis-Hamilton,Stoke City,59,GK,England,EPL,1,3,,,197cm,82kg,21
+2010/2011,Luke Garbutt,Everton,59,LB,England,EPL,2,3,,,176cm,72kg,18
+2010/2011,Danny Batth,Wolverhampton Wanderers,59,CB,England,EPL,2,3,,,191cm,84kg,20
+2010/2011,Jake Bidwell,Everton,59,LB,England,EPL,2,2,,,183cm,77kg,18
+2010/2011,Ben Tozer,Newcastle United,58,CB,England,EPL,2,3,,,185cm,81kg,21
+2010/2011,Corry Evans,Manchester United,58,CDM,Northern Ireland,EPL,2,3,,,181cm,74kg,20
+2010/2011,Alex Smith,Fulham,58,LB,England,EPL,2,2,,,175cm,54kg,19
+2010/2011,Scott Malone,Wolverhampton Wanderers,58,LB,England,EPL,2,3,,,189cm,79kg,20
+2010/2011,George Thorne,West Bromwich Albion,58,CM,England,EPL,2,3,,,188cm,83kg,18
+2010/2011,Joe Dudgeon,Manchester United,57,LB,England,EPL,2,3,,,182cm,77kg,20
+2010/2011,Nathan Craig,Everton,57,CM,Wales,EPL,2,3,,,177cm,69kg,19
+2010/2011,Romaine Sawyers,West Bromwich Albion,57,CF,England,EPL,2,3,,,176cm,71kg,19
+2010/2011,Ashley Hemmings,Wolverhampton Wanderers,57,ST,England,EPL,2,3,,,173cm,73kg,20
+2010/2011,Florent Cuvelier,Stoke City,57,CM,Belgium,EPL,2,3,,,182cm,77kg,18
+2010/2011,Matthew Saunders,Fulham,56,CM,England,EPL,2,3,,,180cm,72kg,21
+2010/2011,Elliot Parish,Aston Villa,56,GK,England,EPL,1,2,,,180cm,75kg,21
+2010/2011,Nathan Baker,Aston Villa,56,CB,England,EPL,2,4,,,188cm,78kg,20
+2010/2011,Sam Mantom,West Bromwich Albion,56,CM,England,EPL,2,4,,,175cm,70kg,21
+2010/2011,Danny Philliskirk,Chelsea,55,CAM,England,EPL,3,2,,,178cm,72kg,20
+2010/2011,Adam Smith,Tottenham Hotspur,54,LB,England,EPL,3,3,,,178cm,78kg,20
+2010/2011,Matty Lund,Stoke City,54,CM,England,EPL,2,3,,,183cm,73kg,20
+2010/2011,Paul Downing,West Bromwich Albion,53,CDM,England,EPL,2,3,,,183cm,75kg,19
+2010/2011,James Tavernier,Newcastle United,53,RB,England,EPL,2,3,,,181cm,75kg,19
+2010/2011,Callum McManaman,Wigan Athletic,52,ST,England,EPL,2,3,,,181cm,76kg,20
+2010/2011,Jóan Símun Edmundsson,Newcastle United,52,CAM,Faroe Islands,EPL,2,3,,,182cm,77kg,19
+2010/2011,Lateef Elford-Alliyu,West Bromwich Albion,51,ST,Nigeria,EPL,2,3,,,173cm,69kg,18
+2010/2011,Neil Etheridge,Fulham,50,GK,Philippines,EPL,1,2,,,191cm,82kg,21
