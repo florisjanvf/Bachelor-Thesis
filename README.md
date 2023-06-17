@@ -20,7 +20,7 @@ More detailed information about the libraries used in this project can be found 
 
 The repository is organized into the following directories:
 
-- **data**: Contains all the data used in this research paper. The data was obtained through web scraping from the following sources: [WhoScored](whoscored.com), [FUTBIN](futbin.com), [Worldfootball.net](worldfootball.net), and [Wikipedia](wikipedia.com).
+- **data**: Contains all the data used in this research paper. The data was obtained through web scraping from the following sources: [WhoScored](https://www.whoscored.com/), [FUTBIN](https://www.futbin.com/), [Worldfootball.net](https://www.worldfootball.net/), and [Wikipedia](https://www.wikipedia.org/).
 - **results**: Includes various figures, tables, and visualizations produced during the analysis conducted in the `code` directory.
 - **code**: Consists of several Python files and a Jupyter notebook called `main.ipynb`. The Python files contain all the scripts utilized for web scraping, while the notebook contains the code used for investigating home advantage in the EPL.
 - **archive**: Contains a replication of the paper authored by Peeters and Van Ours (2021). Please note that the original files of their paper are not included in this repository to respect intellectual property rights.
