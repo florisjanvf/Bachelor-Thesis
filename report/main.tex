@@ -1,0 +1,112 @@
+\documentclass[a4paper,11pt]{article}
+
+% FILL OUT THE DETAILS BELOW:
+\author{Floris Jan van Fraassen}
+% \title{Home Sweet Home: Investigating the Impact of Home Advantage on Individual Player Performance in English Professional Football}
+% \title{Player-based Home Advantage in English Professional Football}
+\title{Home Sweet Home: Investigating Player-based Home Advantage in English Professional Football}
+% \title{Investigating the Impact of Home Advantage on Individual Players in English Professional Football}
+% \title{The Home Field Advantage: A Player-Centric Analysis of English Professional Football"}
+% \date{An optional custom date, the default is today}
+\newcommand{\studentnumber}{498628}
+\newcommand{\program}{$BSc^2$}
+\newcommand{\supervisor}{J.C. van Ours}
+\newcommand{\secondassesor}{R. Paap}
+
+\usepackage[british]{babel} % Use British English
+\usepackage{hyperref}
+% \usepackage[hidelinks]{hyperref}
+\usepackage[onehalfspacing]{setspace} % Increase line spacing
+\usepackage[margin=2.5cm]{geometry} % Modify margins
+\usepackage{graphicx,booktabs,apacite} % Packages for images, tables, and APA citations
+
+% ADD YOUR OWN PACKAGES HERE
+% Hint: \usepackage{amsmath,amsfonts,hyperref} imports some frequently used packages
+\usepackage{amsmath}
+\usepackage{comment}
+\usepackage{tabularx}
+
+\begin{document}
+
+\begin{titlepage}
+\makeatletter
+\begin{center}
+	\textsc{Erasmus University Rotterdam}
+	\par \textsc{Erasmus School of Economics}
+	\par Bachelor Thesis \program
+
+	\vfill \hrule height .08em \bigskip
+	\par\huge\@title\bigskip
+	\par\Large\@author\,(\studentnumber)\bigskip
+	\hrule height .08em\normalsize
+	
+	\vfill
+	\includegraphics[width=\textwidth,height=0.15\textheight,keepaspectratio]{attachments/eur.png} % The EUR logo, but this could also be another image
+	\vfill
+	
+	\begin{tabular}{ll}
+		\toprule
+		Supervisor: & \supervisor\\
+		Second assessor: & \secondassesor\\
+		Date final version: & \@date\\
+		\bottomrule
+	\end{tabular}
+
+    \vfill
+    \begin{abstract}
+        \input{abstract}
+    \end{abstract}
+	
+	\vfill
+	\textit{The views stated in this thesis are those of the author and not necessarily those of the supervisor, second assessor, Erasmus School of Economics or Erasmus University Rotterdam.}
+\end{center}
+\makeatother
+\end{titlepage}
+
+
+
+\section{Introduction}
+\label{sec:introduction}
+\input{introduction}
+
+\newpage
+\section{Literature Review}
+\label{sec:literature review}
+\input{literature_review}
+
+\section{Data}
+\label{sec:data}
+\input{data}
+
+\newpage
+\section{Methodology}
+\label{sec:methodology}
+\input{methodology}
+
+\newpage
+\section{Results}
+\label{sec:results}
+\input{results}
+
+\newpage
+\section{Conclusion}
+\label{sec:conclusion}
+\input{conclusion}
+
+\newpage
+\section*{Appendix A: Statistical Significance HRA}
+\addcontentsline{toc}{section}{Appendix A}
+\label{sec:statistical_significance_hra}
+\input{appendix_a}
+
+\newpage
+\section*{Appendix B: Hyperparameter Tuning Results}
+\addcontentsline{toc}{section}{Appendix B}
+\label{sec:hyperparameter_tuning_results}
+\input{appendix_b}
+
+\newpage
+\bibliographystyle{apacite} 
+\bibliography{references} 
+
+\end{document}

@@ -1,0 +1,109 @@
+\subsection{Calculating Home Advantage per Player}
+As discussed in Section \ref{sec:data}, the home advantage for player $i$ in season $t$ is measured using the HRA metric. HRA is calculated by subtracting the average away rating from the average home rating for the given player in the given season:
+\begin{equation}
+    \label{eq:calc_hra_it}
+    HRA_{it} = \frac{1}{\mid HG_{it} \mid}\sum_{m \in HG_{it}} Rating_{mit} - \frac{1}{\mid AG_{it} \mid}\sum_{m \in AG_{it}} Rating_{mit}
+\end{equation}
+\noindent
+Here, $HG_{it}$ denotes the set of home games for player $i$ in season $t$. Similarly, $AG_{it}$ denotes the set of away games for player $i$ in season $t$. Finally, $Rating_{mit}$ denotes the rating player $i$ was given in match $m$ in season $t$. \\
+
+\noindent
+For any given season $t$, the weighted average HRA over all the players is calculated as follows:
+\begin{equation}
+    \label{eq:calc_average_hra}
+    HRA_{t} = \frac{1}{\sum_{i \in P_t} W_{it}}\sum_{i \in P_t} HRA_{it} W_{it}
+\end{equation}
+\noindent
+Here, $P_t$ denotes the set of players that were given ratings in season $t$. Furthermore, $W_{it}$ denotes the weight of the HRA observation for player $i$ in season $t$. This weight is chosen as the number of home-away game pairs the player has played in the season. This approach takes into account the varying number of games played by different players. By assigning higher weights to players who have played more games, the weighted average gives greater importance to their observations, considering them to be more reliable and representative of the overall HRA for the season.
+
+\begin{comment}
+\subsection{Testing if Home Advantage is Significant}
+To test if home advantage is statistically significant in season $t$, a t-test is used. But first, some statistical assumptions and theorems are introduced. Firstly, it is assumed that HRA for a given season $t$ are independent and identically (i.i.d.) distributed over the players:
+\begin{equation}
+    \label{eq:iid}
+    HRA_{it} \overset{\text{i.i.d.}}{\sim} \mathcal{D}(\mu, \sigma^2) \qquad \text{for} \ i \in P_t
+\end{equation}
+
+\noindent
+Here $\mathcal{D}$ denotes an unspecified statistical distribution with mean $\mu$ and variance $\sigma^2$. Testing if HRA is significant then boils down to testing the following null hypothesis:
+\begin{equation}
+    \label{eq:hypotheses}
+    \begin{aligned}
+    H_0: \mu = 0\\
+    H_A: \mu \neq 0
+    \end{aligned}
+\end{equation}
+
+\noindent
+Here $H_0$ is that of no Home Rating Advantage. Using the Central Limit Theorem (CLT), it follows that the average HRA as in Equation \eqref{eq:calc_average_hra} will be asymptotically normally distributed:
+\begin{equation}
+    \label{eq:clt}
+    HRA_t \overset{\text{CLT}}{\approx} \mathcal{N}(\mu, \frac{\sigma^2}{\mid P_t \mid})
+\end{equation}
+
+\noindent
+In Equation \eqref{eq:clt}, $\sigma^2$ is still an unknown variable. To solve, this we estimate it as follows:
+\begin{equation}
+    \label{eq:variance_estimator}
+    \hat{\sigma}^2 = \frac{1}{\mid P_t \mid - 1} \sum_{i \in P_t}(HRA_{it} - HRA_t)^2
+\end{equation}
+
+\noindent
+Rewriting Equation \eqref{eq:clt} and inserting the expression for $\hat{\sigma}^2$ gives our final estimator $T$ and its distribution:
+\begin{equation}
+    \label{eq:final_estimator_t}
+    T = \sqrt{\mid P_t \mid} * \frac{HRA_t-\mu}{\hat\sigma} \sim \mathcal{T}(\mid P_t \mid - 1)
+\end{equation}
+
+\noindent
+Here $\mathcal{T}$ denotes the student t distribution with $\mid P_t \mid - 1$ degrees of freedom.
+\end{comment}
+
+\subsection{Investigating the Drivers of Home Advantage}
+\label{subsec:drivers_of_home_advantage_methodology}
+To study the drivers of home advantage at an individual player level, the HRA of player $i$ in season $t$ is modelled as a function of a set of player characteristics $x$ as follows:
+\begin{equation}
+    \label{eq:general_hra_model}
+    HRA_{it} = f(x_{it}) + \epsilon_{it}
+\end{equation}
+\noindent
+Here $x_{it}$ is a vector of time-varying player-specific variables. The error term is represented by $\epsilon_{it}$. Finally, $f(\cdot)$ denotes an unknown function that requires estimation through a specific method. In the model the following explanatory variables are considered:
+\begin{itemize}
+    \item Average home attendance. This variable shows how many fans are attending the homes games of player $i$. More fans could give rise to a higher home advantage.
+    \item Promotion. This variable indicates whether the team for which player $i$ plays was promoted to the EPL at the beginning of the season. A player who plays for a team that was recently promoted may have an advantage if the opposition is unfamiliar with the grounds they are playing on
+    \item Captain. This is a boolean variable indicating whether player $i$ is captain of the team he plays on.
+    \item Position. This categorical variable reflects the position player $i$ has on the field: goalkeeper, defender, midfielder or attacker
+    \item British. This boolean variable reflects whether player $i$ is of British nationality. The logic being here that British players may have more home advantage than foreign players since they speak the English language and are more familiar with the country.
+    \item Quality. This variable is an indication of the quality of a player. A high quality score implies that a player is of high quality. The logic being here, that high quality players tend to experience higher levels of jeering and targeting not only in away games but also in their home games. The recognition they receive intensifies the scrutiny and reactions from both home and away crowds.
+    \item Skill moves. This variable shows how much flair and skill a player possesses.
+    \item Age. This variables hows the age of player $i$ in season $t$. The logic being here that as players get older they are less sensitive to fan behavior and more experienced with away team grounds. As such home advantage may be lower for older players.
+    \item Trend. A trend variable, ranging from 1 to 14. Included in the model to examine potential linear changes in home advantage over the years
+    \item Team. This variable indicates the team for which player $i$ plays. Included in the model to control for team-fixed effects, since teams may differ inherently in the home advantage they enjoy.
+\end{itemize}
+More details on these variables are included in Table \ref{tab:variable_names_description}. \\
+
+\noindent
+The unknown function $f(\cdot)$ in Equation \ref{eq:general_hra_model} is estimated using two different methods: \textit{Linear Regression} and \textit{Random Forest Regression}.
+
+\subsubsection{Method 1: Linear Regression}
+In the linear regression framework the final model from Equation \ref{eq:general_hra_model} now takes on the following form:
+\begin{equation}
+    \label{eq:lr_hra_model}
+    HRA_{it} = \alpha + \beta x_{it} + \epsilon_{it}
+\end{equation}
+Here $\beta$ is a vector of parameters. The \textit{weighted least squares} (WLS) criterion is used to estimate the parameters in Equation \ref{eq:lr_hra_model}. The weights are chosen as $W_{it}$, the number of home-away game pairs player $i$ has played in season $t$. The reason for choosing WLS over \textit{Ordinary Least Squares} (OLS) is similar to the reasoning behind calculating weighted average HRA for season $t$ in Equation \ref{eq:calc_average_hra}. This approach takes into account the varying numbers of games played by different players and assigns a higher weight to observations of players who have played more games, since these observations are considered to be more reliable and representative of overall HRA.
+
+\subsubsection{Method 2: Random Forest Regression}
+To explore if machine learning is a valuable tool in evaluating the drivers of home advantage on an individual player basis, the \textit{random forest regression} (RFR) method is also used to estimate $f(\cdot)$ in Equation \ref{eq:general_hra_model}. Similarly to the linear regression method all observations are weighted using $W_{it}$. \\
+
+\noindent
+RFR has several advantages over more traditional model-estimation methods like linear regression. Firstly, RFR is less susceptible to multicollinearity issues among explanatory variables compared to linear regression. Secondly, RFR has the ability to capture intricate non-linear relationships between the dependent variable and explanatory variables, which linear regression may not be able to capture effectively. One drawback of RFR is that the resulting model is often less interpretable compared to linear regression. \\
+
+\noindent
+To address the aforementioned drawback of RFR regarding its interpretability, Explainable AI (XAI) tools are employed. These tools help provide insights into the model's behavior and enhance its explainability. One such tool is \textit{variable importance} (VI), which measures the contribution of individual explanatory variables in predicting the target variable. It quantifies the impact or relevance of each variable, allowing researchers to identify the most influential factors. Additionally, \textit{partial dependence} (PD) plots are utilized to depict the marginalized effect of individual explanatory variables. These plots illustrate how the target variable changes when a specific explanatory variable is varied while keeping other variables constant. By visualizing these relationships, researchers gain a better understanding of how each variable influences the model's predictions. \\
+
+\noindent
+Another drawback of random forest regression, compared to linear regression, is its susceptibility to overfitting. To mitigate this issue, a method called cross-validation is employed. Specifically, the model is cross-validated using a 3-fold cross-validation approach. This technique partitions the data into three subsets, training the model on two subsets and evaluating its performance on the remaining subset. By iteratively rotating the subsets, the model's performance is assessed more reliably. Furthermore, a randomized grid search is used to optimize the model's hyperparameters and improve its generalization capabilities. The results of this randomized grid search process can be found in \nameref{sec:hyperparameter_tuning_results}. \\
+
+\noindent
+In summary, to address the challenges of interpretability, XAI tools such as variable importance and partial dependence plots are utilized. To mitigate overfitting, the model undergoes 3-fold cross-validation and is optimized using a randomized grid search.

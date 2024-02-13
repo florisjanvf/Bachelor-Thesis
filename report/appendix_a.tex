@@ -1,0 +1,98 @@
+The results described below were not included in the main text due to concerns regarding their reliability and robustness. The exclusion is based on the understanding that the Theoretical Framework below relies on the assumption of independent and identically distributed HRA observations per player in any given season. However, it is likely that this assumption does not hold. To exemplify this, consider the nature of football as a team sport, where a striker's performance is influenced by the performance of the wingers and midfielders in delivering crosses and creating chances for the striker. If the midfielders perform better in home games compared to away games, the home advantage of the striker may be contingent upon the home advantage of the midfielder, and vice versa. Therefore, it is plausible that HRA between players on the same team could exhibit dependence.
+
+\subsection*{Theoretical Framework}
+To test if home advantage is statistically significant in season $t$, a t-test is used. But first, some statistical assumptions and theorems are introduced. Firstly, it is assumed that HRA for a given season $t$ are independent and identically (i.i.d.) distributed over the players:
+\begin{equation}
+    \label{eq:iid}
+    HRA_{it} \overset{\text{i.i.d.}}{\sim} \mathcal{D}(\mu, \sigma^2) \qquad \text{for} \ i \in P_t
+\end{equation}
+
+\noindent
+Here $\mathcal{D}$ denotes an unspecified statistical distribution with mean $\mu$ and variance $\sigma^2$. Testing if HRA is significant then boils down to testing the following null hypothesis:
+\begin{equation}
+    \label{eq:hypotheses}
+    \begin{aligned}
+    H_0: \mu = 0\\
+    H_A: \mu \neq 0
+    \end{aligned}
+\end{equation}
+
+\noindent
+Here $H_0$ is that of no Home Rating Advantage. Using the Central Limit Theorem (CLT), it follows that the average HRA as in Equation \eqref{eq:calc_average_hra} will be asymptotically normally distributed:
+\begin{equation}
+    \label{eq:clt}
+    HRA_t \overset{\text{CLT}}{\approx} \mathcal{N}(\mu, \frac{\sigma^2}{\mid P_t \mid})
+\end{equation}
+
+\noindent
+In Equation \eqref{eq:clt}, $\sigma^2$ is still an unknown variable. To solve, this we estimate it as follows:
+\begin{equation}
+    \label{eq:variance_estimator}
+    \hat{\sigma}^2 = \frac{1}{\mid P_t \mid - 1} \sum_{i \in P_t}(HRA_{it} - HRA_t)^2
+\end{equation}
+
+\noindent
+Rewriting Equation \eqref{eq:clt} and inserting the expression for $\hat{\sigma}^2$ gives our final estimator $T$ and its distribution:
+\begin{equation}
+    \label{eq:final_estimator_t}
+    T = \sqrt{\mid P_t \mid} * \frac{HRA_t-\mu}{\hat\sigma} \sim \mathcal{T}(\mid P_t \mid - 1)
+\end{equation}
+
+\noindent
+Here $\mathcal{T}$ denotes the student t distribution with $\mid P_t \mid - 1$ degrees of freedom.
+
+\subsection*{Results}
+Table \ref{tab:statistical_significance_hra_full_sample} shows the statistical significance of home rating advantage averaged over all the seasons and all the players. The p-value of 0.304 for the weighted average HRA is not small enough to conclude that home advantage is significant at the traditional significance levels of 1, 5 and 10 percent. However, the result still serves as an indication that home advantage may exist at an individual player level.
+
+\begin{table}[htbp]
+    \begin{spacing}{1.5}
+    \centering
+    \small
+    \caption{Statistical significance player based home advantage in the English Premier League, 2009-2023}
+    \label{tab:statistical_significance_hra_full_sample}
+    \begin{tabular}{lrrrr}
+        \toprule
+        \toprule
+        \textbf{Average type} & \multicolumn{1}{l}{\textbf{HRA}} & \multicolumn{1}{l}{\textbf{Standard deviation}} & \multicolumn{1}{l}{\textbf{t-statistic}} & \multicolumn{1}{l}{\textbf{p-value}} \\
+        \midrule
+        Unweighted & 0.144 & 0.512 & 0.280 & 0.390 \\
+        Weighted & 0.144 & 0.349 & 0.512 & 0.304 \\
+        \bottomrule
+        \bottomrule
+    \end{tabular}
+    \end{spacing}
+\end{table}
+
+\noindent
+Table \ref{tab:statistical_significance_hra_per_season} shows the statistical significance of average home rating advantage per season. Based on the traditional significance levels of 1, 5, and 10 percent, there are no seasons in which HRA was statistically significant. However, the results still serve as an indication that home advantage may exist at an individual player level. In the 2009/2010 season for instance, weighted HRA equals 0.264 points with a p-value of 0.246. This result is significant at a 25\% level.
+
+\begin{table}[htbp]
+    \begin{spacing}{1.5}
+    \centering
+    \small
+    \caption{Statistical significance player based home advantage over the seasons in the English Premier League, 2009-2023}
+    \label{tab:statistical_significance_hra_per_season}
+    \begin{tabular}{lrrrr}
+        \toprule
+        \toprule
+        \textbf{Season} & \multicolumn{1}{l}{\textbf{Weighted average HRA}} & \multicolumn{1}{l}{\textbf{Weighted standard deviation}} & \multicolumn{1}{l}{\textbf{t-statistic}} & \multicolumn{1}{l}{\textbf{p-value}} \\
+        \midrule
+        2009/2010 & 0.264 & 0.383 & 0.687 & 0.246 \\
+        2010/2011 & 0.189 & 0.339 & 0.557 & 0.289 \\
+        2011/2012 & 0.184 & 0.333 & 0.554 & 0.290 \\
+        2012/2013 & 0.131 & 0.325 & 0.403 & 0.344 \\
+        2013/2014 & 0.184 & 0.326 & 0.563 & 0.287 \\
+        2014/2015 & 0.151 & 0.358 & 0.420 & 0.337 \\
+        2015/2016 & 0.105 & 0.325 & 0.322 & 0.374 \\
+        2016/2017 & 0.169 & 0.365 & 0.463 & 0.322 \\
+        2017/2018 & 0.151 & 0.346 & 0.436 & 0.332 \\
+        2018/2019 & 0.096 & 0.330 & 0.290 & 0.386 \\
+        2019/2020 & 0.150 & 0.353 & 0.424 & 0.336 \\
+        2020/2021 & -0.012 & 0.333 & -0.036 & 0.514 \\
+        2021/2022 & 0.089 & 0.353 & 0.251 & 0.401 \\
+        2022/2023 & 0.175 & 0.328 & 0.535 & 0.297 \\
+        \bottomrule
+        \bottomrule
+    \end{tabular}
+    \end{spacing}
+\end{table}

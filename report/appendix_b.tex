@@ -1,0 +1,43 @@
+\begin{table}[htbp]
+    \begin{spacing}{1.5}
+    \centering
+    \small
+    \caption{Random forest regression hyperparameter tuning results (full sample)}
+    \label{tab:hyperparameter_tuning_results_rfr_full_sample}
+    \begin{tabularx}{\textwidth}{p{3cm}p{6cm}p{3cm}p{2cm}}
+        \toprule
+        \toprule
+        \textbf{Hyperparameter} & \textbf{Description} & \textbf{Search space} & \multicolumn{1}{l}{\textbf{Selected value}} \\
+        \midrule
+        n\_estimators & Number of trees in the forest & [10, 300] & 300 \\
+        max\_depth & Maximum depth per tree in the forest & [3, 15] & 7 \\
+        max\_features & Maximum number of explanatory variables considered per split in any given tree & sqrt', 'log2', 'all' & \multicolumn{1}{l}{sqrt'} \\
+        max\_samples & Number of observations used to train each tree (as a fraction of the total number of observations) & [0.5, 0.7, 0.9, 1.0] & 0.7 \\
+        \bottomrule
+        \bottomrule
+        \multicolumn{4}{X}{\footnotesize\textit{Note.} For the randomized grid search 100 iterations were performed; the random seed for training the random was set at 530; the random seed for the randomized grid search was set at 69.}
+    \end{tabularx}
+    \end{spacing}
+\end{table}
+
+\begin{table}[htbp]
+    \begin{spacing}{1.5}
+    \centering
+    \small
+    \caption{Random forest regression hyperparameter tuning results (filtered sample)}
+    \label{tab:hyperparameter_tuning_results_rfr_filtered_sample}
+    \begin{tabularx}{\textwidth}{p{3cm}p{6cm}p{3cm}p{2cm}}
+        \toprule
+        \toprule
+        \textbf{Hyperparameter} & \textbf{Description} & \textbf{Search space} & \multicolumn{1}{l}{\textbf{Selected value}} \\
+        \midrule
+        n\_estimators & Number of trees in the forest & [10, 300] & 245 \\
+        max\_depth & Maximum depth per tree in the forest & [3, 15] & 7 \\
+        max\_features & Maximum number of explanatory variables considered per split in any given tree & sqrt', 'log2', 'all' & \multicolumn{1}{l}{sqrt'} \\
+        max\_samples & Number of observations used to train each tree (as a fraction of the total number of observations) & [0.5, 0.7, 0.9, 1.0] & 0.5 \\
+        \bottomrule
+        \bottomrule
+        \multicolumn{4}{X}{\footnotesize\textit{Note.} For the randomized grid search 100 iterations were performed; the random seed for training the random was set at 530; the random seed for the randomized grid search was set at 69.}
+    \end{tabularx}
+    \end{spacing}
+\end{table}

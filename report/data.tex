@@ -1,0 +1,60 @@
+The aim of this study is to investigate the effect of home advantage on individual player performance in professional football. Previous research has been able to calculate team quality and home advantage using end of season league tables through the methods of \shortciteA{clarke_1995}. However, since the focus of this study is on individual player performance rather than team performance, this method is not applicable. To overcome this challenge, a proxy is constructed in the form of \textit{home rating advantage} (HRA). Throughout this paper, the abbreviation HRA is used to represent the home rating advantage proxy. HRA per player is constructed using player ratings per game, which are measured on a scale of 1 to 10. The player ratings are obtained from the popular football data center WhoScored.\footnote{https://www.whoscored.com/} WhoScored calculates player ratings based on live automated algorithms using over 200 raw statistics, with each event valued based on its perceived impact on the match outcome. Positive events are weighed against negative events to determine each player's rating. \\
+
+\noindent
+Player ratings are gathered on an individual match basis. That means that for any given match at least 22 ratings are gathered (2 teams, 11 players). Next, two averages are calculated. Firstly, the average home rating for player $i$ in season $t$ is calculated. Secondly, the average away rating for player $i$ in season $t$ is calculated. Then, HRA for player $i$ in season $t$ is calculated by subtracting the average away rating from the average home rating for the given player. \\
+
+\noindent
+Ideally, the same 11 players would play every match in the season for any given team. This, together with the fact that football competitions are played in a round-robin format, would ensure that the HRA metric is not biased by factors like the quality of the opponents a certain player has faced over the course of the season. However, in reality this is not the case. To illustrate this issue further, consider this example. 
+\begin{center}
+    \textit{A player from a top four team plays only 6 home matches, all against weak teams. Furthermore, that same player plays 7 away matches, all against top ten teams. What could happen is that the player receives high ratings for his home matches (since these matches were played against weak opponents) and relatively lower ratings for his away games (since these matches were played against strong opponents). This would lead to a high average home rating and a low average away rating. This would in turn bias the HRA metric for that player.}
+\end{center}
+
+\noindent
+To mitigate this problem, the data is wrangled. Observations are only kept if they have a pairwise counterpart. Meaning if player 1 played against team A at home, player 1 must also have played against team A away. This ensures unbiasedness in the HRA metric. \\
+
+\noindent
+In addition to gathering player ratings, data about player characteristics is gathered from FUTBIN.\footnote{https://www.futbin.com} FUTBIN is a company that primarily focuses on providing information and services related to the popular video game franchise FIFA. It offers a range of features for FIFA player characteristics. Some examples include: the team to which the player belongs, the age of the player and the nationality of the player. This data is required for analyzing the factors that contribute to home advantage at an individual player level. A description of all the raw data gathered for this study can be found in Table \ref{tab:variable_names_description}. \\
+
+\noindent
+All the data that is used comes from the top division in English professional football (The English Premier League). Furthermore, the time span of the data ranges from the 2009/2010 season to the 2022/2023 season. So, in total 14 seasons are analyzed. In the English Premier League (EPL) 20 teams compete. Overall 195,789 player ratings on a match level are considered. \\
+
+\noindent
+All of the data discussed above is obtained using webscraping. For this purpose the Python programming language is used, as well as several libraries such as Selenium, BeautifulSoup4 and TOR. More details about the code can be found on GitHub.\footnote{https://github.com/florisjanvf/Bachelor-Thesis}
+
+\begin{table}[htbp]
+    \begin{spacing}{1.5}
+    \centering
+    \small
+    \caption{Variable names and their description}
+    \label{tab:variable_names_description}%
+    \begin{tabularx}{\textwidth}{p{3cm}Xp{2cm}p{3cm}}
+        \toprule
+        \toprule
+        \textbf{Variable} & \textbf{Description} & \textbf{Granularity} & \textbf{Source} \\
+        \midrule
+        Rating & Rating the player was given for the match & Per match & WhoScored \\
+        Player & Name of the player & Per match & WhoScored \\
+        Season & Season in which the match took place & Per match & WhoScored \\
+        Team  & Team for which the player plays & Per match & WhoScored \\
+        Opponent & Opponent in the given match & Per match & WhoScored \\
+        Home  & Boolean variable indicating whether the match was played at home & Per match & WhoScored \\
+        Starter & Boolean variable indicating whether the player came on as a substitute or not & Per match & WhoScored \\
+        Quality & Metric for the quality of a player (given on a scale of 1-100) & Per season & FUTBIN \\
+        Nationality & Nationality of the player & Per season & FUTBIN \\
+        Age   & Age of the player & Per season & FUTBIN \\
+        Position & Playing position in the field (e.g., attacker or defender) & Per season & FUTBIN \\
+        Length & Length of the player in CM & Per season & FUTBIN \\
+        Weight & Weight of the player in KG & Per season & FUTBIN \\
+        Attacking work rate & Categorical variable indicating player's activity and effort when attacking (low, medium and high) & Per season & FUTBIN \\
+        Defensive work rate & Categorical variable indicating player's activity and effort when defending (low, medium and high) & Per season & FUTBIN \\
+        Skill moves & Ordinal variable indicating player's skill and flair (5$>$4$>$3$>$2$>$1) & Per season & FUTBIN \\
+        Weak foot quality & Ordinal variable indicating player's weak foot quality (5$>$4$>$3$>$2$>$1) & Per season & FUTBIN \\
+        Average home attendance & Average home attendance for the team to which the player belongs & Per season & WorldFootball \\
+        Promoted & Boolean variable indicating whether the team to which the player belongs was promoted at the start of the season & Per season & Wikipedia \\
+        Captain & Captain of the player's team & Per season & Wikipedia \\
+        Manager & Manager of the player's team & Per season & Wikipedia \\
+        \bottomrule
+        \bottomrule
+    \end{tabularx}%
+    \end{spacing}
+\end{table}%
