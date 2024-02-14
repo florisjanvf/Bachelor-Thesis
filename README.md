@@ -4,7 +4,7 @@ This repository contains all the code for my bachelor thesis research project ti
 
 ## Language and Libraries
 
-All the code in this research project was written in Python. The Python programming language offers a wide range of tools and libraries for data analysis and statistical modeling, making it suitable for this investigation.
+All the code in this research project was written in Python. The Python programming language offers a wide range of tools and libraries for data analysis and statistical modeling, making it suitable for this investigation. More specifically, one will need to have `Python 3.11` installed to use this repository.
 
 ## Data Collection
 
