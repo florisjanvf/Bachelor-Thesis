@@ -1,6 +1,6 @@
 # Bachelor-Thesis
 
-This repository contains all the code for my bachelor thesis research project titled "Investigating Home Advantage in English Professional Football on an Individual Player Basis." The research focuses on analyzing home advantage in the English Premier League (EPL) and examines its relationship with various player-specific factors.
+This repository contains all the code for my bachelor thesis research project titled "Investigating Home Advantage in English Professional Football on an Individual Player Basis". The research focuses on analyzing home advantage in the English Premier League (EPL) and examines its relationship with various player-specific factors.
 
 ## Language and Libraries
 
